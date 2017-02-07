@@ -1,8 +1,8 @@
 ---
-title: 365admin.net Office365 
+title: 365ADMIN.NET
 ---
 
-- [Exchange](./exchange)
+- [Exchange](./microsoft/exchange)
 
 <div class="posts">
   {% for post in site.posts %}
