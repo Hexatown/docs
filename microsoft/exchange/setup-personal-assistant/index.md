@@ -2,8 +2,6 @@
 title: Delegating mailbox access to a Personal Assistant (PA)
 ---
 
-Delegating mailbox access to a Personal Assistant (PA)
-======================================================
 
 ## Input
 
