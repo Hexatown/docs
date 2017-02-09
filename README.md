@@ -1,5 +1,9 @@
-# Office365 Administration
-One of the things that we play with in Hexatown is Office365
+## 365ADMIN DOCUMENTS
+This is the place for sharing usecases and technival documentation.
+
+- Vendor > Technology > 
+- _Usecases 
+
 
 ## Jekyll
 Jekyll is used for rendering this site and is automatically updated on (http://365admin.net/docs)
