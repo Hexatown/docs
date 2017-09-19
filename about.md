@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[niels@timeboxer.dk](mailto:email@domain.com)
+[niels@365admin.net](mailto:niels@365admin.net)
