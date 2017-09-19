@@ -1,5 +1,4 @@
-# Office 365 services
-
-Each service is represented by a folder
-
+---
+title: Office 365 services
+---
 ![](./_media/Periodic-Table-of-Office-365-1400px.png)
