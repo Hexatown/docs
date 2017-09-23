@@ -3,10 +3,10 @@ title: 365ADMIN.NET
 ---
 You won't find anything on this page, try on of thise instead:
 
-- [Office365](./microsoft/office365)
+- [Office365](./office365)
 - [Exchange](./microsoft/exchange)
 
-Latest versions 
+## Latest posts 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
