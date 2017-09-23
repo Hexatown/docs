@@ -140,20 +140,20 @@ https://dev.office.com/fabric#/get-started#core
 -->
 <div ng-app="modalTest">
   <div ng-controller="dialogServiceTest" class="pad">
-    {{table}}
+    [[table]]
     <div ng-repeat="row in table.rows" class="row">
-      <div class="leftcol" style="background-color:{{row.left.color}}">
-        <div class="lefttext ms-font-mi">{{row.left.title}}</div>
+      <div class="leftcol" style="background-color:[[row.left.color]]">
+        <div class="lefttext ms-font-mi">[[row.left.title]]</div>
       </div>
-      <div ng-repeat="col in row.columns" class="col {{col.type}}" ng-click="clickItem(col)" style="background-color:{{col.color}}">
-        <div class="ms-font-s-plus heading ms-fontWeight-light">{{col.title}}</div>
-        <div class="{{col.subtitleclass}}">{{col.subtitle}}</div>
+      <div ng-repeat="col in row.columns" class="col [[col.type]]" ng-click="clickItem(col)" style="background-color:[[col.color]]">
+        <div class="ms-font-s-plus heading ms-fontWeight-light">[[col.title]]</div>
+        <div class="[[col.subtitleclass]]">[[col.subtitle]]</div>
         <div class="icon">
-          <i class=" ms-Icon ms-Icon--{{col.icon}}" aria-hidden="true"></i></div>
-        <div class="footer about ms-font-mi ms-fontWeight-light">{{col.about}}</div>
+          <i class=" ms-Icon ms-Icon--[[col.icon]]" aria-hidden="true"></i></div>
+        <div class="footer about ms-font-mi ms-fontWeight-light">[[col.about]]</div>
       </div>
-      <div class="rightcol" style="background-color:{{row.right.color}}">
-        <div class="righttext ms-font-mi" >{{row.right.title}}</div>
+      <div class="rightcol" style="background-color:[[row.right.color]]">
+        <div class="righttext ms-font-mi" >[[row.right.title]]</div>
         
       </div>
 
@@ -161,14 +161,17 @@ https://dev.office.com/fabric#/get-started#core
     <div class="buttom4 ms-font-m">
       Direct Communication
     </div>
-    {{selected}}
+    [[selected]]
   </div>
 </div>
   
   <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js'></script>
 
     <script >
-    angular.module("modalTest", []).controller("dialogServiceTest", [
+    angular.module("modalTest", [],function ($interpolateProvider){
+  $interpolateProvider.startSymbol('[[');
+  $interpolateProvider.endSymbol(']]');
+}).controller("dialogServiceTest", [
     "$scope",
     "$rootScope",
     "$timeout",
