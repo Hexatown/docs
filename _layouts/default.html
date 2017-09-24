@@ -20,10 +20,13 @@
 </head>
 
 <body>
+
     <div class="wrapper-masthead">
         <div class="container">
             <header class="masthead clearfix">
-                <a href="{{ site.baseurl }}/" class="site-avatar"><img style="height: 70px;width:auto" src="{{ site.baseurl }}/microsoft/media/hexaheads/boy-red-skin-hat.png" /></a>
+                <a href="{{ site.baseurl }}/" class="site-avatar">
+                   
+                    <img style="height: 70px;width:auto" src="{{ site.baseurl }}/media/icon-40@3x.png" /></a>
 
                 <div class="site-info">
                     <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -31,7 +34,8 @@
                 </div>
 
                 <nav>
-                    
+                        {% include search.html %}
+                        
                     <a href="http://hexatown.com">Hexatown</a>
                 </nav>
             </header>
