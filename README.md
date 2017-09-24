@@ -1,4 +1,4 @@
-## 365ADMIN DOCUMENTS
+## HEXATOWN DOCUMENTS
 This is the place for sharing usecases and technival documentation.
 
 - Vendor > Technology > 
