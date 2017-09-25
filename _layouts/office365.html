@@ -5,7 +5,7 @@ layout: default
   <link rel='stylesheet prefetch' href='https://static2.sharepointonline.com/files/fabric/office-ui-fabric-core/4.1.0/css/fabric.min.css'>
 
       <style>
-      .pad{
+  .pad{
   width:860px;
  /*
   background-color:grey;
@@ -70,12 +70,16 @@ layout: default
   padding: 5px;
   color: white;
   page-break-after: 3px;
+  text-align: center;
 }
 .lefttext {
   color: black;
   transform: rotate(270deg);
-  transform-origin: 90% 90%;
+  transform-origin: 46% 50%;
   text-transform:uppercase;
+  width:78px;
+  height:78px;
+  xborder:solid 1px red;
 }
 
 .rightcol {
@@ -94,15 +98,18 @@ layout: default
 .righttext {
   color: black;
   transform: rotate(90deg);
-  transform-origin: 0% 100%;
+  transform-origin: 25% 60%;
   text-transform:uppercase;
+  width:78px;
+  height:38px;
+  text-align: center;
 }
 .buttom {
   margin-top: 50px;
   height: 35px;
   width: 80px;
   color: black;
- 
+ text-transform:uppercase;
 }
 
 .buttom4 {
@@ -110,7 +117,7 @@ layout: default
   margin-left45px;
   margin-top: 50px;
   height: 55px;
-  width: 670px;
+  width: 450px;
   color: #EFEFEF;
   background-color:#7C7C7C;
    text-transform:uppercase;
@@ -129,7 +136,24 @@ line-height: 45px;
 .sub270{
    color: black;
   transform: rotate(270deg);
-  transform-origin: 100% 100%;
+  transform-origin: 46% 50%;
+  text-transform:uppercase;
+  width:78px;
+  height:78px;
+    text-align: center;
+
+ 
+}
+
+.sub90{
+   color: black;
+  transform: rotate(90deg);
+  transform-origin: 20% 40%;
+  text-transform:uppercase;
+  width:78px;
+  height:38px;
+    text-align: center;
+
  
 }
     </style>
@@ -142,6 +166,9 @@ line-height: 45px;
   <!--
 https://dev.office.com/fabric#/get-started#core
 -->
+<!--
+https://dev.office.com/fabric#/get-started#core
+-->
 <div ng-app="modalTest">
   <div ng-controller="dialogServiceTest" class="pad">
     
@@ -150,7 +177,7 @@ https://dev.office.com/fabric#/get-started#core
         <div class="lefttext ms-font-mi">[[row.left.title]]</div>
       </div>
       <div ng-repeat="col in row.columns" class="col [[col.type]]" ng-click="clickItem(col)" style="background-color:[[col.color]]">
-        <div class="ms-font-s-plus heading ms-fontWeight-light">[[col.title]]</div>
+        <div class="ms-font-s heading ms-fontWeight-light">[[col.title]]</div>
         <div class="[[col.subtitleclass]]">[[col.subtitle]]</div>
         <div class="icon">
           <i class=" ms-Icon ms-Icon--[[col.icon]]" aria-hidden="true"></i></div>
@@ -172,7 +199,7 @@ https://dev.office.com/fabric#/get-started#core
   <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js'></script>
 
     <script >
-    angular.module("modalTest", [],function ($interpolateProvider){
+      angular.module("modalTest", [],function ($interpolateProvider){
   $interpolateProvider.startSymbol('[[');
   $interpolateProvider.endSymbol(']]');
 }).controller("dialogServiceTest", [
@@ -388,7 +415,7 @@ var office365 = {
                 },
                 { type: "lefter ", 
                  subtitle: "Task Management" ,
-                 subtitleclass:"sub270 ms-font-xs",
+                 subtitleclass:"sub90 ms-font-mi ms-fontWeight-light",
                  
                  color:"#B3E6A9"},
                 {
@@ -454,7 +481,7 @@ var office365 = {
                 { type: "lefter ", 
                  subtitle: "Social networking" ,
                  ubtitle: "Employee profile", 
-                 subtitleclass:"sub270 ms-font-s",
+                 subtitleclass:"sub90 ms-font-mi ms-fontWeight-light",
                 
                  color:"#A6E1F4" },
                 {
@@ -485,6 +512,7 @@ var office365 = {
 
     ]
 };
+
   </script>
 
   
