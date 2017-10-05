@@ -1,3 +1,4 @@
 ---
-title: Office 365 services
+title: Office 365 
+layout: office365
 ---
