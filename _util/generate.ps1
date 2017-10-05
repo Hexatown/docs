@@ -20,12 +20,15 @@ New-Item -ItemType:File -Path "$path\$service\index.md" -ErrorAction:SilentlyCon
 
 }
 
+
+init "sharepoint" "SharePoint Online" "Team file sharing & storage" "File Storage & Collaboration" "" "https://office.com" 
+return
 init "word" "Word Online" "Word processing in the browser" "Office Online" "" "https://office.live.com/start/Word.aspx" 
 init "excel" "Excel Online" "Spreadsheets in the browser" "Office Online" "" "https://office.live.com/start/Excel.aspx"
 init "onenote" "OneNote Online" "Note taking in the browser" "Office Online" "" "https://www.onenote.com/notebooks" "Evernote"
 init "powerpoint" "PowerPoint Online" "Presentations in the browser" "Office Online" "Presentation" "https://office.live.com/start/PowerPoint.aspx" ""
 init "video" "Video" "Video portal" "Enterprise video" "" "/docs/retracting" "YouTube"
-return 
+
 init "stream" "Stream" "" "" "" "" ""
 init "" "" "" "" "" "" ""
 init "" "" "" "" "" "" ""
