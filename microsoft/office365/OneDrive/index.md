@@ -1,8 +1,8 @@
 ---
 layout: service
-title: SharePoint
-inshort: Team file sharing & storage
+title: OneDrive
+inshort: Personal file storage [Dropbox]
 groups: File Storage & Collaboration
 ---
-Team file sharing & storage
+Personal file storage [Dropbox]
 {% include compliance.html %}

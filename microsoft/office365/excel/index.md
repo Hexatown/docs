@@ -1,10 +1,8 @@
 ---
 layout: service
-title: excel
-link: 
-inshort: Spreadsheets in the browse
-primary: Office Online
-secondary: https://office.live.com/start/Excel.aspx
+title: Excel
+inshort: Spreadhseets in the browser
+groups: Office Online
 ---
-
+Spreadhseets in the browser
 {% include compliance.html %}

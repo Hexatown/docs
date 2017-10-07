@@ -1,11 +1,8 @@
 ---
 layout: service
-title: word
-link: 
+title: Word
 inshort: Word processing in the browser
-primary: Office Online
-secondary: 
-like: https://office.live.com/start/Word.aspx
+groups: Office Online
 ---
-
+Word processing in the browser
 {% include compliance.html %}

@@ -1,11 +1,8 @@
 ---
 layout: service
-title: onenote
-link: Evernote
-inshort: Note taking in the browser
-primary: Office Online
-secondary: 
-like: https://www.onenote.com/notebooks
+title: OneNote
+inshort: Note taking in the browser [Evernote]
+groups: Office Online
 ---
-
+Note taking in the browser [Evernote]
 {% include compliance.html %}

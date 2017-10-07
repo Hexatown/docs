@@ -1,11 +1,8 @@
 ---
 layout: service
-title: powerpoint
-link: 
+title: PowerPoint
 inshort: Presentations in the browser
-primary: Office Online
-secondary: Presentation
-like: https://office.live.com/start/PowerPoint.aspx
+groups: Office Online; Presentations
 ---
-
+Presentations in the browser
 {% include compliance.html %}
