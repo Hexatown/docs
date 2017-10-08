@@ -1,10 +1,21 @@
 --- 
-layout: default
----
+layout: default 
+--- 
+
 {% include breadcrumb.html %}
 
-    <link href="{{ site.baseurl }}/apps/periodictable/static/css/main.f37184ce.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/apps/periodictable/static/css/main.f37184ce.css" rel="stylesheet">
 <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <script type="text/javascript" src="{{ site.baseurl }}/apps/periodictable/static/js/main.466ddf41.js"></script>
+<article class="page">
 
+    <h1>{{ page.title }}</h1>
+
+    <div id="root"></div>
+    <div class="entry">
+        {{ content }}
+    </div>
+
+</article>
+{% include disqus.html %}
+
+<script type="text/javascript" src="{{ site.baseurl }}/apps/periodictable/static/js/main.466ddf41.js"></script>
