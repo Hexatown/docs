@@ -1,5 +1,5 @@
 ---
-title: 
+title: Compliance Framework
 ---
 Source for information on Office 365 compliance
 - [Compliance certifications for Office 365 (Trustcenter)](https://products.office.com/en-us/business/office-365-trust-center-compliance-certifications)
