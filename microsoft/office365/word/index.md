@@ -3,7 +3,9 @@ layout: service
 title: Word
 inshort: Word processing in the browser
 groups: Office Online
-link: https://technet.microsoft.com/en-us/library/word-online-service-description.aspx
+linkadmin: https://technet.microsoft.com/en-us/library/word-online-service-description.aspx
+linkdev: https://developer.microsoft.com/en-us/word
+link: https://office.live.com/start/Word.aspx
 ---
 
 
