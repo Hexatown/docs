@@ -1,15 +1,18 @@
-function init($service,$title,$short,$groups  ){
-$path = "..\microsoft\office365"
+function init($path, $service,$title,$short,$groups  ){
+$service = $service.ToLower().Replace(" ","-")
+
+$path = "..\microsoft\$path"
 $template = 
 @"
 ---
 layout: service
 title: $service
-inshort: $short
-groups: $groups
+xlinkadmin: 
+xlinkdev: 
+xlink: 
+xlinkbusiness: 
+xsource: 
 ---
-$short
-{% include compliance.html %}
 
 "@
 
@@ -17,10 +20,48 @@ new-item -ItemType:Directory -Path "$path\$service" -ErrorAction:SilentlyContinu
 New-Item -ItemType:File -Path "$path\$service\index.md" -ErrorAction:SilentlyContinue -Value $template 
 
 }
+init 'office365' 'Exchange Online' 'Exchange Online'
+init 'office365' 'Exchange Online K1' 'Exchange Online K1'
+init 'office365' 'Exchange Online Plan 1' 'Exchange Online Plan 1'
+init 'office365' 'Exchange Online Plan 2' 'Exchange Online Plan 2'
+init 'office365' 'SharePoint Online' 'SharePoint Online'
+init 'office365' 'SharePoint Online K1' 'SharePoint Online K1'
+init 'office365' 'SharePoint Online Plan 1' 'SharePoint Online Plan 1'
+init 'office365' 'SharePoint Online Plan 2' 'SharePoint Online Plan 2'
+init 'office365' 'Skype for Business Online Plan 1' 'Skype for Business Online Plan 1'
+init 'office365' 'Skype for Business Online Plan 2' 'Skype for Business Online Plan 2'
+init 'office365' 'Phone System' 'Phone System'
+init 'office365' 'Audio Conferencing  ' 'Audio Conferencing  '
+init 'office365' 'Office Online' 'Office Online'
+init 'office365' 'Office 365 Business' 'Office 365 Business'
+init 'office365' 'Office 365 ProPlus' 'Office 365 ProPlus'
+init 'office365' 'Microsoft MyAnalytics' 'Microsoft MyAnalytics'
+init 'office365' 'Office 365 Advanced Compliance' 'Office 365 Advanced Compliance'
+init 'office365' 'Office 365 Advanced Security Management' 'Office 365 Advanced Security Management'
+init 'office365' 'Office 365 Threat Intelligence' 'Office 365 Threat Intelligence'
+init 'office365' 'Microsoft Power BI Pro' 'Microsoft Power BI Pro'
+init 'office365' 'Office 365 Advanced Threat Protection' 'Office 365 Advanced Threat Protection'
+init 'office365' 'Microsoft Intune' 'Microsoft Intune'
+init 'azure' 'Azure Info Protection Premium Plan 1' 'Azure Info Protection Premium Plan 1'
+init 'azure' 'Azure Info Protection Premium Plan 2' 'Azure Info Protection Premium Plan 2'
+init 'azure' 'Azure Active Directory Premium Plan 1' 'Azure Active Directory Premium Plan 1'
+init 'azure' 'Azure Active Directory Premium Plan 2' 'Azure Active Directory Premium Plan 2'
+init 'azure' 'Microsoft Cloud App Security' 'Microsoft Cloud App Security'
+init 'dynamics365' 'Microsoft Dynamics 365 for Customer Service' 'Microsoft Dynamics 365 for Customer Service'
+init 'dynamics365' 'Microsoft Dynamics 365 for Field Service' 'Microsoft Dynamics 365 for Field Service'
+init 'dynamics365' 'Microsoft Dynamics 365 for Project Service Automation ' 'Microsoft Dynamics 365 for Project Service Automation '
+init 'dynamics365' 'Microsoft Dynamics for Retail' 'Microsoft Dynamics for Retail'
+init 'dynamics365' 'Microsoft Dynamics 365 for Sales' 'Microsoft Dynamics 365 for Sales'
+init 'dynamics365' 'Microsoft Dynamics for Talent' 'Microsoft Dynamics for Talent'
+init 'office365' 'Microsoft Flow Plan 1 ' 'Microsoft Flow Plan 1 '
+init 'office365' 'Microsoft PowerApps' 'Microsoft PowerApps'
+init 'office365' 'Microsoft PowerApps Plan 2' 'Microsoft PowerApps Plan 2'
+init 'office365' 'Microsoft Stream Plan 1' 'Microsoft Stream Plan 1'
+init 'azure' 'Windows Defender ATP' 'Windows Defender ATP'
 
 
+return
 init 'Dynamics' 'Dynamics 365' 'CRM & ERP [Salesforce]' ''
-
 init 'Sway' 'Sway' 'Next-gen presentations' 'Presentations'
 init 'Stream' 'Stream' 'Video portal [YouTube]' ''
 init 'Visio' 'Visio Online' 'Diagramming in the browser' ''
