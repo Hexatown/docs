@@ -20,6 +20,11 @@ layout: default
     font-size: 100%;
     font-style: italic;
 }
+.ServiceSideBarHeader{
+    color: #222;
+    font-weight: bold;
+    font-size: 24px;
+}
 </style>
 <article class="page">
   
@@ -29,9 +34,9 @@ layout: default
             {% if page.inshort %}<div class="ServiceInShort "><quote>{{ page.inshort }} </quote> </div>{% endif %}
           {{ content }}
       </div>
-      <div class="ServiceSidebar">
+      <div class="">
         
-        <h2>Links</h2>
+        <div class="ServiceSideBarHeader">Links</div>
         {% if page.source %}<div><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></div>{% endif %}
         {% if page.link %}<div><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Link</a> </div> {% endif %}
         <h3>Role specific</h3>
