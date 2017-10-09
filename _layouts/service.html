@@ -7,13 +7,18 @@ layout: default
 {
     float:left;
     width:66%;
+    padding-right: 10px; 
 }
 .ServiceSidebar
 {
     float:left;
     width:33%;
+    padding-left: 10px;
 }
 
+.ServiceInShort {
+    font-size: 120%;
+}
 </style>
 <article class="page">
   
@@ -22,7 +27,7 @@ layout: default
           {{ content }}
       </div>
       <div class="ServiceSidebar">
-        {% if page.inshort %}<div><quote>{{ page.inshort }} </quote> </div>{% endif %}
+        {% if page.inshort %}<div class="ServiceInShort"><quote>{{ page.inshort }} </quote> </div>{% endif %}
         <h3>Links</h3>
         {% if page.source %}<div><a target="_blank" href="{{ page.source }}">Source</a></div>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}">Link</a> </div> {% endif %}
