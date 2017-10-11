@@ -1,25 +1,66 @@
-function init($path, $service,$title,$short,$groups  ){
-$service = $service.ToLower().Replace(" ","-")
 
-$path = "..\microsoft\$path"
+function init($path, $title  ){
+$name = $title.ToLower().Replace(" ","-")
+
+$path = "..\$path"
 $template = 
 @"
 ---
-layout: service
-title: $service
-xlinkadmin: 
-xlinkdev: 
-xlink: 
-xlinkbusiness: 
-xsource: 
+layout: category
+title: $title
+category: $name
 ---
 
 "@
 
-new-item -ItemType:Directory -Path "$path\$service" -ErrorAction:SilentlyContinue
-New-Item -ItemType:File -Path "$path\$service\index.md" -ErrorAction:SilentlyContinue -Value $template 
+new-item -ItemType:Directory -Path "$path\$name" -ErrorAction:SilentlyContinue
+New-Item -ItemType:File -Path "$path\$name\index.md" -ErrorAction:SilentlyContinue -Value $template 
 
 }
+init 'category' 'Accounting and finance'
+init 'category' 'Advertising'
+init 'category' 'Business management'
+init 'category' 'Cloud computing platform'
+init 'category' 'Cloud storage'
+init 'category' 'Code hosting'
+init 'category' 'Collaboration'
+init 'category' 'Communications'
+init 'category' 'Content management'
+init 'category' 'Content sharing'
+init 'category' 'CRM'
+init 'category' 'Customer support'
+init 'category' 'Data analytics'
+init 'category' 'Development tools'
+init 'category' 'E-commerce'
+init 'category' 'Education'
+init 'category' 'Forums'
+init 'category' 'Health'
+init 'category' 'Human-resource management'
+init 'category' 'Internet of Things'
+init 'category' 'IT services'
+init 'category' 'Marketing'
+init 'category' 'News and entertainment'
+init 'category' 'Online meetings'
+init 'category' 'Operations management'
+init 'category' 'Personal instant messaging'
+init 'category' 'Product design'
+init 'category' 'Productivity'
+init 'category' 'Project management'
+init 'category' 'Property management'
+init 'category' 'Sales'
+init 'category' 'Security'
+init 'category' 'Social network'
+init 'category' 'Supply chain and logistics'
+init 'category' 'Transportation and travel'
+init 'category' 'Vendor management system'
+init 'category' 'Web analytics'
+init 'category' 'Webmail'
+init 'category' 'Website monitoring'
+
+
+
+return 
+
 init 'office365' 'Exchange Online' 'Exchange Online'
 init 'office365' 'Exchange Online K1' 'Exchange Online K1'
 init 'office365' 'Exchange Online Plan 1' 'Exchange Online Plan 1'

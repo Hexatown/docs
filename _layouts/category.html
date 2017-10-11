@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% include breadcrumb.html %}
+<article class="category">
+  <h1>{{ page.title }} ({{page.category}})</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+
+  {% include disqus.html %}
+</article>
