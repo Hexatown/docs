@@ -1,7 +1,10 @@
 ---
 Title: Azure AD Groups
+layout: page-ring1
 ---
-
+<style>
+.hidden{display:none}
+</style>
 <button id="callGraphButton" type="button" class="btn btn-primary" onclick="callGraphApi()">Call Microsoft Graph API</button>
 <div id="errorMessage" class="text-danger"></div>
 <div class="hidden">
