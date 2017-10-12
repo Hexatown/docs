@@ -1,6 +1,7 @@
 ---
 Title: Azure AD Groups
 layout: page-ring1
+login: true
 ---
 <style>
 .hidden{display:none}
