@@ -4,13 +4,15 @@ layout: default
 
 {% include breadcrumb.html %}
 
-<link href="{{ site.baseurl }}/apps/periodictable/0.0.3.css" rel="stylesheet">
-<noscript>You need to enable JavaScript to run this app.</noscript>
 <article class="page">
 
     <h1>{{ page.title }}</h1>
-
+<!-- PERIODIC SYSTEM COMPONENT START -->
+    <link href="https://icansharepoint.blob.core.windows.net/cdn/periodictable.20/main.css" rel="stylesheet"> 
     <div id="root"></div>
+    <script type="text/javascript" src="https://icansharepoint.blob.core.windows.net/cdn/periodictable.20/main.js"></script>
+<!-- PERIODIC SYSTEM COMPONENT END -->
+     
     <div class="entry" style="clear:both">
         {{ content }}
     </div>
@@ -18,4 +20,3 @@ layout: default
 </article>
 {% include disqus.html %}
 
-<script type="text/javascript" src="{{ site.baseurl }}/apps/periodictable/0.0.3.js"></script>
