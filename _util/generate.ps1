@@ -6,9 +6,14 @@ $path = "..\$path"
 $template = 
 @"
 ---
-layout: category
+layout: service
 title: $title
 category: $name
+xlinkadmin: 
+xlinkdev: 
+xlink: 
+xlinkbusiness: 
+xsource: 
 ---
 
 "@
@@ -17,6 +22,11 @@ new-item -ItemType:Directory -Path "$path\$name" -ErrorAction:SilentlyContinue
 New-Item -ItemType:File -Path "$path\$name\index.md" -ErrorAction:SilentlyContinue -Value $template 
 
 }
+
+init 'microsoft\azure' 'API App'
+
+return 
+
 init 'category' 'Accounting and finance'
 init 'category' 'Advertising'
 init 'category' 'Business management'
