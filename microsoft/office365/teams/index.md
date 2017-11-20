@@ -7,8 +7,9 @@ linkadmin: https://docs.microsoft.com/en-us/MicrosoftTeams/teams-overview
 linkdev: https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/teams_api_overview
 link: teams.microsoft.com/
 linkbusiness: https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams
-xmarketing:     
-source: https://products.office.com/en/microsoft-teams
+marketing: https://products.office.com/en/microsoft-teams     
+powershell: https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0
+xsource: 
 --- 
 
 A hub for teamwork in Office 365 
@@ -23,8 +24,7 @@ Give your team instant access to everything they need right in Office 365. Manag
 ## Customizable and extensible
 Tailor your Microsoft Teams workspace to quickly access key services, explore data, and get updates from the apps your teams use every day. Create different team channels based on work streams or topics. Pin commonly used files for easy reference. Customize notifications so you don’t miss important activity and information from third-party services. Build integrations with APIs and add bots that work on your team’s behalf. 
 
-## PowerShell
-[https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0](https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0)
+
 
 
 {% include compliance.html %}
