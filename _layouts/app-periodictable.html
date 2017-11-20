@@ -7,12 +7,9 @@ layout: default
 <article class="page">
 
     <h1>{{ page.title }}</h1>
-<!-- PERIODIC SYSTEM COMPONENT START -->
-    <link href="https://icansharepoint.blob.core.windows.net/cdn/periodictable.20/main.css" rel="stylesheet"> 
-    <div id="root"></div>
-    <script type="text/javascript" src="https://icansharepoint.blob.core.windows.net/cdn/periodictable.20/main.js"></script>
-<!-- PERIODIC SYSTEM COMPONENT END -->
-     
+
+    <iframe id="#periodictable" src="https://periodictableofoffice365.azureedge.net/#/periodictable/en" style="overflow:hidden;border-style: hidden;" width="100%" height="600"></iframe>
+    <a href="https://periodictableofoffice365.azureedge.net/#/periodictable/en" target="_blank">Full screen</a>
     <div class="entry" style="clear:both">
         {{ content }}
     </div>
