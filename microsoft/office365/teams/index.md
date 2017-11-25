@@ -5,7 +5,7 @@ inshort: Group chat & video chat [Slack]
 groups: Chat & Conferencing; Direct Communication
 linkadmin: https://docs.microsoft.com/en-us/MicrosoftTeams/teams-overview
 linkdev: https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/teams_api_overview
-link: teams.microsoft.com/
+link: https://teams.microsoft.com/
 linkbusiness: https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams
 marketing: https://products.office.com/en/microsoft-teams     
 powershell: https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0
