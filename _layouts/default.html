@@ -21,7 +21,7 @@
 
 <body>
 
-    <div class="wrapper-masthead">
+    <div class="wrapper-masthead nodialogue">
         <div class="container">
             <header class="masthead clearfix">
   
@@ -45,11 +45,11 @@
         
     </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="container ">
         {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <div class="wrapper-footer nodialogue">
         <div class="container">
             <footer class="footer">
                 {% include svg-icons.html %}
@@ -59,7 +59,27 @@
 
     
     {% include analytics.html %}
+    <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+function inIframe () {
+  
+  try {
+      return window.self !== window.top;
+  } catch (e) {
+      return true;
+  }
+}  
+$( document ).ready(function() {
+  $(".debuginfo").append("document ready<br/>") 
+  
+  if (inIframe()){
+      $(".nodialogue").hide()
+   }
 
+ console.log( "ready!" );
+});
+</script>
 </body>
 
 </html>

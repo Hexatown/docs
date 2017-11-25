@@ -35,7 +35,7 @@ ol.breadcrumb li a:hover {
     text-decoration: underline;
 }
 </style>
-<ol class="breadcrumb">
+<ol class="breadcrumb nodialogue" >
     <li><a href="{{ site.baseurl }}/">Home</a></li>
     {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %} {% assign splitted_url_parts
     = page_url_without_index_html | split: '/' %} {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:1 }}{% endcapture
