@@ -74,7 +74,9 @@ $( document ).ready(function() {
   $(".debuginfo").append("document ready<br/>") 
   
   if (inIframe()){
-      $(".nodialogue").hide()
+      $(".nodialogue").hide();
+
+      $("a").attr("target","_blank");
    }
 
  console.log( "ready!" );
