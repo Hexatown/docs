@@ -11,7 +11,7 @@ powershell: https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0
 source: https://products.office.com/da-dk/microsoft-teams
 --- 
 
-A hub for teamwork in Office 365 
+> En hub til teamarbejde i Office 365 
 
 ## Chat, opkald og møder for moderne teams
 Giv oplysninger videre med det samme, så alle er opdateret. Bevar forbindelsen med chat, opkald og møder i dit team og med private eller mindre gruppesamtaler. Planlæg og deltag i Skype-møder online med HD-video, VoIP (Voice over Internet Protocol) og mulighed for at ringe ind til lydmøder. Del dine filer, apps eller dit skrivebord ved onlinemøder, og gennemgå de vigtigste punkter på et senere tidspunkt med transskriptioner af det optagne indhold. Få et særligt telefonnummer til at foretage og modtage indenrigs- og udenrigsopkald med avancerede funktioner, herunder telefonsvarer, overførsel, delegering og nødopkald (112).
