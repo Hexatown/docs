@@ -79,6 +79,16 @@ $( document ).ready(function() {
 
  console.log( "ready!" );
 });
+
+$( window ).on( "load", function() {
+  $(".debuginfo").append("window loaded<br/>") 
+  //scale();
+  if (inIframe()){
+    $(".nodialogue").hide()
+ }
+
+  console.log( "window loaded" );
+});  
 </script>
 </body>
 
