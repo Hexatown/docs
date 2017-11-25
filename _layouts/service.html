@@ -37,12 +37,11 @@ layout: default
       <div >
         
         <div class="ServiceSideBarHeader nodialogue">Links</div>
-        Links
         <div class="nodialogue">
         {% if page.source %}<div><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></div>{% endif %}
         {% if page.link %}<div><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Link</a> </div> {% endif %}
         {% if page.linkpricing %}<div><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">Pricing Details</a> </div> {% endif %}
-        <h3>Role specific</h3>
+        <h3 class="nodialogue">Role specific</h3>
         {% if page.linkadmin %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}">Administrator</a> </div> {% endif %}
         {% if page.linkdev %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}">Developer</a> </div> {% endif %}
         {% if page.linkbusiness %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}">Business</a> </div> {% endif %}
