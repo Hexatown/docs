@@ -28,15 +28,17 @@ layout: default
 </style>
 <article class="page">
   
-      <h1>{{ page.title }}</h1>
+      <h1 class="nodialogue">{{ page.title }}</h1>
       
       <div class="ServiceDescription ">
-            {% if page.inshort %}<div class="ServiceInShort "><quote>{{ page.inshort }} </quote> </div>{% endif %}
+            {% if page.inshort %}<div class="ServiceInShort nodialogue"><quote>{{ page.inshort }} </quote> </div>{% endif %}
           {{ content }}
       </div>
-      <div class="nodialogue">
+      <div >
         
         <div class="ServiceSideBarHeader">Links</div>
+        Your links
+        <div class="nodialogue">
         {% if page.source %}<div><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></div>{% endif %}
         {% if page.link %}<div><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Link</a> </div> {% endif %}
         {% if page.linkpricing %}<div><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">Pricing Details</a> </div> {% endif %}
@@ -52,6 +54,6 @@ layout: default
         {% if page.linktraining %}<div><a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">Training</a></div>{% endif %}
         {% if page.powershell %}<div><a target="_blank" title="Open in a new window" href="{{ page.powershell }}">PoeerShell</a></div>{% endif %}
       </div>
-  
+    </div>
   </article>
-  {% include disqus.html %}>
+  {% include disqus.html %}
