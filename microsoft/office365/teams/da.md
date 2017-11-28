@@ -9,6 +9,7 @@ linkbusiness: https://docs.microsoft.com/en-us/MicrosoftTeams/Microsoft-Teams
 marketing: https://products.office.com/en/microsoft-teams     
 powershell: https://www.powershellgallery.com/packages/MicrosoftTeams/0.9.0
 source: https://products.office.com/da-dk/microsoft-teams
+xicansharepoint: 
 --- 
 
 > En hub til teamarbejde i Office 365 

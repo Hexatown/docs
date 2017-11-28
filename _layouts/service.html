@@ -25,6 +25,22 @@ layout: default
     font-weight: bold;
     font-size: 24px;
 }
+.IcansharepointLink{
+
+}
+.IcansharepointLogo{
+
+}
+
+.IcansharepointBox{
+border: 1px solid  #F76F3E; 
+}
+.LinkLink{
+background-color: #F76F3E;
+color:#ffffff;
+font-size: 120%;
+
+}
 </style>
 <article class="page">
   
@@ -36,9 +52,17 @@ layout: default
       <div >
         
         <div class="ServiceSideBarHeader xnodialogue">Links</div>
+        {% if page.link %}<div class="LinkLink"><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a> </div> {% endif %}
+        {% if page.icansharepoint %}
+        <div class="IcansharepointBox">
+            
+            <img class="IcansharepointLogo" style="height: 16px;width:auto" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />
+
+            <div class="IcansharepointLink"><a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}">Read more</a></div>
+        </div>
+        {% endif %}
         <div class="xnodialogue">
         {% if page.source %}<div><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></div>{% endif %}
-        {% if page.link %}<div><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a> </div> {% endif %}
         {% if page.linkpricing %}<div><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">Pricing Details</a> </div> {% endif %}
         <h3 class="xnodialogue">Role specific</h3>
         {% if page.linkadmin %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}">Administrator</a> </div> {% endif %}
@@ -48,7 +72,6 @@ layout: default
         {% if page.linkcompliance %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}">Compliance Officer</a> </div> {% endif %}
         {% if page.linkdataprotection %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}">Data Protection Officer</a> </div> {% endif %}
         {% if page.teamschannel %}<div><a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}">Teams (private link)</a></div>{% endif %}
-        {% if page.icansharepointwiki %}<div><a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.icansharepointwiki }}">icansharepoint Wiki</a></div>{% endif %}
         {% if page.linktraining %}<div><a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">Training</a></div>{% endif %}
         {% if page.powershell %}<div><a target="_blank" title="Open in a new window" href="{{ page.powershell }}">PowerShell</a></div>{% endif %}
       </div>
