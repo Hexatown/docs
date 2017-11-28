@@ -39,6 +39,7 @@ float:left;
 
 font-size: 120%;
 float:left;
+clear: both;
 }
 
 a.LinkLink{
@@ -56,14 +57,15 @@ color:#ffffff;
       </div>
       <div >
         
-        <div class="ServiceSideBarHeader xnodialogue">Links</div>
         {% if page.link %}
         <div class="LinkLink">
             
             <a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a>
             
-         </div> 
+            </div> 
         {% endif %}
+    
+        <div class="ServiceSideBarHeader xnodialogue">Links</div>
         {% if page.icansharepoint %}
         <div class="IcansharepointBox">
 
