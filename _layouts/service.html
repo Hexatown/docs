@@ -33,59 +33,62 @@ layout: default
 }
 
 .IcansharepointBox{
-float:left;
+
 }
+
 .LinkLink{
-
-font-size: 120%;
-float:left;
-clear: both;
-}
-
-a.LinkLink{
 background-color: #F76F3E;
 color:#ffffff;
+padding: 5px;
+border-radius: 3px;
+}
 
+li.ServiceSidebar{
+list-style-type: none;
 }
 </style>
 <article class="page">
   
       <h1 class="nodialogue">{{ page.title }}</h1>
-      
+
       <div class="ServiceDescription ">
           {{ content }}
       </div>
-      <div >
+      <div class="ServiceSidebar">
         
         {% if page.link %}
-        <div class="LinkLink">
+        <li >
             
-            <a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a>
+            <a class="LinkLink" target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a>
             
-            </div> 
+            </li> 
         {% endif %}
     
-        <div class="ServiceSideBarHeader xnodialogue">Links</div>
+        <h2>Links</h3>
+        <ul>
         {% if page.icansharepoint %}
-        <div class="IcansharepointBox">
+        <li class="IcansharepointBox">
 
             <a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}"><img class="IcansharepointLogo" style="height: 16px;width:auto" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />[[wiki]]</a>
-        </div>
+        </li>
         {% endif %}
         <div class="xnodialogue">
-        {% if page.source %}<div><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></div>{% endif %}
-        {% if page.linkpricing %}<div><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">Pricing Details</a> </div> {% endif %}
+        {% if page.source %}<li><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">Source</a></li>{% endif %}
+        {% if page.linkpricing %}<li><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">Pricing Details</a> </li> {% endif %}
+
+        </ul>
         <h3 class="xnodialogue">Role specific</h3>
-        {% if page.linkadmin %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}">Administrator</a> </div> {% endif %}
-        {% if page.linkdev %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}">Developer</a> </div> {% endif %}
-        {% if page.linkbusiness %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}">Business</a> </div> {% endif %}
-        {% if page.linkmarketing %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkmarketing }}">Marketing</a> </div> {% endif %}
-        {% if page.linkcompliance %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}">Compliance Officer</a> </div> {% endif %}
-        {% if page.linkdataprotection %}<div><a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}">Data Protection Officer</a> </div> {% endif %}
-        {% if page.teamschannel %}<div><a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}">Teams (private link)</a></div>{% endif %}
-        {% if page.linktraining %}<div><a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">Training</a></div>{% endif %}
-        {% if page.powershell %}<div><a target="_blank" title="Open in a new window" href="{{ page.powershell }}">PowerShell</a></div>{% endif %}
-      </div>
+        <ul>
+        {% if page.linkadmin %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}">Administrator</a> </li> {% endif %}
+        {% if page.linkdev %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}">Developer</a> </li> {% endif %}
+        {% if page.linkbusiness %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}">Business</a> </li> {% endif %}
+        {% if page.linkmarketing %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkmarketing }}">Marketing</a> </li> {% endif %}
+        {% if page.linkcompliance %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}">Compliance Officer</a> </li> {% endif %}
+        {% if page.linkdataprotection %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}">Data Protection Officer</a> </li> {% endif %}
+        {% if page.teamschannel %}<li><a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}">Teams (private link)</a></li>{% endif %}
+        {% if page.linktraining %}<li><a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">Training</a></li>{% endif %}
+        {% if page.powershell %}<li><a target="_blank" title="Open in a new window" href="{{ page.powershell }}">PowerShell</a></li>{% endif %}
+    </ul>
     </div>
   </article>
   {% include disqus.html %}
