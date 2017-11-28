@@ -33,12 +33,17 @@ layout: default
 }
 
 .IcansharepointBox{
-border: 1px solid  #F76F3E; 
+float:left;
 }
 .LinkLink{
+
+font-size: 120%;
+float:left;
+}
+
+a.LinkLink{
 background-color: #F76F3E;
 color:#ffffff;
-font-size: 120%;
 
 }
 </style>
@@ -52,13 +57,17 @@ font-size: 120%;
       <div >
         
         <div class="ServiceSideBarHeader xnodialogue">Links</div>
-        {% if page.link %}<div class="LinkLink"><a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a> </div> {% endif %}
+        {% if page.link %}
+        <div class="LinkLink">
+            
+            <a target="_blank" title="Open the service in a new window" href="{{ page.link }}">Start {{ page.title }}</a>
+            
+         </div> 
+        {% endif %}
         {% if page.icansharepoint %}
         <div class="IcansharepointBox">
-            
-            <img class="IcansharepointLogo" style="height: 16px;width:auto" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />
 
-            <div class="IcansharepointLink"><a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}">Read more</a></div>
+            <a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}"><img class="IcansharepointLogo" style="height: 16px;width:auto" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />[[wiki]]</a>
         </div>
         {% endif %}
         <div class="xnodialogue">
