@@ -39,7 +39,7 @@ list-style-type: none;
 
 .sidebarLinkBox {
   width:200px;
-  padding:10px;
+  padding:3px;
   border-radius:5px;
   overflow-x: clip ;
   overflow-y: clip ;
@@ -47,6 +47,7 @@ list-style-type: none;
 }
 .sidebarHighlighted{
   background-color:orange;
+  padding:10px;
   color:black;
   
 }
@@ -104,7 +105,7 @@ ul.sidebarlinks {
             <a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}"><div class="sidebarLinkBox"></div><img class="IcansharepointLogo" style="height: 16px;width:auto" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />[[wiki]]</a>
         </li>
         {% endif %}
-        <div class="xnodialogue">
+        
         {% if page.source %}<li><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}"><div class="sidebarLinkBox">Source</div></a></li>{% endif %}
         {% if page.linkpricing %}<li><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}"><div class="sidebarLinkBox">Pricing Details</div></a> </li> {% endif %}
 
