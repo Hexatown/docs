@@ -8,7 +8,6 @@ $template =
 ---
 layout: service
 title: $title
-category: $name
 xlinkadmin: 
 xlinkdev: 
 xlink: 
@@ -23,8 +22,27 @@ New-Item -ItemType:File -Path "$path\$name\index.md" -ErrorAction:SilentlyContin
 
 }
 
-init 'microsoft\azure' 'API App'
-
+init 'microsoft\security-compliance' 'Secure Score'
+init 'microsoft\security-compliance' 'Compliance Manager'
+init 'microsoft\security-compliance' 'Office 365 Reporting'
+init 'microsoft\security-compliance' 'Audit Logs'
+init 'microsoft\security-compliance' 'Content Search and Ediscovery'
+init 'microsoft\security-compliance' 'Employee Profiles'
+init 'microsoft\security-compliance' 'ATA'
+init 'microsoft\security-compliance' 'Threat Intelligence'
+init 'microsoft\security-compliance' 'Service Assurance'
+init 'microsoft\security-compliance' 'Office ATP'
+init 'microsoft\security-compliance' 'Win ATP'
+init 'microsoft\security-compliance' 'Azure ATP'
+init 'microsoft\security-compliance' 'Data Loss Prevention'
+init 'microsoft\security-compliance' 'Cloud App Security'
+init 'microsoft\security-compliance' 'Advanced Data Governance'
+init 'microsoft\security-compliance' 'Intune MAM'
+init 'microsoft\security-compliance' 'Azure AD '
+init 'microsoft\security-compliance' 'SSO'
+init 'microsoft\security-compliance' 'MFA'
+init 'microsoft\security-compliance' 'Conditional Access'
+init 'microsoft\security-compliance' 'AIP'
 return 
 
 init 'category' 'Accounting and finance'
