@@ -25,27 +25,7 @@ layout: default
     font-weight: bold;
     font-size: 24px;
 }
-.IcansharepointLink{
 
-}
-.IcansharepointLogo{
-
-}
-
-.IcansharepointBox{
-
-}
-
-.LinkLink{
-background-color: #F76F3E;
-color:#ffffff;
-padding: 5px;
-border-radius: 3px;
-}
-
-a.LinkLink:hover{
-    color:#ffffff;
-}
 
 .ServiceSidebar > li{
 list-style-type: none;
@@ -104,7 +84,8 @@ list-style-type: none;
           {{ content }}
       </div>
       <div class="ServiceSidebar">
-        
+        <ul  class="sidebarlinks">
+            
         {% if page.link %}
         <li >
             
@@ -112,9 +93,9 @@ list-style-type: none;
             
             </li> 
         {% endif %}
-    
+        </ul>    
         <h2>Links</h3>
-        <ul>
+        <ul  class="sidebarlinks">
         {% if page.icansharepoint %}
         <li class="IcansharepointBox">
 
@@ -127,7 +108,7 @@ list-style-type: none;
 
         </ul>
         <h3 class="xnodialogue">Role specific</h3>
-        <ul>
+        <ul  class="sidebarlinks">
         {% if page.linkadmin %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}"><div class="sidebarLinkBox">Administrator</div></a> </li> {% endif %}
         {% if page.linkdev %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}"><div class="sidebarLinkBox">Developer</div></a> </li> {% endif %}
         {% if page.linkbusiness %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}"><div class="sidebarLinkBox">Business</div></a> </li> {% endif %}
