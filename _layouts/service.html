@@ -99,7 +99,7 @@ ul.sidebarlinks {
             </li> 
         {% endif %}
         </ul>    
-        <h2>Links</h3>
+        <h2>Resources</h3>
         <ul  class="sidebarlinks">
         {% if page.icansharepoint %}
         <li class="IcansharepointBox">
@@ -108,21 +108,21 @@ ul.sidebarlinks {
         </li>
         {% endif %}
         
-        {% if page.source %}<li><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}"><div class="sidebarLinkBox">Source</div></a></li>{% endif %}
         {% if page.linkpricing %}<li><a target="_blank" title="Pricing info" href="{{ page.linkpricing }}"><div class="sidebarLinkBox">Pricing Details</div></a> </li> {% endif %}
 
-        </ul>
-        <h3 class="xnodialogue">Role specific</h3>
-        <ul  class="sidebarlinks">
-        {% if page.linkadmin %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}"><div class="sidebarLinkBox">Administrator</div></a> </li> {% endif %}
-        {% if page.linkdev %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}"><div class="sidebarLinkBox">Developer</div></a> </li> {% endif %}
-        {% if page.linkbusiness %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}"><div class="sidebarLinkBox">Business</div></a> </li> {% endif %}
-        {% if page.linkmarketing %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkmarketing }}"><div class="sidebarLinkBox">Marketing</div></a> </li> {% endif %}
-        {% if page.linkcompliance %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}"><div class="sidebarLinkBox">Compliance Officer</div></a> </li> {% endif %}
-        {% if page.linkdataprotection %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}"><div class="sidebarLinkBox">Data Protection Officer</div></a> </li> {% endif %}
+        {% if page.linkadmin %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}"><div class="sidebarLinkBox">For Admins</div></a> </li> {% endif %}
+        {% if page.linkdev %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdev }}"><div class="sidebarLinkBox">For Developers</div></a> </li> {% endif %}
+        {% if page.linkbusiness %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}"><div class="sidebarLinkBox">For Business</div></a> </li> {% endif %}
+        {% if page.linkmarketing %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkmarketing }}"><div class="sidebarLinkBox">For Marketing</div></a> </li> {% endif %}
+        {% if page.linkcompliance %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}"><div class="sidebarLinkBox">For Compliance Officer</div></a> </li> {% endif %}
+        {% if page.linkdataprotection %}<li><a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}"><div class="sidebarLinkBox">For Data Protection Officer</div></a> </li> {% endif %}
         {% if page.teamschannel %}<li><a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}"><div class="sidebarLinkBox"></div>Teams (private link)</div></a></li>{% endif %}
         {% if page.linktraining %}<li><a target="_blank" title="Open in a new window" href="{{ page.linktraining }}"><div class="sidebarLinkBox">Training</div></a></li>{% endif %}
         {% if page.powershell %}<li><a target="_blank" title="Open in a new window" href="{{ page.powershell }}"><div class="sidebarLinkBox">PowerShell</div></a></li>{% endif %}
+        {% if page.similar %}<li><a target="_blank" title="Open in a new window" href="{{ page.similar }}"><div class="sidebarLinkBox">Similar</div></a></li>{% endif %}
+        {% if page.source %}<li><a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}"><div class="sidebarLinkBox">Source</div></a></li>{% endif %}
+        
+        
     </ul>
     </div>
   </article>

@@ -9,7 +9,7 @@ link: https://office.live.com/start/Word.aspx
 xlinkbusiness: 
 xmarketing: https://products.office.com/en-us/visio/visio-online
 source: https://products.office.com/en/office-online/documents-spreadsheets-presentations-office-online
-
+similar: https://en.wikipedia.org/wiki/List_of_word_processors#Online
 ---
 
 Word Online is a browser-based version of Microsoft Word, the ubiquitous word
@@ -52,12 +52,3 @@ Resources
     Online](https://support.office.com/en-us/article/Differences-between-using-a-document-in-the-browser-and-in-Word-3e863ce3-e82c-4211-8f97-5b33c36c55f8)
     [Microsoft]
 
-Similar applications
---------------------
-
--   Google Docs
-
--   Apple Pages
-
--   [Other various
-    apps](https://en.wikipedia.org/wiki/List_of_word_processors#Online)
