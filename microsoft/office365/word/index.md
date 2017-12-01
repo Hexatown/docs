@@ -10,6 +10,7 @@ xlinkbusiness:
 xmarketing: https://products.office.com/en-us/visio/visio-online
 source: https://products.office.com/en/office-online/documents-spreadsheets-presentations-office-online
 similar: https://en.wikipedia.org/wiki/List_of_word_processors#Online
+icansharepoint: http://icansharepoint.com/wiki/Index
 ---
 
 Word Online is a browser-based version of Microsoft Word, the ubiquitous word
