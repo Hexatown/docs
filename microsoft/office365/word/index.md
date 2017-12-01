@@ -46,8 +46,6 @@ app and its more complex features. Some versions of the desktop app save updates
 automatically, but some do not. Be aware of how this feature works on your
 version.
 
-Matt was here.
-
 Resources
 ---------
 
