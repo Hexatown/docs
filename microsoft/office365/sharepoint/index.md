@@ -9,17 +9,55 @@ xlinkdev:
 xlink: 
 xlinkbusiness: 
 xmarketing: 
-source: https://products.office.com/en-us/sharepoint/sharepoint-online-collaboration-software
+xsource: https://products.office.com/en-us/sharepoint/sharepoint-online-collaboration-software
 ---
 
-Share and manage content, knowledge, and applications to empower teamwork, quickly find information, and seamlessly collaborate across the organization. 
+SharePoint Online (SPO) is the cloud version of Microsoft SharePoint
+Server, a collaboration, intranet, and content management system. SPO
 
+SPO supports [co-authoring](http://icsh.pt/CoAuthoring) in most Office
+files
 
-## Simple sharing and seamless collaboration
-Empower sharing and collaboration on your intranet. Give people places where they can organize and collaborate on content, data, and news to stay on the same page.
+Resources
+---------
 
-## Inform and connect your organization
-Inform and connect your people with intranets and portals. Share common resources and applications and broadcast your message with rich, dynamic pages.
+-   Tom Resing's new SharePoint training center \[Microsoft\]
 
-## Intelligence and insights
-Rely on powerful enterprise search to find files, sites, and people. Built-in intelligence delivers the most relevant results and helps you discover information and expertise around you.
+-   Document lifecycle in OneDrive & SharePoint \[icansharepoint
+    infographic coming soon\]
+
+-   [Version history in SharePoint](http://icsh.pt/VersionHistory)
+    \[icansharepoint blog\]
+
+-   [SharePoint tools for everyday users](http://icsh.pt/ShPtTools)
+    \[icansharepoint blog\]
+
+-   [Getting the most out of SharePoint
+    search](http://icsh.pt/HowToSPSearch) \[icansharepoint infographic\]
+
+-   [Always keep SharePoint in mind](http://icsh.pt/KeepSPInMind)
+    \[icansharepoint blog\]
+
+-   [External sharing in SharePoint
+    Online](http://icsh.pt/ExternalSharing) \[icansharepoint blog\]
+
+-   [Size and usage limitations](http://icsh.pt/SPUseLimits)
+    \[icansharepoint infographic\]
+
+Similar applications
+--------------------
+
+-   Google Drive (collaboration)
+
+-   Google Sites (intranet websites)
+
+-   Documentum
+
+-   Alfresco
+
+Metadata
+--------
+
+-   External sharing is supported
+
+-   App available for desktop and mobile

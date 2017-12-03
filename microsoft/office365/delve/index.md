@@ -8,21 +8,51 @@ xlinkdev:
 xlink: https://office.live.com/start/PowerPoint.aspx
 xlinkbusiness: 
 xmarketing: https://products.office.com/en-us/business/intelligent-search
-source: https://products.office.com/en-us/business/intelligent-search
+xsource: https://products.office.com/en-us/business/intelligent-search
 ---
-Unlock creativity with personalized search. Discover people & content in the context of your work.
+Office Delve is a combined employee profile page and content discovery
+tool.
 
+The profile page provides contact information about each employee in the
+system, including their name, phone number, office location, email,
+manager, etc., which are usually populated by the Office 365
+administrator. A rudimentary organization chart is also included.
 
-## View content relevant to you
-Wherever you are working, search is personalized. Bringing you content from across Office 365—from OneDrive, SharePoint, Exchange and more. Powered by the Microsoft Graph, search in any application brings you information based on what you’re working on, who you’re working with; always maintaining established permissions.
+However, the profile page also provides space for you to add more
+personal information about yourself, like your alma mater, skills, past
+projects, interests, and other personal details. Delve is useful for
+finding people based on their skills and experience across an enterprise
+without having to know those individuals prior to finding them.
 
-## Search meets you wherever you are
-From SharePoint to Delve, from Office apps to Bing for your business, harness the collective knowledge of your organization in every experience. Using the intelligence of the Microsoft Graph, relevant content will surface to keep you up to date and leverage the work of others. 
+The content discovery part of Delve displays files within Office 365
+(usually from SharePoint Online and OneDrive for Business) that are
+relevant to you. Files edited or opened by your colleagues and
+individuals you work with will be suggested as possibly relevant based
+on your connection to those people.
 
-## Share your expertise and experience
-Build a rich, personal profile to work out loud across your organization. Share the projects you have been involved with, the skills you have, interests you want to develop and what others can ask you about. Integration with LinkedIn will help you showcase your past achievements.
+Delve cannot be shared with other users and each person's experience
+with Delve is unique, similar to your experience on Facebook and
+LinkedIn. You will only be shown content you already have access to.
+Delve does not provide additional access to content you shouldn't see.
 
-## Learn more about other people—their documents and ideas
-With a People card that goes across Office 365, it’s easy to help you find out more about what other people are working on, who they work with and their expertise. Quick actions let you connect with them via email, chat or call.
+Delve is one of those things that you're best off playing around with to
+truly understand it. It's a tool that some shrug off while others wonder
+how they lived without it. Regardless of your interest, you should
+always update your profile with relevant skills and experience so others
+can find you for assistance when the need arises.
 
-{% include compliance.html %}
+Resources
+---------
+
+-   [What is Office
+    Delve?](https://support.office.com/en-us/article/What-is-Office-Delve-1315665a-c6af-4409-a28d-49f8916878ca)
+    \[Microsoft\]
+
+-   [Five Reasons to Love Office
+    Delve](https://sharepointmaven.com/5-reasons-love-new-office-365-delve/)
+    \[SharePoint Maven\]
+
+Similar applications
+--------------------
+
+-   Facebook and LinkedIn
