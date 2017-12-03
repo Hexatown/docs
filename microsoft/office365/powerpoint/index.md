@@ -61,9 +61,8 @@ Similar applications
 -   [Other various
     apps](https://en.wikipedia.org/wiki/Presentation_program)
 
-Metadata
---------
+Feedback
+---------
 
--   External sharing is supported
-
--   App available for desktop and mobile
+-   [PowerPoint Online UserVoice](https://powerpoint.uservoice.com/forums/270149-powerpoint-online)
+    \[UserVoice\]
