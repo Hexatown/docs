@@ -53,6 +53,12 @@ Resources
 -   [Functionality differences between Word and Word
     Online](https://support.office.com/en-us/article/Differences-between-using-a-document-in-the-browser-and-in-Word-3e863ce3-e82c-4211-8f97-5b33c36c55f8)
     \[Microsoft\]
+    
+Feedback
+---------
+
+-   [Word Online UserVoice](https://word.uservoice.com/forums/271331-word-online)
+    \[UserVoice\]
 
 Similar applications
 --------------------
@@ -63,10 +69,3 @@ Similar applications
 
 -   [Other various
     apps](https://en.wikipedia.org/wiki/List_of_word_processors#Online)
-
-Metadata
---------
-
--   External sharing is supported
-
--   App available for desktop and mobile
