@@ -10,24 +10,38 @@ xlinkbusiness:
 xmarketing: 
 source: https://flow.microsoft.com/en-us/
 ---
-Create automated workflows between your favorite apps and services to get notifications, synchronize files, collect data, and more
 
-## Multistep flows
-Turn repetitive tasks into multistep workflows. For example, with a few clicks capture tweets and add them as leads in Dynamics 365, subscribers in Mailchimp, and more...
+Microsoft Flow is a user-friendly, [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) task automation tool. Flow provides you the ability to pre-program tasks that are repetitive, standardized, time-consuming, or straight-up boring. Flow is reasonably easy for an everyday worker with no programming or technical experience to use to their advantage.
 
-## Approve requests
-Create, use, and share automated approval workflows to quickly respond to and process requests, from time off and travel plans to documents and sales opportunities.
+Flow is especially good for approval workflows, integrating multiple apps and services, and automating time-consuming and monotonous tasks. Flow can be used for something as simple as routing a document for approval by your manager or as complex as onboarding a new employee at your organization. Flows can be personal (only for you) or shared (made available for everyone in a department or company).
 
-## Adding conditions
-Make decisions in your workflow, like running an action only when certain conditions are met.
+Some of Flow’s strongest attributes include its [template](https://flow.microsoft.com/en-us/templates/) store (because why reinvent the wheel?), [connectors](https://flow.microsoft.com/en-us/connectors/) that can speak to both Office 365 and non-Microsoft services (e.g., Google Apps, DropBox, Salesforce, DocuSign, Twitter), and its ease of use. You can even use Flow to [program bots](https://blog.getbizzy.io/introducing-bizzy-templates-b191b38d2370) in Microsoft Teams, for free, all without coding.
 
-## Using on-premises data
-Flow lets you securely connect to on-premises data and cloud based services, so you can make the most of the data you already have.
+Flow has opened up work automation to the masses in a way few other apps have in the past, for its price. Flow is the [successor](https://docs.microsoft.com/en-us/flow/frequently-asked-questions) of SharePoint Designer workflows, though it is not meant to be a replacement.
 
-## Working securely 
-Prevent sensitive data from leaving your company using built-in or customized data loss prevention policies.
+Resources
+---------
 
+-   [Microsoft Flow Guided Learning](https://docs.microsoft.com/en-us/flow/guided-learning/)
+    \[Microsoft\]
+    
+-   [Microsoft Flow Community](https://powerusers.microsoft.com/t5/Microsoft-Flow-Community/ct-p/FlowCommunity)
+    \[Microsoft\]
+    
+-   [Flow of the Week blog](https://flow.microsoft.com/en-us/blog/category/flow-of-the-week/)
+    \[Microsoft\]
 
-{% include compliance.html %}
+Feedback
+--------------------
 
-[Microsoft Teams - Internal](https://teams.microsoft.com/l/channel/19%3a279312569a294b1cb1f86a858c654cd6%40thread.skype/Flow?groupId=6b95521a-cb9b-4b48-9e53-3c617946e139&tenantId=df96b8c9-51a1-40cf-b8b1-4514be8e9668)
+-   [Flow Ideas forum](https://powerusers.microsoft.com/t5/Flow-Ideas/idb-p/FlowIdeas)
+    \[Microsoft\]
+
+Similar applications
+--------------------
+
+-   IFTT
+
+-   SharePoint Designer workflows
+
+-   Nintex
