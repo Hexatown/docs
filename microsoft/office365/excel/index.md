@@ -59,10 +59,9 @@ Similar applications
 
 -   [Other various
     apps](https://en.wikipedia.org/wiki/List_of_spreadsheet_software#Online_spreadsheets)
+    
+Feedback
+---------
 
-Metadata
---------
-
--   External sharing is supported
-
--   App available for desktop and mobile
+-   [Excel Online UserVoice](https://excel.uservoice.com/forums/274580-excel-online)
+    \[UserVoice\]
