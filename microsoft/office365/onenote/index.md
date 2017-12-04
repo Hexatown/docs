@@ -54,9 +54,8 @@ Similar applications
 
 -   Microsoft Word Notebook Layout (MacOS only)
 
-Metadata
---------
+Feedback
+---------
 
--   External sharing is supported
-
--   App available for desktop and mobile
+-   [OneNote Online UserVoice](https://onenote.uservoice.com/forums/327183-onenote-online)
+    \[UserVoice\]
