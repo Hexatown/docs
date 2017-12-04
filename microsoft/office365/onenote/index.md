@@ -59,3 +59,8 @@ Feedback
 
 -   [OneNote Online UserVoice](https://onenote.uservoice.com/forums/327183-onenote-online)
     \[UserVoice\]
+
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
