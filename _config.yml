@@ -88,3 +88,6 @@ exclude:
   - CNAME
 encoding: UTF-8
 collections:
+  usecase_admins:
+    output: true
+    permalink: /usecases/admin/:name
