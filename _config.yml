@@ -77,7 +77,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-seo-tag
+  - jekyll-mentions
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -86,3 +87,4 @@ exclude:
   - README.md
   - CNAME
 encoding: UTF-8
+collections:

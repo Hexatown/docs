@@ -8,27 +8,48 @@ xlinkdev:
 link: https://forms.office.com/
 xlinkbusiness: 
 xmarketing: 
-source: https://forms.office.com/
-
+xsource: https://forms.office.com/
 ---
-Easily create surveys, quizzes, and polls
+Microsoft Forms is a simple survey, poll, and quiz tool. MS Forms gives
+everyday workers the ability to create reasonably complex forms for
+garnering feedback, getting sign ups, submitting simple requests, and
+completing questionnaires.
 
-## Surveys
-Easily create surveys to collect customer feedback, measure employee satisfaction, and organize team events.
-Microsoft Forms is simple to use, works on any web browser, and comes with themes and question branching so you won’t have to do a lot of work to get to a great survey.
+Forms can be shared with internal and external users. External users
+need not sign in and all external submissions are listed as anonymous
+(unless you request their contact information within your questions).
+External users can even be invited to help collaborate on questions and
+can review the results.
 
-## Quizzes
-Quickly create quizzes to measure student knowledge, evaluate class progress, and focus on topics that need improvement.
-Microsoft Forms lets you assign points for automatic grading and give explanations for further instruction, so quizzing students is easier than ever.
+Forms results are simple and display as lists of text, pie charts (for
+radio questions), or column charts (for check box questions). Complete
+results can also be opened and downloaded as an Excel spreadsheet.
 
-## Polls
-Find out what the class thinks of your trip idea, where the team wants to meet, or how presentation attendees feel.
-Microsoft Forms adapts to every screen so it’s easy for anyone to fill in your poll, and collects responses in real time so you get insights fast.​
+Though technically a "forms" application, MS Forms does not support
+complex form building and is not a replacement for SharePoint Designer,
+InfoPath, or PowerApps functionality.
 
+If you'd like to see what a Microsoft Form looks like in the real world,
+check out the feedback link on this web page. The form listed is built
+using Microsoft Forms.
 
-## Simple and Powerful Analysis​
-Microsoft Forms collects responses in real time and automatically provides charts to visualize your data.​
-Best of all, exporting to Excel lets you use the full power of Excel for customized, in-depth analysis.
+Resources
+---------
 
-{% include compliance.html %}
+-   [What is Microsoft Forms?](https://support.office.com/en-us/forms)
+    \[Microsoft\]
 
+-   [The Ultimate Guide to Microsoft
+    Forms](https://collab365.community/ultimate-guide-microsoft-forms/)
+    \[Collab365 Community\]
+
+Similar apps
+------------
+
+-   Google Forms
+
+-   Excel Surveys
+
+-   SharePoint Surveys
+
+-   Yammer polls

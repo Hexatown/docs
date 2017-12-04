@@ -8,23 +8,74 @@ xlinkdev:
 link: https://office.live.com/start/PowerPoint.aspx
 xlinkbusiness: 
 xmarketing: 
-source: https://products.office.com/en/onedrive-for-business/online-cloud-storage
+xsource: https://products.office.com/en/onedrive-for-business/online-cloud-storage
 ---
 
-## Share your files from anywhere 
-Do more wherever you are with secure access, sharing and file storage—at work, at home or on the go. 
+OneDrive for Business (OD4B) is the personal file storage area that each
+employee gets with an Office 365 subscription. OD4B is useful for saving
+personal (but work-related) files, initial document drafts, and files
+you need to share with a very small group of people.
 
-## Simple sharing and storage
-Securely store and share files from anywhere. OneDrive offers native desktop, browser and mobile experiences on your devices. Access and make changes that sync automatically in the cloud or sync local copies of files for offline viewing and editing on your PC or Mac. Confidently share your files so other people can access them seamlessly and securely. 
+OD4B is generally meant for you to keep files that only you need. It can
+be good for keeping performance reviews, local copies of benefits
+documents, and XXX. Many OD4B users also take advantage of the privacy
+it provides and they create their document drafts in OD4B; once they've
+completed the draft and want input, they move the file to their
+SharePoint team site so their colleagues will gain access.
 
-## Seamless collaboration
-Work faster and smarter with anyone inside or outside your organization. OneDrive enables real-time co-authoring in familiar desktop apps like Word and PowerPoint, and saves you time with a single click to attach files to emails in Outlook. Use built-in search and discover tools to find the most relevant files and let others find your work. 
+OD4B is not a good tool for collaboration within teams or between many
+colleagues because the files are specific to the OD4B user who shared
+it. If that person leaves the organization, those files could eventually
+be deleted and lost. It's also not uncommon that OD4B users who want to
+collaborate make permissions mistakes and provide access to more files
+than they intended. SharePoint, MS Teams, or Outlook Groups are better
+platforms for collaboration.
 
-## Untethered mobility
-Stay connected with your files and folders from anywhere. OneDrive mobile apps for Android™, iOS®, and Windows present the best Office experience, beautifully rendered on your favorite devices. Access files and folders in OneDrive or in SharePoint team sites when you’re on the go. 
+OD4B provides upwards of 1 TB of space in the cloud (though this can be
+restricted by your administrator) and provides a desktop sync tool so
+you can keep some or all of your cloud files on your computer for
+offline use. The sync tool also gives easy access to your files directly
+through File Explorer (Windows) and Finder (MacOS), directly through the
+Office apps, and can even be added as a file source in apps like Adobe
+Acrobat and Photoshop.
 
-## Controls for security
-Set device access rules, view device reports, and remotely wipe devices that are lost or stolen—all from the admin center. You can see which files are being shared and with whom. In-app sharing enables each employee to seamlessly share and set specific access permissions for their files, based on the organization’s settings. 
+Files on Demand, a feature released in 2017, displays all cloud files in
+File Explorer or Finder regardless of whether they were actually
+downloaded, meaning you can view, open, edit, move, and copy files on
+your desktop even if they haven't been downloaded.
 
+The mobile app (iOS and Android) is top-notch and a very good way to
+access files from Office 365 when you don't have access to your
+computer. For example, you can pretty easily present a PowerPoint file
+directly from your iPhone through a wireless network to a conference
+room monitor, all on the fly.
 
-{% include compliance.html %}
+Resources
+---------
+
+-   [What is OneDrive for
+    Business?](https://support.office.com/en-us/article/What-is-OneDrive-for-Business-187f90af-056f-47c0-9656-cc0ddca7fdc2)
+    \[Microsoft\]
+
+-   Document lifecycle in OneDrive & SharePoint \[icansharepoint
+    infographic coming soon\]
+
+-   [Differences between the various OneDrive
+    "experiences"](http://icsh.pt/OneDriveTree) \[icansharepoint
+    inforgraphic\]
+
+Similar applications
+--------------------
+
+-   OneDrive (consumer)
+
+-   Google Drive
+
+-   iCloud Drive
+
+Metadata
+--------
+
+-   External sharing is supported
+
+-   App available for desktop and mobile

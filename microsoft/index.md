@@ -1,5 +1,6 @@
 ---
 title: Microsoft
+layout: subpageindex
 ---
 
 - [Office 365](./office365)

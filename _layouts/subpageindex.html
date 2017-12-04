@@ -11,4 +11,18 @@ layout: default
     </div>
 
 </article>
- {% include disqus.html %}
+ 
+
+<ul>
+    {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+    
+    {% for otherpage in site.pages %}
+    {% capture current_page_url_without_index_html %}{{ otherpage.url | remove: "/index.html" }}{% endcapture %}
+    {% if current_page_url_without_index_html contains page_url_without_index_html %}
+    <li >
+       <a href="{{site.baseurl}}{{ otherpage.url }}">{{otherpage.title}} ({{ otherpage.url }})</a>
+   </li>
+   {% endif %}      
+   {% endfor %}
+   </ul>
+   
