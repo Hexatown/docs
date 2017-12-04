@@ -65,3 +65,11 @@ Feedback
 
 -   [Excel Online UserVoice](https://excel.uservoice.com/forums/274580-excel-online)
     \[UserVoice\]
+    
+-   [Excel on TechCommunity](https://techcommunity.microsoft.com/t5/Word/ct-p/Word)
+    \[Microsoft\]
+    
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
