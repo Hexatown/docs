@@ -53,12 +53,6 @@ Resources
 -   [Functionality differences between Word and Word
     Online](https://support.office.com/en-us/article/Differences-between-using-a-document-in-the-browser-and-in-Word-3e863ce3-e82c-4211-8f97-5b33c36c55f8)
     \[Microsoft\]
-    
-Feedback
----------
-
--   [Word Online UserVoice](https://word.uservoice.com/forums/271331-word-online)
-    \[UserVoice\]
 
 Similar applications
 --------------------
@@ -69,3 +63,17 @@ Similar applications
 
 -   [Other various
     apps](https://en.wikipedia.org/wiki/List_of_word_processors#Online)
+
+Feedback
+---------
+
+-   [Word Online UserVoice](https://word.uservoice.com/forums/271331-word-online)
+    \[UserVoice\]
+    
+-   [Word on TechCommunity](https://techcommunity.microsoft.com/t5/Word/ct-p/Word)
+    \[MIcrosoft\]
+    
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
