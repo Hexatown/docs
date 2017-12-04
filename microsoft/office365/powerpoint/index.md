@@ -66,3 +66,11 @@ Feedback
 
 -   [PowerPoint Online UserVoice](https://powerpoint.uservoice.com/forums/270149-powerpoint-online)
     \[UserVoice\]
+    
+-   [PowerPoint on TechCommunity](https://techcommunity.microsoft.com/t5/PowerPoint-Office-Mix/ct-p/PowerPoint)
+    \[Microsoft\]
+    
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
