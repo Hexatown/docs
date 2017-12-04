@@ -31,12 +31,6 @@ Resources
 -   [Flow of the Week blog](https://flow.microsoft.com/en-us/blog/category/flow-of-the-week/)
     \[Microsoft\]
 
-Feedback
---------------------
-
--   [Flow Ideas forum](https://powerusers.microsoft.com/t5/Flow-Ideas/idb-p/FlowIdeas)
-    \[Microsoft\]
-
 Similar applications
 --------------------
 
@@ -45,3 +39,17 @@ Similar applications
 -   SharePoint Designer workflows
 
 -   Nintex
+
+Feedback
+--------------------
+
+-   [Microsoft Flow Ideas forum](https://powerusers.microsoft.com/t5/Flow-Ideas/idb-p/FlowIdeas)
+    \[Microsoft\]
+    
+-   [Microsoft Flow Community](https://powerusers.microsoft.com/t5/Microsoft-Flow-Community/ct-p/FlowCommunity)
+    \[Microsoft\]
+
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
