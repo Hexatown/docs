@@ -71,7 +71,7 @@ Feedback
     \[UserVoice\]
     
 -   [Word on TechCommunity](https://techcommunity.microsoft.com/t5/Word/ct-p/Word)
-    \[MIcrosoft\]
+    \[Microsoft\]
     
 Author
 ---------
