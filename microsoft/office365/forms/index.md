@@ -53,3 +53,17 @@ Similar apps
 -   SharePoint Surveys
 
 -   Yammer polls
+
+Feedback
+---------
+
+-   [Microsoft Forms UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)
+    \[UserVoice\]
+    
+-   [Microsoft Forms on TechCommunity](https://techcommunity.microsoft.com/t5/Microsoft-Forms/ct-p/MicrosoftForms)
+    \[Microsoft\]
+
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
