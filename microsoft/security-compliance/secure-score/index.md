@@ -3,7 +3,7 @@ layout: service
 title: Secure Score
 xlinkadmin: 
 xlinkdev: 
-xlink: 
+link: https://securescore.office.com/#!/dashboard
 xlinkbusiness: 
 source: https://securescore.office.com/#!/dashboard
 ---

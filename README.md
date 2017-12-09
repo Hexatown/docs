@@ -4,11 +4,10 @@ This is the place for sharing usecases and technival documentation.
 - Vendor > Technology > 
 - _Usecases 
 
+## Support "the PERIODIC TABLE of Office 365" with insights
+![](./Thumbnail.png)
 
-## Jekyll
-Jekyll is used for rendering this site and is automatically updated on (http://365admin.net/docs)
-
-- [Variables] (https://jekyllrb.com/docs/variables/)
+Visit this awesome tool [the PERIODIC TABLE of Office 365](http://periodictableofoffice365.azurewebsites.net/#/office365/en)
 
 
 ## Todos
@@ -17,5 +16,10 @@ Jekyll is used for rendering this site and is automatically updated on (http://3
 - [x] List blog posts on frontpage
 - [x] jekyll-now integrated
 - [ ] Consider https://www.gov.uk/service-manual/agile-delivery/writing-user-stories#meeting-the-digital-service-standard
-- [ ] add Search 
-- [ ] Finalize (./exchange/setup-personal-assistant)
+- [ ] add Search
+- [ ] Write article on how to work with Markdown and Git 
+
+## Jekyll
+Jekyll is used for rendering this site and is automatically updated on (http://365admin.net/docs)
+
+- [Variables] (https://jekyllrb.com/docs/variables/)

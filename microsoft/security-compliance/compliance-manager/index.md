@@ -3,7 +3,7 @@ layout: service
 title: Compliance Manager
 xlinkadmin: 
 xlinkdev: 
-xlink: 
+link: https://servicetrust.microsoft.com/ComplianceManager
 xlinkbusiness: 
 xsource: 
 ---
