@@ -157,12 +157,23 @@ layout: default
                     <a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}">
                         <div class="sidebarLinkBox"></div>Teams (private link)</div>
     </a>
-    </li>{% endif %} {% if page.linktraining %}
+    </li>
+    {% endif %} {% if page.linktechcommunity %}
+    <li>
+        <a target="_blank" title="Open in a new window" href="{{ page.linktechcommunity }}">
+            <div class="sidebarLinkBox">Tech Community</div>
+        </a>
+    </li>{% endif %} 
+    
+    {% endif %} {% if page.linktraining %}
     <li>
         <a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">
             <div class="sidebarLinkBox">Training</div>
         </a>
-    </li>{% endif %} {% if page.powershell %}
+    </li>{% endif %} 
+    
+    
+    {% if page.powershell %}
     <li>
         <a target="_blank" title="Open in a new window" href="{{ page.powershell }}">
             <div class="sidebarLinkBox">PowerShell</div>
