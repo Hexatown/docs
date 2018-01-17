@@ -1,0 +1,219 @@
+--- 
+layout: default 
+---
+{% include breadcrumb.html %}
+<style>
+    .ServiceDescription {
+        float: left;
+        width: 66%;
+        padding-right: 10px;
+    }
+
+    .ServiceSidebar {
+        float: left;
+        width: 33%;
+        padding-left: 10px;
+    }
+
+    .ServiceInShort {
+        font-size: 100%;
+        font-style: italic;
+    }
+
+    .ServiceSideBarHeader {
+        color: #222;
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+
+    .ServiceSidebar>li {
+        list-style-type: none;
+    }
+
+    .sidebarlinks {
+
+        text-decoration: none;
+    }
+
+    .sidebarLinkBox {
+        width: 200px;
+        padding: 3px;
+        border-radius: 5px;
+        overflow-x: clip;
+        overflow-y: clip;
+        white-space: nowrap;
+    }
+
+    .sidebarHighlighted {
+        background-color: orange;
+        padding: 10px;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+    }
+
+    .sidebarlinks>li {
+        color: red;
+        list-style: none;
+        padding: 5px;
+    }
+
+    .sidebarlinks>li>a:link,
+    .sidebarlinks>li>a:visited,
+    .sidebarlinks>li>a {
+        text-decoration: none;
+        color: #4183C4;
+        background-color: #666666;
+    }
+
+    ul.sidebarlinks {
+        border: none;
+        padding-left: 0px;
+    }
+
+
+    .sidebarlinks>li>a:hover {
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .IcansharepointLogo {
+        height: 16px;
+        width: auto
+    }
+    .promotedLinkBox{
+
+    }
+
+</style>
+<article class="page">
+
+    <h1 class="nodialogue">{{ page.title }}</h1>
+
+    <div class="ServiceDescription ">
+        {{ content }}
+    </div>
+    <div class="ServiceSidebar">
+        <ul class="sidebarlinks">
+
+            {% if page.linkfasttrack %}
+            <li>
+
+                <a class="LinkLink" target="_blank" title="Opens in a new window" href="{{ page.linkfasttrack }}">
+                    <div class="sidebarLinkBox sidebarHighlighted">View in Fasttrack</div>
+                </a>
+
+            </li>
+            {% endif %}
+        </ul>
+        <!-- <h2>Resources</h3> -->
+            {% if page.icansharepoint %}
+            <div class="promotedLinkBox">
+                <img class="IcansharepointLogo" alt="" src="{{ site.baseurl }}/media/icansharepoint-logo-transparent.png" />
+                <a target="_blank" title="Read more at www.icansharepoint.com" href="{{ page.icansharepoint }}">
+                    <div class="sidebarLinkBox"></div>[[wiki]]</a>
+            </div>
+            {% endif %}
+            <ul class="sidebarlinks" id="resourceLinks">
+
+                {% if page.linkpricing %}
+                <li>
+                    <a target="_blank" title="Pricing info" href="{{ page.linkpricing }}">
+                        <div class="sidebarLinkBox">Pricing Details</div>
+                    </a>
+                </li> {% endif %} {% if page.linkadmin %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkadmin }}">
+                        <div class="sidebarLinkBox">For Admins</div>
+                    </a>
+                </li> {% endif %} {% if page.linkdev %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkdev }}">
+                        <div class="sidebarLinkBox">For Developers</div>
+                    </a>
+                </li> {% endif %} {% if page.linkbusiness %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkbusiness }}">
+                        <div class="sidebarLinkBox">For Business</div>
+                    </a>
+                </li> {% endif %} {% if page.linkmarketing %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkmarketing }}">
+                        <div class="sidebarLinkBox">For Marketing</div>
+                    </a>
+                </li> {% endif %} {% if page.linkcompliance %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkcompliance }}">
+                        <div class="sidebarLinkBox">For Compliance Officer</div>
+                    </a>
+                </li> {% endif %} {% if page.linkdataprotection %}
+                <li>
+                    <a target="_blank" title="Open in a new window" href="{{ page.linkdataprotection }}">
+                        <div class="sidebarLinkBox">For Data Protection Officer</div>
+                    </a>
+                </li> {% endif %} {% if page.teamschannel %}
+                <li>
+                    <a target="_blank" title="Open this in Microsoft Teams (Private Link)" href="{{ page.teamschannel }}">
+                        <div class="sidebarLinkBox"></div>Teams (private link)</div>
+    </a>
+    </li>
+    {% endif %} {% if page.linktechcommunity %}
+    <li>
+        <a target="_blank" title="Open in a new window" href="{{ page.linktechcommunity }}">
+            <div class="sidebarLinkBox">Tech Community</div>
+        </a>
+    </li>{% endif %} 
+    
+    {% if page.linktraining %}
+    <li>
+        <a target="_blank" title="Open in a new window" href="{{ page.linktraining }}">
+            <div class="sidebarLinkBox">Training</div>
+        </a>
+    </li>{% endif %} 
+    
+    
+    {% if page.powershell %}
+    <li>
+        <a target="_blank" title="Open in a new window" href="{{ page.powershell }}">
+            <div class="sidebarLinkBox">PowerShell</div>
+        </a>
+    </li>{% endif %} {% if page.similar %}
+    <li>
+        <a target="_blank" title="Open in a new window" href="{{ page.similar }}">
+            <div class="sidebarLinkBox">Similar</div>
+        </a>
+    </li>{% endif %} {% if page.source %}
+    <li>
+        <a target="_blank" title="Open the source of this article in a new window" href="{{ page.source }}">
+            <div class="sidebarLinkBox">Source</div>
+        </a>
+    </li>{% endif %}
+
+
+    </ul>
+    </div>
+</article>
+{% include disqus.html %}
+<script>
+jQuery(document).ready(function() {
+    var headings = jQuery(".ServiceDescription h2");
+  
+    for (i = 0; i < headings.length; i++) {
+      var heading = headings[i];
+      var text = heading.innerText
+      var id = text
+      jQuery(heading).attr("id",text)
+      
+      html = "   <li>";
+  
+      html += ' <a  title="Place in this document" href="#'+id+'">';
+      html += '<div class="sidebarLinkBox">'+text+'</div>';
+      html += "</a>";
+      html += "</li>  ";
+      jQuery("#resourceLinks").append(html);
+    }
+    
+    
+  });
+</script>

@@ -7,7 +7,7 @@ This is the place for sharing usecases and technival documentation.
 ## Support "the PERIODIC TABLE of Office 365" with insights
 ![](./Thumbnail.png)
 
-Visit this awesome tool [the PERIODIC TABLE of Office 365](http://periodictableofoffice365.azurewebsites.net/#/office365/en)
+Visit this awesome tool [the PERIODIC TABLE of Office 365](http://periodictableofoffice365.azureedge.net/#/office365/en)
 
 
 ## Todos
