@@ -3,24 +3,17 @@
 
 <head>
     <title>Loader</title>
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 
-    {% include meta.html %}
-
-    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+    var url = decodeURIComponent(location.search.replace("?",""))
+    document.writeln('<meta http-equiv="refresh" content="0; url="'+url+'">')
+</script>
     
 </head>
 
 <body>
-
-<script>
-
-$( window ).on( "load", function() {
-    debugger
-    var url = decodeURIComponent(location.search.replace("?",""))
-    location.href = url
-  
-});  
-</script>
-</body>
 
 </html>
