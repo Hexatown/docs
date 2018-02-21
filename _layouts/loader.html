@@ -16,7 +16,7 @@
 
 $( window ).on( "load", function() {
     debugger
-    var url = decodeURIComponent(location.search)
+    var url = decodeURIComponent(location.search.replace("?",""))
     location.href = url
   
 });  
