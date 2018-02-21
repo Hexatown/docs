@@ -9,7 +9,8 @@
 
 <script>
     var url = decodeURIComponent(location.search.replace("?",""))
-    document.writeln('<meta http-equiv="refresh" content="0; url="'+url+'">')
+    var html = '<meta http-equiv="refresh" content="0; url=\''+url+'\'">'
+    document.writeln(html)
 </script>
     
 </head>
