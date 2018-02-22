@@ -1,0 +1,31 @@
+--- 
+layout: default 
+---
+{% include breadcrumb.html %}
+<script src="./js"></script>
+<script>
+    document.writeln(html)
+</script>
+{% include disqus.html %}
+<script>
+jQuery(document).ready(function() {
+    var headings = jQuery(".ServiceDescription h2");
+  
+    for (i = 0; i < headings.length; i++) {
+      var heading = headings[i];
+      var text = heading.innerText
+      var id = text
+      jQuery(heading).attr("id",text)
+      
+      html = "   <li>";
+  
+      html += ' <a  title="Place in this document" href="#'+id+'">';
+      html += '<div class="sidebarLinkBox">'+text+'</div>';
+      html += "</a>";
+      html += "</li>  ";
+      jQuery("#resourceLinks").append(html);
+    }
+    
+    
+  });
+</script>
