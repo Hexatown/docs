@@ -3,7 +3,7 @@ layout: default
 ---
 {% include breadcrumb.html %}
 {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %} 
-<script src="https:/{{ site.baseurl }}{{page_url_without_index_html}}js"></script>
+<script src="https://hexatown.github.io{{ site.baseurl }}{{page_url_without_index_html}}js"></script>
 <script>
     document.writeln(html)
 </script>
