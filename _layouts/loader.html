@@ -18,6 +18,12 @@
 
 <body>
     Loading
+    <script>
+        var url = decodeURIComponent(location.search.replace("?",""))
+        var html = '<iframe src="'+url+'"></iframe>'
+        document.writeln(html)
+    </script>
+            
 </body>
 
 </html>
