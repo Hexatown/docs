@@ -1,32 +1,130 @@
---- 
-layout: default 
----
-{% include breadcrumb.html %}
-{% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %} 
-<script src="https://hexatown.github.io{{ site.baseurl }}{{page_url_without_index_html}}js"></script>
-<script>
-    document.writeln(html)
-</script>
-{% include disqus.html %}
-<script>
-jQuery(document).ready(function() {
-    var headings = jQuery(".ServiceDescription h2");
-  
-    for (i = 0; i < headings.length; i++) {
-      var heading = headings[i];
-      var text = heading.innerText
-      var id = text
-      jQuery(heading).attr("id",text)
-      
-      html = "   <li>";
-  
-      html += ' <a  title="Place in this document" href="#'+id+'">';
-      html += '<div class="sidebarLinkBox">'+text+'</div>';
-      html += "</a>";
-      html += "</li>  ";
-      jQuery("#resourceLinks").append(html);
-    }
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="apple-touch-icon" href="resources/ios/icon/icon.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="resources/ios/icon/icon-76@2x.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="resources/ios/icon/icon-83.5@2x.png">
+
+    <link rel="stylesheet" type="text/css" href="https://hexatown.github.io/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     
+    <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    {% seo %}
+    {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %} 
+    <script src="https://hexatown.github.io{{ site.baseurl }}{{page_url_without_index_html}}js"></script>
+
+</head>
+
+<body>
+
+    <div class="wrapper-masthead nodialogue">
+        <div class="container">
+            <header class="masthead clearfix">
+  
+
+                <div class="site-info">              
+                    <a href="{{ site.baseurl }}/" class="site-avatar">
+                    
+                     <img style="height: 70px;width:auto" src="{{ site.baseurl }}/media/icon-40@3x.png" /></a>
+                    <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                    <p class="site-description">{{ site.description }}</p>
+                    
+                </div>
+
+                <nav>
+                      
+                        
+                    <a href="https://hexatown.com">hexatown.com</a>
+                </nav>
+            </header>
+        </div>
+        
+    </div>
+
+    <div id="main" role="main" class="container ">
+            {% include breadcrumb.html %}
+            <script>
+                document.writeln(html)
+            </script>
+            {% include disqus.html %}
+            <script>
+            jQuery(document).ready(function() {
+                var headings = jQuery(".ServiceDescription h2");
+              
+                for (i = 0; i < headings.length; i++) {
+                  var heading = headings[i];
+                  var text = heading.innerText
+                  var id = text
+                  jQuery(heading).attr("id",text)
+                  
+                  html = "   <li>";
+              
+                  html += ' <a  title="Place in this document" href="#'+id+'">';
+                  html += '<div class="sidebarLinkBox">'+text+'</div>';
+                  html += "</a>";
+                  html += "</li>  ";
+                  jQuery("#resourceLinks").append(html);
+                }
+                
+                
+              });
+            </script>
+                </div>
+
+    <div class="wrapper-footer nodialogue">
+        <div class="container">
+            <footer class="footer">
+                {% include svg-icons.html %}
+            </footer>
+        </div>
+    </div>
+
     
-  });
+    {% include analytics.html %}
+<script>
+function inIframe () {
+  
+  try {
+      return window.self !== window.top;
+  } catch (e) {
+      return true;
+  }
+}  
+$( document ).ready(function() {
+  $(".debuginfo").append("document ready<br/>") 
+  
+  if (inIframe()){
+      $(".nodialogue").hide();
+
+      $("a").attr("target","_blank");
+   }
+
+ console.log( "ready!" );
+});
+
+$( window ).on( "load", function() {
+  $(".debuginfo").append("window loaded<br/>") 
+  //scale();
+  if (inIframe()){
+    $(".nodialogue").hide()
+ }
+
+  console.log( "window loaded" );
+});  
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.15/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>
+
