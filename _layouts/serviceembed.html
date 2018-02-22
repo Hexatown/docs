@@ -2,7 +2,8 @@
 layout: default 
 ---
 {% include breadcrumb.html %}
-<script src="./js"></script>
+{% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %} 
+<script src="{{ site.baseurl }}{{page_url_without_index_html}}/js"></script>
 <script>
     document.writeln(html)
 </script>
