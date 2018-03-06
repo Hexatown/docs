@@ -12,4 +12,3 @@ source: https://todo.microsoft.com
 ---
 From work to play, To-Do is the easiest way to get stuff done, every day.
 
-{% include compliance.html %}
