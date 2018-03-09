@@ -10,7 +10,7 @@ xlinkbusiness:
 xmarketing: 
 xsource: https://en.wikipedia.org/wiki/Outlook_on_the_web#Outlook_Calendar
 ---
-Calendar is the Outlook calendar as displayed in Office 365.
+Calendar is the Outlook calendar as displayed in Office 365.:
 
 Resources
 ---------
