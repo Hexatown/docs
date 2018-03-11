@@ -34,6 +34,9 @@ Resources
     "experiences"](http://icsh.pt/OneDriveTree) \[icansharepoint
     inforgraphic\]
 
+-   [When to use OneDrive versus SharePoint](http://icsh.pt/DocCircleOfLife) \[icansharepoint
+    inforgraphic\]
+
 Similar applications
 --------------------
 
@@ -48,3 +51,8 @@ Feedback
 
 -   [OneDrive for Business UserVoice](https://onedrive.uservoice.com/forums/262982-onedrive/category/86090-onedrive-for-business)
     \[UserVoice\]
+
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP
