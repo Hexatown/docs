@@ -24,9 +24,9 @@ Link to https://atbot.io
 
 ## Links 
 
-- (https://blog.getbizzy.io/introducing-a-whole-new-bizzy-bot-91651aa6058f)[Feature Overview] 
-- (https://blog.getbizzy.io/tagged/bizzy-template)[AtBot task templates] 
-- (https://blog.getbizzy.io/5-ways-chatbots-are-revolutionizing-knowledge-management-bdf925db66e9)[How AtBot can improve your knowledge management] 
-- (https://blog.getbizzy.io/add-bizzy-to-your-sharepoint-site-using-spfx-ab7ed97b856c)[Adding AtBot to your SharePoint site] 
-- (https://twitter.com/iamAtBot)[AtBot on Twitter] 
-- (https://www.youtube.com/channel/UCRUbWpikjmH9-zHeqSu8bzA)[AtBot on YouTube]
+- [Feature Overview](https://blog.getbizzy.io/introducing-a-whole-new-bizzy-bot-91651aa6058f) 
+- [AtBot task templates](https://blog.getbizzy.io/tagged/bizzy-template) 
+- [How AtBot can improve your knowledge management](https://blog.getbizzy.io/5-ways-chatbots-are-revolutionizing-knowledge-management-bdf925db66e9) 
+- [Adding AtBot to your SharePoint site](https://blog.getbizzy.io/add-bizzy-to-your-sharepoint-site-using-spfx-ab7ed97b856c) 
+- [AtBot on Twitter](https://twitter.com/iamAtBot)
+- [AtBot on YouTube](https://www.youtube.com/channel/UCRUbWpikjmH9-zHeqSu8bzA)
