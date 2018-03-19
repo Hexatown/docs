@@ -11,6 +11,6 @@ xmarketing:
 source: https://getbizzy.io/
 ---
 
-TBD
+Check https://github.com/Hexatown/docs/blob/master/sponsored/atbot/index.md
 
 
