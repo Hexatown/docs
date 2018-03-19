@@ -1,9 +1,15 @@
 ---
+layout: service
+title: Atbot
+inshort: Bot as a Service
+groups: Office Online
+xlinkadmin: 
+xlinkdev: 
+link: https://atbot.io/
+xlinkbusiness: 
+xmarketing: 
+source: https://atbot.io/
 ---
-AtBot
-
-AtBot Description 
-
 AtBot (formerly known as Bizzy) puts AI within reach of everybody on Office 365. No longer will bots live within the minds of NASA-grade computer scientists. He is available to the masses.  
 
 AtBot is trained using MicrosoftFlow, which makes AtBot trainable by almost anybody. Teach AtBot knowledge using tools like QnAMaker so he has answers to every question you may have. He can understand almost anything thanks to integrations with language understanding services like Microsoft's LUIS. 
@@ -18,9 +24,6 @@ Microsoft Flow connects to 200+ third-party tools, so you can expand your reach 
 
 For more information and your special 30-day free trial, visit atbot.io. And check out the demo here. 
 
-Start Button 
-
-Link to https://atbot.io 
 
 ## Links 
 
