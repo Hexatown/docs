@@ -22,7 +22,7 @@ Your IT help desk's tier 1 support could easily be minimized by documenting your
 
 Microsoft Flow connects to 200+ third-party tools, so you can expand your reach as far as you'd like. Plus, develop custom connections to your on-premises or other third-party tools not yet connected to Flow. 
 
-For more information and your special 30-day free trial, visit atbot.io. And check out the demo here. 
+For more information and your special 30-day free trial, visit [atbot.io](https://atbot.io)
 
 
 ## Links 
