@@ -35,6 +35,8 @@ Similar applications
 
 -   Trello
 
+-   Jira
+
 Feedback
 ---------
 
