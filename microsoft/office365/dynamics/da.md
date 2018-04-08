@@ -1,0 +1,1 @@
+ For at fremskynde din digitale transformation, du har brug for en ny type af business-program. En, der nedbryder siloer mellem CRM og ERP, der er drevet af data og efterretninger, og hjælper fange nye forretningsmuligheder. Der er Microsoft Dynamics 365.[Microsoft hjemmeside] (https://dynamics.microsoft.com/en-us/){% omfatter compliance.html %}

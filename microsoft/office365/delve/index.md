@@ -5,7 +5,7 @@ inshort: Employee profile & content discovery
 groups: File Storage & Collaboration; Employee Profiles
 xlinkadmin: 
 xlinkdev: 
-xlink: https://office.live.com/start/PowerPoint.aspx
+xlink: https://delve.office.com/
 xlinkbusiness: 
 xmarketing: https://products.office.com/en-us/business/intelligent-search
 xsource: https://products.office.com/en-us/business/intelligent-search
@@ -69,4 +69,4 @@ Feedback
 Author
 ---------
 
--   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP

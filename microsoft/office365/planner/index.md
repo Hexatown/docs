@@ -11,7 +11,7 @@ xmarketing:
 source: https://products.office.com/en-us/business/task-management-software
 ---
 
-Microsoft Planner is an everyday project management and task app that bridges the gap between formal project management principles and, well, everyone’s “I just need to get stuff done” response to those principles. Planner sits happily in the middle between Outlook Taskswhich is a very simple tasking tooland Microsoft Projectwhich is complex project management tool that requires serious training to understand and use (and is expensive). 
+Microsoft Planner is an everyday project management and task app that bridges the gap between formal project management principles and, well, everyone’s “I just need to get stuff done” response to those principles. Planner sits happily in the middle between Outlook Tasks--which is a very simple tasking tool--and Microsoft Project--which is complex project management tool that requires serious training to understand and use (and is expensive). 
 
 Planner combines real-world project management with a slick user interface, powerful functionality, integrations across Office 365, and a minimal learning curve. Planner is integrated with [Microsoft Teams tabs](https://blogs.technet.microsoft.com/skypehybridguy/2017/08/30/microsoft-teams-using-planner-to-stay-organized/) and you get a permission-controlled Plan with each [Office 365 Group](http://icsh.pt/O365groups).
 
@@ -35,6 +35,8 @@ Similar applications
 
 -   Trello
 
+-   Jira
+
 Feedback
 ---------
 
@@ -47,4 +49,4 @@ Feedback
 Author
 ---------
 
--   [Matt Wade](https://www.linkedin.com/in/thatmattwade/)
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP

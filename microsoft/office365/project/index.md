@@ -10,7 +10,7 @@ xlinkbusiness:
 xmarketing: 
 source: https://products.office.com/en-us/project/project-online-premium
 ---
-Manage your portfolios, programs and resources for optimal outcomes
+Manage your portfolios, programs and resources for optimal outcomes.
 
 ## Drive portfolio value
 Smart online tools help you strategically evaluate and optimize your project portfolio to maximize its value and deliver on business goals. 
