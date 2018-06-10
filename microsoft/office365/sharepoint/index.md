@@ -61,8 +61,8 @@ Training
 
 -   [Greg Zelfond's blog](http://sharepointmaven.com/blog-sharepoint-best-practices/), SharePoint Maven
 
--   Document lifecycle in OneDrive & SharePoint \[icansharepoint
-    infographic coming soon\]
+-   [Document lifecycle in OneDrive & SharePoint](http://icsh.pt/DocCircleOfLife) \[icansharepoint
+    infographic\]
 
 -   [Version history in SharePoint](http://icsh.pt/VersionHistory)
     \[icansharepoint blog\]
