@@ -1,3 +1,0 @@
-
-Klant zelf reserveringen
-

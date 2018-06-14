@@ -1,3 +1,0 @@
-
-Ügyfél saját fenntartások
-

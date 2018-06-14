@@ -1,1 +1,0 @@
-Fra arbejde til at spille, er opgaven den nemmeste måde at få ting gjort, hver dag.

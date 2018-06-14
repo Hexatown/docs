@@ -1,3 +1,0 @@
-
-Kunden själv reservationer
-

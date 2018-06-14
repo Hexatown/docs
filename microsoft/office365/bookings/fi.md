@@ -1,3 +1,0 @@
-
-Asiakas itse varaukset
-
