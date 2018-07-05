@@ -98,6 +98,11 @@ Similar applications
 
 -   Alfresco
 
+Author
+---------
+
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP
+
 Metadata
 --------
 
