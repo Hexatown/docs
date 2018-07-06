@@ -10,7 +10,7 @@ source: https://explore.dynamics.com/
 teamschannel: https://teams.microsoft.com/l/channel/19%3a83ea54bd92e54083a2ec576e7f219b4c%40thread.skype/Dynamics%2520365?groupId=6b95521a-cb9b-4b48-9e53-3c617946e139&tenantId=df96b8c9-51a1-40cf-b8b1-4514be8e9668
 ---
 
-While many Office 365 apps and services represent and sophisticated products, Dynamics 365 encompasses a range of Microsoft cloud-based customer relationship management (CRM), human resources, and enterprise resource planning (ERP) products which can work alone or together to fulfill many lines-of-business needs.
+While many Office 365 apps and services represent sophisticated products, Dynamics 365 encompasses a range of Microsoft cloud-based customer relationship management (CRM), human resources, and enterprise resource planning (ERP) products which can work alone or together to fulfill many lines-of-business needs.
 
 Sales
 ---------
