@@ -18,6 +18,10 @@ new-item -ItemType:Directory -Path "$path\$name" -ErrorAction:SilentlyContinue
 New-Item -ItemType:File -Path "$path\$name\index.md" -ErrorAction:SilentlyContinue -Value $template 
 
 }
+
+console-log "hi"
+
+return 
 init 'microsoft\usecases\fasttrack\' 'Quickly answer guest questions from anywhere in the hotel' 'https://fasttrack.microsoft.com/microsoft365/productivitylibrary/Quickly-answer-guest-questions-from-anywhere-in-the-hotel'  'Quickly answer guest questions from anywhere in the hotel' 'Provide top-notch guest service by surfacing relevant, company-approved information promptly, from anywhere in the hotel.'
 init 'microsoft\usecases\fasttrack\' 'Increase employee engagement of firstline workers' 'https://fasttrack.microsoft.com/microsoft365/productivitylibrary/Increase-employee-engagement-of-firstline-workers'  'Increase employee engagement of firstline workers' 'Inspire firstline worker engagement to increase organizational loyalty and retention, and avoid the expense of constant hiring and training.'
 init 'microsoft\usecases\fasttrack\' 'Interact in real time with IM, persistent chat, and presence' 'https://fasttrack.microsoft.com/microsoft365/productivitylibrary/Interact-in-real-time-with-IM-persistent-chat-and-presence'  'Interact in real time with IM, persistent chat, and presence' 'Communicate instantly with your firstline workers, and keep them updated with the alerts, reminders, and content they need to do their jobs.'
