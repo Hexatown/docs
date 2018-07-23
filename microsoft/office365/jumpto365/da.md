@@ -29,3 +29,6 @@ title: jumpto365 Applikation
 * Forbedret - Indlæsningstid
 
 
+# Planlagt
+
+Installationspakke til Windows og Mac
