@@ -1,7 +1,7 @@
 ---
 title: jumpto365 App
 context: Which tool when
-machinetranslations: de,es,da
+machinetranslations: de
 translations: en, da
 ---
 # "Rosenborg" release 
