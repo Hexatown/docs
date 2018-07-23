@@ -3,8 +3,13 @@ title: jumpto365 App
 context: Which tool when
 machinetranslations: de
 translations: en, da
+color: #000000
 ---
-# "Rosenborg" release 
+
+The Jumpto365 app originates from the Periodic Table of Office 365. 
+
+With the "Rosenborg" release of the app, the following features was introduces or improved:
+
 ## Functionality
 
 * New - Ability to upload own stuff
