@@ -4,6 +4,8 @@ context: Which tool when
 machinetranslations: de
 translations: en, da
 color: #000000
+inshort: Entry point to your Modern Workplace
+byline: Matt Wade (@thatmattwade) & Niels Gregers Johansen (@niegrejoh)
 ---
 
 The Jumpto365 app originates from the Periodic Table of Office 365. 
