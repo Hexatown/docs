@@ -1,9 +1,10 @@
 ---
 title: jumpto365 App
 context: Which tool when
-machinetranslations: de
+machinetranslations: de, ja
 translations: en, da
 color: #000000
+icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 inshort: Entry point to your Modern Workplace
 byline: Matt Wade (@thatmattwade) & Niels Gregers Johansen (@niegrejoh)
 ---
