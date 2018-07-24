@@ -9,6 +9,8 @@ imagecopyright: (C) 2018 jumpto365.com
 link: https://app.jumpto365.com
 contexts: microsoft365,dynamics365
 previewer: pto
+self: context
+selfdescriptor: office365
 ---
 
 
