@@ -1,3 +1,13 @@
+---
+title: The Document Circle of Life in Office 365
+byline: Matt Wade (@thatmattwade) 
+inshort: Where should I store my files, and what is the difference between SharePoint & OneDrive
+icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
+color: #2a7ab9 
+layout: infographic
+contexts: office365 
+---
+
 Two of the most frequently asked questions I get when it comes to SharePoint and
 the Office 365 realm are:
 
