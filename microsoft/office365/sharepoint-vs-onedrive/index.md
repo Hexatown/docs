@@ -6,6 +6,8 @@ icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 color: #2a7ab9 
 layout: infographic
 contexts: office365 
+imageurl: https://raw.githubusercontent.com/Hexatown/docs/master/microsoft/office365/sharepoint-vs-onedrive/media/Document-Lifecycle-Blog-Header.png
+imagecopyright: Matt Wade (@thatmattwade)
 ---
 
 Two of the most frequently asked questions I get when it comes to SharePoint and
