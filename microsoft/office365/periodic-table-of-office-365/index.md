@@ -17,8 +17,8 @@ selfdescriptor: office365
 
 ## Spinoffs
 
-- (AI)[/context/ai]
-- (7x5)[/context/35tiles]
+- [AI](/context/ai)
+- [7x5](/context/35tiles)
 
 Author
 ---------
