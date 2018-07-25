@@ -14,13 +14,3 @@ self: context
 selfdescriptor: office365
 ---
 
-
-## Spinoffs
-
-- [AI](/context/ai)
-- [7x5](/context/35tiles)
-
-Author
----------
-
--   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP
