@@ -8,7 +8,7 @@ inshort: Which tool to use when in Office 365
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 color: #2a7ab9 
 layout: service
-contexts: microsoft365,dynamics365
+contexts: 35tiles,microsoft365,dynamics365
 previewer: pto
 self: context
 selfdescriptor: office365
