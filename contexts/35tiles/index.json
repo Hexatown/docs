@@ -1,4 +1,4 @@
-{"title": "Periodic Table of Periodic Tables" ,
+{"title": "Periodic Tables" ,
 "grid":[
   [
     {
@@ -32,7 +32,7 @@
     {
       "key": "jumpto365",
       "l": 0,
-      "c": 1,
+      "c": 0,
       "r": 0,
       "leftData": null,
       "centerData": {
@@ -46,7 +46,7 @@
     {
       "key": "jumpto365",
       "l": 0,
-      "c": 1,
+      "c": 0,
       "r": 0,
       "leftData": null,
       "centerData": {
@@ -60,7 +60,7 @@
     {
       "key": "jumpto365",
       "l": 0,
-      "c": 1,
+      "c": 0,
       "r": 0,
       "leftData": null,
       "centerData": {
@@ -74,7 +74,7 @@
     {
       "key": "jumpto365",
       "l": 0,
-      "c": 1,
+      "c": 0,
       "r": 0,
       "leftData": null,
       "centerData": {
@@ -88,7 +88,7 @@
     {
       "key": "jumpto365",
       "l": 0,
-      "c": 1,
+      "c": 0,
       "r": 0,
       "leftData": null,
       "centerData": {
