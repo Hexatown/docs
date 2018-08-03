@@ -138,7 +138,7 @@
       "topData": null,
       "centerData": {
         "key": "winseccenter",
-        "title": "Windows Security Center​",
+        "title": "Win. Security Center​",
         "color": "#8DC63F",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Centralized information and control for Windows security and health​",
@@ -164,13 +164,19 @@
       "r": 0,
       "t": 0,
       "leftData": {
-        "key": "ADVCOM",
-        "title": "Advanced Compliance",
-        "color": "#F26522",
-        "borderColor": "https://products.office.com/en-us/business/security-and-compliance/compliance-solutions",
+        "key": "_",
+        "title": "_",
+        "color": "",
+        "borderColor": "",
         "isConnector": false
       },
-      "topData": null,
+      "topData": {
+        "key": "V",
+        "title": "V",
+        "color": "#B2B3E2",
+        "borderColor": "",
+        "isConnector": true
+      },
       "centerData": {
         "key": "custkey",
         "title": "Customer key",
@@ -182,13 +188,7 @@
         "isPremium": "",
         "jumpto": "https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697"
       },
-      "rightData": {
-        "key": ">",
-        "title": ">",
-        "color": "#F26522",
-        "borderColor": "",
-        "isConnector": true
-      }
+      "rightData": null
     },
     {
       "key": "custlockbox",
@@ -196,14 +196,14 @@
       "c": 1,
       "r": 0,
       "t": 0,
-      "leftData": {
-        "key": ">",
-        "title": ">",
-        "color": "#F26522",
+      "leftData": null,
+      "topData": {
+        "key": "V",
+        "title": "V",
+        "color": "#B2B3E2",
         "borderColor": "",
         "isConnector": true
       },
-      "topData": null,
       "centerData": {
         "key": "custlockbox",
         "title": "Customer Lockbox​",
@@ -260,7 +260,7 @@
       "topData": null,
       "centerData": {
         "key": "cloudappdiscovery",
-        "title": "Azure AD Cloud App Discovery",
+        "title": "AAD Cloud App Discovery",
         "color": "#8DC63F",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Identify Shadow IT",
@@ -326,7 +326,7 @@
       "topData": null,
       "centerData": {
         "key": "ediscovery",
-        "title": "Office 365 ​Content Search + ​E-discovery + Advanced",
+        "title": "Office 365 ​E-discovery",
         "color": "#8DC63F",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Centralized content & forensic search",
@@ -427,7 +427,7 @@
       "topData": null,
       "centerData": {
         "key": "aadp",
-        "title": "Azure Active Directory Premium (AADP)",
+        "title": "AAD Premium",
         "color": "#FFC20E",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "SSO, MFA, SSPR, adv. Groups admin, conditional access, identity protection, PIM",
@@ -460,7 +460,7 @@
       "topData": null,
       "centerData": {
         "key": "eop",
-        "title": "Exchange Online Protection (EOP)​",
+        "title": "Exchange Online Protection",
         "color": "#FFC20E",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": " 3 vendor antivirus scanning of content in Office 365",
@@ -493,7 +493,7 @@
       "topData": null,
       "centerData": {
         "key": "officeatp",
-        "title": "Office 365 Adv. Threat Protection ​\r\n(Office ATP)",
+        "title": "O365 Adv. Threat Protection ",
         "color": "#FFC20E",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Zero day protection against unknown threats in O365​",
@@ -526,7 +526,7 @@
       "topData": null,
       "centerData": {
         "key": "winatp",
-        "title": "Windows​ Adv. Threat Protection ​(Win ATP)​\r\n",
+        "title": "Win.​ Adv. Threat Protection",
         "color": "#FFC20E",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Zero day protection against unknown threats In Windows 10",
@@ -559,7 +559,7 @@
       "topData": null,
       "centerData": {
         "key": "azureatp",
-        "title": "Azure​ Adv. Threat Protection ​(Azure ATP)",
+        "title": "Azure​ Adv. Threat Protection ",
         "color": "#DBDF2F",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Detect suspicious activity in real time (cloud solution)",
@@ -592,7 +592,7 @@
       "topData": null,
       "centerData": {
         "key": "ata",
-        "title": "Adv. Threat Analytics​ (ATA)​",
+        "title": "Adv. Threat Analytics​",
         "color": "#DBDF2F",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Detect suspicious activity in real time ​(on-prem solution)",
@@ -627,7 +627,7 @@
       "topData": null,
       "centerData": {
         "key": "dlp",
-        "title": "Office 365 ​Data Loss Prevention (DLP)",
+        "title": "O365 ​Data Loss Prevention",
         "color": "#00AEEF",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Identify, monitor and protect against sensitive data being shared externally​",
@@ -666,7 +666,7 @@
       },
       "centerData": {
         "key": "cas",
-        "title": "Cloud App Security​ (CAS)​",
+        "title": "Cloud App Security​",
         "color": "#00AEEF",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Discover and control shadow IT + extend DLP & AIP to Office 365 & other cloud vendors + end-user behaviour analytics ​",
@@ -699,7 +699,7 @@
       "topData": null,
       "centerData": {
         "key": "aip",
-        "title": "Azure Information Protection​ (AIP)​",
+        "title": "Azure Information Protection​",
         "color": "#00AEEF",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Discover, classify, encrypt, protect and report on sensitive data (on-prem data)​",
@@ -765,7 +765,7 @@
       "topData": null,
       "centerData": {
         "key": "adg",
-        "title": "Office 365 ​Data Governance + Advanced (ADG) ​",
+        "title": "O365 ​Data Governance",
         "color": "#00AEEF",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Discover, label and report on sensitive data + Centralized retention (O365)​",
@@ -798,7 +798,7 @@
       "topData": null,
       "centerData": {
         "key": "mdm",
-        "title": "Intune ​Mobile Device + Application Management (MDM+MAM)",
+        "title": "Intune ​Application Management ",
         "color": "#00AEEF",
         "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
         "inShort": "Control device + Keep corporate data within corporate apps​",
@@ -807,36 +807,18 @@
         "isPremium": "",
         "jumpto": "https://www.microsoft.com/en-us/cloud-platform/microsoft-intune"
       },
-      "rightData": {
-        "key": "<",
-        "title": "<",
-        "color": "#8DC63F",
-        "borderColor": "",
-        "isConnector": true
-      }
+      "rightData": null
     },
     {
       "key": null,
       "l": 0,
       "c": 0,
-      "r": 1,
+      "r": 0,
       "t": 0,
-      "leftData": {
-        "key": "<",
-        "title": "<",
-        "color": "#8DC63F",
-        "borderColor": "",
-        "isConnector": true
-      },
+      "leftData": null,
       "topData": null,
       "centerData": null,
-      "rightData": {
-        "key": "REPORT",
-        "title": "Reporting",
-        "color": "#8DC63F",
-        "borderColor": "",
-        "isConnector": false
-      }
+      "rightData": null
     }
   ],
   [
@@ -918,5 +900,4 @@
       "rightData": null
     }
   ]
-]
-}
+]}
