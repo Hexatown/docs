@@ -1,0 +1,922 @@
+{
+"title" : "Security & Compliance",
+grid : [
+  [
+    {
+      "key": "hold",
+      "l": 1,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "ADVCOM",
+        "title": "Advanced Compliance",
+        "color": "#F26522",
+        "borderColor": "https://products.office.com/en-us/business/security-and-compliance/compliance-solutions",
+        "isConnector": false
+      },
+      "topData": null,
+      "centerData": {
+        "key": "hold",
+        "title": "Hold",
+        "color": "#F26522",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Hold, legal hold and retention policies for Office 365 conten",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://technet.microsoft.com/en-us/library/dn790612.aspx"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "compman",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "compman",
+        "title": "Compliance Manager​",
+        "color": "#F26522",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Compliance GAP tool for ex. ​\r\nGDPR & ISO​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Manage-Your-Compliance-from-One-Place-Announcing-Compliance/ba-p/106493"
+      },
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": "serviceassur",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "serviceassur",
+        "title": "Service Assurance",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Docs on security, privacy & compliance for MS cloud",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Service-assurance-in-the-Office-365-Security-Compliance-Center-47e8b964-4b09-44f7-a2d7-b8a06e8e389c"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "winseccenter",
+      "l": 0,
+      "c": 1,
+      "r": 1,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "winseccenter",
+        "title": "Windows Security Center​",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Centralized information and control for Windows security and health​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/portal-overview-windows-defender-advanced-threat-protection"
+      },
+      "rightData": {
+        "key": "REPORT",
+        "title": "Reporting",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": false
+      }
+    }
+  ],
+  [
+    {
+      "key": "custkey",
+      "l": 1,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "ADVCOM",
+        "title": "Advanced Compliance",
+        "color": "#F26522",
+        "borderColor": "https://products.office.com/en-us/business/security-and-compliance/compliance-solutions",
+        "isConnector": false
+      },
+      "topData": null,
+      "centerData": {
+        "key": "custkey",
+        "title": "Customer key",
+        "color": "#F26522",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": " Bring your own key (BYOK) for Office 365 data​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "custlockbox",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "custlockbox",
+        "title": "Customer Lockbox​",
+        "color": "#F26522",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Extra customer control for data access in a support scenario​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://social.technet.microsoft.com/wiki/contents/articles/35748.office-365-what-is-customer-lockbox-and-how-to-enable-it.aspx"
+      },
+      "rightData": null
+    },
+    {
+      "key": "cloudappsec",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "cloudappsec",
+        "title": "O365 Cloud App Security",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Identify Shadow IT in regards to O365 apps​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/editions-cloud-app-security-o365"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "cloudappdiscovery",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "cloudappdiscovery",
+        "title": "Azure AD Cloud App Discovery",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Identify Shadow IT",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/editions-cloud-app-security-aad"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "threatintel",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "threatintel",
+        "title": "Threat Intelligence",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Centralized security information on threats locally and globally + Attack simulator​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Office-365-Threat-Intelligence-32405da5-bee1-4a4b-82e5-8399df94c512"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "ediscovery",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "ediscovery",
+        "title": "Office 365 ​Content Search + ​E-discovery + Advanced",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Centralized content & forensic search",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/office-365-advanced-ediscovery-fd53438a-a760-45f6-9df4-861b50161ae4"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "auditlogs",
+      "l": 0,
+      "c": 1,
+      "r": 1,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "auditlogs",
+        "title": "Office 365 Audit Logs",
+        "color": "#8DC63F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Centralized logs across Office 365​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Search-the-audit-log-in-the-Office-365-Security-Compliance-Center-0d4d0f35-390b-4518-800e-0c7ec95e946c"
+      },
+      "rightData": {
+        "key": "REPORT",
+        "title": "Reporting",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": false
+      }
+    }
+  ],
+  [
+    {
+      "key": "securescore",
+      "l": 1,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "THREAT",
+        "title": "Protect against modern threats",
+        "color": "#FFC20E",
+        "borderColor": "",
+        "isConnector": false
+      },
+      "topData": null,
+      "centerData": {
+        "key": "securescore",
+        "title": "Secure Score ​",
+        "color": "#FFC20E",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Security GAP analysis tool",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Introducing-the-Office-365-Secure-Score-c9e7160f-2c34-4bd0-a548-5ddcc862eaef"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "aadp",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "aadp",
+        "title": "Azure Active Directory Premium (AADP)",
+        "color": "#FFC20E",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "SSO, MFA, SSPR, adv. Groups admin, conditional access, identity protection, PIM",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://azure.microsoft.com/en-us/services/active-directory/"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "eop",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "eop",
+        "title": "Exchange Online Protection (EOP)​",
+        "color": "#FFC20E",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": " 3 vendor antivirus scanning of content in Office 365",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://docs.microsoft.com/en-us/office365/SecurityCompliance/eop/exchange-online-protection-overview"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "officeatp",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "officeatp",
+        "title": "Office 365 Adv. Threat Protection ​\r\n(Office ATP)",
+        "color": "#FFC20E",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Zero day protection against unknown threats in O365​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://products.office.com/en/exchange/online-email-threat-protection"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "winatp",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "winatp",
+        "title": "Windows​ Adv. Threat Protection ​(Win ATP)​\r\n",
+        "color": "#FFC20E",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Zero day protection against unknown threats In Windows 10",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://www.microsoft.com/en-us/windowsforbusiness/windows-atp"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "azureatp",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "azureatp",
+        "title": "Azure​ Adv. Threat Protection ​(Azure ATP)",
+        "color": "#DBDF2F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Detect suspicious activity in real time (cloud solution)",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://cloudblogs.microsoft.com/enterprisemobility/2017/09/27/introducing-azure-advanced-threat-protection/"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "ata",
+      "l": 0,
+      "c": 1,
+      "r": 1,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "ata",
+        "title": "Adv. Threat Analytics​ (ATA)​",
+        "color": "#DBDF2F",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Detect suspicious activity in real time ​(on-prem solution)",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://cloudblogs.microsoft.com/enterprisemobility/2017/09/27/introducing-azure-advanced-threat-protection/"
+      },
+      "rightData": {
+        "key": "REPORT",
+        "title": "Reporting",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": false
+      }
+    }
+  ],
+  [
+    {
+      "key": "dlp",
+      "l": 1,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": "INFOPROT",
+        "title": "Information Protection",
+        "color": "#00AEEF",
+        "borderColor": "",
+        "isConnector": false
+      },
+      "topData": null,
+      "centerData": {
+        "key": "dlp",
+        "title": "Office 365 ​Data Loss Prevention (DLP)",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Identify, monitor and protect against sensitive data being shared externally​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-ie/article/Prevent-data-loss-in-Office-365-6a888faa-c114-4395-b20d-a5b8ebd1ac0c?ui=en-US&rs=en-IE&ad=IE"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "cas",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": {
+        "key": "V",
+        "title": "V",
+        "color": "#B2B3E2",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "centerData": {
+        "key": "cas",
+        "title": "Cloud App Security​ (CAS)​",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Discover and control shadow IT + extend DLP & AIP to Office 365 & other cloud vendors + end-user behaviour analytics ​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://www.microsoft.com/en-us/cloud-platform/cloud-app-security"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "aip",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "aip",
+        "title": "Azure Information Protection​ (AIP)​",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Discover, classify, encrypt, protect and report on sensitive data (on-prem data)​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://azure.microsoft.com/en-us/services/information-protection/"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "msgenc",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "msgenc",
+        "title": "Office 365 ​Message Encryption",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Email encryption and rights protection in Office 365 mail",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://products.office.com/en/exchange/office-365-message-encryption"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "adg",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "adg",
+        "title": "Office 365 ​Data Governance + Advanced (ADG) ​",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Discover, label and report on sensitive data + Centralized retention (O365)​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://support.office.com/en-us/article/Manage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09"
+      },
+      "rightData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": "mdm",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": {
+        "key": ">",
+        "title": ">",
+        "color": "#F26522",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": {
+        "key": "mdm",
+        "title": "Intune ​Mobile Device + Application Management (MDM+MAM)",
+        "color": "#00AEEF",
+        "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+        "inShort": "Control device + Keep corporate data within corporate apps​",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": "https://www.microsoft.com/en-us/cloud-platform/microsoft-intune"
+      },
+      "rightData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      }
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 1,
+      "t": 0,
+      "leftData": {
+        "key": "<",
+        "title": "<",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": true
+      },
+      "topData": null,
+      "centerData": null,
+      "rightData": {
+        "key": "REPORT",
+        "title": "Reporting",
+        "color": "#8DC63F",
+        "borderColor": "",
+        "isConnector": false
+      }
+    }
+  ],
+  [
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    }
+  ]
+]
+}
