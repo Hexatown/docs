@@ -1,15 +1,7 @@
 ---
 title: SharePoint Online
-layout: service
-inshort: Team file sharing & storage
-groups: File Storage & Collaboration
-icansharepoint: http://icansharepoint.com/wiki/SharePoint_Online
-xlinkadmin: 
-xlinkdev: 
-xlink: 
-xlinkbusiness: 
-xmarketing: 
-xsource: https://products.office.com/en-us/sharepoint/sharepoint-online-collaboration-software
+inshort: Совместное использование файлов команда & хранения
+translator: Microsoft Cognitive Services
 ---
 
 

@@ -1,27 +1,40 @@
 ---
 title: jumpto365 App
+inshort: Einstiegspunkt zu Ihrem modernen Arbeitsplatz
+translator: Microsoft Cognitive Services
 ---
-# "Rosenborg" Release
+
+
+Die Jumpto365 app stammt aus dem Periodensystem Office 365. 
+
+Mit der "Rosenborg" Version der app wurde folgenden Funktionen einführt oder verbessert:
+
 ## Funktionalität
-- Neu - Möglichkeit, eigene Sachen hochzuladen
 
-- Neu - Welches Werkzeug Wann
+* Neu - Möglichkeit zum Hochladen von eigenen Sachen
 
-- Neu - Ihr eigenes Periodensystem von ...
+* Neu - Tool die wann
 
-- Neu - Mieterverwaltung
+* Neu - eigene Periodensystem der...
 
-- Neu - Benutzerprofil und Login-Verwaltung
+* Neu - Mieter-Verwaltung
 
-- Verbessert - Für alle Apps geöffnet
+* Neu - Benutzerverwaltung Profil & Login
 
-- Verbessert - Allgemeine Navigation
+* Verbesserte - offen für alle Anwendungen
 
-## Keine Funktion
-- Neu - Komponentendokumentation
+* Verbesserte - allgemeine navigation
 
-- Neu - Komponententest
+## Keine funktionale
 
-- Verbessert - Codebasis, fast alles neu geschrieben
+* Neu - Komponente Dokumentation
 
-- Verbessert - Anfangsladezeitt
+* Neu - Komponententest
+
+* Verbesserte - Codebasis, fast alles neu geschrieben
+
+* Verbesserte - anfängliche Ladezeit
+
+
+
+

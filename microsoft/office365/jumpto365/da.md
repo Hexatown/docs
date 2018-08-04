@@ -1,34 +1,40 @@
 ---
-title: jumpto365 Applikation
+title: jumpto365 App
+inshort: Indgangssted til din moderne arbejdsplads
+translator: Microsoft Cognitive Services
 ---
-# "Rosenborg" versionen 
+
+
+Jumpto365 app stammer fra periodiske tabel i Office 365. 
+
+Med "Rosenborg" version af appen, blev følgende funktioner introducerer eller forbedret:
+
 ## Funktionalitet
 
-* Nyt - Du kan nu dele dig eget indhold
+* Ny - evnen til at uploade egne ting
 
-* Nyt - Hvilket værktøj kan (skal) du bruge hvornår (Which Tool When)
+* Ny - som værktøj når
 
-* Nyt - Du kan nu lave din egen Periodiske tabel
+* Ny - din egen periodiske tabel af...
 
-* Nyt - Håndtering af flere firmaer
+* Ny - lejer administration
 
-* Nyt - Bruger styring
+* Ny - bruger profil & login management
 
-* Forbedret - Beskrivelse af værktøjer 
+* Forbedret - åbne for alle apps
 
-* Forbedre - Generel navigation
+* Forbedret - generel navigation
 
-## Ikke funktionelle 
+## Ingen funktionel
 
-* Nyt - Alle komponenter er dokumenteret
+* Ny - komponent dokumentation
 
-* Nyt - Alt er unit testet
+* Ny - Unit test
 
-* Forbedret - Koden, stort set alt er skrevet om 
+* Forbedret - kodebase, næsten alt omskrevet
 
-* Forbedret - Indlæsningstid
+* Forbedret - indledende indlæsningstid
 
 
-# Planlagt
 
-Installationspakke til Windows og Mac
+
