@@ -35,7 +35,7 @@ Online aplikace PowerPoint.
 Pokud aplikace PowerPoint Online doesnt\ 't poskytují funkce, které potřebujete udělat
 práce, jednoduše klepněte na \"Edit v PowerPoint\" tlačítko v řádku nabídek
 přístup k verzi aplikace a jeho složitější funkce.
-N��které verze desktop app ukládat aktualizace automaticky, ale některé
+Některé verze desktop app ukládat aktualizace automaticky, ale některé
 není. Uvědomte si, jak tato funkce funguje na verzi.
 
 Zdroje

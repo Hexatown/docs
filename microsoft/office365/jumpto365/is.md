@@ -43,7 +43,7 @@ Við höfum notað Microsoft tranlator þjónustu til að þýða allar greinar 
 
 -[Afrikaans](https://preview.app.jumpto365.com/tool/jumpto365/language/af)
 -[Arabíska](https://preview.app.jumpto365.com/tool/jumpto365/language/ar)
--[Arabíska, levantine](http:/2.com)
+-[Arab��ska, levantine](http:/2.com)
 -[Bangla](http:/3.com)
 -[Bolaað (latneskt)](http:/4com)
 -[Búlgarska](http:/5com)

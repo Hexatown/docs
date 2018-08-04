@@ -1,6 +1,6 @@
 ---
 title: تدفق
-inshort: مهام سير عمل خالية من تعليمات برمجية [إيفتت]
+inshort: مهام سير عمل خالية من تعليمات برمجية [ايفتت]
 translator: Microsoft Cognitive Services
 ---
 
@@ -28,7 +28,7 @@ translator: Microsoft Cognitive Services
 تطبيقات مماثلة
 --------------------
 
---إيفت
+-ايفت
 
 -SharePoint مصمم سير العمل
 

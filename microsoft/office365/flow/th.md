@@ -34,7 +34,7 @@ translator: Microsoft Cognitive Services
 
 -Nintex
 
-ความคิดเห็น
+ความค��ดเห็น
 --------------------
 
 - [ฟอรั่ม Microsoft ไหลไอเดีย](https://powerusers.microsoft.com/t5/Flow-Ideas/idb-p/FlowIdeas)

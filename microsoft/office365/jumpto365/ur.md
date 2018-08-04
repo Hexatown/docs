@@ -73,8 +73,8 @@ Jumpto365 ایپ دوری جدول کے Office 365 سے شروع ہوتی ہے �
 -[اطالوی](https://preview.app.jumpto365.com/tool/jumpto365/language/it)
 -[جاپانی](https://preview.app.jumpto365.com/tool/jumpto365/language/ja)
 -[سواحلی](https://preview.app.jumpto365.com/tool/jumpto365/language/sw)
--[کلانگاون](https://preview.app.jumpto365.com/tool/jumpto365/language/tlh)
--[کلانگاون (پلقاڈ)](https://preview.app.jumpto365.com/tool/jumpto365/language/tlh-Qaak)
+-[کلنگاون](https://preview.app.jumpto365.com/tool/jumpto365/language/tlh)
+-[کلنگاون (پلقاڈ)](https://preview.app.jumpto365.com/tool/jumpto365/language/tlh-Qaak)
 -[کوریا](https://preview.app.jumpto365.com/tool/jumpto365/language/ko)
 -[لیٹویائی](https://preview.app.jumpto365.com/tool/jumpto365/language/lv)
 -[لیتھوینیائی](https://preview.app.jumpto365.com/tool/jumpto365/language/lt)
@@ -104,5 +104,5 @@ Jumpto365 ایپ دوری جدول کے Office 365 سے شروع ہوتی ہے �
 -[اردو](https://preview.app.jumpto365.com/tool/jumpto365/language/ur)
 -[ويتنامی](https://preview.app.jumpto365.com/tool/jumpto365/language/vi)
 -[ویلش](https://preview.app.jumpto365.com/tool/jumpto365/language/cy)
--[یوکاٹیک مایا](https://preview.app.jumpto365.com/tool/jumpto365/language/yua)
+-[یوکٹیک مایا](https://preview.app.jumpto365.com/tool/jumpto365/language/yua)
 
