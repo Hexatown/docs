@@ -1,15 +1,16 @@
 ---
 title: Securely maintain mobile productivity
-inshort: Strengthen user and account protection while maintaining a high level of productivity and mobility by using&#xA0;innovative, identity-driven security techniques.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/securely-maintain-mobile-productivity
 ---
+Strengthen user and account protection while maintaining a high level of productivity and mobility by using innovative, identity-driven security techniques.
+
 
 ## Work more securely from anywhere, on almost any device
 

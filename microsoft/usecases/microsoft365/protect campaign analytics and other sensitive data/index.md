@@ -1,15 +1,16 @@
 ---
 title: Protect campaign analytics and other sensitive data
-inshort: Keep campaign analytics and other sensitive data more secure with appropriate permissions, policies, and access management.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365
+areas: COMMUNICATION & MEDIA ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/protect-campaign-analytics-and-other-sensitive-data
 ---
+Keep campaign analytics and other sensitive data more secure with appropriate permissions, policies, and access management.
+
 
 ## Restrict access to apps and information based on credentials
 

@@ -1,15 +1,16 @@
 ---
 title: Personalize instruction by analyzing student performance
-inshort: Better understand the needs of your students and customize learning plans based on their performance.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,SharePoint
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/personalize-instruction-by-analyzing-student-performance
 ---
+Better understand the needs of your students and customize learning plans based on their performance.
+
 
 ## Store performance data in a central location
 

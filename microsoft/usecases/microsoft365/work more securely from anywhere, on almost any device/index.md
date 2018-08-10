@@ -1,15 +1,16 @@
 ---
 title: Work more securely from anywhere, on almost any device
-inshort: Protect business and client information while empowering a mobile workforce.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Enterprise Mobility + Security,Office 365,SharePoint,Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/work-more-securely-from-anywhere-on-almost-any-device
 ---
+Protect business and client information while empowering a mobile workforce.
+
 
 ## Provide a secure collaboration environment to safeguard data
 

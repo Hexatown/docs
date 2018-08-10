@@ -1,15 +1,16 @@
 ---
 title: Stay better connected to candidates throughout the hiring process
-inshort: Track progress in filling open positions, and the status of all candidates, in a way that teams can monitor and update in real time.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Outlook,SharePoint,Skype for Business
+areas: Human Resources 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/stay-better-connected-to-candidates-throughout-the-hiring-process
 ---
+Track progress in filling open positions, and the status of all candidates, in a way that teams can monitor and update in real time.
+
 
 ## Monitor all applicants for an open position
 

@@ -1,15 +1,16 @@
 ---
 title: Unlock more productivity on powerful, modern devices
-inshort: Windows 10 empowers you to work faster, smarter, and more productively with a Microsoft 365 powered device. New devices in a variety of shapes and sizes, industry-leading security capabilities, powerful Office productivity app integration, new browsing experiences, and personalization features keep you at the forefront of innovation.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: WINDOWS 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/unlock-more-productivity-on-powerful-modern-devices
 ---
+Windows 10 empowers you to work faster, smarter, and more productively with a Microsoft 365 powered device. New devices in a variety of shapes and sizes, industry-leading security capabilities, powerful Office productivity app integration, new browsing experiences, and personalization features keep you at the forefront of innovation.
+
 
 ## Powerful, modern devices
 

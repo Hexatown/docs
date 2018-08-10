@@ -1,15 +1,16 @@
 ---
 title: Support new employees in onboarding
-inshort: Ensure that new hires get the information, support, and training they need&#xA0;to quickly get up to speed.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: OneDrive,OneNote,SharePoint,Skype for Business,Yammer
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/support-new-employees-in-onboarding
 ---
+Ensure that new hires get the information, support, and training they need to quickly get up to speed.
+
 
 ## Make training sessions virtual
 

@@ -1,15 +1,16 @@
 ---
 title: Tap collective knowledge to develop a benefits plan
-inshort: Collaborate with benefits vendors, financial stakeholders, and corporate decision makers to develop a new benefits plan. 
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,SharePoint,Yammer
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/tap-collective-knowledge-to-develop-a-benefits-plan
 ---
+Collaborate with benefits vendors, financial stakeholders, and corporate decision makers to develop a new benefits plan. 
+
 
 ## Collect input in a team communication site
 

@@ -1,15 +1,16 @@
 ---
 title: Gain rich insights into your workflow to meet tight deadlines
-inshort: Meet tight deadlines on financial initiatives such as new loan product risk assessments by gaining rich insights into your own workflow and managing your time better.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,MyAnalytics,Office 365
+areas: FINANCIAL SERVICES ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/gain-rich-insights-into-your-workflow-to-meet-tight-deadlines
 ---
+Meet tight deadlines on financial initiatives such as new loan product risk assessments by gaining rich insights into your own workflow and managing your time better.
+
 
 ## Manage your time effectively to improve your productivity
 

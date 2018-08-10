@@ -1,6 +1,5 @@
 ---
 title: Work together on documents with colleagues 
-inshort: Securely share content and gather immediate feedback from colleagues.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/work-together-on-documents-with-colleagues
 ---
+Securely share content and gather immediate feedback from colleagues.
+
 
 ## Edit the same document together
 

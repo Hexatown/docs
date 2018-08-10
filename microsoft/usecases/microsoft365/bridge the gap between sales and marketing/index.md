@@ -1,15 +1,16 @@
 ---
 title: Bridge the gap between sales and marketing
-inshort: Improve your deal-closing rate by working more closely with marketing to generate and follow up on hot leads.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneDrive,SharePoint,Yammer
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/bridge-the-gap-between-sales-and-marketing
 ---
+Improve your deal-closing rate by working more closely with marketing to generate and follow up on hot leads.
+
 
 ## Connect with marketing experts to gain clarity into sales funnels
 

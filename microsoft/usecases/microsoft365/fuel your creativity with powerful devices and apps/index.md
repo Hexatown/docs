@@ -1,15 +1,16 @@
 ---
 title: Fuel your creativity with powerful devices and apps
-inshort: Use Surface Studio and Windows 10 to transform the way you sketch, model, and share your creative ideas.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/fuel-your-creativity-with-powerful-devices-and-apps
 ---
+Use Surface Studio and Windows 10 to transform the way you sketch, model, and share your creative ideas.
+
 
 ## Turn your desk into a creative studio
 

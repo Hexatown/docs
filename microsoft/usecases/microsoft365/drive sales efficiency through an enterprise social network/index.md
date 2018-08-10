@@ -1,15 +1,16 @@
 ---
 title: Drive sales efficiency through an enterprise social network
-inshort: Connect sales reps across the globe with the current information, real-time support, and relevant insights they need to drive sales success.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: SharePoint,Skype for Business,Yammer
+areas: Sales
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/drive-sales-efficiency-through-an-enterprise-social-network
 ---
+Connect sales reps across the globe with the current information, real-time support, and relevant insights they need to drive sales success.
+
 
 ## Build a network of trusted colleagues to support sales activities
 

@@ -1,15 +1,16 @@
 ---
 title: Evaluate school data to gain insights about priorities
-inshort: Present complex performance reports based on large amounts of school data for a presentation at a school conference.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,OneDrive,Outlook,PowerPoint,SharePoint
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/evaluate-school-data-to-gain-insights-about-priorities
 ---
+Present complex performance reports based on large amounts of school data for a presentation at a school conference.
+
 
 ## Store performance and testing data in a central location
 

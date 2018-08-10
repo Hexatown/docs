@@ -1,15 +1,16 @@
 ---
 title: Improve retail customer service with secure access to customer data
-inshort: Improve customer service among your store&apos;s sales associates and reduce complaints by allowing your sales team to securely access customer reviews and other company apps anywhere, anytime, on their devices.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,OneDrive,SharePoint
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/improve-retail-customer-service-with-secure-access-to-customer-data
 ---
+Improve customer service among your store&apos;s sales associates and reduce complaints by allowing your sales team to securely access customer reviews and other company apps anywhere, anytime, on their devices.
+
 
 ## Collaborate securely and safeguard corporate and customer data
 

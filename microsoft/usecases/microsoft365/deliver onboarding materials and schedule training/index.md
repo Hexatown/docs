@@ -1,15 +1,16 @@
 ---
 title: Deliver onboarding materials and schedule training
-inshort: Use versatile communication and content-sharing tools to quickly onboard your new workers.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Skype for Business,StaffHub,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/deliver-onboarding-materials-and-schedule-training
 ---
+Use versatile communication and content-sharing tools to quickly onboard your new workers.
+
 
 ## Make training resources available in advance
 

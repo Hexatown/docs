@@ -1,15 +1,16 @@
 ---
 title: Discover, analyze, and share data to support informed decisions
-inshort: Quickly access and analyze the information you need, in the format you need it.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,Office 365,Power BI
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/discover-analyze-and-share-data-to-support-informed-decisions
 ---
+Quickly access and analyze the information you need, in the format you need it.
+
 
 ## Quickly analyze data and create reports
 

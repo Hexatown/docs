@@ -1,15 +1,16 @@
 ---
 title: Streamline common HR processes by using intelligent tools
-inshort: Take the repetitiveness out of onboarding new employees, reviewing employee policies, and other HR tasks by creating automated workflows and using intelligent tools.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Planner,PowerApps,SharePoint
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/streamline-common-hr-processes-by-using-intelligent-tools
 ---
+Take the repetitiveness out of onboarding new employees, reviewing employee policies, and other HR tasks by creating automated workflows and using intelligent tools.
+
 
 ## Easily create surveys and polls and analyze results
 

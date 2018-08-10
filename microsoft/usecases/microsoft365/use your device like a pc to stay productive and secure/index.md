@@ -1,15 +1,16 @@
 ---
 title: Use your device like a PC to stay productive and secure
-inshort: Maintain the high level of productivity you need, wherever you are, by leveraging the seamless, secure mobile experience offered by Windows 10.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-your-device-like-a-pc-to-stay-productive-and-secure
 ---
+Maintain the high level of productivity you need, wherever you are, by leveraging the seamless, secure mobile experience offered by Windows 10.
+
 
 ## Choose from a wide variety of devices to fit your style
 

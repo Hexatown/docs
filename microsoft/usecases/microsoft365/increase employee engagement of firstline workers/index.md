@@ -1,16 +1,17 @@
 ---
 title: Increase employee engagement of firstline workers
-inshort: Inspire firstline worker engagement to increase organizational loyalty and retention, and avoid the expense of constant hiring and training.
-
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,OneNote,PowerPoint,Skype for Business,Sway,Word,Yammer
+areas: RETAIL ,  HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/increase-employee-engagement-of-firstline-workers
 ---
+Inspire firstline worker engagement to increase organizational loyalty and retention, and avoid the expense of constant hiring and training.
+
+
 
 ## Foster "face-to-face" team building
 

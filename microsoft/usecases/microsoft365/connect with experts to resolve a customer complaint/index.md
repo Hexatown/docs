@@ -1,15 +1,16 @@
 ---
 title: Connect with experts to resolve a customer complaint
-inshort: Easily work with a cross-functional team to address customer complaints quickly and effectively.&#xA0;
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Microsoft Teams,OneNote,Planner
+areas: Operations
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/connect-with-experts-to-resolve-a-customer-complaint
 ---
+Easily work with a cross-functional team to address customer complaints quickly and effectively. 
+
 
 ## Identify experts to solve escalations
 

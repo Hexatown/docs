@@ -1,15 +1,16 @@
 ---
 title: Easily and accurately perform financial analysis
-inshort: Inspire confidence from your clients or your team by analyzing your data quickly and accurately.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel
+areas: FINANCE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/easily-and-accurately-perform-financial-analysis
 ---
+Inspire confidence from your clients or your team by analyzing your data quickly and accurately.
+
 
 ## Analyze your data instantly
 

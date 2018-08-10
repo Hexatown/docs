@@ -1,15 +1,16 @@
 ---
 title: Protect loyalty program data with security and privacy policies
-inshort: Protect the data for your customer loyalty program and other customers better with security and privacy policies, and ensure easy access to independent compliance reports and assessments.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,SharePoint
+areas: RETAIL ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/protect-loyalty-program-data-with-security-and-privacy-policies
 ---
+Protect the data for your customer loyalty program and other customers better with security and privacy policies, and ensure easy access to independent compliance reports and assessments.
+
 
 ## Store customer information in compliance with worldwide laws
 

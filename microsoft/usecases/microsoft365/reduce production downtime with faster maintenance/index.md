@@ -1,15 +1,16 @@
 ---
 title: Reduce production downtime with faster maintenance
-inshort: Streamline service procedures and stay on top of maintenance activities to reduce production downtime.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Planner,Project,SharePoint,Skype for Business
+areas: Operations 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/reduce-production-downtime-with-faster-maintenance
 ---
+Streamline service procedures and stay on top of maintenance activities to reduce production downtime.
+
 
 ## Manage service requests in a central location
 

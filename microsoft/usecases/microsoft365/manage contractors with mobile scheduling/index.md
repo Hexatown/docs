@@ -1,15 +1,16 @@
 ---
 title: Manage contractors with mobile scheduling
-inshort: Use mobile communication and scheduling tools to manage contract worker staffing at an event.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,SharePoint,StaffHub
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-contractors-with-mobile-scheduling
 ---
+Use mobile communication and scheduling tools to manage contract worker staffing at an event.
+
 
 ## Prepare your team for the event
 

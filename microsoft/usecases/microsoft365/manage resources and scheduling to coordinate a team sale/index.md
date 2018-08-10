@@ -1,15 +1,16 @@
 ---
 title: Manage resources and scheduling to coordinate a team sale
-inshort: Organize the tasks and resources needed to bring a team sale to fruition by leveraging powerful, intuitive project management tools.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Planner,Project
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-resources-and-scheduling-to-coordinate-a-team-sale
 ---
+Organize the tasks and resources needed to bring a team sale to fruition by leveraging powerful, intuitive project management tools.
+
 
 ## Schedule and delegate tasks in a shared project management system
 

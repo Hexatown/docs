@@ -1,15 +1,16 @@
 ---
 title: Focus on selling by automating routine administrative tasks
-inshort: Increase your productivity by saving time on administrative tasks, so that you can spend more time selling.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Outlook,Power BI,PowerApps
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/focus-on-selling-by-automating-routine-administrative-tasks
 ---
+Increase your productivity by saving time on administrative tasks, so that you can spend more time selling.
+
 
 ## Create and use custom apps to track sales leads
 

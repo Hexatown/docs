@@ -1,15 +1,16 @@
 ---
 title: Stay organized, productive, and safe while on the internet
-inshort: Safely find and download the data and resources you need by browsing the web with Microsoft Edge, the faster, safer browser designed for Windows 10.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/stay-organized-productive-and-safe-while-on-the-internet
 ---
+Safely find and download the data and resources you need by browsing the web with Microsoft Edge, the faster, safer browser designed for Windows 10.
+
 
 ## Manage open browser windows to easily find what you need
 

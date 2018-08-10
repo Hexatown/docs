@@ -1,15 +1,16 @@
 ---
 title: Use custom tools to streamline financial processes
-inshort: Speed up your data-gathering, analysis, and reporting processes with customized tools you can access from almost any device.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Power BI,PowerApps,SharePoint
+areas: FINANCIAL SERVICES ,  FINANCE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-custom-tools-to-streamline-financial-processes
 ---
+Speed up your data-gathering, analysis, and reporting processes with customized tools you can access from almost any device.
+
 
 ## Build your own data-mining tool
 

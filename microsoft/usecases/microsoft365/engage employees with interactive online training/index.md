@@ -1,15 +1,16 @@
 ---
 title: Engage employees with interactive online training
-inshort: Quickly create engaging, interactive training, and make training resources available in a central repository for on-demand access.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,PowerPoint,SharePoint,Yammer
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-employees-with-interactive-online-training
 ---
+Quickly create engaging, interactive training, and make training resources available in a central repository for on-demand access.
+
 
 ## Host an interactive webinar to train employees wherever they are
 

@@ -1,15 +1,16 @@
 ---
 title: Plan and manage public relations activities
-inshort: Coordinate quickly and communicate in real time among team members and departments, to ensure that timely and accurate information is provided to customers, shareholders, and the public.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Office 365,OneDrive,PowerPoint,Word
+areas: Marketing 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/plan-and-manage-public-relations-activities
 ---
+Coordinate quickly and communicate in real time among team members and departments, to ensure that timely and accurate information is provided to customers, shareholders, and the public.
+
 
 ## Set up a Public Relations team environment
 

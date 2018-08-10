@@ -1,15 +1,16 @@
 ---
 title: Create impactful content together
-inshort: With Office, you can get things done from virtually anywhere, faster. You can take advantage of the Office integration with OneDrive and SharePoint to access, share, and coauthor documents. You can also download Office Mobile apps to help you access everything you need to work seamlessly from nearly any device while you&#x2019;re on the move.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365, Office 365 Basics
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/create-impactful-content-together
 ---
+With Office, you can get things done from virtually anywhere, faster. You can take advantage of the Office integration with OneDrive and SharePoint to access, share, and coauthor documents. You can also download Office Mobile apps to help you access everything you need to work seamlessly from nearly any device while you re on the move.
+
 
 ## Get more done from anywhere, on any device
 

@@ -1,15 +1,16 @@
 ---
 title: Create better work habits
-inshort: MyAnalytics helps you focus on what matters most with personalized insights about how you work. Learn from your time spent in meetings, working in email, your dedicated focus hours, and from how many after-hours you rack up so you can be more effective at work.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: MYANALYTICS, OFFICE 365 BASICS
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/create-better-work-habits
 ---
+MyAnalytics helps you focus on what matters most with personalized insights about how you work. Learn from your time spent in meetings, working in email, your dedicated focus hours, and from how many after-hours you rack up so you can be more effective at work.
+
 
 ## Learn more about your work style
 

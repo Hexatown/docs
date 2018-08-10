@@ -1,15 +1,16 @@
 ---
 title: Harness the collective knowledge of your firstline workforce
-inshort: Foster the&#xA0;spontaneous, free flow of information across your company to unleash&#xA0;hidden&#xA0;talents and spark innovation.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,OneNote,SharePoint,Yammer
+areas: Retail
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/harness-the-collective-knowledge-of-your-firstline-workforce
 ---
+Foster the spontaneous, free flow of information across your company to unleash hidden talents and spark innovation.
+
 
 ## Spark conversations among employees at all levels
 

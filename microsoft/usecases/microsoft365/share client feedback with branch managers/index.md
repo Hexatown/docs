@@ -1,15 +1,16 @@
 ---
 title: Share client feedback with branch managers
-inshort: Hold meetings with all branch managers across various locations to share common feedback from clients and identify areas for improvement.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Outlook,SharePoint,Skype for Business,Yammer
+areas: Financial Services 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/share-client-feedback-with-branch-managers
 ---
+Hold meetings with all branch managers across various locations to share common feedback from clients and identify areas for improvement.
+
 
 ## Easily schedule meetings accomodating multiple calendars
 

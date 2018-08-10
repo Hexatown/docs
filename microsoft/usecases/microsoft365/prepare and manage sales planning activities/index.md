@@ -1,15 +1,16 @@
 ---
 title: Prepare and manage sales planning activities
-inshort: Bring your sales leadership, account managers, marketing managers, product specialists, and research and development contributors together in a mobile-friendly chat-based workspace to quickly coordinate your sales planning tasks.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,OneDrive,Planner,Power BI,PowerPoint,Word
+areas: Sales 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/prepare-and-manage-sales-planning-activities
 ---
+Bring your sales leadership, account managers, marketing managers, product specialists, and research and development contributors together in a mobile-friendly chat-based workspace to quickly coordinate your sales planning tasks.
+
 
 ## Set up a Sales Planning team environment
 

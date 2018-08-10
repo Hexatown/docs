@@ -1,15 +1,16 @@
 ---
 title: Track campaign performance with interactive visuals
-inshort: Share your marketing campaign&apos;s progress with up-to-the-minute data presented in compelling and easy-to-read visuals.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Power BI,SharePoint
+areas: MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/track-campaign-performance-with-interactive-visuals
 ---
+Share your marketing campaign&apos;s progress with up-to-the-minute data presented in compelling and easy-to-read visuals.
+
 
 ## Collect your sales data in a secure, shared repository
 

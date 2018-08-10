@@ -1,15 +1,16 @@
 ---
 title: Manage accounts to close deals faster
-inshort: Work effectively as a team to develop strategic account plans and keep your business moving forward.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Office 365,OneNote,Planner,PowerPoint,Word
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-accounts-to-close-deals-faster
 ---
+Work effectively as a team to develop strategic account plans and keep your business moving forward.
+
 
 ## Work on account plans as a team
 

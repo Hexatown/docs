@@ -1,15 +1,16 @@
 ---
 title: Organize teamwork visually
-inshort: Microsoft Planner lets you create, manage, and complete tasks with anyone in your organization through a single, easy-to-use portal. The secure, cloud-based tool provides access to your entire group from all devices, so no one misses a step.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: OFFICE 365 BASICS, PLANNER
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/organize-teamwork-visually
 ---
+Microsoft Planner lets you create, manage, and complete tasks with anyone in your organization through a single, easy-to-use portal. The secure, cloud-based tool provides access to your entire group from all devices, so no one misses a step.
+
 
 ## Simplify task management
 

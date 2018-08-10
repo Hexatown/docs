@@ -1,15 +1,16 @@
 ---
 title: Find expertise and resources by using social networks
-inshort: Tap&#xA0;into enterprise social media to learn how to accommodate special needs in the classroom, find subject-matter experts, and other resources to improve classroom instruction.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Skype for Business,Yammer
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/find-expertise-and-resources-by-using-social-networks
 ---
+Tap into enterprise social media to learn how to accommodate special needs in the classroom, find subject-matter experts, and other resources to improve classroom instruction.
+
 
 ## Engage in a district-wide dialogue
 

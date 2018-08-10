@@ -1,15 +1,16 @@
 ---
 title: Access customer reviews and other data securely from your device
-inshort: Improve customer service and reduce complaints by quickly and securely accessing customer reviews, data, and company apps anywhere, anytime, on almost any device.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,SharePoint
+areas: COMMUNICATION & MEDIA ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/access-customer-reviews-and-other-data-securely-from-your-device
 ---
+Improve customer service and reduce complaints by quickly and securely accessing customer reviews, data, and company apps anywhere, anytime, on almost any device.
+
 
 ## Quickly get information while keeping company and customer data safe
 

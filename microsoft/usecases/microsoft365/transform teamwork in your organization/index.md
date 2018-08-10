@@ -1,15 +1,16 @@
 ---
 title: Transform teamwork in your organization
-inshort: Microsoft 365 is a universal toolkit for teamwork, serving multiple team needs while providing a seamless experience across apps and services. Avoid multiple sign-ins across unconnected apps, security risks due to noncompliant software, and duplicative tools that strain team productivity. Microsoft 365 provides a single membership across apps and services with Office 365 Groups, suite-wide intelligence with the Microsoft Graph, and security and compliance.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: MICROSOFT TEAMS, OFFICE 365,OUTLOOK,SHAREPOINT,YAMMER
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/transform-teamwork-in-your-organization
 ---
+Microsoft 365 is a universal toolkit for teamwork, serving multiple team needs while providing a seamless experience across apps and services. Avoid multiple sign-ins across unconnected apps, security risks due to noncompliant software, and duplicative tools that strain team productivity. Microsoft 365 provides a single membership across apps and services with Office 365 Groups, suite-wide intelligence with the Microsoft Graph, and security and compliance.
+
 
 ## Use group email and calendars to stay in sync with your team
 

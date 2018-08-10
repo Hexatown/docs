@@ -1,15 +1,16 @@
 ---
 title: Manage projects, tasks, and deadlines to meet your business goals
-inshort: Easily kick off projects, effectively allocate resources, and manage schedules to finish projects on time and on budget.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Planner,Project,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-projects-tasks-and-deadlines-to-meet-your-business-goals
 ---
+Easily kick off projects, effectively allocate resources, and manage schedules to finish projects on time and on budget.
+
 
 ## Create a project plan to coordinate, schedule, and delegate tasks
 

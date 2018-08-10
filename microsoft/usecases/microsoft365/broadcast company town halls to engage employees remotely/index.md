@@ -1,15 +1,16 @@
 ---
 title: Broadcast company town halls to engage employees remotely
-inshort: Bring your company&#x2019;s local and remote employees together for a &quot;town hall&quot; meeting to engage employees at every level.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Skype for Business,StaffHub,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/broadcast-company-town-halls-to-engage-employees-remotely
 ---
+Bring your company s local and remote employees together for a &quot;town hall&quot; meeting to engage employees at every level.
+
 
 ## Host a company-wide meeting from anywhere
 

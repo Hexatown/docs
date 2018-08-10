@@ -1,15 +1,16 @@
 ---
 title: Quickly build digital look books from existing collateral
-inshort: Provide your sales team with high-quality digital look books that draw on existing content from across the organization, without the expense of hiring a design agency.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Office 365,PowerPoint
+areas: RETAIL ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-build-digital-look-books-from-existing-collateral
 ---
+Provide your sales team with high-quality digital look books that draw on existing content from across the organization, without the expense of hiring a design agency.
+
 
 ## Create visually appealing presentations using professional templates
 

@@ -1,15 +1,16 @@
 ---
 title: Deliver personalized content to clients and stakeholders
-inshort: Offer richer, more personalized experiences to your customers and other stakeholders, to solidify existing relationships and more efficiently develop new ones.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Skype for Business,Sway
+areas: Financial Services 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/deliver-personalized-content-to-clients-and-stakeholders
 ---
+Offer richer, more personalized experiences to your customers and other stakeholders, to solidify existing relationships and more efficiently develop new ones.
+
 
 ## Create compelling, personalized investment reports
 

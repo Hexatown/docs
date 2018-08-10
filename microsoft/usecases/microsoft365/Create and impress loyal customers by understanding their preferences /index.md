@@ -1,6 +1,5 @@
 ---
 title: Create and impress loyal customers by understanding their preferences 
-inshort: Understand what makes customers loyal and analyze internal resources to design&#xA0;personalized customer&#xA0;experiences.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/create-and-impress-loyal-customers-by-understanding-their-preferences
 ---
+Understand what makes customers loyal and analyze internal resources to design personalized customer experiences.
+
 
 ## Glean insight from coworkers
 

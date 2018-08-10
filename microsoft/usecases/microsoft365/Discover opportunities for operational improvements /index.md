@@ -1,15 +1,16 @@
 ---
 title: Discover opportunities for operational improvements 
-inshort: Drive supply chain efficiency and reduce yield analysis time based on analyzing cost, inventory, and production data.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneDrive,Power BI,SharePoint
+areas: Manufacturing
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/discover-opportunities-for-operational-improvements
 ---
+Drive supply chain efficiency and reduce yield analysis time based on analyzing cost, inventory, and production data.
+
 
 ## Find relevant supply data with an easy search
 

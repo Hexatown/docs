@@ -1,15 +1,16 @@
 ---
 title: Get an informed second opinion faster
-inshort: When making a diagnosis, confer with specialists across departments in order to deliver an informed, thorough opinion to best address patient health.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,OneDrive,OneNote,Skype for Business,Yammer
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/get-an-informed-second-opinion-faster
 ---
+When making a diagnosis, confer with specialists across departments in order to deliver an informed, thorough opinion to best address patient health.
+
 
 ## Talk to specialists across the hospital
 

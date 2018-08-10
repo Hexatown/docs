@@ -1,15 +1,16 @@
 ---
 title: Help prevent safety incidents
-inshort: Reduce the number of safety incidents by training employees about procedures, making safety guidelines easily accessible, and informing operators quickly about potential safety incidents.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: SharePoint,Skype for Business,Yammer
+areas: Operations
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/help-prevent-safety-incidents
 ---
+Reduce the number of safety incidents by training employees about procedures, making safety guidelines easily accessible, and informing operators quickly about potential safety incidents.
+
 
 ## Make safety training sessions virtual
 

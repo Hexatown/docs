@@ -1,15 +1,16 @@
 ---
 title: Engage stakeholders with impactful presentations
-inshort: Foster impactful interactions with stakeholders based on live, dynamic reports that keep up with constantly changing financial data.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,Skype for Business
+areas: FINANCIAL SERVICES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-stakeholders-with-impactful-presentations
 ---
+Foster impactful interactions with stakeholders based on live, dynamic reports that keep up with constantly changing financial data.
+
 
 ## Build a report with data from multiple sources
 

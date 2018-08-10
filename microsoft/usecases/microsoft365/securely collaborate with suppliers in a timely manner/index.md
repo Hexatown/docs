@@ -1,15 +1,16 @@
 ---
 title: Securely collaborate with suppliers in a timely manner
-inshort: Communicate, collect feedback, and share content up and down the supply chain quickly and reliably to stay ahead of the curve.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: OneDrive,Outlook,SharePoint,Skype for Business
+areas: Retail
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/securely-collaborate-with-suppliers-in-a-timely-manner
 ---
+Communicate, collect feedback, and share content up and down the supply chain quickly and reliably to stay ahead of the curve.
+
 
 ## Walk through purchasing forecasts with suppliers "face-to-face"
 

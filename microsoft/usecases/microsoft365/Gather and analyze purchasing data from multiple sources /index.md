@@ -1,15 +1,16 @@
 ---
 title: Gather and analyze purchasing data from multiple sources 
-inshort: Collect historic sales data from internal and external sources and analyze it without having to learn complex coding.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,SharePoint
+areas: Retail
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/gather-and-analyze-purchasing-data-from-multiple-sources
 ---
+Collect historic sales data from internal and external sources and analyze it without having to learn complex coding.
+
 
 ## Pull sales data from a central database
 

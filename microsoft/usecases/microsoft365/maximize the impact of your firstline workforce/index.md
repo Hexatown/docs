@@ -1,15 +1,16 @@
 ---
 title: Maximize the impact of your firstline workforce
-inshort: The impact of a digital transformation extends throughout your organization, from the CEO to the firstline worker.&#xA0;As you embark on your own transformation, your firstline workforce is particularly important. You can enable firstline workers to do their best work with tools for schedule and task management, communications and community, training and onboarding, and identity and access management.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Flow,Microsoft Teams,Office 365,OneDrive,PowerApps,SharePoint,Skype for Business,StaffHub,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/maximize-the-impact-of-your-firstline-workforce
 ---
+The impact of a digital transformation extends throughout your organization, from the CEO to the firstline worker. As you embark on your own transformation, your firstline workforce is particularly important. You can enable firstline workers to do their best work with tools for schedule and task management, communications and community, training and onboarding, and identity and access management.
+
 
 ## Empower firstline workers with what they need to stay productive
 

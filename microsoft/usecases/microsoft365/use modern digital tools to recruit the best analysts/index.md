@@ -1,15 +1,16 @@
 ---
 title: Use modern digital tools to recruit the best analysts
-inshort: Keep the talent pool fresh and hire the best young analysts by bringing brand ambassadors and recruiting teams together with digital communication, scheduling, and collaboration tools.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Microsoft Teams,PowerApps,SharePoint,StaffHub,Yammer
+areas: FINANCIAL SERVICES ,  FINANCE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-modern-digital-tools-to-recruit-the-best-analysts
 ---
+Keep the talent pool fresh and hire the best young analysts by bringing brand ambassadors and recruiting teams together with digital communication, scheduling, and collaboration tools.
+
 
 ## Use scheduling and collaboration tools for recruiting events
 

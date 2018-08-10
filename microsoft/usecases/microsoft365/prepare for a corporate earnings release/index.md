@@ -1,15 +1,16 @@
 ---
 title: Prepare for a corporate earnings release
-inshort: Prepare for a successful earnings release by bringing people, content, and tools together in a mobile-friendly chat-based workspace that empowers team members to move quickly from chats to content and tasks, with context, continuity, and transparency among the entire team.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Office 365,OneDrive,Planner,PowerPoint,Word
+areas: FINANCE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/prepare-for-a-corporate-earnings-release
 ---
+Prepare for a successful earnings release by bringing people, content, and tools together in a mobile-friendly chat-based workspace that empowers team members to move quickly from chats to content and tasks, with context, continuity, and transparency among the entire team.
+
 
 ## Set up an Earnings Release team environment
 

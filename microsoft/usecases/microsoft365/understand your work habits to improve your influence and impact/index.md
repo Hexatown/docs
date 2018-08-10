@@ -1,16 +1,17 @@
 ---
 title: Understand your work habits to improve your influence and impact
-inshort: With the personal and organization analytics features in Office 365, everyone in the organization can get rich insights and metrics on reach, influence, and work-life balance, which promotes better time management and employee satisfaction.
-
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Delve,MyAnalytics,Office 365
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/understand-your-work-habits-to-improve-your-influence-and-impact
 ---
+With the personal and organization analytics features in Office 365, everyone in the organization can get rich insights and metrics on reach, influence, and work-life balance, which promotes better time management and employee satisfaction.
+
+
 
 ## Use Office 365 resources to improve your overall productivity
 

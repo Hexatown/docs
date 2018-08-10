@@ -1,15 +1,16 @@
 ---
 title: Publish and update team schedules
-inshort: Create a shift schedule in minutes and send it directly to each worker&apos;s mobile device.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: StaffHub
+areas: Hospitality,Retail 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/publish-and-update-team-schedules
 ---
+Create a shift schedule in minutes and send it directly to each worker&apos;s mobile device.
+
 
 ## Create employee groups for easier scheduling
 

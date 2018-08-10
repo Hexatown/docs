@@ -1,15 +1,16 @@
 ---
 title: Stay up to date with work schedules and request time off
-inshort: Using StaffHub online or the StaffHub mobile app, staff workers can view schedules, swap shifts, and request time off.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: StaffHub
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/stay-up-to-date-with-work-schedules-and-request-time-off
 ---
+Using StaffHub online or the StaffHub mobile app, staff workers can view schedules, swap shifts, and request time off.
+
 
 ## Access scheduling information from any device
 

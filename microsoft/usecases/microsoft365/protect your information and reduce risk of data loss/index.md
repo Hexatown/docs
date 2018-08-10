@@ -1,15 +1,16 @@
 ---
 title: Protect your information and reduce risk of data loss
-inshort: Create policies and procedures that enable your workforce to stay productive on their own devices while keeping company information better protected.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Enterprise Mobility + Security,Office 365,Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/protect-your-information-and-reduce-risk-of-data-loss
 ---
+Create policies and procedures that enable your workforce to stay productive on their own devices while keeping company information better protected.
+
 
 ## Provide conditional access to apps and information based on credentials
 

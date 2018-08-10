@@ -1,15 +1,16 @@
 ---
 title: Gain insight into your work habits to manage your time better
-inshort: Improve your productivity and job satisfaction by gaining rich insights into your work habits, so that you can manage your workload better even in busy holiday times.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,MyAnalytics,Office 365
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/gain-insight-into-your-work-habits-to-manage-your-time-better
 ---
+Improve your productivity and job satisfaction by gaining rich insights into your work habits, so that you can manage your workload better even in busy holiday times.
+
 
 ## Manage your time effectively and improve your overall sales productivity
 

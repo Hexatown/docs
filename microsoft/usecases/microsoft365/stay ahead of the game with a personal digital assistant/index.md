@@ -1,15 +1,16 @@
 ---
 title: Stay ahead of the game with a personal digital assistant
-inshort: Count on Cortana in Windows 10 to remind you of important meetings and deadlines, to help you keep in touch with coworkers and supervisors even when you&apos;re on the move, and to quickly search your devices and the internet to find the information you need.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/stay-ahead-of-the-game-with-a-personal-digital-assistant
 ---
+Count on Cortana in Windows 10 to remind you of important meetings and deadlines, to help you keep in touch with coworkers and supervisors even when you&apos;re on the move, and to quickly search your devices and the internet to find the information you need.
+
 
 ## Keep up with your schedule by using automatic reminders
 

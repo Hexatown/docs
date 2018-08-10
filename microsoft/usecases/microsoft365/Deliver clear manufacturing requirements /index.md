@@ -1,6 +1,5 @@
 ---
 title: Deliver clear manufacturing requirements 
-inshort: Gather comprehensive and validated manufacturing requirements and convey them clearly to subcontractors.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/deliver-clear-manufacturing-requirements
 ---
+Gather comprehensive and validated manufacturing requirements and convey them clearly to subcontractors.
+
 
 ## Gather requirements collectively
 

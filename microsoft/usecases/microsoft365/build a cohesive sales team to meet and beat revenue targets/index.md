@@ -1,15 +1,16 @@
 ---
 title: Build a cohesive sales team to meet and beat revenue targets
-inshort: Leverage digital collaboration and performance tools to bring sales reps together in a cohesive sales team that consistently meets and exceeds targets. &#xA0;
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Power BI,SharePoint,Skype for Business,Yammer
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/build-a-cohesive-sales-team-to-meet-and-beat-revenue-targets
 ---
+Leverage digital collaboration and performance tools to bring sales reps together in a cohesive sales team that consistently meets and exceeds targets.  
+
 
 ## Quickly assess how your team is progressing against forecasts
 

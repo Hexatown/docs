@@ -1,15 +1,16 @@
 ---
 title: Communicate with your team in real time to gain input and consensus
-inshort: Connect with your team instantly to stay informed, solicit input, and build cohesion and consensus.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Microsoft Teams,Office 365,Outlook,SharePoint,Skype for Business
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/communicate-with-your-team-in-real-time-to-gain-input-and-consensus
 ---
+Connect with your team instantly to stay informed, solicit input, and build cohesion and consensus.
+
 
 ## Find and collaborate with colleagues and experts via chat
 

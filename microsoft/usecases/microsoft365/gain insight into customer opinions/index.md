@@ -1,15 +1,16 @@
 ---
 title: Gain insight into customer opinions
-inshort: Communicate with sales staff in order to understand how customers are reacting to products as they shop.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Skype for Business,Yammer
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/gain-insight-into-customer-opinions
 ---
+Communicate with sales staff in order to understand how customers are reacting to products as they shop.
+
 
 ## Communicate directly with firstline sales associates
 

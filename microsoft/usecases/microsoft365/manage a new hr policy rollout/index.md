@@ -1,15 +1,16 @@
 ---
 title: Manage a new HR policy rollout
-inshort: Roll out a new policy on time and on target by managing your resources and scheduling in an intuitive, team-based environment.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Planner,Project
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-a-new-hr-policy-rollout
 ---
+Roll out a new policy on time and on target by managing your resources and scheduling in an intuitive, team-based environment.
+
 
 ## Easily coordinate and delegate tasks
 

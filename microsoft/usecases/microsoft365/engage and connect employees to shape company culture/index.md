@@ -1,15 +1,16 @@
 ---
 title: Engage and connect employees to shape company culture
-inshort: Bring the expertise and experience of your workforce together by sharing information across the company quickly and efficiently.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,OneNote,SharePoint,Skype for Business,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-and-connect-employees-to-shape-company-culture
 ---
+Bring the expertise and experience of your workforce together by sharing information across the company quickly and efficiently.
+
 
 ## Quickly share information and discuss topics to agree on next steps
 

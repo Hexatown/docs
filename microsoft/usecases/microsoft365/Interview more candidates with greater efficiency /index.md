@@ -1,6 +1,5 @@
 ---
 title: Interview more candidates with greater efficiency 
-inshort: Broaden your organization&apos;s candidate pool nationally and globally, without lengthy interview processes and the expense of in-person interviews.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/interview-more-candidates-with-greater-efficiency
 ---
+Broaden your organization&apos;s candidate pool nationally and globally, without lengthy interview processes and the expense of in-person interviews.
+
 
 ## Easily schedule group interviews involving several calendars
 

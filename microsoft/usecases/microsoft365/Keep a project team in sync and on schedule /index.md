@@ -1,6 +1,5 @@
 ---
 title: Keep a project team in sync and on schedule 
-inshort: Facilitate zero-friction, transparent work communication&#xA0;to complete a client project on time.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/keep-a-project-team-in-sync-and-on-schedule
 ---
+Facilitate zero-friction, transparent work communication to complete a client project on time.
+
 
 ## Tackle project management in one place
 

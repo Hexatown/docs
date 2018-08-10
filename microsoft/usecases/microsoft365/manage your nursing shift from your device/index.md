@@ -1,15 +1,16 @@
 ---
 title: Manage your nursing shift from your device
-inshort: Use your smartphone or other device to view your schedule, request time off or swap shifts, and keep up with news and events.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: StaffHub
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-your-nursing-shift-from-your-device
 ---
+Use your smartphone or other device to view your schedule, request time off or swap shifts, and keep up with news and events.
+
 
 ## View your schedule as soon as your manager posts it
 

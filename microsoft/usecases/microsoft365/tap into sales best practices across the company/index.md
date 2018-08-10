@@ -1,15 +1,16 @@
 ---
 title: Tap into sales best practices across the company
-inshort: Improve sales performance by sharing tribal knowledge and best practices on how to establish new relationships or handle common objections from clients.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneNote,SharePoint,Yammer
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/tap-into-sales-best-practices-across-the-company
 ---
+Improve sales performance by sharing tribal knowledge and best practices on how to establish new relationships or handle common objections from clients.
+
 
 ## Store and share sales guidance in a central location
 

@@ -1,15 +1,16 @@
 ---
 title: Tap the power of intelligent assistance to make your work shine
-inshort: New intelligent assistance features available to Office 365 subscribers enable you to quickly and easily create professional presentations and documents, visually express geographical and temporal data, reuse existing content from within your organization, and eradicate grammar and spelling errors.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Flow,Office 365,Outlook,PowerPoint,Word
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/tap-the-power-of-intelligent-assistance-to-make-your-work-shine
 ---
+New intelligent assistance features available to Office 365 subscribers enable you to quickly and easily create professional presentations and documents, visually express geographical and temporal data, reuse existing content from within your organization, and eradicate grammar and spelling errors.
+
 
 ## Easily create visually engaging presentations
 

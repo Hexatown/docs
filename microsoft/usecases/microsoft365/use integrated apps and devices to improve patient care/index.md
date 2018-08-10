@@ -1,15 +1,16 @@
 ---
 title: Use integrated apps and devices to improve patient care
-inshort: Gain secure, speedy access to lab results, specialist recommendations, patient notes, scheduling, and more from your Microsoft 365 powered device and your clinic&apos;s integrated apps.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Windows 10
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-integrated-apps-and-devices-to-improve-patient-care
 ---
+Gain secure, speedy access to lab results, specialist recommendations, patient notes, scheduling, and more from your Microsoft 365 powered device and your clinic&apos;s integrated apps.
+
 
 ## Access lab results and notes digitally for efficiency
 

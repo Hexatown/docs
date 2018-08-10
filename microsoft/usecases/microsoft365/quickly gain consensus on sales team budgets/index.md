@@ -1,15 +1,16 @@
 ---
 title: Quickly gain consensus on sales team budgets
-inshort: Get together with other sales reps, no matter where they are, to get traction on your annual budget by using digital meeting solutions.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Outlook,Skype for Business
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-gain-consensus-on-sales-team-budgets
 ---
+Get together with other sales reps, no matter where they are, to get traction on your annual budget by using digital meeting solutions.
+
 
 ## Plan well-attended budget sessions by viewing sales team members' availability
 

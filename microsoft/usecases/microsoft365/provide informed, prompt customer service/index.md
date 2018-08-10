@@ -1,15 +1,16 @@
 ---
 title: Provide informed, prompt customer service
-inshort: Provide top-notch customer experiences by surfacing relevant, company-approved information promptly from anywhere in the store.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: SharePoint,Skype for Business,Yammer
+areas: RETAIL
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/provide-informed-prompt-customer-service
 ---
+Provide top-notch customer experiences by surfacing relevant, company-approved information promptly from anywhere in the store.
+
 
 ## Ask your coworkers on the fly
 

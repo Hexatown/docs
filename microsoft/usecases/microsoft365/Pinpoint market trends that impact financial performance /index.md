@@ -1,6 +1,5 @@
 ---
 title: Pinpoint market trends that impact financial performance 
-inshort: Assess financial performance risks by identifying market trends and reviewing internal and external data.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/pinpoint-market-trends-that-impact-financial-performance
 ---
+Assess financial performance risks by identifying market trends and reviewing internal and external data.
+
 
 ## Analyze market data from multiple sources
 

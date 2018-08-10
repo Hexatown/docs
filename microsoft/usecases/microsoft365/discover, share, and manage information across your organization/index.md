@@ -1,15 +1,16 @@
 ---
 title: Discover, share, and manage information across your organization
-inshort: Harness the collective knowledge of your workforce by tapping into the power of integrated tools, secure shared workspaces, and artificial intelligence.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Delve,Flow,Office 365,OneNote,SharePoint,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/discover-share-and-manage-information-across-your-organization
 ---
+Harness the collective knowledge of your workforce by tapping into the power of integrated tools, secure shared workspaces, and artificial intelligence.
+
 
 ## Provide a single location for documents and information for the entire team
 

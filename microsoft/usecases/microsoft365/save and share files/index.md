@@ -1,15 +1,16 @@
 ---
 title: Save and share files
-inshort: Microsoft OneDrive is the smarter online storage system that makes it simple to create, upload and edit files from your desktop, favorite browser, or mobile device.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365 Basics, OneDrive
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/save-and-share-files
 ---
+Microsoft OneDrive is the smarter online storage system that makes it simple to create, upload and edit files from your desktop, favorite browser, or mobile device.
+
 
 ## All your files, wherever you are
 

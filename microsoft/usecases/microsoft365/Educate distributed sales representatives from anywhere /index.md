@@ -1,15 +1,16 @@
 ---
 title: Educate distributed sales representatives from anywhere 
-inshort: Provide a way for distributed sales staff to attend training workshops and access product documentation from anywhere.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: OneNote,Outlook,SharePoint,Skype for Business,Yammer
+areas: Sales
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/educate-distributed-sales-representatives-from-anywhere
 ---
+Provide a way for distributed sales staff to attend training workshops and access product documentation from anywhere.
+
 
 ## Make large group training virtual
 

@@ -1,15 +1,16 @@
 ---
 title: Manage ongoing case work from anywhere
-inshort: Ensure secure online and offline access to client documents, data, and discovery to keep working and put in billable hours from the office, airport, client site, or any other location.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneDrive,Outlook,PowerPoint,SharePoint,Word
+areas: Operations
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-ongoing-case-work-from-anywhere
 ---
+Ensure secure online and offline access to client documents, data, and discovery to keep working and put in billable hours from the office, airport, client site, or any other location.
+
 
 ## Work on client deliverables on the go
 

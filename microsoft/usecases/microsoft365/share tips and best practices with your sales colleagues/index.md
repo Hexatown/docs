@@ -1,15 +1,16 @@
 ---
 title: Share tips and best practices with your sales colleagues
-inshort: Maintain a consistent, high-quality customer service experience by sharing tips and best practices among all of your retail sales colleagues via a corporate social network.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,SharePoint,Skype for Business,Yammer
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/share-tips-and-best-practices-with-your-sales-colleagues
 ---
+Maintain a consistent, high-quality customer service experience by sharing tips and best practices among all of your retail sales colleagues via a corporate social network.
+
 
 ## Share best practices and tips with other sales associates in a single location
 

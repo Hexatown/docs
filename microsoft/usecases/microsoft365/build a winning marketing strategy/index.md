@@ -1,15 +1,16 @@
 ---
 title: Build a winning marketing strategy
-inshort: Use intuitive tools to quickly conduct research, summarize your findings, and develop and present a winning strategy to your stakeholders.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Power BI,Skype for Business,Yammer
+areas: MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/build-a-winning-marketing-strategy
 ---
+Use intuitive tools to quickly conduct research, summarize your findings, and develop and present a winning strategy to your stakeholders.
+
 
 ## Source info from competitors and sales reps in the field
 

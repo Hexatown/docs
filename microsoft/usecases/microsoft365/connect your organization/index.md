@@ -1,15 +1,16 @@
 ---
 title: Connect your organization
-inshort: Yammer seamlessly enables connections to people and information from across your organization that you never knew existed. Discuss ideas, share updates, and crowdsource answers from coworkers from anywhere. Connect to everything important so you can share, learn and make better decisions on the go.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: OFFICE 365 BASICS, YAMMER
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/connect-your-organization
 ---
+Yammer seamlessly enables connections to people and information from across your organization that you never knew existed. Discuss ideas, share updates, and crowdsource answers from coworkers from anywhere. Connect to everything important so you can share, learn and make better decisions on the go.
+
 
 ## Find & build on the work of others
 

@@ -1,15 +1,16 @@
 ---
 title: Safeguard company data and systems from malicious threats
-inshort: Protect budget and vendor data from external attacks and suspicious internal behavior by intelligently monitoring and eliminating malicious threats.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365
+areas: RETAIL ,  OPERATIONS
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/safeguard-company-data-and-systems-from-malicious-threats
 ---
+Protect budget and vendor data from external attacks and suspicious internal behavior by intelligently monitoring and eliminating malicious threats.
+
 
 ## Prevent attacks from malicious email attachments and links
 

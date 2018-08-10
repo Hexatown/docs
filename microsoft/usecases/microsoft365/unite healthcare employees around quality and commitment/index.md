@@ -1,15 +1,16 @@
 ---
 title: Unite healthcare employees around quality and commitment
-inshort: Raise the quality bar in your healthcare field by fostering a connected, empowered workforce.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,SharePoint,Yammer
+areas: Healthcare
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/unite-healthcare-employees-around-quality-and-commitment
 ---
+Raise the quality bar in your healthcare field by fostering a connected, empowered workforce.
+
 
 ## Create a "quality mindset" by inspiring corporate activism
 

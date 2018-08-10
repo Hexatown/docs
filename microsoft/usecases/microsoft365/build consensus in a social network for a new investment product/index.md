@@ -1,15 +1,16 @@
 ---
 title: Build consensus in a social network for a new investment product
-inshort: Create a corporate social network to connect your company&apos;s entire product development team, so you can quickly build consensus on a new investment program.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Office 365,OneNote,SharePoint,Skype for Business,Yammer
+areas: FINANCIAL SERVICES ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/build-consensus-in-a-social-network-for-a-new-investment-product
 ---
+Create a corporate social network to connect your company&apos;s entire product development team, so you can quickly build consensus on a new investment program.
+
 
 ## Collaborate with the development team in a single location
 

@@ -1,15 +1,16 @@
 ---
 title: Meet with coworkers and customers around the world
-inshort: Communicate with remote stakeholders by easily scheduling calls and online meetings, or quickly starting an ad hoc call or IM.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Outlook,Skype for Business
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/meet-with-coworkers-and-customers-around-the-world
 ---
+Communicate with remote stakeholders by easily scheduling calls and online meetings, or quickly starting an ad hoc call or IM.
+
 
 ## Quickly plan and launch meetings with visibility into attendee availability
 

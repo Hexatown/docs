@@ -1,15 +1,16 @@
 ---
 title: More securely access and work with your company sales apps
-inshort: Quickly sign into your company sales apps while ensuring that your company&apos;s and customer&apos;s data is secure, by using industry-leading identity management controls and secure sign-in methods.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,Windows 10
+areas: PROFESSIONAL SERVICES ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/more-securely-access-and-work-with-your-company-sales-apps
 ---
+Quickly sign into your company sales apps while ensuring that your company&apos;s and customer&apos;s data is secure, by using industry-leading identity management controls and secure sign-in methods.
+
 
 ## Access company sales apps more securely from almost any device
 

@@ -1,15 +1,16 @@
 ---
 title: Securely access company and customer data to score leads
-inshort: Access lead-scoring information from anywhere, anytime, on almost any device with secure access to apps, customer data, and company data.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,OneDrive,SharePoint
+areas: MANUFACTURING ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/securely-access-company-and-customer-data-to-score-leads
 ---
+Access lead-scoring information from anywhere, anytime, on almost any device with secure access to apps, customer data, and company data.
+
 
 ## Collaborate securely on corporate and customer sales data
 

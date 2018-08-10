@@ -1,15 +1,16 @@
 ---
 title: Quickly create a polished and compelling marketing presentation
-inshort: Catch your customers&apos; interest with a polished presentation, without relying on expensive and time-consuming professional design services.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,PowerPoint,Sway
+areas: MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-create-a-polished-and-compelling-marketing-presentation
 ---
+Catch your customers&apos; interest with a polished presentation, without relying on expensive and time-consuming professional design services.
+
 
 ## Brainstorm presentation ideas with your team in a virtual workspace
 

@@ -1,15 +1,16 @@
 ---
 title: Manage firstline worker teams
-inshort: Streamline the process of adding and removing firstline workers in your schedules.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,StaffHub
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-firstline-worker-teams
 ---
+Streamline the process of adding and removing firstline workers in your schedules.
+
 
 ## Add a new worker to your team
 

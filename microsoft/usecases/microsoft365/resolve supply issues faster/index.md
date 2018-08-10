@@ -1,15 +1,16 @@
 ---
 title: Resolve supply issues faster
-inshort: Identify a supply shortage in real-time and quickly collaborate with supply chain partners to find an alternative solution.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: OneDrive,Outlook,Power BI,Skype for Business,Yammer
+areas: OPERATIONS
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/resolve-supply-issues-faster
 ---
+Identify a supply shortage in real-time and quickly collaborate with supply chain partners to find an alternative solution.
+
 
 ## Quickly pinpoint the shortage
 

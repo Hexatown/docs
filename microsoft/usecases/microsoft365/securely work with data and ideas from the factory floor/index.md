@@ -1,15 +1,16 @@
 ---
 title: Securely work with data and ideas from the factory floor
-inshort: Maximize your productivity on the factory floor by using your Microsoft 365 powered device to connect to data, coordinate with coworkers, and use digital ink and 3D modeling to brainstorm new ideas.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Windows 10
+areas: MANUFACTURING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/securely-work-with-data-and-ideas-from-the-factory-floor
 ---
+Maximize your productivity on the factory floor by using your Microsoft 365 powered device to connect to data, coordinate with coworkers, and use digital ink and 3D modeling to brainstorm new ideas.
+
 
 ## Connect with your team from the factory floor
 

@@ -1,15 +1,16 @@
 ---
 title: Work with suppliers to bring products to market faster
-inshort: Seamlessly and securely consolidate product knowledge across the supply chain and efficiently manage tasks, resources, and budget to keep product development and production on track.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Planner,Project,SharePoint,Skype for Business
+areas: Manufacturing
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/work-with-suppliers-to-bring-products-to-market-faster
 ---
+Seamlessly and securely consolidate product knowledge across the supply chain and efficiently manage tasks, resources, and budget to keep product development and production on track.
+
 
 ## Share supply information from a central location
 

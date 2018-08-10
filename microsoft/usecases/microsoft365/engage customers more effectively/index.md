@@ -1,15 +1,16 @@
 ---
 title: Engage customers more effectively
-inshort: Quickly respond to customer emails, stay on top of leads, and conduct &#x201C;face-to-face&#x201D; meetings and product demos to grow customer relationships.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Office 365,Outlook,Skype for Business
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-customers-more-effectively
 ---
+Quickly respond to customer emails, stay on top of leads, and conduct  face-to-face  meetings and product demos to grow customer relationships.
+
 
 ## Configure automated alerts to notify you based on key sales triggers
 

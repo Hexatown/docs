@@ -1,15 +1,16 @@
 ---
 title: Meet education compliance standards to safeguard school data
-inshort: Stay compliant with security and privacy policies for school data to protect sensitive student and school information.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,OneDrive,Outlook,SharePoint
+areas: EDUCATION
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/meet-education-compliance-standards-to-safeguard-school-data
 ---
+Stay compliant with security and privacy policies for school data to protect sensitive student and school information.
+
 
 ## Use security policies that align with compliance laws around the world
 

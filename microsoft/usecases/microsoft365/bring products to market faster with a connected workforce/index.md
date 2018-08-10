@@ -1,15 +1,16 @@
 ---
 title: Bring products to market faster with a connected workforce
-inshort: Spark innovation and solve problems more quickly by tapping into your entire workforce, from factory employees to executives, across the globe.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,SharePoint,Skype for Business,Yammer
+areas: Manufacturing 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/bring-products-to-market-faster-with-a-connected-workforce
 ---
+Spark innovation and solve problems more quickly by tapping into your entire workforce, from factory employees to executives, across the globe.
+
 
 ## Drive innovation by engaging and empowering factory workers
 

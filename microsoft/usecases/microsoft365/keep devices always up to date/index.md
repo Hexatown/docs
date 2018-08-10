@@ -1,15 +1,16 @@
 ---
 title: Keep devices always up to date
-inshort: Windows as a service enables Windows 10 to keep itself up to date for the lifetime of your devices through simple, always-improving updating processes, with high levels of application compatibility, minimal effort and cost, and&#x2014;most importantly&#x2014;no more big deployment projects.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/keep-devices-always-up-to-date
 ---
+Windows as a service enables Windows 10 to keep itself up to date for the lifetime of your devices through simple, always-improving updating processes, with high levels of application compatibility, minimal effort and cost, and most importantly no more big deployment projects.
+
 
 ## Test for application compatibility
 

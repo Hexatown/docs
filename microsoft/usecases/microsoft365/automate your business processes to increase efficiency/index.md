@@ -1,15 +1,16 @@
 ---
 title: Automate your business processes to increase efficiency
-inshort: Run your business more efficiently by using custom apps that your own team creates to link data from various sources, incorporate workflows, and create charts and reports that provide a clear picture.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,Flow,Office 365,Power BI,PowerApps,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/automate-your-business-processes-to-increase-efficiency
 ---
+Run your business more efficiently by using custom apps that your own team creates to link data from various sources, incorporate workflows, and create charts and reports that provide a clear picture.
+
 
 ## Streamline processes by empowering workers to create custom apps
 

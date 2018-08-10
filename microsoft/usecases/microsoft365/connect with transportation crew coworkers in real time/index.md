@@ -1,15 +1,16 @@
 ---
 title: Connect with transportation crew coworkers in real time
-inshort: Communicate instantly with other members of your flight crew, transit drivers, and transportation personnel in real time, no matter where you are.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Skype for Business,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/connect-with-transportation-crew-coworkers-in-real-time
 ---
+Communicate instantly with other members of your flight crew, transit drivers, and transportation personnel in real time, no matter where you are.
+
 
 ## Keep up to date with mobile access to the information you need
 

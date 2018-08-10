@@ -1,15 +1,16 @@
 ---
 title: Help a student write a persuasive research paper
-inshort: Work with students to quickly answer their questions and help them discover resources to guide them on independent projects.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Excel,OneNote,PowerPoint,Skype for Business,Word
+areas: EDUCATION
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/help-a-student-write-a-persuasive-research-paper
 ---
+Work with students to quickly answer their questions and help them discover resources to guide them on independent projects.
+
 
 ## Collect student questions in a central notebook
 

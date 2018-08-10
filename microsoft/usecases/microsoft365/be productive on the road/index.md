@@ -1,15 +1,16 @@
 ---
 title: Be productive on the road
-inshort: Keep up with customer demands&#xA0;and be productive even when on the road in order to deliver better customer service and resolve issues with no delays.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneDrive,OneNote,PowerPoint,Skype for Business,Word
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/be-productive-on-the-road
 ---
+Keep up with customer demands and be productive even when on the road in order to deliver better customer service and resolve issues with no delays.
+
 
 ## Store work files in a central location
 

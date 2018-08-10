@@ -1,15 +1,16 @@
 ---
 title: Meet global compliance standards with controls and visibility
-inshort: Maintain a productive business across industries and around the world with security solutions that meet a variety of compliance standards.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Enterprise Mobility + Security,Office 365,SharePoint,Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/meet-global-compliance-standards-with-controls-and-visibility
 ---
+Maintain a productive business across industries and around the world with security solutions that meet a variety of compliance standards.
+
 
 ## Align security and privacy policies with compliance laws worldwide
 

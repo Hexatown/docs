@@ -1,15 +1,16 @@
 ---
 title: Analyze and visualize HR data with powerful, intuitive tools
-inshort: Quickly import and analyze your data with powerful data analysis tools, and create beautiful reports that you share in interactive dashboards.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/analyze-and-visualize-hr-data-with-powerful-intuitive-tools
 ---
+Quickly import and analyze your data with powerful data analysis tools, and create beautiful reports that you share in interactive dashboards.
+
 
 ## Import and clean up your data like a pro
 

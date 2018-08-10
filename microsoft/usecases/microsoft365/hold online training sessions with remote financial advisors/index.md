@@ -1,15 +1,16 @@
 ---
 title: Hold online training sessions with remote financial advisors
-inshort: Make the global client experience more consistent by scheduling and launching online training with remote financial advisors from almost anywhere, on almost any device.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Outlook,Skype for Business
+areas: FINANCIAL SERVICES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/hold-online-training-sessions-with-remote-financial-advisors
 ---
+Make the global client experience more consistent by scheduling and launching online training with remote financial advisors from almost anywhere, on almost any device.
+
 
 ## Check financial advisors' availability to quickly schedule training sessions
 

@@ -1,15 +1,16 @@
 ---
 title: Engage with experts to scale math classes and meet student needs
-inshort: Scale your school district&apos;s math classes to meet student needs by identifying and engaging with curriculum and departmental experts, and learning from best practices.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneDrive,SharePoint,Yammer
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-with-experts-to-scale-math-classes-and-meet-student-needs
 ---
+Scale your school district&apos;s math classes to meet student needs by identifying and engaging with curriculum and departmental experts, and learning from best practices.
+
 
 ## Capture ideas and best practices from teachers and administrators
 

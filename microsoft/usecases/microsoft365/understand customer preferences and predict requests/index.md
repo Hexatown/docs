@@ -1,15 +1,16 @@
 ---
 title: Understand customer preferences and predict requests
-inshort: Know as much about customers as about the products that are sold in order to better understand and predict their preferences.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,Yammer
+areas: COMMUNICATION & MEDIA ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/understand-customer-preferences-and-predict-requests
 ---
+Know as much about customers as about the products that are sold in order to better understand and predict their preferences.
+
 
 ## Make customer sales data interactive
 

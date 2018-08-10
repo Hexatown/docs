@@ -1,15 +1,16 @@
 ---
 title: Securely qualify sales leads from wherever you are
-inshort: Use enterprise-grade identity management controls and secure sign-in methods to ensure that your login credentials are secure, so that you can qualify leads on the sales floor or in the field.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,Windows 10
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/securely-qualify-sales-leads-from-wherever-you-are
 ---
+Use enterprise-grade identity management controls and secure sign-in methods to ensure that your login credentials are secure, so that you can qualify leads on the sales floor or in the field.
+
 
 ## More securely access data across multiple devices
 

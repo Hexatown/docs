@@ -1,15 +1,16 @@
 ---
 title: Shorten the product planning cycle
-inshort: Take client solutions from planning to execution, effectively communicate and collaborate with people across an organization, collect feedback, and get buy-in on plans for new service offerings, without creating delays.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: OneNote,Outlook,Project,SharePoint
+areas: FINANCIAL SERVICES ,  FINANCE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/shorten-the-product-planning-cycle
 ---
+Take client solutions from planning to execution, effectively communicate and collaborate with people across an organization, collect feedback, and get buy-in on plans for new service offerings, without creating delays.
+
 
 ## Focus project management in one central place
 

@@ -1,15 +1,16 @@
 ---
 title: Use digital tools to ensure successful promotional events
-inshort: Ensure that your promotional events are successful by providing firstline workers with modern digital communication, scheduling, and collaboration tools they can use from the event floor.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Flow,Microsoft Teams,PowerApps,SharePoint,StaffHub,Yammer
+areas: MANUFACTURING ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-digital-tools-to-ensure-successful-promotional-events
 ---
+Ensure that your promotional events are successful by providing firstline workers with modern digital communication, scheduling, and collaboration tools they can use from the event floor.
+
 
 ## Schedule, reschedule, and submit shift requests anytime, from anywhere
 

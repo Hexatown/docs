@@ -1,15 +1,16 @@
 ---
 title: Use analytics to maximize business opportunities
-inshort: Quickly run financial analytics without being dependent on IT or analysts, to identify and respond to business opportunities.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Power BI,SharePoint
+areas: Finance
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/use-analytics-to-maximize-business-opportunities
 ---
+Quickly run financial analytics without being dependent on IT or analysts, to identify and respond to business opportunities.
+
 
 ## Securely access financial data from a central location
 

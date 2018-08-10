@@ -1,15 +1,16 @@
 ---
 title: Understand trends and visualize potential impact to sales forecasts
-inshort: Quickly and intuitively visualize potential impacts to sales forecast and performance targets without relying on analysts.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,SharePoint
+areas: Sales 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/understand-trends-and-visualize-potential-impact-to-sales-forecasts
 ---
+Quickly and intuitively visualize potential impacts to sales forecast and performance targets without relying on analysts.
+
 
 ## Pull sales data from a central database
 

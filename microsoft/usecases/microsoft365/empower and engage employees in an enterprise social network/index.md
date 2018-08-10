@@ -1,15 +1,16 @@
 ---
 title: Empower and engage employees in an enterprise social network
-inshort: Attract and retain the best people by creating a collaborative corporate culture in which every voice is heard.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Office 365,OneNote,SharePoint,Skype for Business,Yammer
+areas: Human Resources
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/empower-and-engage-employees-in-an-enterprise-social-network
 ---
+Attract and retain the best people by creating a collaborative corporate culture in which every voice is heard.
+
 
 ## Engage employees by building communities of interest
 

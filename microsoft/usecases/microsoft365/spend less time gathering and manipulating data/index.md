@@ -1,15 +1,16 @@
 ---
 title: Spend less time gathering and manipulating data
-inshort: Use automated tools to streamline the process of gathering and transforming data so that you can spend more time on working on financial analysis and driving impact.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,PowerApps,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/spend-less-time-gathering-and-manipulating-data
 ---
+Use automated tools to streamline the process of gathering and transforming data so that you can spend more time on working on financial analysis and driving impact.
+
 
 ## Use automated tools to ease the pain of manual data gathering
 

@@ -1,6 +1,5 @@
 ---
 title: Uncover opportunities to better meet sales forecasts 
-inshort: Gather customer feedback and analyze buying behavior to evaluate opportunities to better meet sales forecasts.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
@@ -10,6 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/uncover-opportunities-to-better-meet-sales-forecasts
 ---
+Gather customer feedback and analyze buying behavior to evaluate opportunities to better meet sales forecasts.
+
 
 ## Get feedback from your customers
 

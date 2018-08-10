@@ -1,15 +1,16 @@
 ---
 title: Develop impactful project deliverables as a team
-inshort: Foster real-time contributions among consultants and analysts to get the best possible deliverables in the shortest possible timeframe.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,Office 365,OneDrive,OneNote,Outlook,PowerPoint,Word
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/develop-impactful-project-deliverables-as-a-team
 ---
+Foster real-time contributions among consultants and analysts to get the best possible deliverables in the shortest possible timeframe.
+
 
 ## Centralize team collaboration
 

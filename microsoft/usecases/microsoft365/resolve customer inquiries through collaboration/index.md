@@ -1,15 +1,16 @@
 ---
 title: Resolve customer inquiries through collaboration
-inshort: Quickly respond to customer inquiries by accessing information or connecting with someone who can provide relevant expertise, helping move the sales cycle forward.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneNote,Skype for Business,Yammer
+areas: Communication & Media ,  Sales 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/resolve-customer-inquiries-through-collaboration
 ---
+Quickly respond to customer inquiries by accessing information or connecting with someone who can provide relevant expertise, helping move the sales cycle forward.
+
 
 ## Quickly resolve customer inquiries through collaboration
 

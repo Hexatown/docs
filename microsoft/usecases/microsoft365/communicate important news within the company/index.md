@@ -1,15 +1,16 @@
 ---
 title: Communicate important news within the company
-inshort: Communicate important changes across the company with a personal touch, and encourage feedback to help understand how employees are reacting in order to ensure they feel connected and loyal to the organization and the brand.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: SharePoint,Skype for Business,Sway,Yammer
+areas: Human Resources 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/communicate-important-news-within-the-company
 ---
+Communicate important changes across the company with a personal touch, and encourage feedback to help understand how employees are reacting in order to ensure they feel connected and loyal to the organization and the brand.
+
 
 ## Deliver company announcements personally
 

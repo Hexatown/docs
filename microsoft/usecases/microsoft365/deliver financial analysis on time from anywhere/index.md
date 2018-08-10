@@ -1,15 +1,16 @@
 ---
 title: Deliver financial analysis on time from anywhere
-inshort: Respond to executive and client needs and deliver reports in a timely manner.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,OneDrive,Outlook,Skype for Business
+areas: Financial Services 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/deliver-financial-analysis-on-time-from-anywhere
 ---
+Respond to executive and client needs and deliver reports in a timely manner.
+
 
 ## Work on a report from anywhere, on any device
 

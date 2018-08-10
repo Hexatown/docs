@@ -1,15 +1,16 @@
 ---
 title: Quickly visualize your sales data
-inshort: Share compelling sales data visualizations and dashboards with your team for better collaboration.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Microsoft Teams,Power BI,Visio
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-visualize-your-sales-data
 ---
+Share compelling sales data visualizations and dashboards with your team for better collaboration.
+
 
 ## Share live data with your team in real-time dashboards
 

@@ -1,15 +1,16 @@
 ---
 title: Collect and analyze holiday sales performance data
-inshort: Accurately evaluate holiday performance by collecting, analyzing, and visualizing internal and external holiday sales trends and social media sentiment data.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI
+areas: RETAIL
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/collect-and-analyze-holiday-sales-performance-data
 ---
+Accurately evaluate holiday performance by collecting, analyzing, and visualizing internal and external holiday sales trends and social media sentiment data.
+
 
 ## Analyze data, visualize sales trends, and generate reports quickly
 

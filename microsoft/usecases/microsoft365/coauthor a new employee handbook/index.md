@@ -1,15 +1,16 @@
 ---
 title: Coauthor a new employee handbook
-inshort: Work together in a single document with your team to create a new employee handbook.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Office 365,OneDrive,SharePoint
+areas: HUMAN RESOURCES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/coauthor-a-new-employee-handbook
 ---
+Work together in a single document with your team to create a new employee handbook.
+
 
 ## Share drafts and resources in a secure, accessible location
 

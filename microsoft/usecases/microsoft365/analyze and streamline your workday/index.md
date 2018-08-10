@@ -1,15 +1,16 @@
 ---
 title: Analyze and streamline your workday
-inshort: Shift your sales career into high gear by using analytics and productivity tools to optimize your performance.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,MyAnalytics,Office 365,Outlook
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/analyze-and-streamline-your-workday
 ---
+Shift your sales career into high gear by using analytics and productivity tools to optimize your performance.
+
 
 ## Gain insight into how you spend your time every day
 

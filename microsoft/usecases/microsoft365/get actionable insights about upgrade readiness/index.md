@@ -1,16 +1,17 @@
 ---
 title: Get actionable insights about upgrade readiness
-inshort: For IT pros who provide support to the business by delivering apps that enhance the agility of the organization, planning for operating system upgrades can be a challenge.
-Windows Analytics provides powerful upgrade readiness insights and recommendations about the computers, apps, and drivers in your organization. These insights allow app owners and IT teams to identify compatibility issues that can block an upgrade, implement fixes that are known to Microsoft, and accelerate deployment of Microsoft 365.
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/get-actionable-insights-about-upgrade-readiness
 ---
+For IT pros who provide support to the business by delivering apps that enhance the agility of the organization, planning for operating system upgrades can be a challenge.
+Windows Analytics provides powerful upgrade readiness insights and recommendations about the computers, apps, and drivers in your organization. These insights allow app owners and IT teams to identify compatibility issues that can block an upgrade, implement fixes that are known to Microsoft, and accelerate deployment of Microsoft 365.
+
 
 ## Automate the collection of Windows device data
 
