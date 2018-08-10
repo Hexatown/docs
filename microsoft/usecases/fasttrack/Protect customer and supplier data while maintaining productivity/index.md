@@ -3,8 +3,8 @@ title: Protect customer and supplier data while maintaining productivity
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365
+areas: MANUFACTURING ,  OPERATIONS
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/protect-customer-and-supplier-data-while-maintaining-productivity

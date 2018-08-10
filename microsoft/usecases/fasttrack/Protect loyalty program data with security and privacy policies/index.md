@@ -3,8 +3,8 @@ title: Protect loyalty program data with security and privacy policies
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Enterprise Mobility + Security,Office 365,SharePoint
+areas: RETAIL ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/protect-loyalty-program-data-with-security-and-privacy-policies

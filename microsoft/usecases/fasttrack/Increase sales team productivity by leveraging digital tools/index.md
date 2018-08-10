@@ -3,8 +3,8 @@ title: Increase sales team productivity by leveraging digital tools
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,MyAnalytics,Office 365
+areas: RETAIL ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/increase-sales-team-productivity-by-leveraging-digital-tools

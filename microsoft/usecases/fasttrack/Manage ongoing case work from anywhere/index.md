@@ -3,8 +3,8 @@ title: Manage ongoing case work from anywhere
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneDrive,Outlook,PowerPoint,SharePoint,Word
+areas: Operations
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-ongoing-case-work-from-anywhere

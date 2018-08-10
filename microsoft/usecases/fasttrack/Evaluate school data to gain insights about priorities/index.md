@@ -3,8 +3,8 @@ title: Evaluate school data to gain insights about priorities
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,OneDrive,Outlook,PowerPoint,SharePoint
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/evaluate-school-data-to-gain-insights-about-priorities

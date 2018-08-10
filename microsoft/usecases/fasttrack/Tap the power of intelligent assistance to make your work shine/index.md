@@ -3,7 +3,7 @@ title: Tap the power of intelligent assistance to make your work shine
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Flow,Office 365,Outlook,PowerPoint,Word
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

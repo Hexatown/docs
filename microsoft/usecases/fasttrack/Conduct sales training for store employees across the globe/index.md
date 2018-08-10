@@ -3,8 +3,8 @@ title: Conduct sales training for store employees across the globe
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Outlook,SharePoint,Skype for Business,Yammer
+areas: RETAIL
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/conduct-sales-training-for-store-employees-across-the-globe

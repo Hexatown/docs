@@ -3,8 +3,8 @@ title: Collaborate with other teachers to plan inspiring lessons
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneNote,Skype for Business
+areas: Education
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/collaborate-with-other-teachers-to-plan-inspiring-lessons

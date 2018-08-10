@@ -3,7 +3,7 @@ title: Spend less time gathering and manipulating data
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,PowerApps,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

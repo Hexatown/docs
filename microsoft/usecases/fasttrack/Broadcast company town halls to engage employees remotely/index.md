@@ -3,7 +3,7 @@ title: Broadcast company town halls to engage employees remotely
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Skype for Business,StaffHub,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

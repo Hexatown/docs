@@ -3,8 +3,8 @@ title: Automate financial processes by using integrated workflows
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Flow,Office 365,PowerPoint,SharePoint,Word
+areas: FINANCIAL SERVICES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/automate-financial-processes-by-using-integrated-workflows

@@ -3,7 +3,7 @@ title: Protect your information and reduce risk of data loss
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Enterprise Mobility + Security,Office 365,Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

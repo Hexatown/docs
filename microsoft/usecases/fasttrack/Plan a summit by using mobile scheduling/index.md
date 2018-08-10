@@ -3,8 +3,8 @@ title: Plan a summit by using mobile scheduling
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,SharePoint,Skype for Business,StaffHub
+areas: MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/plan-a-summit-by-using-mobile-scheduling

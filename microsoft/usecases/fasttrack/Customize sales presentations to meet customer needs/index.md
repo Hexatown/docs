@@ -3,8 +3,8 @@ title: Customize sales presentations to meet customer needs
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Microsoft Teams,PowerPoint,Skype for Business,Sway,Yammer
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/customize-sales-presentations-to-meet-customer-needs

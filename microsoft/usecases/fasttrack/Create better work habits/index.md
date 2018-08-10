@@ -3,7 +3,7 @@ title: Create better work habits
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: MYANALYTICS, OFFICE 365 BASICS
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

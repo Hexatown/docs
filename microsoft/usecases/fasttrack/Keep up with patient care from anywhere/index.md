@@ -3,8 +3,8 @@ title: Keep up with patient care from anywhere
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneNote,Outlook,PowerPoint,SharePoint,Skype for Business,Word
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/keep-up-with-patient-care-from-anywhere

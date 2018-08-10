@@ -3,8 +3,8 @@ title: Manage your nursing shift from your device
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: StaffHub
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/manage-your-nursing-shift-from-your-device

@@ -3,8 +3,8 @@ title: Collaborate in real time to build consensus on a new CRM solution
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,Office 365,Outlook,SharePoint,Skype for Business
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/collaborate-in-real-time-to-build-consensus-on-a-new-crm-solution

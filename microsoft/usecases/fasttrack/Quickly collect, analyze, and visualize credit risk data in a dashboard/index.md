@@ -3,8 +3,8 @@ title: Quickly collect, analyze, and visualize credit risk data in a dashboard
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Excel,Power BI
+areas: FINANCIAL SERVICES ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-collect-analyze-and-visualize-credit-risk-data-in-a-dashboard

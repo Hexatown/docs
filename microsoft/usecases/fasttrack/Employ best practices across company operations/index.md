@@ -3,8 +3,8 @@ title: Employ best practices across company operations
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneNote,SharePoint,Yammer
+areas: Operations 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/employ-best-practices-across-company-operations

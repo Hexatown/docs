@@ -3,8 +3,8 @@ title: Engage stakeholders with impactful presentations
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Power BI,Skype for Business
+areas: FINANCIAL SERVICES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-stakeholders-with-impactful-presentations

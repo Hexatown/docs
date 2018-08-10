@@ -3,8 +3,8 @@ title: Plan and coordinate account management activities
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Microsoft Teams,OneDrive,Power BI
+areas: SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/plan-and-coordinate-account-management-activities

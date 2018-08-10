@@ -3,7 +3,7 @@ title: Meet with coworkers and customers around the world
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Outlook,Skype for Business
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

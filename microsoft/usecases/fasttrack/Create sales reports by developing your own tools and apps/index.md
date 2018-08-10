@@ -3,8 +3,8 @@ title: Create sales reports by developing your own tools and apps
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Flow,Office 365,Power BI,PowerApps,SharePoint
+areas: PROFESSIONAL SERVICES ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/create-sales-reports-by-developing-your-own-tools-and-apps

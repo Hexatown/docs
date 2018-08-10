@@ -3,7 +3,7 @@ title: Work seamlessly across organizational boundaries
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Enterprise Mobility + Security,Office 365,OneDrive,Outlook,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

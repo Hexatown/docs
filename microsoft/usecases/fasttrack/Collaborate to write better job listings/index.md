@@ -3,8 +3,8 @@ title: Collaborate to write better job listings
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Outlook,SharePoint,Skype for Business,Word
+areas: Human Resources 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/collaborate-to-write-better-job-listings

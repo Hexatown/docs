@@ -3,8 +3,8 @@ title: Quickly create compelling financial deliverables
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,Power BI,SharePoint
+areas: FINANCIAL SERVICES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-create-compelling-financial-deliverables

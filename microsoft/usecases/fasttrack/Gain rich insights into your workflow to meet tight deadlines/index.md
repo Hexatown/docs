@@ -3,8 +3,8 @@ title: Gain rich insights into your workflow to meet tight deadlines
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,MyAnalytics,Office 365
+areas: FINANCIAL SERVICES ,  MARKETING
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/gain-rich-insights-into-your-workflow-to-meet-tight-deadlines

@@ -3,7 +3,7 @@ title: Get actionable insights about upgrade readiness
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Windows 10
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

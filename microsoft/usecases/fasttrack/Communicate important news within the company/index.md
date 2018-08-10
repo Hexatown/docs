@@ -3,8 +3,8 @@ title: Communicate important news within the company
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: SharePoint,Skype for Business,Sway,Yammer
+areas: Human Resources 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/communicate-important-news-within-the-company

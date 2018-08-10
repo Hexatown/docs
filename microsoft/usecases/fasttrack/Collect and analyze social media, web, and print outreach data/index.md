@@ -3,8 +3,8 @@ title: Collect and analyze social media, web, and print outreach data
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,Excel,Power BI
+areas: COMMUNICATION & MEDIA ,  SALES
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/collect-and-analyze-social-media-web-and-print-outreach-data

@@ -3,8 +3,8 @@ title: Produce winning RFPs faster
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Delve,OneDrive,Outlook,Skype for Business,Yammer
+areas: Operations,Sales 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/produce-winning-rfps-faster

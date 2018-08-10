@@ -3,7 +3,7 @@ title: Automate your business processes to increase efficiency
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Excel,Flow,Office 365,Power BI,PowerApps,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

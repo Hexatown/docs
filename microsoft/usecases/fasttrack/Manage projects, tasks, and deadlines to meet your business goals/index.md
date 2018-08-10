@@ -3,7 +3,7 @@ title: Manage projects, tasks, and deadlines to meet your business goals
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Office 365,Planner,Project,SharePoint
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

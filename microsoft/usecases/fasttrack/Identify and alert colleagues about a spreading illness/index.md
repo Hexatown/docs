@@ -3,8 +3,8 @@ title: Identify and alert colleagues about a spreading illness
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
-areas: 
+tools: Excel,Office 365,OneNote,Outlook,PowerPoint,Skype for Business,Word
+areas: HEALTHCARE
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/identify-and-alert-colleagues-about-a-spreading-illness

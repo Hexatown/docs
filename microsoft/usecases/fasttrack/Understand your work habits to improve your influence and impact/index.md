@@ -3,7 +3,7 @@ title: Understand your work habits to improve your influence and impact
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Delve,MyAnalytics,Office 365
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

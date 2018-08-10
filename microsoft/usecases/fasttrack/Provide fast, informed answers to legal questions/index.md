@@ -3,7 +3,7 @@ title: Provide fast, informed answers to legal questions
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: OneDrive,SharePoint,Skype for Business,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png

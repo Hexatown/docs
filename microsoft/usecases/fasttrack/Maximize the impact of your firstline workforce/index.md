@@ -3,7 +3,7 @@ title: Maximize the impact of your firstline workforce
 contexts: office365,microsoft365
 copyright: Microsoft
 translations: en
-tools: 
+tools: Flow,Microsoft Teams,Office 365,OneDrive,PowerApps,SharePoint,Skype for Business,StaffHub,Yammer
 areas: 
 color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
