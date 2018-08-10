@@ -42,6 +42,13 @@ With the "Rosenborg" release of the app, the following features was introduces o
 
 * Improved - Initial load time
 
+# Experimental 
+
+## the Periodic Table of ...
+ 
+- [Microsoft Cognitive Services](https://preview.app.jumpto365.com/context/ai)
+- [Security & Compliance](https://preview.app.jumpto365.com/context/security-and-compliance)
+- [Jumpto365](https://preview.app.jumpto365.com/context/35tiles)
 
 # Translations
 We have used Microsoft Tranlator service to translate all articles into the following languages
