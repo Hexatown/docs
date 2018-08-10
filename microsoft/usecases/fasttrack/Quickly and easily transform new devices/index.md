@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/quickly-and-easily-transform-new-devices
 ---
-Windows AutoPilot capabilities enable the quick and easy transformation of new devices into enterprise-ready machines, without imaging and with the flexibility to satisfy the needs of organizations of all shapes and sizes. This process can be done by the users themselves&#x2014;without IT ever touching the device&#x2014;when the organization uses technologies such as Azure Active Directory, Microsoft Intune, third-party MDM services, and the Windows AutoPilot device enrollment service.
+Windows AutoPilot capabilities enable the quick and easy transformation of new devices into enterprise-ready machines, without imaging and with the flexibility to satisfy the needs of organizations of all shapes and sizes. This process can be done by the users themselves without IT ever touching the device when the organization uses technologies such as Azure Active Directory, Microsoft Intune, third-party MDM services, and the Windows AutoPilot device enrollment service.
 
 
 ## Choose a powerful, modern device

@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/automate-financial-processes-by-using-integrated-workflows
 ---
-Work less and achieve&#xA0;more by using workflow tools to automate common, repetitive financial processes.
+Work less and achieve more by using workflow tools to automate common, repetitive financial processes.
 
 
 ## Get notifications when data is updated

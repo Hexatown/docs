@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/integrate-new-hires-into-the-team-and-work-in-progress
 ---
-Make sure new hires get the information, training, and support needed to connect with and start contributing to the team.&#xA0;
+Make sure new hires get the information, training, and support needed to connect with and start contributing to the team. 
 
 
 ## Easily add new hires to a team work space

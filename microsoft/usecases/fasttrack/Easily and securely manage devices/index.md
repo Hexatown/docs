@@ -10,7 +10,7 @@ icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/easily-and-securely-manage-devices
 ---
 The use of personal devices for work, in addition to the increase in the number of employees who work outside the office, is changing how organizations manage mobile devices.
-Windows 10 helps to manage devices efficiently and cost effectively while reducing business disruptions, as you make new devices available to your employees. You can use the same management tools that you are familiar with today to manage all types of devices running Windows 10&#x2014;including traditional desktops, laptops, and tablets. Support for traditional deep manageability is available through technologies like Active Directory, Group Policy, and System Center Configuration Manager, and modern management that uses cloud-based device management solutions such as Microsoft Enterprise Mobility + Security (EMS).
+Windows 10 helps to manage devices efficiently and cost effectively while reducing business disruptions, as you make new devices available to your employees. You can use the same management tools that you are familiar with today to manage all types of devices running Windows 10 including traditional desktops, laptops, and tablets. Support for traditional deep manageability is available through technologies like Active Directory, Group Policy, and System Center Configuration Manager, and modern management that uses cloud-based device management solutions such as Microsoft Enterprise Mobility + Security (EMS).
 
 
 ## Manage identity and access in the cloud

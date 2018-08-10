@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/streamline-lab-operations-while-ensuring-compliance
 ---
-Improve your lab&#x2019;s testing operations and ensure regulatory compliance by using powerful, modern devices.
+Improve your lab s testing operations and ensure regulatory compliance by using powerful, modern devices.
 
 
 ## Access lab results digitally for efficiency and compliance

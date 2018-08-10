@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/easily-visualize-workforce-diversity-data
 ---
-Evaluate your company&#x2019;s diversity data more easily with compelling visualizations and dashboards.
+Evaluate your company s diversity data more easily with compelling visualizations and dashboards.
 
 
 ## Transform workforce data into actionable insights

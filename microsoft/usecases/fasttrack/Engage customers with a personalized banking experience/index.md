@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/engage-customers-with-a-personalized-banking-experience
 ---
-Use secure, light, and mobile Windows 10 devices and integrated Office 365 apps to step out from behind your desk and bring full-service banking to your customers wherever they are&#x2014;such as in the bank lobby or at their location.
+Use secure, light, and mobile Windows 10 devices and integrated Office 365 apps to step out from behind your desk and bring full-service banking to your customers wherever they are such as in the bank lobby or at their location.
 
 
 ## Break away from your desk to help customers

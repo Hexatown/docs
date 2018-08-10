@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/find-expertise-and-resources-by-using-social-networks
 ---
-Tap&#xA0;into enterprise social media to learn how to accommodate special needs in the classroom, find subject-matter experts, and other resources to improve classroom instruction.
+Tap into enterprise social media to learn how to accommodate special needs in the classroom, find subject-matter experts, and other resources to improve classroom instruction.
 
 
 ## Engage in a district-wide dialogue

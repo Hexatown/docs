@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/broadcast-company-town-halls-to-engage-employees-remotely
 ---
-Bring your company&#x2019;s local and remote employees together for a &quot;town hall&quot; meeting to engage employees at every level.
+Bring your company s local and remote employees together for a &quot;town hall&quot; meeting to engage employees at every level.
 
 
 ## Host a company-wide meeting from anywhere

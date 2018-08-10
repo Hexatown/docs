@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/monitor-and-communicate-about-business-performance
 ---
-Track and analyze business performance from anywhere, on any&#xA0;device, and securely share trends with business managers for immediate action.
+Track and analyze business performance from anywhere, on any device, and securely share trends with business managers for immediate action.
 
 
 ## Turn business data into visible insights

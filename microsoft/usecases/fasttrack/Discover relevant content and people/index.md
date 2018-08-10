@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/discover-relevant-content-and-people
 ---
-Delve surfaces the&#xA0;people and content most relevant to your work based on what you&#x2019;re working on, who you&#x2019;re working with, and what is trending. Through an intuitive card-based interface, Delve creates a personalized view of what&#x2019;s happening around you.
+Delve surfaces the people and content most relevant to your work based on what you re working on, who you re working with, and what is trending. Through an intuitive card-based interface, Delve creates a personalized view of what s happening around you.
 
 
 ## Discover and be discovered

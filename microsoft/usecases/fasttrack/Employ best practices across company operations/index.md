@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/employ-best-practices-across-company-operations
 ---
-Leverage company-wide experience to capture best practices and share them across&#xA0;the organization.
+Leverage company-wide experience to capture best practices and share them across the organization.
 
 
 ## Store and share guidance in a central location

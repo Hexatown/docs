@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/work-in-email-solo-or-as-a-group
 ---
-Microsoft Exchange Online is your email and calendaring backbone that helps you collaborate in the &#x2018;we&#x2019; space through the same familiar Outlook environment that you use in the &#x2018;me&#x2019; space. Exchange Online lets you accomplish more and work more effectively with consistent, rich Outlook experiences, no matter what device you&#x2019;re on.
+Microsoft Exchange Online is your email and calendaring backbone that helps you collaborate in the  we  space through the same familiar Outlook environment that you use in the  me  space. Exchange Online lets you accomplish more and work more effectively with consistent, rich Outlook experiences, no matter what device you re on.
 
 
 ## Personalize your inbox

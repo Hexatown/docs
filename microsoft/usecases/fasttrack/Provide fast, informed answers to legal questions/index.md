@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/provide-fast-informed-answers-to-legal-questions
 ---
-Easily and instantly access knowledge and expertise to respond effectively to a client&apos;s legal&#xA0;question.
+Easily and instantly access knowledge and expertise to respond effectively to a client&apos;s legal question.
 
 
 ## Leverage your firm's collective knowledge

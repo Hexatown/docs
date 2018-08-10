@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/share-sites-and-content
 ---
-SharePoint powers sharing and collaboration on the intranet. Build sites and portals that engage people, connecting them to expertise, content, actionable insights and collective knowledge. Drive organizational efficiency by sharing applications that streamline processes. Manage and share files or folders&#x2014;within team sites or intranet sites, and inside or outside your organization.
+SharePoint powers sharing and collaboration on the intranet. Build sites and portals that engage people, connecting them to expertise, content, actionable insights and collective knowledge. Drive organizational efficiency by sharing applications that streamline processes. Manage and share files or folders within team sites or intranet sites, and inside or outside your organization.
 
 
 ## Create a team site

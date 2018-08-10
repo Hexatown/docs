@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/prepare-and-manage-an-rfp-or-proposal
 ---
-Bring your team together to draft a winning request or response and earn a customer&#x2019;s future business.
+Bring your team together to draft a winning request or response and earn a customer s future business.
 
 
 ## Set up an RFP/Proposal Generation team environment

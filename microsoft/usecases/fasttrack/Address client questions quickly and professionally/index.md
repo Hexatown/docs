@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/address-client-questions-quickly-and-professionally
 ---
-Easily and instantly access knowledge and expertise to respond effectively to a client question about industry standards and requirements.&#xA0;
+Easily and instantly access knowledge and expertise to respond effectively to a client question about industry standards and requirements. 
 
 
 ## Leverage cross-company know-how

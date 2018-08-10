@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/build-a-cohesive-sales-team-to-meet-and-beat-revenue-targets
 ---
-Leverage digital collaboration and performance tools to bring sales reps together in a cohesive sales team that consistently meets and exceeds targets. &#xA0;
+Leverage digital collaboration and performance tools to bring sales reps together in a cohesive sales team that consistently meets and exceeds targets.  
 
 
 ## Quickly assess how your team is progressing against forecasts

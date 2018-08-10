@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/produce-winning-rfps-faster
 ---
-Accelerate&#xA0;responses to requests for proposals (RFPs) by getting input from topic experts faster and by uncovering relevant content and reusable components of existing RFPs to iterate faster and win more business.
+Accelerate responses to requests for proposals (RFPs) by getting input from topic experts faster and by uncovering relevant content and reusable components of existing RFPs to iterate faster and win more business.
 
 
 ## Uncover existing templates

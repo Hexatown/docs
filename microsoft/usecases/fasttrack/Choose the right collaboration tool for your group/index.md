@@ -9,8 +9,8 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/choose-the-right-collaboration-tool-for-your-group
 ---
-Collaboration is how work gets done. When we look at how companies are working today, we see a myriad of tools in use, and a variety of work cultures, across geographies and generations.&#xA0;
-We&#x2019;ve designed Office 365 to meet the unique needs of every group. Together, the product suite creates a holistic collaboration solution.
+Collaboration is how work gets done. When we look at how companies are working today, we see a myriad of tools in use, and a variety of work cultures, across geographies and generations. 
+We ve designed Office 365 to meet the unique needs of every group. Together, the product suite creates a holistic collaboration solution.
 
 
 ## Which tool is right for your group?

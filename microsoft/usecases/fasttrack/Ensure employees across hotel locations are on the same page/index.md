@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/ensure-employees-across-hotel-locations-are-on-the-same-page
 ---
-Communicate news across the hotel chain and encourage feedback so that&#xA0;employees feel connected and loyal to the organization and brand.
+Communicate news across the hotel chain and encourage feedback so that employees feel connected and loyal to the organization and brand.
 
 
 ## Deliver company announcements personally

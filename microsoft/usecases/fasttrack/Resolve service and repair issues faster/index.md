@@ -9,7 +9,7 @@ color: #777777
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 externalref: https://www.microsoft.com/en-us/microsoft-365/success/productivitylibrary/resolve-service-and-repair-issues-faster
 ---
-Shorten resolution time in the field&#xA0;by easily accessing equipment repair information and to product experts.
+Shorten resolution time in the field by easily accessing equipment repair information and to product experts.
 
 
 ## Share and store service guidance in a central location
