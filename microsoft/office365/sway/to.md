@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 'A e ngaahi fakamatala hoko-lahi 'o e kau
-{% kau compliance.html %}
+
 

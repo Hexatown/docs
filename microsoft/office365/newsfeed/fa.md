@@ -10,5 +10,5 @@ translator: Microsoft Cognitive Services
 ## اخبار سایت و یا Yammer
 دفتر 365 شامل دو گزینه برای تصدی ویژگی های اجتماعی: Yammer و اخبار سایت شیرپوینت. دنبال [شرکت فعال سازی] اگر Yammer تجربه اجتماعی خود را انتخاب کنید (https://support.office.com/en-us/article/Enterprise-Activation-process-4f924c74-87d2-49d0-a4f6-cba3ce2b0e7c) برای فعال کردن Yammer. پس از فعال سازی، کاشی Yammer در صفحه پورتال Office 365 و پرتاب برنامه ساخت آن آسان برای کاربران Office 365 برای رسیدن Yammer ظاهر می شود. همچنین اگر شبکه شما واجد شرایط کاربران در ورود به سیستم به Yammer حساب خود در Office 365 با استفاده از می توانید.
 
-{% شامل compliance.html %}
+
 

@@ -18,5 +18,5 @@ Machen, erhalten und geschäftliche Anrufe im Büro, zu Hause oder unterwegs mit
 ## Sicherheit, Kontrolle und Compliance
 Bekommen Sie End-to-End-Sicherheit, Kontrolle und Compliance, die sich vom Benutzer für das Unternehmen. Alle powered by Anforderungs-Skala und Verwaltbarkeit 
 
-{% gehören compliance.html %}
+
 

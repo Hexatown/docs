@@ -18,5 +18,5 @@ Tehdä, ja vastaanottaakseen liike vaatii toimistossa, kotona tai tien päällä
 ## Turvallisuuteen, valvontaan ja vaatimustenmukaisuuden
 Päästä päähän suojauksen, valvontaan ja vaatimustenmukaisuuden tarkastamiseen, jotka kattavat käyttäjän yritys. Kaikki powered hallittavuutta ja tarvittaessa laajuus 
 
-{% ovat compliance.html %}
+
 

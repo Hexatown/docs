@@ -27,5 +27,5 @@ Perkhidmatan Data yang biasa adalah platform data selamat perniagaan yang dibina
 ## Perkhidmatan lanjutan data yang dibina betul-betul di
 Perkhidmatan Data yang biasa adalah platform data selamat perniagaan yang dibina ke dalam PowerApps. Ia datang dengan beratus-ratus entiti perniagaan standard yang telah ditetapkan, yang bererti bahawa sekarang semua apl anda boleh berkongsi sama takrif "pelanggan", "produk" "membawa", dan banyak lagi. Perkhidmatan ini juga merangkumi aliran kerja secara automatik dengan Microsoft Flow.
 
-{% termasuk compliance.html %}
+
 

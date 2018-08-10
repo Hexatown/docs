@@ -20,5 +20,5 @@ Räätälöidä Microsoftin Teams työtilan nopeasti keskeisiä palveluita, tutk
 
 
 
-{% ovat compliance.html %}
+
 

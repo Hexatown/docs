@@ -18,5 +18,5 @@ Wneud, derbyn, a trosglwyddo galwadau busnes yn y Swyddfa Gartref, neu ar y ffor
 ## Diogelwch, rheolaeth a chydymffurfiaeth
 Gael diogelwch i'r diwedd, rheolaeth a Chydymffurfiaeth sy'n rhychwantu gan y defnyddiwr i'r fenter. Oll wedi'u pweru gan raddfa ar alw a hydrinedd 
 
-{% yn cynnwys compliance.html %}
+
 

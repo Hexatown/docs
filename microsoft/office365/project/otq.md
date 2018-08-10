@@ -18,7 +18,7 @@ Integración ko ya bo̲jä nu'u̲ colaboración komongu Skype pa ya negocios ne 
 # Ya nt'ent'i mäs inteligentes 
 Mfädi incorporados ne bo̲jä nu'u̲ BI bí permiten visualizar datos pa da 'nar idea a través de 'yot'e, ar programas ne ar carpetas ne da nt'ent'i mäs informadas. 
 
-{% incluyen compliance.html %}
+
 
 
 

@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Nākamās gen prezentācijas
-{% ietver compliance.html %}
+
 

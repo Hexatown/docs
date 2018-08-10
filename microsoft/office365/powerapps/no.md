@@ -27,5 +27,5 @@ Den vanlige datatjenesten er en sikker business dataplattform bygd inn i PowerAp
 ## En avansert tjeneste innebygd i
 Den vanlige datatjenesten er en sikker business dataplattform bygd inn i PowerApps. Det inneholder hundrevis av standard bedrifter allerede definert, noe som betyr at nå alle apps kan dele samme definisjonen av "kunde", "produkt," "lede" og mer. Tjenesten omfatter også arbeidsflytautomatisering med Microsoft Flow.
 
-{% inkluderer compliance.html %}
+
 

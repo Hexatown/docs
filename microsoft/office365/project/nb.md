@@ -18,7 +18,7 @@ Sømløs integrasjon med samarbeidsverktøy som Skype for forretnings- og Yammer
 ## Lage smartere avgjørelser 
 Innebygde rapporter og BI-verktøy kan du visualisere data for å få innsikt på tvers av prosjekter, programmer og porteføljer og ta bedre beslutninger. 
 
-{% inkluderer compliance.html %}
+
 
 
 

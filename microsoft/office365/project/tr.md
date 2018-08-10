@@ -18,7 +18,7 @@ Skype iş ve ağlamak için takım çalışması teşvik eder ve sonuçta projel
 ## Daha akıllı kararlar 
 Yerleşik raporlar ve BI araçları projeleri, programları ve portföyleri arasında ilgili bilgi sahibi olmak veri görselleştirmek ve daha bilinçli kararlar sağlar. 
 
-{% dahil compliance.html %}
+
 
 
 

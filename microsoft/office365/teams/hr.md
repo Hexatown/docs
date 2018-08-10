@@ -20,5 +20,5 @@ Prilagoditi radni prostor Microsoft Teams za brzo pristup ključnim uslugama, is
 
 
 
-{% uključuju compliance.html %}
+
 

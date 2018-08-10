@@ -18,5 +18,5 @@ Fer, rebre i transmetre negoci de trucades a l'oficina, a casa, o a la carretera
 # # Seguretat, Control i compliment
 Aconseguir seguretat-to-end, control i compliment que abasten des de l'usuari a l'empresa. Tot alimentat per l'escala de damunt demanda i manejabilitat 
 
-{% inclouen compliance.html %}
+
 

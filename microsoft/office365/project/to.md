@@ -18,7 +18,7 @@ Fakataha'i seamless tohi kole ki mo e ngaahi me'angaue fengaue'aki hange ko Skyp
 ## Fai e poto 'o e ngaahi fili 
 'I 'o e ngaahi lipoti mo e ngaahi me'angaue 'oku poto tuku koe ke ke sioloto ki he ngaahi fakamatala ke ma'u ha 'ilo ki he ngaahi ngaue, ngaahi polokalama, mo e ponite, mo fai ha ngaahi fili fakapotopoto ange. 
 
-{% kau compliance.html %}
+
 
 
 

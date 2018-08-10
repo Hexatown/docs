@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Ho avy-gen famelabelarana
-{% dia ahitana compliance.html %}
+
 

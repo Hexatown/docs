@@ -27,5 +27,5 @@ E ngaue angamaheni 'o e ngaahi fakamatala ko ha tau'anga fakamatala pisinisi mal
 ## Ko ha ngaue tokoni 'o e fakamatala fakalakalaka langa to'omata'u 'i
 E ngaue angamaheni 'o e ngaahi fakamatala ko ha tau'anga fakamatala pisinisi malu ne langa ki he PowerApps. 'Oku ma'u ia 'i ha laungeau 'o e ngaahi kautaha pisinisi angamaheni kuo 'osi fakamatala'i, 'a ia 'oku 'uhinga ia he taimi ni 'e lava ke vahevahe 'e ho'o apps kotoa pe 'a e faka'uhinga tatau 'o e "kasitoma", "koloa," "tataki", pea ko e lahi ange. Na'e kau foki ai e ngaue tokoni 'a e pule 'a e workflow mo e Flow ki he Microsoft.
 
-{% kau compliance.html %}
+
 

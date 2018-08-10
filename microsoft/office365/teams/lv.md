@@ -20,5 +20,5 @@ Pielāgot Microsoft Teams darbvietas, ātri piekļūt pamatpakalpojumiem, izpēt
 
 
 
-{% ietver compliance.html %}
+
 

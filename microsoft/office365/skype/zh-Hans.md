@@ -18,5 +18,5 @@ translator: Microsoft Cognitive Services
 安全、控制和法规遵从性
 获得从用户到企业的端到端安全、控制和遵从性。全部由按需规模和可管理性提供动力
 
-{% 包括 compliance.html%}
+
 

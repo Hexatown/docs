@@ -20,5 +20,5 @@ Microsoft দল ইন্টার ডেমো শুরু
 
 
 
-{% অন্তর্ভুক্ত করে compliance.html %}
+
 

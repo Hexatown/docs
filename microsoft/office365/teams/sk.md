@@ -20,5 +20,5 @@ Prispôsobte svoj pracovný priestor Microsoft Teams rýchlo získať prístup k
 
 
 
-{% patria compliance.html %}
+
 

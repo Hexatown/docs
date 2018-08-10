@@ -18,7 +18,7 @@ L-integrazzjoni bla saldaturi b ' għodod ta ' kollaborazzjoni bħal Skype għal
 ## Jagħmlu deċiżjonijiet smarter 
 Rapporti built-in u żewġ Fuels għodda jħalluk visualize informazzjoni li jiksbu ħsieb tul proġetti, programmi, u il-portfolios, u jagħmlu deċiżjonijiet informati aktar. 
 
-{% jinkludu compliance.html %}
+
 
 
 

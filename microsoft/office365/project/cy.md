@@ -18,7 +18,7 @@ Di-dor o integreiddio gyda dulliau cydweithio fel Skype ar gyfer busnes a Yammer
 ## Wneud penderfyniadau doethach 
 Mae adroddiadau parod ac offer BI yn gadael i chi visualize data i gael golwg ar draws prosiectau, rhaglenni a portffolios, a gwneud penderfyniadau mwy gwybodus. 
 
-{% yn cynnwys compliance.html %}
+
 
 
 

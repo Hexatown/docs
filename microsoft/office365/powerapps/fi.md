@@ -27,5 +27,5 @@ Yhteinen tietopalvelu on turvallista yritysten tietoja foorumi rakennettu PowerA
 ## On kehittynyt tietojen palvelu sisäänrakennettuna,
 Yhteinen tietopalvelu on turvallista yritysten tietoja foorumi rakennettu PowerApps. Sen mukana tulee satoja standard liiketoimintayksiköissä jo määrittänyt, mikä tarkoittaa, että nyt kaikki ohjelmasi voi jakaa samaa määritelmää ”asiakas”, ”tuote”, ”johtaa” ja paljon muuta. Palvelu sisältää Työnkulun automatisointi Microsoft Flow.
 
-{% ovat compliance.html %}
+
 

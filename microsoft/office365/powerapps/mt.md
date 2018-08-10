@@ -27,5 +27,5 @@ Jifhmu l-problema tan-negozju? Issa inti tista tibni s-soluzzjoni. Xogħol fl-di
 ## ' Servizz ta ' informazzjoni avvanzata mibnija dritt fl
 -Servizz ta ' informazzjoni komuni hija pjattaforma tad-data tan-negozju sigur mibnija fis-PowerApps. Jiġi mal-mijiet ta ' l-entitajiet tan-negozju standard diġà definiti, li tfisser li issa l-applikazzjonijiet kollha tiegħek jistgħu jaqsmu l-istess definizzjoni tal-"klijent", "prodott," "twassal", u aktar. Is-servizz jinkludi wkoll xogol awtomazzjoni mal-Flow tal-Microsoft.
 
-{% jinkludu compliance.html %}
+
 

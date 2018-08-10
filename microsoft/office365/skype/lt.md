@@ -18,5 +18,5 @@ Padaryti, gauti ir Peradresuokite verslo skambučius biure, namuose ar kelyje, n
 ## Saugos, kontrolės ir atitikties
 Gauti iki galo apsaugą, valdymą ir atitiktį, aprėpiančią lygius nuo vartotojo iki įmonės. Visa tai pagal poreikį plėsti ir valdyti 
 
-{%, sudaro compliance.html %}
+
 

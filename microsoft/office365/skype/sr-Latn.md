@@ -18,5 +18,5 @@ Učinite, prijem i prenos poslovnih razgovora u kancelariji, kod kuće ili na pu
 ## Sigurnosti, kontrole i usklađenosti
 Se do kraja sigurnosti, kontrole i usklađenosti koje se nalaze na od korisnika da enterprise. Sve se napaja na zahtjev skale i pruža mogućnost upravljanja 
 
-{% uključuju compliance.html %}
+
 

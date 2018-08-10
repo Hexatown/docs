@@ -27,5 +27,5 @@ Den fælles Data Service er en sikker business dataplatform bygget ind i PowerAp
 ## En avanceret data service bygget lige i
 Den fælles Data Service er en sikker business dataplatform bygget ind i PowerApps. Det leveres med hundredvis af standard forretningsenheder allerede defineret, hvilket betyder, at nu alle dine apps kan dele den samme definition af "kunde", "produkt," "føre", og meget mere. Tjenesten indeholder også workflow-automatisering med Microsoft Flow.
 
-{% omfatter compliance.html %}
+
 

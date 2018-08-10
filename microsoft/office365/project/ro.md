@@ -18,7 +18,7 @@ Integrarea fără sudură cu instrumente de colaborare ca Skype pentru afaceri �
 ## Face mai inteligente decizii 
 Rapoarte predefinite şi instrumente de BI vă permit să vizualiza datele pentru a câştiga intuiţii peste proiecte, programe şi portofoliilor, şi să ia decizii mai informate. 
 
-{% includ compliance.html %}
+
 
 
 

@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Наступного покоління презентацій
-{% включають compliance.html %}
+
 

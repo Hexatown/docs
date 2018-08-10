@@ -20,5 +20,5 @@ Iakma ang iyong Microsoft Teams singaw para mabilis ma-access ang mga pangunahin
 
 
 
-{% isama ang compliance.html %}
+
 

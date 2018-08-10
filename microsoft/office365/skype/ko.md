@@ -18,5 +18,5 @@ translator: Microsoft Cognitive Services
 # # 보안, 제어 및 규정 준수
 엔드-투-엔드 보안, 제어 및 규정 준수는 사용자에서 기업에 얻을. 모든 온-디맨드 규모와 관리 효율성에 의해 구동 
 
-{% 포함 compliance.html %}
+
 

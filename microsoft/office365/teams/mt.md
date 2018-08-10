@@ -20,5 +20,5 @@ Nagħtu spazju fejn taħdem tiegħek-Microsoft Teams biex jaċċessaw is-servizz
 
 
 
-{% jinkludu compliance.html %}
+
 

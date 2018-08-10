@@ -27,5 +27,5 @@ Ny asa Fanompoana ny tahirin-Kevitra Mahazatra dia ny raharaham-barotra azo anto
 ## Ny asa fanompoana amin' ny tahirin-kevitra fahamendrehana miorina tsara ao amin' ny
 Ny asa Fanompoana ny tahirin-Kevitra Mahazatra dia ny raharaham-barotra azo antoka ny tahirin-kevitra fitaovam-pifandraisana ampiasaina ao anatin' ny PowerApps. Tafiditra amin' ny an-jatony fandraharahana fenitra ireo rafitra efa namaritra, izay midika fa ankehitriny ny applications rehetra afaka mizara ny famaritana ny "mpanjifa" mitovy, "fitaovana," "hitarika" ary bebe kokoa. Ny fanompoana dia ahitana ihany koa amin' ny fizorana pandehatenany amin' ny Microsoft Flow.
 
-{% dia ahitana compliance.html %}
+
 

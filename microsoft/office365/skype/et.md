@@ -18,5 +18,5 @@ Teha, saada ja Siirda äri kontoris, kodus või kasutades telefoni, arvuti ja mo
 # Turvalisuse, kontrolli- ja
 Otsast-otsani julgeoleku-, kontrolli- ja vastavusmeetmeid, mis ulatuvad üle ettevõttele kasutaja saada. Kõik tootja nõudmisel ulatuse ja hallatavus 
 
-{% kuuluvad compliance.html %}
+
 

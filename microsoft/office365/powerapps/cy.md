@@ -27,5 +27,5 @@ Y Gwasanaeth Data cyffredin yn llwyfan data sicrhau busnes a adeiladwyd i mewn i
 ## Gwasanaeth data uwch adeiladu dde yn
 Y Gwasanaeth Data cyffredin yn llwyfan data sicrhau busnes a adeiladwyd i mewn i PowerApps. Daw cannoedd o endidau busnes safonol wedi'u diffinio'n barod, sy'n golygu bod bellach yn gallu eich apiau yn rhannu yr un diffiniad o "cwsmer", "cynnyrch," "arweiniol", a mwy. Mae'r gwasanaeth hefyd yn cynnwys awtomeiddio llif gwaith gyda Microsoft Flow.
 
-{% yn cynnwys compliance.html %}
+
 

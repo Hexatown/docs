@@ -18,7 +18,7 @@ Bezproblemowa integracja z narzędzi współpracy, takich jak Skype for Business
 ## Podejmować lepsze decyzje 
 Wbudowanych raportów i narzędzia BI umożliwiają wizualizowanie danych wgląd w projektów, programów i portfeli i podejmowanie bardziej świadomych decyzji. 
 
-{% obejmują compliance.html %}
+
 
 
 

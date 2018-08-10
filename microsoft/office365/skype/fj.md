@@ -18,5 +18,5 @@ Cakava, ciqoma, ka vakauta na veikacivi ni bisinisi mai na valenivolavola, e val
 ## Taqomaki, na lewa kei na kena vakamuri
 Mo taqomaki ni mua-ki na ivakataotioti, na lewa kei na vakaveitarataravi ka teteva yani mai na vakayagataki ni veivakatorocaketaki. Kece na vakaukauwataki mai na ivakarau ni ena gadrevi-vakalevu kei na manageability 
 
-{% e oka kina na compliance.html %}
+
 

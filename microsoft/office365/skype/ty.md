@@ -18,5 +18,5 @@ Rave i te, farii i te, e ia hapono i te mau piiraa o te ohipa i roto i te piha, 
 ## Te paruru, te mana e te haapaoraa
 Te parururaa i te pae hopea, i te hopea, te haavi e te haapaoraa e te pue mai roto mai i te taata e faaohipa i te taiete. Atoa i te te ia faitohia i nia i te titau e i te manageability 
 
-{% te mau compliance.html %}
+
 

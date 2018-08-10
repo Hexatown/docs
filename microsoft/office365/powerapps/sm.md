@@ -27,5 +27,5 @@ Le auaunaga masani o le faamatalaga o le tulaga o le faamaumauga o se pisinisi m
 # # Se auaunaga o le faamatalaga o le tulaga maualuga e fausia sao i
 Le auaunaga masani o le faamatalaga o le tulaga o le faamaumauga o se pisinisi malupuipuia fausia i PowerApps. E oo mai le faitau selau o itutino o le pisinisi o le tulaga faatonuina ua faauigaina, o lona uiga o le taimi nei e mafai ona faasoa atu e lau polokalama uma o le tasi faauigaga o le "tagata faatau", "oloa," "taitaia", ma sili atu. O loo aofia ai foi i le auaunaga automation o le gasologa o le galuega i le Microsoft Flow.
 
-{% e aofia ai compliance.html %}
+
 

@@ -27,5 +27,5 @@ Na ivakarau ni veiqaravi ni itukutuku e dua na vatavata ni itukutuku ni taqomaki
 ## E dua na veiqaravi ni itukutuku ni Torocake tara dodonu ena
 Na ivakarau ni veiqaravi ni itukutuku e dua na vatavata ni itukutuku ni taqomaki na bisinisi tara ki na PowerApps. E yaco mai vata kei na vica na drau na veivakavatukani ni bisinisi tudei ka vakamacalataki oti, ka kena ibalebale ni gauna oqo ni nomu apps kece e rawa ni wasea na ivakamacala vata ga ni "dauveivoli", "ivoli," "tuberi", ka vakalevu cake. Na veiqaravi e okati talega kina na automation ni workflow ena Microsoft Flow.
 
-{% e oka kina na compliance.html %}
+
 

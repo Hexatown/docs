@@ -27,5 +27,5 @@ Sèvis enfòmasyon komen se yon biznis san danje done platfòm te konstwi nan Po
 ## Yon sèvis done avanse ki te konstwi dwat nan
 Sèvis enfòmasyon komen se yon biznis san danje done platfòm te konstwi nan PowerApps. Li vini ak dè santèn de estanda biznis òganizasyon ki defini deja, sa vle di sa koulye a, tout applications ou kapab pataje menm definisyon de "kliyan", "pwodwi," "mennen": li pi plis. Sèvis la gen ladan automatisation workflow ak Flow Microsoft.
 
-{% genyen ladan yo compliance.html %}
+
 

@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 다음-겐 프레 젠 테이 션
-{% 포함 compliance.html %}
+
 

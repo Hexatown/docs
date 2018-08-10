@@ -27,5 +27,5 @@ Die algemene Data diens is 'n beveiligde onderneming data platform gebou in Powe
 ## 'N gevorderde data diens gebou regs in
 Die algemene Data diens is 'n beveiligde onderneming data platform gebou in PowerApps. Dit kom met honderde standaard besigheid entiteite reeds gedefinieer, wat beteken dat nou al jou toepassings kan die dieselfde definisie van "kliënt" deel, "produk," "lei", en meer. Die diens sluit ook workflow Outomatisasie met Microsoft Flow.
 
-{% sluit in compliance.html %}
+
 

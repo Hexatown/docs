@@ -20,5 +20,5 @@ Sníða Microsoft-hópvinnusvæðið að fljótlegri aðgang að lykilþjónustu
 
 
 
-{% hafa compliance.html%}
+
 

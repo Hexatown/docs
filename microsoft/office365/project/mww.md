@@ -18,7 +18,7 @@ Seamless xws li cov tswv yim cuab yeej xws li Skype rau cov lag luam thiab Yamme
 ## Txim smarter 
 Built-in ntaub ntawv thiab lwm yam cuab yeej BI pub koj pom tau cov ntaub ntawv kom tau insights hla tej yaam num, cov kev pab cuam thiab portfolios, thiab muab kev txiav txim qhia ntxiv. 
 
-{% muaj xws li compliance.html %}
+
 
 
 

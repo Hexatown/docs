@@ -18,5 +18,5 @@ Thực hiện, nhận và chuyển cuộc gọi doanh nghiệp trong văn phòng
 ## An ninh, kiểm soát và tuân thủ
 Tới bảo mật end-to-end, kiểm soát và tuân thủ mà span từ người dùng doanh nghiệp. Tất cả được tài trợ bởi quy mô theo yêu cầu và manageability 
 
-{% bao gồm compliance.html %}
+
 

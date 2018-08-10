@@ -27,5 +27,5 @@ Mõista äri probleemi? Nüüd saad lahendus. Visuaalsete designer kohandada tä
 # On arenenud Internetti sisse ehitatud,
 Ühine andmete teenus on turvata andmete platvormi PowerApps sisse ehitatud. Tegemist on sadade standard majandusüksuste juba määratletud, mis tähendab, et nüüd kõigis rakendustes saate jagada sama mõistet "klient", "toote" "juhtiv" ja palju muud. Teenus sisaldab töövoo automaatika koos Microsoft Flow.
 
-{% kuuluvad compliance.html %}
+
 

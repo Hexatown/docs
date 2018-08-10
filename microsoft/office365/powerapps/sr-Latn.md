@@ -27,5 +27,5 @@ Uobičajenih podataka usluga je sigurnu poslovnu platformu podataka ugrađen u P
 ## Usluge na napredne podataka izgradili pravo u
 Uobičajenih podataka usluga je sigurnu poslovnu platformu podataka ugrađen u PowerApps. To dolazi sa stotinama standardni poslovni entiteti već definisana, što znači da to sada svih vaših aplikacija mogu da dele istu definiciju „kupac”, „proizvod”, „vodi” i slično. Servis obuhvata i toka posla za automatizaciju Microsoft Flow.
 
-{% uključuju compliance.html %}
+
 

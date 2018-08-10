@@ -27,5 +27,5 @@ Il servizio di dati comuni è una piattaforma di dati business sicuro costruita 
 # # Un servizio dati avanzato costruito a destra in
 Il servizio di dati comuni è una piattaforma di dati business sicuro costruita in PowerApps. Si tratta con centinaia di entità di business standard già definite, che significa che ora tutte le tue applicazioni possono condividere la stessa definizione di "cliente", "prodotto", "piombo" e molto altro. Il servizio comprende anche l'automazione del flusso di lavoro con Microsoft Flow.
 
-{% include compliance.html %}
+
 

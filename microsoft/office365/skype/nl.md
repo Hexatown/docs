@@ -18,5 +18,5 @@ Maken, ontvangen en overdracht van zakelijke gesprekken in het kantoor, thuis of
 ## Veiligheids-, controle- en handhavingsmaatregelen
 End-to-end beveiliging-, controle- en handhavingsmaatregelen die zich uitstrekken van de gebruiker aan de onderneming krijgen. Allemaal aangedreven door de op afroep schaal en beheerbaarheid 
 
-{% omvatten compliance.html %}
+
 

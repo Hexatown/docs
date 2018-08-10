@@ -18,7 +18,7 @@ Integración con herramientas de colaboración como Skype para los negocios y Ya
 ## Decisiones más inteligentes 
 Informes incorporados y herramientas de BI le permiten visualizar datos para hacerse una idea a través de proyectos, programas y carpetas y tomar decisiones más informadas. 
 
-{% incluyen compliance.html %}
+
 
 
 

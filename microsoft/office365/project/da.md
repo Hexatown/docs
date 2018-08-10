@@ -18,7 +18,7 @@ Problemfri integration med samarbejdsværktøjer som Skype for Business og hyle 
 ## Træffe smartere beslutninger 
 Indbyggede rapporter og BI-værktøjer lader dig visualisere data for at opnå indsigt på tværs af projekter, programmer og porteføljer, og træffe mere informerede beslutninger. 
 
-{% omfatter compliance.html %}
+
 
 
 

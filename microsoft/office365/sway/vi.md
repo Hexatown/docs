@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Bài thuyết trình kế tiếp-gen
-{% bao gồm compliance.html %}
+
 

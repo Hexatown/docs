@@ -20,5 +20,5 @@ Skreddersy Microsoft Teams arbeidsområdet raskt tilgang til viktige tjenester, 
 
 
 
-{% inkluderer compliance.html %}
+
 

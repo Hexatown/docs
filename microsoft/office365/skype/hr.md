@@ -18,5 +18,5 @@ Da, primanje i prijenos posla u uredu, kod kuće ili na putu koristeći telefon,
 ## Sigurnost, kontrolu i usklađenost
 Dobiti kraja na sigurnost, kontrolu i usklađenost koji obuhvaćaju od korisnika na Enterprise. Sve to pokreće na zahtjev razmjera i upravljivost 
 
-{% uključuju compliance.html %}
+
 

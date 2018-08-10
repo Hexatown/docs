@@ -18,7 +18,7 @@ Seamless faaoraa i te tahoeraa te mau mauhaa mai te Skype no te ohipa putu faufa
 ## Rave i te mea maramarama ae i te mau faaotiraa 
 E vaiiho i te mau mutu ore e te mau mauhaa BI outou hioraa i te parau no te farii i te mau manao na roto i te mau opuaraa ohipa, te mau faanahoraa, e te portfolios, e ia rave i te mau faaotiraa hau atu i te maramarama. 
 
-{% te mau compliance.html %}
+
 
 
 

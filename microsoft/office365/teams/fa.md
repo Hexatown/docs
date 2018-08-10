@@ -20,5 +20,5 @@ translator: Microsoft Cognitive Services
 
 
 
-{% شامل compliance.html %}
+
 

@@ -27,5 +27,5 @@ El servicio de datos común es una plataforma de datos segura negocio construida
 ## Un servicio avanzado de datos construido justo en
 El servicio de datos común es una plataforma de datos segura negocio construida en PowerApps. Viene con cientos de entidades de negocio estándar ya definidas, que significa que ahora todos tus aplicaciones pueden compartir la misma definición de "cliente", "producto", "conducir" y mucho más. El servicio también incluye la automatización de flujo de trabajo con Microsoft Flow.
 
-{% incluyen compliance.html %}
+
 

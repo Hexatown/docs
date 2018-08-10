@@ -20,5 +20,5 @@ Personnaliser votre espace de travail Microsoft Teams pour rapidement accéder a
 
 
 
-{% include compliance.html %}
+
 

@@ -27,5 +27,5 @@ Sameiginleg Gagnaþjónusta er öruggur viðskiptagagnapallur innbyggður í pow
 # # Ítarleg Gagnaþjónusta byggð rétt í
 Sameiginleg Gagnaþjónusta er öruggur viðskiptagagnapallur innbyggður í powerapps. Það fylgja hundruð staðallegra viðskiptaeininga sem þegar eru skilgreindar, sem þýðir að nú geta öll forritin deilt sömu skilgreiningu á "viðskiptavinur," "vara," "leiða," og fleira. Þjónustan felur einnig í sér verkflæði sem er sjálfvirkni með Microsoft Flow.
 
-{% hafa compliance.html%}
+
 

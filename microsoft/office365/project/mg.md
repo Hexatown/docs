@@ -18,7 +18,7 @@ Tohizo mahomby miaraka amin' ny fitaovana narafitra tahaka namporisika ny fiarah
 ## Fanapahan-kevitra mahira-tsaina 
 Efa tatitra sy fitaovana BI hamela anao haka sary an-tsaina ny tahirin-kevitra mba hahazoana hevi-baovao manerana ny tetikasa, fandaharan' asa ary portfolios, ary bebe kokoa ny maka fanapahan-kevitra. 
 
-{% dia ahitana compliance.html %}
+
 
 
 

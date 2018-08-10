@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Yeni nesil sunumlar
-{% dahil compliance.html %}
+
 

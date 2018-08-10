@@ -18,5 +18,5 @@ Manao sy mandray ary hamindra miantso ny raharaham-barotra ao amin' ny anjara fa
 ## Fiarovana, Fifehezana sy Fankatoavana
 Mahazo fiarovana farany-ny-farany, fifehezana sy fankatoavana izay span avy amin' ny mpampiasa amin' ny tetikasa. Rehetra ampandehanin' ny mari-drefy eo sy ny manageability 
 
-{% dia ahitana compliance.html %}
+
 

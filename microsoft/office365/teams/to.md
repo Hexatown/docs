@@ -20,5 +20,5 @@ Fakafe'unga'i ho'o workspace ki he Microsoft Teams ke lava 'o hu ki ha ngaahi to
 
 
 
-{% kau compliance.html %}
+
 

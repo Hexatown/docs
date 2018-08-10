@@ -18,5 +18,5 @@ Gi 'yo̲t'e, ga hä ne transferir llamadas negocios ko ar oficina, jar ngú wa a
 # Ts'ut'ubi, Control ne ntsoni
 Da ntsuni extremo ma extremo, control ne ntsoni da abarcan ndezu̲ ar usuario 'na jar empresa. Ga̲tho ya escala ya demanda ne ya mfeni Ntsuni 
 
-{% incluyen compliance.html %}
+
 

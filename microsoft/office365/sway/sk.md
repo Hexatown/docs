@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Next-gen prezentácie
-{% patria compliance.html %}
+
 

@@ -18,7 +18,7 @@ Bešavne integracije sa alatkama za saradnju kao Skype za biznis i Yammer ohrabr
 ## Donošenje kvalitetnijih odluka 
 Ugrađeni izveštaje i alate BI vam omogućavaju da prikazivanje podataka da stekne saznanja kroz projekte, programe i portfolia, i više donošenje odluke. 
 
-{% uključuju compliance.html %}
+
 
 
 

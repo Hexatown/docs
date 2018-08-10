@@ -18,5 +18,5 @@ Effettuare, ricevere e trasferire chiamate di lavoro in ufficio, a casa o sulla 
 # # Sicurezza, controllo e conformità
 È possibile ottenere protezione end-to-end, di controllo e di conformità che si estendono dall'utente per l'impresa. Il tutto alimentato dalla scala su richiesta e gestibilità 
 
-{% include compliance.html %}
+
 

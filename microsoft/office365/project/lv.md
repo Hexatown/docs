@@ -18,7 +18,7 @@ Bezšuvju integrāciju ar sadarbības instrumentus, piemēram, Skype biznesa un 
 # # Pieņemtu gudrus lēmumus 
 Iebūvētās atskaites un BI rīki ļauj vizualizēt datus, lai gūtu ieskatu visā projektus, programmas un portfeļu un pieņemtu daudz informētākus lēmumus. 
 
-{% ietver compliance.html %}
+
 
 
 

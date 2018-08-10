@@ -27,5 +27,5 @@ Huduma ya Data ya kawaida ni jukwaa za data biashara salama kujengwa ndani Power
 # Na huduma ya data pevu kujengwa haki katika
 Huduma ya Data ya kawaida ni jukwaa za data biashara salama kujengwa ndani PowerApps. Linakuja na mamia ya mashirika ya biashara ya kawaida ambayo tayari imefasiliwa, ambayo inamaanisha kwamba sasa programu zako wote wanaweza kushiriki ufafanuzi huo wa "wateja", "bidhaa," "kusababisha", na zaidi. Huduma ya pia ni pamoja na mtiririko wa kazi automatisering na Microsoft Flow.
 
-{% ni pamoja na compliance.html %}
+
 

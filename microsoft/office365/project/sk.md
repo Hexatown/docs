@@ -18,7 +18,7 @@ Bezproblémovú integráciu s collaboration nástroje ako Skype for Business a Y
 ## Prijímať inteligentnejšie rozhodnutia 
 BI nástroje a zabudovaných správ umožňujú vizualizovať údaje cez projekty, programy a portfóliá a uskutočňujte informovanejšie rozhodnutia. 
 
-{% patria compliance.html %}
+
 
 
 

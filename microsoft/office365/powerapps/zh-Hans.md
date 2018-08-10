@@ -27,5 +27,5 @@ translator: Microsoft Cognitive Services
 # # 一个高级数据服务内置在
 通用数据服务是建立在 PowerApps 中的安全业务数据平台。它涉及到数以百计的标准业务实体已经定义, 这意味着, 现在所有您的应用程序可以共享相同的定义 "客户", "产品", "铅" 等。该服务还包括与 Microsoft 流程的工作流自动化。
 
-{% 包括 compliance.html%}
+
 

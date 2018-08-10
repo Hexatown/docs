@@ -18,5 +18,5 @@ Gumawa, tumanggap at maglipat ng mga negosyo ang mga tawag sa mga opisina, sa ba
 # # Seguridad, kontrol at pagsunod
 Makakuha ng seguridad sa dulo sa dulo, kontrol at pagsunod na span mula sa mga gumagamit upang ang isang negosyo. Lahat na pinapatakbo ng mga kapag-kailangan timbangan at manageability 
 
-{% isama ang compliance.html %}
+
 

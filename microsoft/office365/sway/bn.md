@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 নেক্সট জেনারেশনের উপস্থাপনা
-{% অন্তর্ভুক্ত করে compliance.html %}
+
 

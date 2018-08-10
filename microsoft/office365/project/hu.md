@@ -18,7 +18,7 @@ Varrás nélküli egységbe rendezés-val együttműködési eszközök, mint a 
 ## Okosabb döntéseket 
 Beépített jelentések és a BI-eszközök segítségével adatok vonzók projektek, a programok és a mappákat, és megalapozottabb döntéseket. 
 
-{% közé tartozik a compliance.html %}
+
 
 
 

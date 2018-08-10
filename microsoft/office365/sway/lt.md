@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Kitΰ Genΰ pristatymai
-{%, sudaro compliance.html %}
+
 

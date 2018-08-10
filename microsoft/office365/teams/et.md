@@ -20,5 +20,5 @@ Kohandada oma Microsofti Teams tööruumi kiiresti juurdepääsu põhiteenustele
 
 
 
-{% kuuluvad compliance.html %}
+
 

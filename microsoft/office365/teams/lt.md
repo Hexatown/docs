@@ -20,5 +20,5 @@ Pritaikyti jūsų "Microsoft" Teams darbo greitai prieiti prie pagrindinių pasl
 
 
 
-{%, sudaro compliance.html %}
+
 

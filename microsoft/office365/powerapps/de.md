@@ -27,5 +27,5 @@ Die gemeinsamen Daten-Service ist eine sichere Business-Datenplattform PowerApps
 ## Eine erweiterte Datendienst gebaut direkt in
 Die gemeinsamen Daten-Service ist eine sichere Business-Datenplattform PowerApps eingebaut. Es kommt mit Hunderten von standard-Business-Einrichtungen bereits definiert, was bedeutet, dass jetzt alle Ihre apps können die gleiche Definition von "Kunde", "Produkt", "führen" und vieles mehr. Zum Service gehören auch Workflow-Automatisierung mit Microsoft Flow.
 
-{% gehören compliance.html %}
+
 

@@ -27,5 +27,5 @@ O serviço de dados comum é uma plataforma de dados de negócio seguro embutida
 # # Um serviço de dados avançada construído bem no
 O serviço de dados comum é uma plataforma de dados de negócio seguro embutida no PowerApps. Ele vem com centenas de entidades de negócios padrão já definidas, o que significa que agora todos os seus aplicativos podem compartilhar a mesma definição de "cliente", "produto", "liderar" e muito mais. O serviço também inclui a automação de fluxo de trabalho com Microsoft Flow.
 
-{% incluem compliance.html %}
+
 

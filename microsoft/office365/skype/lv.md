@@ -18,5 +18,5 @@ Izdarīt, saņemt un pārsūtīt biznesa zvanus, atrodoties birojā, mājās vai
 # # Drošības, kontroles un atbilstības
 Iegūt visaptverošas drošības, kontroles un priekšrakstu izpildes, kas aizņem no lietotāja uzņēmumā. Viss, kas darbina pieprasījuma apjomu un pārvaldāmību 
 
-{% ietver compliance.html %}
+
 

@@ -18,7 +18,7 @@ Ushirikiano imefumwa na zana za ushirikiano kama Skype kwa biashara na Yammer an
 # Kufanya maamuzi kunahusu 
 Ripoti za kijengwa-ndani na zana za BI basi wewe uonyeshe data kupata ufahamu katika miradi, programu na portfolios, na kufanya maamuzi ya busara zaidi. 
 
-{% ni pamoja na compliance.html %}
+
 
 
 

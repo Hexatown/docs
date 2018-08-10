@@ -18,5 +18,5 @@ Foretage, modtage og overføre forretningssamtaler på kontoret, hjemme eller p�
 ## Sikkerheds-, kontrol- og overensstemmelsesforanstaltninger
 Få ende til sikkerhed, kontrol- og overensstemmelsesforanstaltninger, der spænder fra brugeren til virksomheden. Alle drevet af bestillings-skala og administration 
 
-{% omfatter compliance.html %}
+
 

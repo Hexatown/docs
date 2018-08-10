@@ -18,7 +18,7 @@ Sklandus integravimas su įrankiais kaip "Skype" verslui ir "Yammer" skatina kom
 ## Priimti sumanesnius sprendimus 
 Integruotas ataskaitų ir BI įrankiai leidžia vizualizuoti duomenis suprasti projektus, programas ir portfelius, ir priimti labiau pagrįstus sprendimus. 
 
-{%, sudaro compliance.html %}
+
 
 
 

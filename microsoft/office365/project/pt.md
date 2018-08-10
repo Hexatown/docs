@@ -18,7 +18,7 @@ Total integração com ferramentas de colaboração como Skype para negócios e 
 # # Tomar decisões mais inteligentes 
 Relatórios internos e ferramentas de BI permitem que você visualize dados para obter informações sobre projetos, programas e portfólios e tomar decisões mais embasadas. 
 
-{% incluem compliance.html %}
+
 
 
 

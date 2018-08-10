@@ -18,5 +18,5 @@ Gera, taka við og flytja viðskiptasímtöl á skrifstofuna, heima eða á vegu
 # # öryggi, stýring og samræming
 Fá lokaöryggi, eftirlit og samræmi sem span frá notandanum að Enterprise. Allt knúið áfram af mælikvarða á eftirspurn og viðráðanleika 
 
-{% hafa compliance.html%}
+
 

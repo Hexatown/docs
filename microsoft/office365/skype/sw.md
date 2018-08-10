@@ -18,5 +18,5 @@ Kufanya, kupokea na kuhamisha biashara wito katika ofisi, nyumbani, au barabaran
 # Usalama, udhibiti na usimamizi wa
 Kupata usalama wa mwisho mwisho, udhibiti na makubaliano kwamba span kutoka kwa mtumiaji kwa biashara. Wote powered by kipimo cha juu-mahitaji na udhibiti 
 
-{% ni pamoja na compliance.html %}
+
 

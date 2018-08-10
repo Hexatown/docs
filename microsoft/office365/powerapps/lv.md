@@ -27,5 +27,5 @@ Kopējo datu pakalpojums nav drošu biznesa datu platformu, kas iebūvēta Power
 # # Iebūvēts papildu datu pakalpojums ir
 Kopējo datu pakalpojums nav drošu biznesa datu platformu, kas iebūvēta PowerApps. Tas nāk ar standarta biznesa vienības jau ir definēts, simtiem, kas nozīmē, ka tagad visiem jūsu progr var koplietot vienu un to pašu "klients" definīciju, "produkts", "vadošais", un daudz ko citu. Pakalpojums ietver arī darbplūsmai automatizācija Microsoft Flow.
 
-{% ietver compliance.html %}
+
 

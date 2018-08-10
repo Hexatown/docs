@@ -18,5 +18,5 @@ Prendre, recevoir et transférer les appels d’affaires au bureau, chez vous, o
 ## Sécurité, de contrôle et de conformité
 Téléchargez sécurité de bout en bout, de contrôle et de conformité qui s’étendent de l’utilisateur à l’entreprise. Tous alimentés par l’ampleur de la demande et la gérabilité 
 
-{% include compliance.html %}
+
 

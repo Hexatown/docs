@@ -18,7 +18,7 @@ translator: Microsoft Cognitive Services
 做出更明智的决定
 内置报告和 BI 工具让您可视化数据, 以便在项目、程序和组合中获得洞察力, 并做出更明智的决策。
 
-{% 包括 compliance.html%}
+
 
 
 

@@ -27,5 +27,5 @@ translator: Microsoft Cognitive Services
 # # 一個高級資料服務內置在
 通用資料服務是建立在 PowerApps 中的安全業務資料平臺。它涉及到數以百計的標準業務實體已經定義, 這意味著, 現在所有您的應用程式可以共用相同的定義 "客戶", "產品", "鉛" 等。該服務還包括與 Microsoft 流程的工作流自動化。
 
-{% 包括 HTTP://0.com%}
+
 

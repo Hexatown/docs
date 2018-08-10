@@ -18,5 +18,5 @@ Ia, maua, ma fesiitai ai i valaauga o le pisinisi i le ofisa, i le fale, po o i 
 # # Saogalemu, pulea ma usitaia
 Ia malupuipuia o le faaiuga i le iuga, pulea ma usitaia e umi atu mo mai le tagata faaaoga le pisinisi. Uma faamanaina e le i fua ma le manageability 
 
-{% e aofia ai compliance.html %}
+
 

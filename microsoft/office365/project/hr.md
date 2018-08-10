@@ -18,7 +18,7 @@ Integraciju s alate kao Skype za Yammer potiče timski rad i u konačnici daje b
 ## Napraviti pametnijim odluke 
 Ugrađenim izvještajima i BI alata omogućuju vizualizaciju podataka kako biste dobili uvid preko projekata, programa i portfelja i donošenje kvalitetnijih odluka. 
 
-{% uključuju compliance.html %}
+
 
 
 

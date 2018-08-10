@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 นำเสนอถัดไป gen
-{%รวม compliance.html %}
+
 

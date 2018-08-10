@@ -18,7 +18,7 @@ translator: Microsoft Cognitive Services
 做出更明智的決定
 內置報告和 BI 工具讓您視覺化資料, 以便在專案、程式和組合中獲得洞察力, 並做出更明智的決策。
 
-{% 包括 HTTP://0.com%}
+
 
 
 

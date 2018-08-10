@@ -18,5 +18,5 @@ Ua, tau txais, thiab xav hais lus ua hauj lwm hauv qhov chaw ua hauj lwm, tom ts
 ## Ruaj, tswj thiab ua raws cai
 Tau kawg-rau-kawg ruaj, tswj thiab ua raws cov cai uas tau saib ntsoov txog ntawm tus neeg siv rau cov enterprise. Tag nrho cov powered los ntawm cov kev-kom teev thiab manageability 
 
-{% muaj xws li compliance.html %}
+
 

@@ -18,7 +18,7 @@ Integrasi lancar dengan alat kerjasama seperti Skype dan Yammer menggalakkan usa
 ## Membuat keputusan yang bijak 
 Terbina dalam laporan dan alat-alat BI membenarkan anda menggambarkan data untuk mendapatkan wawasan di seluruh projek, program, dan portfolio, dan membuat keputusan lebih baik. 
 
-{% termasuk compliance.html %}
+
 
 
 

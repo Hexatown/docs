@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 سخنرانی های نسل بعدی
-{% شامل compliance.html %}
+
 

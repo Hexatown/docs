@@ -18,7 +18,7 @@ Integració sense costura amb eines de col·laboració com Skype per a negocis i
 # # Prendre decisions més intel ligent 
 Informes predefinits i BI eines permeten visualitzar dades per obtenir idees a través de projectes, programes i carteres i prendre decisions més informades. 
 
-{% inclouen compliance.html %}
+
 
 
 

@@ -18,5 +18,5 @@ Gjøre, motta og overføre virksomhet anrop på kontoret, hjemme eller på veien
 ## Sikkerhet, kontroll og overholdelse
 Få ende-til-ende-sikkerhet, kontroll og overholdelse som spenner fra brukeren til virksomheten. Alle drevet av behovsbetinget omfanget og administrasjon 
 
-{% inkluderer compliance.html %}
+
 

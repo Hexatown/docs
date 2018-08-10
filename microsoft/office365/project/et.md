@@ -18,7 +18,7 @@ Sujuv integratsioon koostööriistad nagu Skype'i äri- ja Yammeri soodustab mee
 # Targemate otsuste tegemiseks 
 Sisseehitatud aruannete ja BI tööriistad võimaldavad teil visualiseerida andmeid, et saada teadmisi projekte, programme ja portfelle ja teadlikumaid otsuseid. 
 
-{% kuuluvad compliance.html %}
+
 
 
 

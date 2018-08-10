@@ -27,5 +27,5 @@ Společná služba dat je bezpečné obchodní údaje platforma integrována do 
 ## Služby advanced data právě v
 Společná služba dat je bezpečné obchodní údaje platforma integrována do aplikace PowerApp. Je dodáván s stovky standardních podnikatelských subjektů již definována, což znamená, že nyní všechny aplikace mohou sdílet stejnou definici "zákazník", "výrobek", "vést" a mnoho dalšího. Služba zahrnuje také automatizace pracovního postupu s Microsoft Flow.
 
-{% patří compliance.html %}
+
 

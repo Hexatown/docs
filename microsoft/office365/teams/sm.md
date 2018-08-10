@@ -20,5 +20,5 @@ Fetuunai lau workspace o le Microsoft Teams e vave maua ai le tautua autu, saili
 
 
 
-{% e aofia ai compliance.html %}
+
 

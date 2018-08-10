@@ -18,5 +18,5 @@ Make, receive, and transfer business calls in the office, at home, or on the roa
 ## Security, Control and Compliance
 Get end-to-end security, control and compliance that span from the user to the enterprise. All powered by the on-demand scale and manageability 
 
-{% include compliance.html %}
+
 

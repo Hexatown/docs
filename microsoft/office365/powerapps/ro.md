@@ -27,5 +27,5 @@ Serviciul de date comune este o platformă de date sigure de afaceri construit �
 ## Serviciu de date avansate construit chiar în
 Serviciul de date comune este o platformă de date sigure de afaceri construit în PowerApps. It a veni cu sute de entitati de standard business deja definite, ceea ce înseamnă că acum toate aplicaţiile pot împărtăşi aceeaşi definiţie de "client", "produs", "duce", şi mai mult. Serviciul include, de asemenea, automatizarea fluxului de lucru cu Microsoft Flow.
 
-{% includ compliance.html %}
+
 

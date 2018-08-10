@@ -27,5 +27,5 @@ Ar hontho ar datos hne ngatho ge 'nar plataforma ar datos segura negocio constru
 # 'Nar hontho avanzado ar datos construido justo jar
 Ar hontho ar datos hne ngatho ge 'nar plataforma ar datos segura negocio construida jar PowerApps. Ku̲hu̲ ko cientos entidades ar negocio estándar ya njäts'i, Temu̲ ir bo̲ni ke nu'bya ir aplicaciones xi t'uni xkagentho ar definición ar "cliente", "producto", "da t'ot'e" ne xingu ya más. Ar hontho 'nehe mfa̲ts'i 'bu̲i ar automatización flujo ar 'be̲fi ko Microsoft Flow.
 
-{% incluyen compliance.html %}
+
 

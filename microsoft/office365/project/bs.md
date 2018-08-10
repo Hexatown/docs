@@ -18,7 +18,7 @@ Bešavne integracije sa Skype za poslovne i kukati potiče timski rad i u konač
 ## Napraviti pametnijim odluke 
 Ugrađenim izvještajima i BI alata omogućuju vizualizaciju podataka kako biste dobili uvid preko projekata, programa i portfelja i donošenje kvalitetnijih odluka. 
 
-{% uključuju compliance.html %}
+
 
 
 

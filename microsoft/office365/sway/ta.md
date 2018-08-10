@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 அடுத்த ஜென் காட்சிகள்
-{% அடங்கும் compliance.html %}
+
 

@@ -27,5 +27,5 @@ De gemeenschappelijke gegevens-Service is een veilige bedrijfsplatform voor gege
 ## Een geavanceerde datadienst gebouwd recht in
 De gemeenschappelijke gegevens-Service is een veilige bedrijfsplatform voor gegevens PowerApps ingebouwd. Het komt met honderden standaard bedrijfseenheden al gedefinieerd, wat betekent dat nu al uw apps dezelfde definitie van "klant delen kunnen", "product", "leiden", en meer. De service omvat ook automatisering van werkprocessen met Microsoft Flow.
 
-{% omvatten compliance.html %}
+
 

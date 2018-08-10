@@ -18,7 +18,7 @@ Ræstiverkfæri fyrir röðun, tíma-og verkefnisstjórnun og úthlutanir á for
 # # gera smartari ákvarðanir 
 Innbyggðar skýrslur og Viðskiptagreindarverkfæri gera þér kleift að sjónfæra gögn til að fá innsýn í verkefni, forrit og portfólin og taka upplýstari ákvarðanir. 
 
-{% hafa compliance.html%}
+
 
 
 

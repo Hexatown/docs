@@ -27,5 +27,5 @@ Te matau no te taviniraa o te imiraa faufaa papu no paepae tara i roto i te Powe
 ## Te taviniraa o te parau paari tei patuhia i roto i
 Te matau no te taviniraa o te imiraa faufaa papu no paepae tara i roto i te PowerApps. E tae mai i te hanere o te mau ohipa a te faataa aena, te auraa ra, i teie nei atoa o ta outou mau faanahoraa e nehenehe e faaite i te parau mau no te «hoani», «hotu», «e aratai», e e rahi atu a. Te vai atoa ra te mau matini ihotere te workflow i te Flow Microsoft.
 
-{% te mau compliance.html %}
+
 

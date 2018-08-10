@@ -18,5 +18,5 @@ Napraviti, primanje i prijenos poslovne pozive u uredu, kod kuće ili na putu ko
 ## Sigurnost, kontrolu i usklađenost
 Dobiti kraja na sigurnost, kontrolu i usklađenost pedalj od korisnika na Enterprise. Sve to pokreće na zahtjev razmjera i upravljivost 
 
-{% uključuju compliance.html %}
+
 

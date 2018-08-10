@@ -18,7 +18,7 @@ Walang tahi integration sa pakikipagtulungan sa mga tool gaya ng Skype para sa m
 # # Gumawa ng matalinong desisyon 
 Built-in na mga ulat at mga tool sa BI ay ipaalam sa iyo na mailarawan ang mga datos upang magkaroon ng ideya sa iba 't ibang mga proyekto, programa, at mga portfolio, at gumawa ng mas matalinong pagpapasya. 
 
-{% isama ang compliance.html %}
+
 
 
 

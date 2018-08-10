@@ -18,7 +18,7 @@ Naatlose integrasie met samewerking gereedskap soos Skype vir besigheid en Yamme
 ## Besluite slimmer 
 Ingeboude verslae en BI gereedskap laat jy visualiseer data te kry insigte oor projekte, programme en portefeuljes, en meer ingeligte besluite kan neem. 
 
-{% sluit in compliance.html %}
+
 
 
 

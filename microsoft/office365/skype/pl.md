@@ -18,5 +18,5 @@ Zrobić, odbierania i przełączaj połączenia służbowe w biurze, w domu, lub
 ## Zabezpieczeń, kontroli i zgodności
 Dostać-to-end zabezpieczeń, kontroli i zgodności, które obejmują od użytkownika do przedsiębiorstwa. Wszystko to na żądanie skali i możliwości zarządzania 
 
-{% obejmują compliance.html %}
+
 

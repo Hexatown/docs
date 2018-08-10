@@ -18,7 +18,7 @@ Seamless o le tuufaatasi i meafaigaluega o le galulue faatasi e pei o Skype mo p
 # # Faia ni faaiuga poto 
 Lipoti totonu ma meafaigaluega o le a tuu atu oe e vaai faalemafaufau faamaumauga e maua ai se malamalamaaga i le salafa o le galuega faatino, polokalama, ma le fia lauiloa, ma faia ni faaiuga sili atu ona atamai. 
 
-{% e aofia ai compliance.html %}
+
 
 
 

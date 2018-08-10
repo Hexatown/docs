@@ -27,5 +27,5 @@ Zajedničkih usluga podataka je siguran poslovni podaci platforma izgrađen u Po
 ## Uslugom napredne podataka izgrađen upravo u
 Zajedničkih usluga podataka je siguran poslovni podaci platforma izgrađen u PowerApps. To dolazi sa stotinama standardnih poslovnih subjekata već definiran, što znači da sada sve aplikacije mogu dijeliti istu definiciju "kupca", "proizvod", "vode", i više. Usluga uključuje automatizaciju tijeka rada s Microsoft Flow.
 
-{% uključuju compliance.html %}
+
 

@@ -18,7 +18,7 @@ Intégration transparente avec des outils de collaboration comme Skype pour les 
 ## Prendre des décisions plus intelligentes 
 Rapports intégrés et des outils décisionnels vous permettent de visualiser des données pour mieux comprendre à travers des projets, des programmes et des portefeuilles et de prendre des décisions plus éclairées. 
 
-{% include compliance.html %}
+
 
 
 

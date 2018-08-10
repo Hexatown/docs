@@ -20,5 +20,5 @@ Ayè de Microsoft Teams ou prese jwenn sèvis kle, chèche enfòmasyon pou, yo p
 
 
 
-{% genyen ladan yo compliance.html %}
+
 

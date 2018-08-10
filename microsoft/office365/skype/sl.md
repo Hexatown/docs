@@ -18,5 +18,5 @@ Izdelovanje, prejemanje in prenos poslovne klice v pisarni, doma ali na poti, s 
 ## Varnost, nadzor in skladnost
 Dobili prenehati-v-prenehati varnost, nadzor in skladnosti, ki obsegajo od uporabnika v podjetje. Vse poganja na zahtevo obsega in vodljivost 
 
-{% vključuje compliance.html %}
+
 

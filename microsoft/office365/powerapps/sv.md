@@ -27,5 +27,5 @@ Den gemensamma datatjänst är en säkert business dataplattform inbyggd i Power
 ## En avancerad data service inbyggt i
 Den gemensamma datatjänst är en säkert business dataplattform inbyggd i PowerApps. Den levereras med hundratals standard affärsenheter som redan definierat, vilket innebär att nu alla dina appar kan dela samma definition av ”kund”, ”produkt”, ”lead” och mycket mer. I tjänsten ingår även med Microsoft Flow automatisering av arbetsflöden.
 
-{% omfattar compliance.html %}
+
 

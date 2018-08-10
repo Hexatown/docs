@@ -27,5 +27,5 @@ Ang karaniwang Data Service ay isang ligtas na negosyo platform ng data na binuo
 # # Isang advanced na data na serbisyo na binuo ng karapatan sa
 Ang karaniwang Data Service ay isang ligtas na negosyo platform ng data na binuo sa PowerApps. Ito ay may daan-daang mga entity ng karaniwang negosyo na nakaayos na, na nangangahulugan na ngayon ang lahat ng iyong app para maibahagi ang parehong kahulugan ng "customer", "produkto," "mamuno", at iba pa. Ang paglilingkod ay kinabibilangan din ng mga workflow automation sa Microsoft Flow.
 
-{% isama ang compliance.html %}
+
 

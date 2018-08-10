@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Presentaciones Nu'bu̲ Xtí generación
-{% incluyen compliance.html %}
+
 

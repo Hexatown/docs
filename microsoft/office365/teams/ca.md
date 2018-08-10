@@ -20,5 +20,5 @@ Adaptar el seu espai de treball de Microsoft Teams a accedir a serveis clau ràp
 
 
 
-{% inclouen compliance.html %}
+
 

@@ -18,5 +18,5 @@ Fè, resevwa ak transfere apèl biznis yo nan biwo a, nan kay, ni sou wout la ap
 ## Sekirite, kontwòl, ak oumisyon
 Pran sekirite bout pou bout, kontwòl, ak konpliyans pon nan moun kap itilize li an pou antrepwiz lan. Tout patrone pa sou-mande eskal lan e gestion 
 
-{% genyen ladan yo compliance.html %}
+
 

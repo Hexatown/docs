@@ -18,7 +18,7 @@ Popolna integracija z sodelovanje orodja kot Skype za poslovne in Bastard spodbu
 ## Da pametnejše odločitve 
 Vgrajena poročila in dvakrat orodja omogočajo vizualizacijo podatkov pridobiti vpogled preko projektov, programov in portfeljev in bolj ozaveščene odločitve. 
 
-{% vključuje compliance.html %}
+
 
 
 

@@ -27,5 +27,5 @@ El servei de dades comú és una plataforma de dades de negoci segur construït 
 # # Un servei de dades avançada construïa a la dreta en
 El servei de dades comú és una plataforma de dades de negoci segur construït en PowerApps. Es tracta amb centenars d'entitats empresarials estàndard ja definides, que significa que ara tots els seus apps poden compartir la mateixa definició de "client", "producte", "conduir" i més. El servei també inclou l'automatització de fluxos de treball amb Microsoft Flow.
 
-{% inclouen compliance.html %}
+
 

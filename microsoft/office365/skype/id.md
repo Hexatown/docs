@@ -18,5 +18,5 @@ Membuat, menerima, dan mentransfer panggilan bisnis di kantor, di rumah, atau di
 ## Keamanan, kontrol dan kepatuhan
 Mendapatkan end-to-end keamanan, kontrol dan kepatuhan yang span dari pengguna perusahaan. Semua didukung oleh skala pada permintaan dan pengelolaan 
 
-{% termasuk compliance.html %}
+
 

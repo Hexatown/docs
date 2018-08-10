@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 عروض الجيل المقبل
-{% تشمل compliance.html %}
+
 

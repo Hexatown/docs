@@ -27,5 +27,5 @@ Cov hom ntaub ntawv Service yog ib ruaj ntseg lag luam cov ntaub ntawv platform 
 ## Ib pab muaj cai ua tau tshaj cov ntaub ntawv nyob rau hauv
 Cov hom ntaub ntawv Service yog ib ruaj ntseg lag luam cov ntaub ntawv platform ua tau rau hauv PowerApps. Nws tawm nrog 175,000 cov chaw lag luam txheem twb sau tseg, uas txhais tau tias tam sim no tag nrho koj apps tau muab tib lub ntsiablus ntawm "neeg", "khoom," "ua", thiab ntau dua. Cov kev pab cuam no workflow automation nrog rau Microsoft Flow.
 
-{% muaj xws li compliance.html %}
+
 

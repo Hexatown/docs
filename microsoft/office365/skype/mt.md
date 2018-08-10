@@ -18,5 +18,5 @@ Tagħmel, jirċievu, u tittrasferixxi negozju sejħiet fl-Uffiċċju, id-dar, je
 ## Tas-sigurtà, kontroll u konformità
 Ikseb tarf sa tarf tas-sigurtà, kontroll u konformità li jifrex fuq mill-utent li l-intrapriża. Kollha mħaddma mill-iskala fuq talba u maniġġabilità 
 
-{% jinkludu compliance.html %}
+
 

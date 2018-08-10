@@ -27,5 +27,5 @@ Le Service de données commun est une plateforme de données d’affaires sécur
 ## Un service de données avancées intégré dans
 Le Service de données commun est une plateforme de données d’affaires sécurisé intégrée à PowerApps. Il est livré avec des centaines d’entreprises standard déjà définis, ce qui signifie que maintenant, toutes vos applications peuvent partager la même définition de « client », « produit », « conduire » et bien plus encore. Le service comprend également l’automatisation de flux de travail avec Microsoft Flow.
 
-{% include compliance.html %}
+
 

@@ -18,7 +18,7 @@ Naadloze integratie met samenwerkingstools zoals Skype voor Business en Yammer t
 ## Slimmere beslissingen 
 Ingebouwde rapporten en BI tools kunnen u visualiseren van gegevens om inzicht te krijgen over projecten, programma's en portfolio's en beter gefundeerde beslissingen nemen. 
 
-{% omvatten compliance.html %}
+
 
 
 

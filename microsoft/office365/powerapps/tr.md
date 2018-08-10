@@ -27,5 +27,5 @@ Ortak veri hizmeti PowerApps inşa bir güvenli iş veri platformudur. Şimdi se
 ## Bir gelişmiş veri hizmeti şu inşa içinde
 Ortak veri hizmeti PowerApps inşa bir güvenli iş veri platformudur. Şimdi senin apps-ebilmek pay "müşteri" aynı tanımı anlamına, önceden tanımlanmış, standart işletmelerin yüzlerce ile geliyor "ürün," "yol" ve daha fazlası. Hizmet iş akışı otomasyonu ile Microsoft Flow de içerir.
 
-{% dahil compliance.html %}
+
 

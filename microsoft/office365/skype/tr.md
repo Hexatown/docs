@@ -18,5 +18,5 @@ Yapmak, almak ve iş çağrı ofiste, evde veya yolda telefon, bilgisayar ve cep
 ## Güvenlik, kontrol ve uygunluk
 Uçtan uca güvenlik, kumanda ve span uyum kullanıcıdan Atılgan'a almak. Tüm isteğe bağlı ölçek ve yönetilebilirlik tarafından desteklenmektedir 
 
-{% dahil compliance.html %}
+
 

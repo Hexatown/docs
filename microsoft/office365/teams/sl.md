@@ -20,5 +20,5 @@ Prilagodite Microsoft Teams delovni prostor hitro dostop do ključnih storitev, 
 
 
 
-{% vključuje compliance.html %}
+
 

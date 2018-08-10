@@ -20,5 +20,5 @@ Personalizzare l'area di lavoro di Microsoft Teams di rapidamente accedere ai se
 
 
 
-{% include compliance.html %}
+
 

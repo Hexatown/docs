@@ -18,7 +18,7 @@ Saumaton integrointi työkaluja, kuten Skype ja Yammer kannustaa ryhmätyö ja l
 ## Tehdä järkevämpiä päätöksiä 
 Sisäisiä raportteja ja BI-työkalut voit visualisoida tietoa paljon tietoja markkinointitoiminnoista hankkeita, ohjelmia ja portfolioita ja tehdä valistuneempia päätöksiä. 
 
-{% ovat compliance.html %}
+
 
 
 

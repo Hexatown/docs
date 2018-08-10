@@ -20,5 +20,5 @@ Dostosowywanie obszaru roboczego Microsoft Teams, aby szybko uzyskać dostęp do
 
 
 
-{% obejmują compliance.html %}
+
 

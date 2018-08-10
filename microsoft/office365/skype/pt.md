@@ -18,5 +18,5 @@ Fazer, receber e transferir chamadas de trabalho no escritório, em casa ou na e
 # # Segurança, controle e conformidade
 Obter segurança de ponta a ponta, controle e conformidade que abrangem do usuário para o enterprise. Todos powered by a escala de demanda e capacidade de gerenciamento 
 
-{% incluem compliance.html %}
+
 

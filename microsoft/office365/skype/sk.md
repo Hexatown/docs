@@ -18,5 +18,5 @@ Uistite sa, prijímať a prepájať pracovné hovory v kancelárii, doma alebo n
 ## Zabezpečenia, kontroly a dodržiavanie
 Získajte end-to-end zabezpečenia a kontroly súladu, ktoré zahŕňajú od užívateľa do podniku. Všetky poháňané na vyžiadanie a spravovateľnosti 
 
-{% patria compliance.html %}
+
 

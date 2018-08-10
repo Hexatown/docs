@@ -20,5 +20,5 @@ Vakataudonutaka na nomu workspace ni Teams ni Microsoft mo totolo sara raica na 
 
 
 
-{% e oka kina na compliance.html %}
+
 

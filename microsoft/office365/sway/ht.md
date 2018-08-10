@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Des kap vini an an general
-{% genyen ladan yo compliance.html %}
+
 

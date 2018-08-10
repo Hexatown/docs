@@ -27,5 +27,5 @@ Layanan Data umum adalah platform data aman bisnis yang dibangun ke dalam PowerA
 ## Layanan data lanjutan dibangun tepat di
 Layanan Data umum adalah platform data aman bisnis yang dibangun ke dalam PowerApps. Itu datang dengan ratusan entitas bisnis standar yang sudah didefinisikan, yang berarti bahwa sekarang semua aplikasi Anda dapat berbagi definisi sama "Pelanggan", "produk," "memimpin", dan banyak lagi. Layanan ini juga mencakup alur kerja otomatisasi dengan Microsoft Flow.
 
-{% termasuk compliance.html %}
+
 

@@ -27,5 +27,5 @@ Dịch vụ dữ liệu phổ biến là một nền tảng dữ liệu bảo m�
 ## Một dịch vụ dữ liệu cao cấp được xây dựng ngay trong
 Dịch vụ dữ liệu phổ biến là một nền tảng dữ liệu bảo mật kinh doanh được xây dựng vào PowerApps. Nó đi kèm với hàng trăm các thực thể kinh doanh tiêu chuẩn đã được định nghĩa, có nghĩa là bây giờ tất cả các ứng dụng của bạn có thể chia sẻ cùng một định nghĩa của "khách hàng", "sản phẩm", "dẫn", và nhiều hơn nữa. Dịch vụ này cũng bao gồm tự động hóa quy trình làm việc với Microsoft Flow.
 
-{% bao gồm compliance.html %}
+
 

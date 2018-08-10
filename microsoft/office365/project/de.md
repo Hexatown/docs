@@ -18,7 +18,7 @@ Nahtlose Integration mit Collaboration-Tools wie Skype für Business und Yammer 
 ## Intelligentere Entscheidungen zu treffen 
 Integrierte Berichte und BI-Tools können Sie Daten, um Einblicke in Projekte, Programme und Portfolios zu visualisieren, und fundiertere Entscheidungen treffen. 
 
-{% gehören compliance.html %}
+
 
 
 

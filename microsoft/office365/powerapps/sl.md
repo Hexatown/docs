@@ -27,5 +27,5 @@ Skupne službe podatkov je varno poslovnih podatkov platforma zgrajena v PowerAp
 ## Storitvijo napredne novice, zgrajena prav v
 Skupne službe podatkov je varno poslovnih podatkov platforma zgrajena v PowerApps. Gre na stotine standardne poslovni subjekti, ki so že opredeljeni, kar pomeni, da zdaj vse vaše aplikacije lahko delijo isto opredelitvijo "stranka", "izdelek", "vodi", in še več. Storitev vključuje tudi potek dela avtomatizacija s Microsoft Flow.
 
-{% vključuje compliance.html %}
+
 

@@ -27,5 +27,5 @@ Spoločné dátové služby je zabezpečené obchodné údaje platforma postaven
 ## Pokročilé dátové služby už zabudované v
 Spoločné dátové služby je zabezpečené obchodné údaje platforma postavená do PowerApps. Dodáva sa s stovky štandardné podnikateľské subjekty už definovaný, čo znamená, že teraz všetkých aplikácií zdieľať rovnaké definície "zákazník", "výrobok", "viesť" a ďalšie. Služba zahŕňa aj automatizácia pracovných postupov s Microsoft Flow.
 
-{% patria compliance.html %}
+
 

@@ -18,5 +18,5 @@ translator: Microsoft Cognitive Services
 安全、控制和法規遵從性
 獲得從使用者到企業的端到端安全、控制和遵從性。全部由按需規模和可管理性提供動力
 
-{% 包括 HTTP://0.com%}
+
 

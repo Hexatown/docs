@@ -20,5 +20,5 @@ Faaau i ta outou workspace Microsoft Teams i te oioi e hio atu i te faufaa a te 
 
 
 
-{% te mau compliance.html %}
+
 

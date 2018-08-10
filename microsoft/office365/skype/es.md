@@ -18,5 +18,5 @@ Hacer, recibir y transferir llamadas de negocios en la oficina, en casa o en la 
 ## Seguridad, Control y cumplimiento
 Obtener seguridad de extremo a extremo, control y cumplimiento que abarcan desde el usuario a la empresa. Todo por la escala de demanda y capacidad de administración 
 
-{% incluyen compliance.html %}
+
 

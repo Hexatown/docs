@@ -20,5 +20,5 @@ Ajusta spaţiul de lucru Microsoft Teams pentru rapid servicii cheie de acces, e
 
 
 
-{% includ compliance.html %}
+
 

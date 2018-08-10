@@ -18,5 +18,5 @@ Fa'u, ma'u, pea 'ave 'a e ui 'a e pisinisi 'i he 'ofisi, 'i 'api, pe 'i he hala 
 ## Malu'i, pule'i mo e talangofua
 Ma'u ki he ngata'anga 'o e malu'i, pule'i mo e talangofua he taimi mei he ko e tokotaha ngaue ki he kautaha. Kotoa fakaivi 'e he me'afua hono fie ma'u pea mo e manageability 
 
-{% kau compliance.html %}
+
 

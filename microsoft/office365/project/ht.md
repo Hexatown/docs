@@ -18,7 +18,7 @@ Sans ak entegrasyon kolaborasyon zouti tankou Skype pou biznis ak Yammer ankoura
 ## Pran plus desizyon 
 Konstriksyon rapò ak Jounal zouti fè pou ou visualiser done vin pi Sur lòt pwojè, pwogram ak konpilasyon travay sa a, pran plis ransèyman desizyon. 
 
-{% genyen ladan yo compliance.html %}
+
 
 
 

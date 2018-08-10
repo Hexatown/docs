@@ -27,5 +27,5 @@ Wspólne usługi danych jest platformą danych bezpiecznego biznesu, wbudowane w
 ## Usługi zaawansowane danych wbudowane w
 Wspólne usługi danych jest platformą danych bezpiecznego biznesu, wbudowane w aplikacje PowerApp. Ono przyjechał rezygnować setki standardowych przedsiębiorców już zdefiniowane, co oznacza, że teraz wszystkie aplikacje można udostępniać tę samą definicję "klienta", "produkt", "prowadzić" i więcej. Usługa obejmuje również automatyzacji przepływu pracy z Microsoft Flow.
 
-{% obejmują compliance.html %}
+
 

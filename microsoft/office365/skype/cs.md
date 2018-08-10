@@ -18,5 +18,5 @@ Učinit, přijímat a přenášet firemní hovory v kanceláři, doma nebo na ce
 ## Bezpečnost, řízení a dodržování předpisů
 Získejte end-to-end zabezpečení a dodržování předpisů, které pokrývají od uživatele k rozlehlé síti. Vše běží na škálovatelnosti na míru a možnosti správy 
 
-{% patří compliance.html %}
+
 

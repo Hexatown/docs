@@ -18,7 +18,7 @@ Tích hợp liền mạch với các công cụ cộng tác như Skype cho doanh
 ## Quyết định thông minh hơn 
 Được xây dựng trong báo cáo và BI công cụ cho phép bạn hình dung dữ liệu để đạt được cái nhìn qua dự án, chương trình, và danh mục, và đưa ra quyết định thêm thông tin. 
 
-{% bao gồm compliance.html %}
+
 
 
 

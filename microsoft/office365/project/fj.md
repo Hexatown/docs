@@ -18,7 +18,7 @@ Seamless na veiwaki vata kei na iyaya ni veisoli vakasama vaka Skype me baleta n
 ## Vakatulewa matai cake sara 
 Buli na ripote kei na BI iyaya ni cakacaka me iko mo raitayaloyalotaka na itukutuku me da rawata na veivakararamataki kosova na cakacaka, parokaramu, kei na portfolios, ka dau vakatulewa vakavuku vakalevu cake. 
 
-{% e oka kina na compliance.html %}
+
 
 
 

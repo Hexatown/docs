@@ -18,5 +18,5 @@ Göra, ta emot och överföra företagssamtal på kontoret, hemma eller på väg
 ## Säkerhet, kontroll och efterlevnad
 Få end-to-end säkerhet, kontroll och efterlevnad som spänner från användaren till företaget. Allt drivs av den på begäran skala och hanterbarhet 
 
-{% omfattar compliance.html %}
+
 

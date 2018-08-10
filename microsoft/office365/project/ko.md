@@ -18,7 +18,7 @@ translator: Microsoft Cognitive Services
 # # 영리 결정 
 기본 제공 보고서 및 BI 도구 프로젝트, 프로그램 및 포트폴리오, 통찰력을 얻기 위해 데이터를 시각화 하 고 정보통된 결정을 내릴 하자. 
 
-{% 포함 compliance.html %}
+
 
 
 

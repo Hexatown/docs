@@ -20,5 +20,5 @@ Mahaiza ny workspace Microsoft Teams haingana mahazo fanampiana manan-danja, hit
 
 
 
-{% dia ahitana compliance.html %}
+
 

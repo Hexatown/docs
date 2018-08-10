@@ -20,5 +20,5 @@ Pas jou Microsoft Teams werkruimte te vinnig toegang tot die sleutel dienste, da
 
 
 
-{% sluit in compliance.html %}
+
 

@@ -27,5 +27,5 @@ Zajedničke službe podaci je siguran poslovni podaci platforma koji je ugrađen
 ## Naprednim data uslugu izgrađen upravo u
 Zajedničke službe podaci je siguran poslovni podaci platforma koji je ugrađen u PowerApps. To dolazi sa stotinama standardnih poslovnih subjekata već definiran, što znači da je sada sve aplikacije mogu dijeliti istu definiciju "kupac", "proizvod", "vodi" i više. Usluga uključuje automatizaciju tijeka rada s Microsoft Flow.
 
-{% uključuju compliance.html %}
+
 

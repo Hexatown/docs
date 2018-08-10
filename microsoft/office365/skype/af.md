@@ -18,5 +18,5 @@ Maak, ontvang, en besigheid oproepe in die kantoor, by die huis, of op die pad m
 ## Sekuriteit, beheer en nakoming
 Kry einde-om-die einde sekuriteit, beheer en voldoening wat span vanaf die gebruiker aan die onderneming. Al aangedryf deur die op-aanvraag skaal en hanteerbaarheid 
 
-{% sluit in compliance.html %}
+
 

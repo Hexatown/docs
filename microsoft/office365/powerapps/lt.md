@@ -27,5 +27,5 @@ Bendrų duomenų paslauga yra saugi verslo duomenų platforma, pastatytas į Pow
 ## Su pažangių duomenų paslauga, sukurta tiesiai į
 Bendrų duomenų paslauga yra saugi verslo duomenų platforma, pastatytas į PowerApps. Jis ateina su šimtais įprasta verslo subjektų nusakytų, tai reiškia, kad dabar visas programėles galite bendrinti tą patį apibrėžimą "klientas", "produktas," "sukelti", ir dar daugiau. Paslaugos taip pat apima darbo eigos automation naudojant "Microsoft" Flow.
 
-{%, sudaro compliance.html %}
+
 

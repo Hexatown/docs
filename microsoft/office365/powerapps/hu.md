@@ -27,5 +27,5 @@ A közös adatok szolgáltatása a biztonságos üzleti adatok platform építet
 ## Egy fejlett adat szolgáltatás épült a
 A közös adatok szolgáltatása a biztonságos üzleti adatok platform épített PowerApps. Jön-val több száz már meghatározott, szabványos üzleti entitások ami azt jelenti, hogy most minden a apps tud osztozik ugyanez a meghatározás "ügyfél", "termék", "lead", és több. A szolgáltatás magában foglalja a Microsoft Flow Munkafolyamat-automatizálás.
 
-{% közé tartozik a compliance.html %}
+
 

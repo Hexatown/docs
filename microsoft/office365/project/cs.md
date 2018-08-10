@@ -18,7 +18,7 @@ Bezproblémová integrace s nástroji pro spolupráci jako Skype pro podnikání
 ## Rozhodování 
 Předdefinované sestavy a BI nástroje umožňují vizualizovat data získat poznatky v projektů, programů a portfolií a učinit více informovaná rozhodnutí. 
 
-{% patří compliance.html %}
+
 
 
 

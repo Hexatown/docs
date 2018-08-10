@@ -18,5 +18,5 @@ Hogy, kap és átvitel üzleti hívások az irodában, otthon vagy útközben te
 ## Biztonsági, ellenőrző és megfelelőségi
 Kap vég--hoz-vég biztonság, ellenőrzési és megfelelési, hogy befogják a felhasználó a vállalati. Minden energiát termelő mellett igény mértéke és kezelhetőség 
 
-{% közé tartozik a compliance.html %}
+
 

@@ -18,7 +18,7 @@ Perfetta integrazione con gli strumenti di collaborazione quali Skype per Busine
 # # Prendere decisioni più intelligenti 
 Report incorporati e strumenti di business intelligence consentono di visualizzare i dati per ottenere informazioni dettagliate attraverso progetti, programmi e portfolio e prendere decisioni più informate. 
 
-{% include compliance.html %}
+
 
 
 

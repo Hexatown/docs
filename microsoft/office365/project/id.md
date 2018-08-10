@@ -18,7 +18,7 @@ Integrasi dengan kolaborasi alat seperti Skype untuk bisnis dan heboh mendorong 
 ## Membuat keputusan cerdas 
 Built-in laporan dan alat-alat BI membiarkan Anda memvisualisasikan data untuk memperoleh wawasan tentang portofolio, proyek, dan program, dan membuat keputusan yang lebih tepat. 
 
-{% termasuk compliance.html %}
+
 
 
 

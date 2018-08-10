@@ -5,5 +5,5 @@ translator: Microsoft Cognitive Services
 ---
 
 Next-gen kynning
-{% hafa compliance.html%}
+
 

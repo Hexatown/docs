@@ -18,5 +18,5 @@ Membuat, menerima dan memindahkan panggilan perniagaan di Pejabat, di rumah, ata
 ## Keselamatan, kawalan dan pematuhan
 Sampai hujung-ke-hujung Keselamatan, kawalan dan pematuhan yang dari pengguna ke dalam organisasi. Semua powered by skala atas permintaan dan manageability 
 
-{% termasuk compliance.html %}
+
 

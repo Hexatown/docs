@@ -18,5 +18,5 @@ Face, primi şi transferaţi apelurile de afaceri la birou, acasa, sau pe drum f
 ## Securitate, Control şi conformitatea
 Obţine end-to-end de securitate, de control şi de respectarea care acoperă de la utilizator la întreprindere. Toate powered by cerere scară şi administrare 
 
-{% includ compliance.html %}
+
 

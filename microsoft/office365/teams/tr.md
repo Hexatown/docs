@@ -20,5 +20,5 @@ Hızlı bir şekilde anahtar Hizmetleri erişmek, verileri incelemek için Micro
 
 
 
-{% dahil compliance.html %}
+
 
