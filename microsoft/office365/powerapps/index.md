@@ -33,4 +33,3 @@ The Common Data Service is a secure business data platform built into PowerApps.
 ## An advanced data service built right in
 The Common Data Service is a secure business data platform built into PowerApps. It comes with hundreds of standard business entities already defined, which means that now all your apps can share the same definition of “customer,” “product,” “lead,” and more. The service also includes workflow automation with Microsoft Flow.
 
-{% include compliance.html %}

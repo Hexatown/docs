@@ -27,4 +27,3 @@ Tailor your Microsoft Teams workspace to quickly access key services, explore da
 
 
 
-{% include compliance.html %}

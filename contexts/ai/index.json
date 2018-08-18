@@ -1,0 +1,698 @@
+{"title": "Microsoft AI" ,
+    "grid" :[
+  [
+    {
+      "key": "ai-1",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-1",
+        "title": "Language Understanding",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Language_Understanding.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": null,
+      "l": 0,
+      "c": 0,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": null,
+      "rightData": null
+    },
+    {
+      "key": "ai-7",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-7",
+        "title": "Spell checking",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Bing_Spell_Check.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    }
+  ],
+  [
+    {
+      "key": "ai-8",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-8",
+        "title": "Face recognition",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Face.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-9",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-9",
+        "title": "Content Moderation",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Content_Moderator.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-10",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-10",
+        "title": "AI-10",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Video_Indexer.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-11",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-11",
+        "title": "AI-11",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Cat_Vision.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-12",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-12",
+        "title": "AI-12",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Custom_Vision.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-13",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-13",
+        "title": "AI-13",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Vision/Computer_Vision.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-14",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-14",
+        "title": "AI-14",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Speech/Speaker_Recognition.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    }
+  ],
+  [
+    {
+      "key": "ai-15",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-15",
+        "title": "AI-15",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Speech/Cat_Speech.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-16",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-16",
+        "title": "AI-16",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Speech/Text_To_Speech.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-17",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-17",
+        "title": "AI-17",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Speech/Speech_Translation.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-18",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-18",
+        "title": "AI-18",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Speech/Speech_To_Text.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-19",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-19",
+        "title": "AI-19",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Entity_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-20",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-20",
+        "title": "AI-20",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Visual_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-21",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-21",
+        "title": "AI-21",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Video_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    }
+  ],
+  [
+    {
+      "key": "ai-22",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-22",
+        "title": "AI-22",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Autosuggest.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-23",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-23",
+        "title": "AI-23",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_News_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-24",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-24",
+        "title": "AI-24",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Custom_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-25",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-25",
+        "title": "AI-25",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Web_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-26",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-26",
+        "title": "AI-26",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Bing_Image_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-27",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-27",
+        "title": "AI-27",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Search/Cat_Search.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-28",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-28",
+        "title": "AI-28",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Knowledge/QnAMaker.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    }
+  ],
+  [
+    {
+      "key": "ai-29",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-29",
+        "title": "AI-29",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Knowledge/Cat_Knowledge.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-2",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-2",
+        "title": "Content Moderation",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Content_Moderator.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-3",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-3",
+        "title": "Text Translation",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Translator_Text.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-4",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-4",
+        "title": "Text Analytics",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Text_Analytics.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-5",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-5",
+        "title": "AI-5",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Cat_Language.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-6",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-6",
+        "title": "Language Understanding",
+        "color": "grey",
+        "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Language_Understanding.png",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    },
+    {
+      "key": "ai-35",
+      "l": 0,
+      "c": 1,
+      "r": 0,
+      "t": 0,
+      "leftData": null,
+      "topData": null,
+      "centerData": {
+        "key": "AI-35",
+        "title": "AI-35",
+        "color": "grey",
+        "icon": "",
+        "inShort": "",
+        "isFullyShareable": "",
+        "isPartlyShareable": "",
+        "isPremium": "",
+        "jumpto": ""
+      },
+      "rightData": null
+    }
+  ]
+]}
