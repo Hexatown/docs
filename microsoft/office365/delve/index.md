@@ -5,7 +5,7 @@ inshort: Employee profile & content discovery
 groups: File Storage & Collaboration; Employee Profiles
 xlinkadmin: 
 xlinkdev: 
-xlink: https://delve.office.com/
+xink: https://delve.office.com/
 xlinkbusiness: 
 xmarketing: https://products.office.com/en-us/business/intelligent-search
 xsource: https://products.office.com/en-us/business/intelligent-search
