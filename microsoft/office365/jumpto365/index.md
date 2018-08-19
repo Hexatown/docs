@@ -44,6 +44,19 @@ With the "Rosenborg" release of the app, the following features was introduces o
 
 # Experimental 
 
+## Preview 7
+Using Markdown for all internal dialogues
+
+[Check this](https://preview.app.jumpto365.com/pages/samples/page1)
+
+Or notice that you see 2 handsome guys here
+![COMPONENT](https://dummyimage.com/300x200/000/fff&text=MattNiels&/MattNiels)
+
+Generate from the following MarkDown
+```markdown
+![COMPONENT](https://dummyimage.com/300x200/000/fff&text=MattNiels&/MattNiels)
+```
+
 ## the Periodic Table of ...
  
 - [Microsoft Cognitive Services](https://preview.app.jumpto365.com/context/ai)
