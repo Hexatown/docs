@@ -6,7 +6,7 @@ icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 color: #2a7ab9 
 layout: infographic
 contexts: office365 
-imageurl: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1024px-Smiley.svg.png
+ximageurl: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/1024px-Smiley.svg.png
 imagecopyright: Wikipedia
 ---
 
