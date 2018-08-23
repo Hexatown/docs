@@ -1,0 +1,338 @@
+{
+    "title": "Arranging Meetings",
+    "color": "#256FB0",
+    "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+    "hasRatings": 5,
+    "tasks": [{
+            "area": "Prepare",
+            "subject": "Collaborate on creating a memo with someone else",
+            "rating": 5,
+            "preview": "https://static.makeuseof.com/wp-content/uploads/2015/11/manage-shared-files-drive-670x335.jpg",
+            "url": "https://www.dr.dk",
+            "tags": "File Storage & Collaboration",
+            "tool": "OneDrive",
+            "link": "https://app.jumpto365.com/#/service/onedrive/en",
+            "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Collaborate on creating a agenda with someone else",
+            "rating": 5,
+            "preview": "https://st2.depositphotos.com/6741230/11510/v/950/depositphotos_115106712-stock-illustration-agenda-list-icon-vector-illustration.jpg",
+            "url": "https://www.dr.dk",
+            "tags": "File Storage & Collaboration",
+            "tool": "OneDrive",
+            "link": "https://app.jumpto365.com/#/service/onedrive/en",
+            "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Save and Edit Personal document",
+            "rating": 5,
+            "preview": "https://fthmb.tqn.com/2Mb91JHmRFuWlYNoKk0xy5IyrwE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-596780340-edit-word-free-58c8489c5f9b58af5c2ee4c1.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "OneDrive"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Save and Edit Personal document",
+            "rating": 2,
+            "preview": "https://fthmb.tqn.com/2Mb91JHmRFuWlYNoKk0xy5IyrwE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-596780340-edit-word-free-58c8489c5f9b58af5c2ee4c1.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Make an anonymous survey",
+            "rating": 4,
+            "preview": "http://www.sogosurvey.com/blog/wp-content/uploads/2016/02/When-to-Make-a-Survey-Anonymous-1024x638.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Tavlen"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Make an anonymous survey",
+            "rating": 3,
+            "preview": "http://www.sogosurvey.com/blog/wp-content/uploads/2016/02/When-to-Make-a-Survey-Anonymous-1024x638.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "skype"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Make an anonymous survey",
+            "rating": 2,
+            "preview": "http://www.sogosurvey.com/blog/wp-content/uploads/2016/02/When-to-Make-a-Survey-Anonymous-1024x638.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Setup a site for long lasting dialogue",
+            "rating": 5,
+            "preview": "https://www.procurious.com/blog-content/2015/12/Discussion-Forum.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Tavlen"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Setup a site for long lasting dialogue",
+            "rating": 2,
+            "preview": "https://www.procurious.com/blog-content/2015/12/Discussion-Forum.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Projekt"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Setup a site for long lasting dialogue",
+            "rating": 2,
+            "preview": "https://www.procurious.com/blog-content/2015/12/Discussion-Forum.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Make a poll for a specifc group of persons",
+            "rating": 5,
+            "preview": "http://www.afd-techtalk.com/wp-content/uploads/2018/02/poll-time.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Afstemning"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Make a poll for a specifc group of persons",
+            "rating": 3,
+            "preview": "http://www.afd-techtalk.com/wp-content/uploads/2018/02/poll-time.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Projekt"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Send a document for proof reading",
+            "rating": 5,
+            "preview": "https://juliaproofreader.files.wordpress.com/2014/04/whizz.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Projekt",
+            "comment": "Projekt er et internt værktøj ..."
+        },
+        {
+            "area": "Prepare",
+            "subject": "Send a document for proof reading",
+            "rating": 3,
+            "preview": "https://juliaproofreader.files.wordpress.com/2014/04/whizz.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "onedrive"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Send a document for proof reading",
+            "rating": 3,
+            "preview": null,
+            "url": null,
+            "tags": null,
+            "tool": "outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Invite a colleague for lunch",
+            "rating": 5,
+            "preview": "http://st4.styapokupayu.ru/images/blog_posts/covers/000/157/712_large.jpg?1456488984",
+            "url": null,
+            "tags": null,
+            "tool": "Skype"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Invite a colleague for lunch",
+            "rating": 3,
+            "preview": "http://st4.styapokupayu.ru/images/blog_posts/covers/000/157/712_large.jpg?1456488984",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Create an interactive and creative presentation",
+            "rating": 5,
+            "preview": "http://focusky.com/learning-center/wp-content/uploads/2017/04/creative-presentation-ideas-to-create-extraordinary-presentation-2.png",
+            "url": null,
+            "tags": null,
+            "tool": "Sway"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Invite specific persons to a meeting",
+            "rating": 5,
+            "preview": "http://1.bp.blogspot.com/-S3fbBqWwuPs/Th8R4MdzZZI/AAAAAAAABb8/nd1hr8Grto0/s1600/meeting.gif",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Invite specific persons to a meeting",
+            "rating": 4,
+            "preview": "http://1.bp.blogspot.com/-S3fbBqWwuPs/Th8R4MdzZZI/AAAAAAAABb8/nd1hr8Grto0/s1600/meeting.gif",
+            "url": null,
+            "tags": null,
+            "tool": "Teams"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Self serviced booking of you or your team",
+            "rating": 5,
+            "preview": "https://blog.one.com/wp-content/uploads/2016/02/teambooking.png",
+            "url": null,
+            "tags": null,
+            "tool": "Booking"
+        },
+        {
+            "area": "Prepare",
+            "subject": "Self serviced booking of you or your team",
+            "rating": 4,
+            "preview": "https://blog.one.com/wp-content/uploads/2016/02/teambooking.png",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Meet",
+            "subject": "Deltag i en chat med en kollega/samarbejdspartner",
+            "rating": 4,
+            "preview": "https://img.freepik.com/free-vector/messenger-application-to-chat-in-flat-style_23-2147804300.jpg?size=338&ext=jpg",
+            "url": null,
+            "tags": "Informal",
+            "tool": "Newsfeed"
+        },
+        {
+            "area": "Meet",
+            "subject": "Deltag i en chat med en kollega/samarbejdspartner",
+            "rating": 2,
+            "preview": "https://img.freepik.com/free-vector/messenger-application-to-chat-in-flat-style_23-2147804300.jpg?size=338&ext=jpg",
+            "url": null,
+            "tags": "Informal",
+            "tool": "Outlook"
+        },
+        {
+            "area": "Meet",
+            "subject": "Conduct an online-meeting with your team or a colleague",
+            "rating": 5,
+            "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Skype"
+        },
+        {
+            "area": "Meet",
+            "subject": "Conduct an online-meeting with external",
+            "rating": 5,
+            "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Skype"
+        },
+        {
+            "area": "Meet",
+            "subject": "Conduct an online-meeting with external",
+            "rating": 4,
+            "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Teams"
+        },
+        {
+            "area": "Meet",
+            "subject": "Conduct an online-meeting with external",
+            "rating": 3,
+            "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Skype (personal)"
+        },
+        {
+            "area": "Meet",
+            "subject": "Conduct an online-meeting with external",
+            "rating": 4,
+            "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Goto Meeting"
+        },
+        {
+            "area": "Meet",
+            "subject": "Make notes (shareable as well as individual) from a meeting",
+            "rating": 5,
+            "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "OneNote"
+        },
+        {
+            "area": "Meet",
+            "subject": "Make notes (shareable as well as individual) from a meeting",
+            "rating": 2,
+            "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Outlook"
+        },
+        {
+            "area": "Meet",
+            "subject": "Assign task to specific persons",
+            "rating": 5,
+            "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+            "url": null,
+            "tags": null,
+            "tool": "Planner"
+        },
+        {
+            "area": "Meet",
+            "subject": "Assign task to specific persons",
+            "rating": 3,
+            "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+            "url": null,
+            "tags": null,
+            "tool": "Kanban"
+        },
+        {
+            "area": "Meet",
+            "subject": "Assign task to specific persons",
+            "rating": 2,
+            "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+            "url": null,
+            "tags": null,
+            "tool": "Project"
+        },
+        {
+            "area": "Meet",
+            "subject": "Assign task to general roles",
+            "rating": 5,
+            "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
+            "url": null,
+            "tags": null,
+            "tool": "Projekt",
+            "link": "http://nets-intranets/"
+        },
+        {
+            "area": "Meet",
+            "subject": "Vær kreativ",
+            "rating": 4,
+            "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+            "url": null,
+            "tags": null,
+            "tool": "Tegne"
+        }
+    ]
+
+}
