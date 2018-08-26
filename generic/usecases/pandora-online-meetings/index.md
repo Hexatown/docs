@@ -7,4 +7,4 @@ externalref: undefined
 ---
 
 
-![{"style":{"width":"50%"}}](./2018-08-23-14-31-29.png)
+![{"style":{"width":"50%","border":"1px dashed red"}}](./2018-08-23-14-31-29.png)
