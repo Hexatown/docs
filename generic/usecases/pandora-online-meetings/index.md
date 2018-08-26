@@ -9,7 +9,15 @@ externalref: undefined
 
 ![{"style":{"float":"left","width":"50%","min-width":"50%","border":"0px dashed red"}}](./2018-08-23-14-31-29.png)
 
+## Why online meetings ?
 - Flexibility
 - Ability to see each other
 - Reduce traveling
 - Meeting organizer can record session (voice, video and screen)
+
+
+### Combined use
+
+Include the possibility to either join the meeting physical or join online
+
+Use online meetings as backup
