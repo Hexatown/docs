@@ -18,15 +18,7 @@
       "Internet Explorer"
     ],
     "tasks": [
-      {
-        "area": "Introduction",
-        "subject": "Why Online Meetings?",
-        "rating": 4,
-        "preview": null,
-        "url": null,
-        "tags": null,
-        "tool": "Infora"
-      },
+      
       {
         "area": "Inviting and preparing",
         "subject": "Invite to an Online Meeting",
