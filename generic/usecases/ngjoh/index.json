@@ -1,5 +1,5 @@
 {
-  "title": "Niels Gregers Johansen (ngjoh@nets.eu)",
+  "title": "for Meetings LEGACY",
   "color": "#256FB0",
   "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
   "hasRatings": 5,
@@ -8,10 +8,10 @@
     "Project",
     "Day to day",
     "Weekly",
-    "General"
+    "Monthly"
   ],
   "tools": [
-    "IntraNets",
+    "intranets",
     null,
     "Outlook desktop",
     "Outlook Online",
@@ -19,13 +19,7 @@
     "servicenow",
     "sap",
     "idm",
-    "OneNote",
-    "Outlook",
-    "Planner",
-    "Kanban",
-    "Project",
-    "Projekt",
-    "Tegne"
+    "successfactor"
   ],
   "tasks": [
     {
@@ -35,18 +29,10 @@
       "preview": null,
       "url": null,
       "tags": null,
-      "tool": "IntraNets",
+      "tool": "intranets",
       "link": "https://app.jumpto365.com/#/service/onedrive/en"
     },
-    {
-      "area": "Corporate",
-      "subject": "Check news relevant for my job",
-      "rating": 5,
-      "preview": null,
-      "url": null,
-      "tags": null,
-      "link": "https://app.jumpto365.com/#/service/onedrive/en"
-    },
+ 
     {
       "area": "Corporate",
       "subject": "Check news relevant for my job",
@@ -54,7 +40,7 @@
       "preview": null,
       "url": null,
       "tags": null,
-      "tool": "IntraNets"
+      "tool": "intranets"
     },
     {
       "area": "Corporate",
@@ -91,15 +77,6 @@
       "url": null,
       "tags": null,
       "tool": "Outlook Online"
-    },
-    {
-      "area": "Project",
-      "subject": "Manage mails send to mailboxes shared with me",
-      "rating": 4,
-      "preview": null,
-      "url": null,
-      "tags": null,
-      "tool": "Microsoft Teams"
     },
     {
       "area": "Project",
@@ -183,68 +160,13 @@
       "tool": "idm"
     },
     {
-      "area": "General",
-      "subject": "Make notes (shareable as well as individual) from a meeting",
-      "rating": 5,
-      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
-      "url": null,
-      "tags": null,
-      "tool": "OneNote"
-    },
-    {
-      "area": "General",
-      "subject": "Make notes (shareable as well as individual) from a meeting",
-      "rating": 2,
-      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
-      "url": null,
-      "tags": null,
-      "tool": "Outlook"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 5,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Planner"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 3,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Kanban"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 2,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Project"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to general roles",
-      "rating": 5,
-      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
-      "url": null,
-      "tags": null,
-      "tool": "Projekt",
-      "link": "http://nets-intranets/"
-    },
-    {
-      "area": "General",
-      "subject": "Vær kreativ",
+      "area": "Monthly",
+      "subject": "Check up on my long term goals",
       "rating": 4,
-      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "preview": null,
       "url": null,
       "tags": null,
-      "tool": "Tegne"
+      "tool": "successfactor"
     }
   ],
   "toolList": [
@@ -488,6 +410,12 @@
       "color": "grey",
       "icon": "https://cdn.iconscout.com/public/images/icon/free/png-256/sap-logo-30c1775358bfd676-256x256.png",
       "Link": "https://portal.sap.nets.eu/irj/portal"
+    },
+    {
+      "Name": "Outlook desktop"
+    },
+    {
+      "Name": "Outlook Online"
     }
   ],
   "mapping": [
@@ -498,7 +426,7 @@
       "preview": null,
       "url": null,
       "tags": null,
-      "tool": "IntraNets",
+      "tool": "intranets",
       "link": "https://app.jumpto365.com/#/service/onedrive/en"
     },
     {
@@ -517,7 +445,7 @@
       "preview": null,
       "url": null,
       "tags": null,
-      "tool": "IntraNets"
+      "tool": "intranets"
     },
     {
       "area": "Corporate",
@@ -554,15 +482,6 @@
       "url": null,
       "tags": null,
       "tool": "Outlook Online"
-    },
-    {
-      "area": "Project",
-      "subject": "Manage mails send to mailboxes shared with me",
-      "rating": 4,
-      "preview": null,
-      "url": null,
-      "tags": null,
-      "tool": "Microsoft Teams"
     },
     {
       "area": "Project",
@@ -646,68 +565,13 @@
       "tool": "idm"
     },
     {
-      "area": "General",
-      "subject": "Make notes (shareable as well as individual) from a meeting",
-      "rating": 5,
-      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
-      "url": null,
-      "tags": null,
-      "tool": "OneNote"
-    },
-    {
-      "area": "General",
-      "subject": "Make notes (shareable as well as individual) from a meeting",
-      "rating": 2,
-      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
-      "url": null,
-      "tags": null,
-      "tool": "Outlook"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 5,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Planner"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 3,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Kanban"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to specific persons",
-      "rating": 2,
-      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
-      "url": null,
-      "tags": null,
-      "tool": "Project"
-    },
-    {
-      "area": "General",
-      "subject": "Assign task to general roles",
-      "rating": 5,
-      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
-      "url": null,
-      "tags": null,
-      "tool": "Projekt",
-      "link": "http://nets-intranets/"
-    },
-    {
-      "area": "General",
-      "subject": "Vær kreativ",
+      "area": "Monthly",
+      "subject": "Check up on my long term goals",
       "rating": 4,
-      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "preview": null,
       "url": null,
       "tags": null,
-      "tool": "Tegne"
+      "tool": "successfactor"
     }
   ]
 }
