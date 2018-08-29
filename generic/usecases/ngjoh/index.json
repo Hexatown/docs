@@ -1,0 +1,713 @@
+{
+  "title": "Niels Gregers Johansen (ngjoh@nets.eu)",
+  "color": "#256FB0",
+  "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+  "hasRatings": 5,
+  "areas": [
+    "Corporate",
+    "Project",
+    "Day to day",
+    "Weekly",
+    "General"
+  ],
+  "tools": [
+    "IntraNets",
+    null,
+    "Outlook desktop",
+    "Outlook Online",
+    "Microsoft Teams",
+    "servicenow",
+    "sap",
+    "idm",
+    "OneNote",
+    "Outlook",
+    "Planner",
+    "Kanban",
+    "Project",
+    "Projekt",
+    "Tegne"
+  ],
+  "tasks": [
+    {
+      "area": "Corporate",
+      "subject": "Check corporate News",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "IntraNets",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Check news relevant for my job",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "link": "https://app.jumpto365.com/#/service/onedrive/en"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Check news relevant for my job",
+      "rating": 3,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "IntraNets"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send directly to me",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook desktop"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send directly to me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook Online"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook desktop"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook Online"
+    },
+    {
+      "area": "Project",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Project",
+      "subject": "Manage projects",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check status of services that I am responsible for",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check status of services that I am depend on",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task assigned to me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task assigned to my groups",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task with priority assigned to groups which I am member of",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Register what I use my time for",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "sap"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Approve receipt of goods which I have receive from external Vendors",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "sap"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Manage my security settings",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "idm"
+    },
+    {
+      "area": "General",
+      "subject": "Make notes (shareable as well as individual) from a meeting",
+      "rating": 5,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "OneNote"
+    },
+    {
+      "area": "General",
+      "subject": "Make notes (shareable as well as individual) from a meeting",
+      "rating": 2,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Outlook"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 5,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Planner"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 3,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Kanban"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 2,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Project"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to general roles",
+      "rating": 5,
+      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
+      "url": null,
+      "tags": null,
+      "tool": "Projekt",
+      "link": "http://nets-intranets/"
+    },
+    {
+      "area": "General",
+      "subject": "Vær kreativ",
+      "rating": 4,
+      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Tegne"
+    }
+  ],
+  "toolList": [
+    {
+      "Name": "bookings",
+      "color": "#25abb2",
+      "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Bookings"
+    },
+    {
+      "Name": "calendar",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "Link": "https://outlook.office.com/owa/?path=/calendar/view/Day",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Calendar"
+    },
+    {
+      "Name": "delve",
+      "color": "#1c7bb9",
+      "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Delve"
+    },
+    {
+      "Name": "dynamics365",
+      "color": "#15224e",
+      "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Dynamics"
+    },
+    {
+      "Name": "excel",
+      "color": "#02723b",
+      "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+      "Link": "https://office.live.com/start/Excel.aspx",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Excel"
+    },
+    {
+      "Name": "flow",
+      "color": "#0077ff",
+      "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+      "Link": "https://flow.microsoft.com/en-us/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Flow"
+    },
+    {
+      "Name": "forms",
+      "color": "#008271",
+      "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+      "Link": "https://forms.office.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Forms"
+    },
+    {
+      "Name": "mail",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+      "Link": "https://outlook.office.com/owa/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Mail"
+    },
+    {
+      "Name": "newsfeed",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/Newsfeed.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Newsfeed"
+    },
+    {
+      "Name": "onedrive",
+      "color": "#1174c3",
+      "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/OneDrive"
+    },
+    {
+      "Name": "onenote",
+      "color": "#80397b",
+      "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+      "Link": "https://www.onenote.com/notebooks",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/OneNote"
+    },
+    {
+      "Name": "people",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/People.png",
+      "Link": "https://outlook.office.com/owa/?path=/people",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/People"
+    },
+    {
+      "Name": "planner",
+      "color": "#3c853c",
+      "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+      "Link": "https://tasks.office.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Planner"
+    },
+    {
+      "Name": "powerapps",
+      "color": "#742774",
+      "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+      "Link": "https://web.powerapps.com/home",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/PowerApps"
+    },
+    {
+      "Name": "powerbi",
+      "color": "#f2c811",
+      "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+      "Link": "https://app.powerbi.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Power-BI"
+    },
+    {
+      "Name": "powerpoint",
+      "color": "#d24726",
+      "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+      "Link": "https://office.live.com/start/PowerPoint.aspx",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/PowerPoint"
+    },
+    {
+      "Name": "project",
+      "color": "#2f722d",
+      "icon": "https://jumpto365.com/resources/images/app/Project.png",
+      "Link": "http://www.microsoftproject-online.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Project"
+    },
+    {
+      "Name": "sharepoint",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/SharePoint"
+    },
+    {
+      "Name": "skype",
+      "color": "#00aff0",
+      "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Skype"
+    },
+    {
+      "Name": "staffhub",
+      "color": "#25c8c2",
+      "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/StaffHub"
+    },
+    {
+      "Name": "stream",
+      "color": "#c30052",
+      "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+      "Link": "https://web.microsoftstream.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Stream"
+    },
+    {
+      "Name": "sway",
+      "color": "#008272",
+      "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Sway"
+    },
+    {
+      "Name": "tasks",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+      "Link": "https://outlook.office.com/owa/?path=/tasks",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Tasks"
+    },
+    {
+      "Name": "teams",
+      "color": "#3f418e",
+      "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+      "Link": "https://teams.microsoft.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Teams"
+    },
+    {
+      "Name": "todo",
+      "color": "#3896f9",
+      "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+      "Link": "https://todo.microsoft.com/?app",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/To-Do"
+    },
+    {
+      "Name": "visio",
+      "color": "#4568c4",
+      "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Visio"
+    },
+    {
+      "Name": "word",
+      "color": "#2b579a",
+      "icon": "https://jumpto365.com/resources/images/app/Word.png",
+      "Link": "https://office.live.com/start/Word.aspx",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Word"
+    },
+    {
+      "Name": "yammer",
+      "color": "#007dc6",
+      "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+      "Link": "https://www.yammer.com/",
+      "Content": "https://hexatown.github.io/docs/microsoft/office365/Yammer"
+    },
+    {
+      "Name": "text-analytics",
+      "color": "#d24726",
+      "Content": "/ai/",
+      "owner": "hexatown",
+      "repo": "docs"
+    },
+    {
+      "Name": "intranets",
+      "color": "blue",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "http://nets-intranets"
+    },
+    {
+      "Name": "servicenow",
+      "color": "red",
+      "icon": "https://aruba.i.lithium.com/t5/image/serverpage/image-id/20811i39E6518908671823?v=1.0",
+      "Link": "https://nets.service-now.com"
+    },
+    {
+      "Name": "idm",
+      "color": "yellow",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "https://id.nets.eu/login/forms/IMlogin.fcc?TYPE=33554433&REALMOID=06-000d1076-0066-1a58-b662-72100acb5a5a&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-rdfTVzSVpMruaxwDxxVZ25EMJUnxkv5upVJwCzMcz%2b37tZ1EpOnU3wN5a%2b572WjuKr2G6Ecv9zRn1efAClAn%2fjUo%2fac3BDPe&TARGET=-SM-%2fiam%2fim%2fnets%2f"
+    },
+    {
+      "Name": "elearning",
+      "color": "yellow",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "https://competence.nets.no/MyPage"
+    },
+    {
+      "Name": "employee-handbook",
+      "color": "green",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "https://nets.service-now.com/hr?id=hr_kb_view2"
+    },
+    {
+      "Name": "hr-faq",
+      "color": "green",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "https://nets.service-now.com/hr?id=hr_catalog"
+    },
+    {
+      "Name": "successfactor",
+      "color": "green",
+      "icon": "https://www.nets.eu/SiteCollectionImages/News/Nets_new_Logo_news.jpg?RenditionID=12",
+      "Link": "https://performancemanager5.successfactors.eu/sf/start?_s.crb=BrUzhVKf3ALr0a7Gm1mREu45q0Y%253d#Shell-home"
+    },
+    {
+      "Name": "sap",
+      "color": "grey",
+      "icon": "https://cdn.iconscout.com/public/images/icon/free/png-256/sap-logo-30c1775358bfd676-256x256.png",
+      "Link": "https://portal.sap.nets.eu/irj/portal"
+    }
+  ],
+  "mapping": [
+    {
+      "area": "Corporate",
+      "subject": "Check corporate News",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "IntraNets",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Check news relevant for my job",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "link": "https://app.jumpto365.com/#/service/onedrive/en"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Check news relevant for my job",
+      "rating": 3,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "IntraNets"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send directly to me",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook desktop"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send directly to me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook Online"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook desktop"
+    },
+    {
+      "area": "Corporate",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Outlook Online"
+    },
+    {
+      "area": "Project",
+      "subject": "Manage mails send to mailboxes shared with me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Project",
+      "subject": "Manage projects",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check status of services that I am responsible for",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check status of services that I am depend on",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task assigned to me",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task assigned to my groups",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Day to day",
+      "subject": "Check task with priority assigned to groups which I am member of",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "servicenow"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Register what I use my time for",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "sap"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Approve receipt of goods which I have receive from external Vendors",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "sap"
+    },
+    {
+      "area": "Weekly",
+      "subject": "Manage my security settings",
+      "rating": 4,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "idm"
+    },
+    {
+      "area": "General",
+      "subject": "Make notes (shareable as well as individual) from a meeting",
+      "rating": 5,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "OneNote"
+    },
+    {
+      "area": "General",
+      "subject": "Make notes (shareable as well as individual) from a meeting",
+      "rating": 2,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Outlook"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 5,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Planner"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 3,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Kanban"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to specific persons",
+      "rating": 2,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Project"
+    },
+    {
+      "area": "General",
+      "subject": "Assign task to general roles",
+      "rating": 5,
+      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
+      "url": null,
+      "tags": null,
+      "tool": "Projekt",
+      "link": "http://nets-intranets/"
+    },
+    {
+      "area": "General",
+      "subject": "Vær kreativ",
+      "rating": 4,
+      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Tegne"
+    }
+  ]
+}
