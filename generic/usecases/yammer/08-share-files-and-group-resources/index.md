@@ -1,5 +1,9 @@
 ---
 title: Share files and group resources
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 With Office 365, you can share and grant permission to Office files with members of your Yammer group without having to leave the Office app\.

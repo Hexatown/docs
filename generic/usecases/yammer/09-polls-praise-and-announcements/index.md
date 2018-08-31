@@ -1,5 +1,9 @@
 ---
 title: Polls, praise, and announcements
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Creating a poll, praising a coworker, or making an announcement offers several ways for you to interact with people in your Yammer network\.

@@ -1,5 +1,9 @@
 ---
 title: Drive ongoing engagement
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Once a group is up and running, keep the momentum going\.

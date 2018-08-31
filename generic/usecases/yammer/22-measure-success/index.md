@@ -1,5 +1,9 @@
 ---
 title: Measure success
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 After your network is up and running, measure success to understand your groups' engagement and activity, and inform your efforts to improve, grow, or execute campaigns in your groups\.

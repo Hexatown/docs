@@ -1,5 +1,9 @@
 ---
 title: Sign in and edit your profile
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Sign in at [Yammer\.com](https://yammer.com/), select __Log in__, and enter your company email and password\. Or, from anywhere in [office\.com](https://www.office.com/signin), select the app launcher in the upper\-left corner, and select __Yammer__\.

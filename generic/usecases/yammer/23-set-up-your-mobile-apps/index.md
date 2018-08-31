@@ -1,5 +1,9 @@
 ---
 title: Set up your mobile apps
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Get to your files from anywhere \- at work, at home, or on the go\.

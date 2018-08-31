@@ -1,5 +1,9 @@
 ---
 title: Set notifications
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Setting notifications is a great way to stay connected\. Set notifications so you can stay up\-to\-date on your conversations, and never miss an important update\.

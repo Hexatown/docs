@@ -1,5 +1,9 @@
 ---
 title: Join and create groups
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Groups are a great way to bring your organization together, stay informed about a topic, or collaborate with communities of people\.

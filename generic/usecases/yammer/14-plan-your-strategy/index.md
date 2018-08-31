@@ -1,5 +1,9 @@
 ---
 title: Plan your strategy
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 As you prepare to launch Yammer within your organization, it's important to create a strong and clear strategy that will engage users and help them understand how Yammer will make everyone more productive and connected\. Here are a few ideas to help:

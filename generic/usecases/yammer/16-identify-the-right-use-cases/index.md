@@ -1,5 +1,9 @@
 ---
 title: Identify the right use cases
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 When you launch Yammer in your organization, it's critical that you identify the best use cases to make your launch successful\. Here are a few examples to get you started:

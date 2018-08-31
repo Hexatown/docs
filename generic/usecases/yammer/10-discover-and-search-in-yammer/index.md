@@ -1,5 +1,9 @@
 ---
 title: Discover and search in Yammer
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Discover and search for conversations, people, and files in your Yammer network\.

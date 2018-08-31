@@ -1,5 +1,9 @@
 ---
 title: Create and edit files
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 If you need to create a new file in Word, PowerPoint, or Excel, you can add one right in Yammer\.

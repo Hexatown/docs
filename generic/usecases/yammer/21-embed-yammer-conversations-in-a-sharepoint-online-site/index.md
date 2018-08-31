@@ -1,5 +1,9 @@
 ---
 title: Embed Yammer conversations in a SharePoint Online site
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Your intranet enables people across the organization to network, engage, and share ideas, content, and best practices\. Use the Yammer web part to add Yammer conversations to your SharePoint Online pages, to build communities and foster engagement\.

@@ -1,5 +1,9 @@
 ---
 title: Learn more about Yammer
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 __Yammer help and training__

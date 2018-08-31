@@ -1,5 +1,9 @@
 ---
 title: Post an update and attach files
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Start a conversation in Yammer to share information and updates across your organization\.

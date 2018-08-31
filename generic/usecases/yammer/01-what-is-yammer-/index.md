@@ -1,5 +1,9 @@
 ---
 title: What is Yammer?
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Staying connected is more important than ever\. Yammer is a social networking tool that helps you connect and engage across your organization\. Discuss ideas, share updates, and network with others around the globe\.

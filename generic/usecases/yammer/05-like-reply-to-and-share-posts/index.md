@@ -1,5 +1,9 @@
 ---
 title: Like, reply to, and share posts
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Yammer makes it easy to engage with others and keep the conversation going wherever you are\.

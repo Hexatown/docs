@@ -1,5 +1,9 @@
 ---
 title: Personalize a Yammer Network
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 As you roll out Yammer within your organization, you will want to personalize the network\. This involves some practical changes that can be made, and then the main work is building the right culture for your Yammer network\.

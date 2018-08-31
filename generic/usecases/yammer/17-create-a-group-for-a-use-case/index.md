@@ -1,5 +1,9 @@
 ---
 title: Create a group for a use case
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 If you need a group for a use case, create one in Yammer\.

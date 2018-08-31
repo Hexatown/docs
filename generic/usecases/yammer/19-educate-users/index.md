@@ -1,5 +1,9 @@
 ---
 title: Educate users
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Educate users on how to get the most out of your company's Yammer network\.

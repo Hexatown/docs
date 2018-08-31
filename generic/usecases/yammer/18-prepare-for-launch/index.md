@@ -1,5 +1,9 @@
 ---
 title: Prepare for launch
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 Prepare a launch event to create excitement around your company's new Yammer network\.

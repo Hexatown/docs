@@ -1,5 +1,9 @@
 ---
 title: Keep it going
+contexts: office365,microsoft365
+source: Microsoft public sites
+translation: en
+tools: yammer
 ---
 
 To make Yammer an important and regular part of your day, try a few of these practical suggestions:
