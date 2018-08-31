@@ -1,7 +1,7 @@
 {
     "title": "Yammer",
-    "color": "#927160",
-    "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png",
+    "color": "#007dc6",
+    "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
     "hasRatings": 5,
     "areas": ["Prepare to use Yammer","Following","Sharing","Working out loud","Searching","Other","Implementation"],
     "tools": [],
