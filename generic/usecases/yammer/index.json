@@ -3,10 +3,10 @@
     "color": "#927160",
     "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png",
     "hasRatings": 5,
-    "areas": ["Yammer"],
-    "tools": ["yammer"],
+    "areas": ["Prepare to use Yammer","Following","Sharing","Working out loud","Searching","Other","Implementation"],
+    "tools": [],
     "tasks": [ {
-        "area": "Yammer",
+        "area": "Prepare to use Yammer",
         "subject": "What is Yammer?",
         "path": "01-what-is-yammer-",
         "rating": 5,
@@ -15,7 +15,7 @@
         "tags": null,
         "tool": "yammer"
     }, {
-        "area": "Prepare",
+        "area": "Prepare to use Yammer",
         "subject": "Sign in and edit your profile",
         "path": "03-sign-in-and-edit-your-profile",
         "rating": 5,
@@ -69,7 +69,7 @@
         "tags": null,
         "tool": "yammer"
     }, {
-        "area": "Work out loud",
+        "area": "Working out loud",
         "subject": "Polls, praise, and announcements",
         "path": "09-polls-praise-and-announcements",
         "rating": 5,
@@ -78,7 +78,7 @@
         "tags": null,
         "tool": "yammer"
     }, {
-        "area": "Search",
+        "area": "Searching",
         "subject": "Discover and search in Yammer",
         "path": "10-discover-and-search-in-yammer",
         "rating": 5,
