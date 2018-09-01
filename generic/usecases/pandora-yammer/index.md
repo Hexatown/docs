@@ -10,7 +10,7 @@ tools: yammer
 2. What is Yammer?
 3. Working like a network
 4. How to work out loud 
-5. Yammer Essentials \(With Demo\)
+5. Yammer Essentials 
 
 Find material, pictures, guildelines and policy for Yammer on the INFORA Help site
 
