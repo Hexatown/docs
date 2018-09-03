@@ -4,6 +4,9 @@ contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en
 tools: yammer
+color: #927160
+icon: https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png
+
 ---
 
 Yammer is a secure company social network that is designer for internal collaboration and knowledge sharing\. It’s very similar to Facebook in that is about sharing content with others\. 

@@ -4,6 +4,9 @@ contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en
 tools: yammer
+color: #927160
+icon: https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png
+
 ---
 
 Yammer is available on all devices\. That includes the Desktop and mobile\. You can search Yammer in the appstore to find the application to add\. 

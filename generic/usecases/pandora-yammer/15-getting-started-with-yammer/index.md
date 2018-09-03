@@ -1,9 +1,13 @@
 ---
-title: Getting started with yammer
+title: Getting started with Yammer
 contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en
 tools: yammer
+color: #927160
+icon: https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png
+
+
 ---
 
 - Find relevant groups for you to join

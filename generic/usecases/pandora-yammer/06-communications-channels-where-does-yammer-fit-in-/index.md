@@ -1,9 +1,12 @@
 ---
-title: Communications Channels \- Where does Yammer fit in?
+title: Communications Channels - Where does Yammer fit in?
 contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en
 tools: yammer
+color: #927160
+icon: https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png
+
 ---
 
 Synchronous and asynchronous communication – same time and different time
