@@ -47,7 +47,7 @@
       "borderColor": "",
       "isConnector": false,
       "members": {
-        "members": []
+        "members": ["delve","people"]
       }
     },
     {
@@ -115,7 +115,7 @@
       "isConnector": false,
       "members": {
         "members": [
-          "sway"
+          "sway","powerpoint"
         ]
       }
     },
