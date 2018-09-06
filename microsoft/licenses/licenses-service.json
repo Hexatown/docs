@@ -1,0 +1,412 @@
+{
+  "Business Essentials": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Business": {
+    "yes": [
+      "Office Online",
+      "OneDrive for Business",
+      "Microsoft Forms",
+      "Microsoft Sway",
+      "Office Delve"
+    ],
+    "no": [
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "Skype for Business Online",
+      "Power BI Pro",
+      "Project Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft Flow",
+      "Microsoft MyAnalytics",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Teams",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Business Premium": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft MyAnalytics",
+      "Microsoft Stream",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Enterprise E1": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Enterprise E3": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Enterprise E5": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Power BI Pro",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft MyAnalytics",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Enterprise F1": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Planner",
+      "Office Delve",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Edu A1": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Edu A3": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "Edu A5": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Power BI Pro",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft MyAnalytics",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams",
+      "Office Delve",
+      "To-Do"
+    ],
+    "no": [
+      "Project Online",
+      "Microsoft Dynamics 365",
+      "Microsoft Visio Online"
+    ],
+    "soon": []
+  },
+  "US Gov G1": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Office Delve"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": [
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams"
+    ]
+  },
+  "US Gov G3": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Office Delve"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": [
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams"
+    ]
+  },
+  "US Gov G5": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Power BI Pro",
+      "Office Delve"
+    ],
+    "no": [
+      "Project Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": [
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft MyAnalytics",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Stream",
+      "Microsoft Sway",
+      "Microsoft Teams"
+    ]
+  },
+  "US Gov F1": {
+    "yes": [
+      "Office Online",
+      "Outlook (all apps)",
+      "SharePoint Online",
+      "OneDrive for Business",
+      "Skype for Business Online",
+      "Office Delve"
+    ],
+    "no": [
+      "Power BI Pro",
+      "Project Online",
+      "Yammer",
+      "Microsoft Bookings",
+      "Microsoft MyAnalytics",
+      "Microsoft Stream",
+      "Microsoft Dynamics 365",
+      "To-Do",
+      "Microsoft Visio Online"
+    ],
+    "soon": [
+      "Microsoft Flow",
+      "Microsoft Forms",
+      "Microsoft Planner",
+      "Microsoft PowerApps",
+      "Microsoft StaffHub",
+      "Microsoft Sway",
+      "Microsoft Teams"
+    ]
+  }
+}

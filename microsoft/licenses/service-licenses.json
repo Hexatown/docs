@@ -1,0 +1,466 @@
+{
+  "Office Online": {
+    "yes": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": []
+  },
+  "Outlook (all apps)": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": [
+      "Business"
+    ]
+  },
+  "SharePoint Online": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": [
+      "Business"
+    ]
+  },
+  "OneDrive for Business": {
+    "yes": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": []
+  },
+  "Skype for Business Online": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": [
+      "Business"
+    ]
+  },
+  "Power BI Pro": {
+    "yes": [
+      "Enterprise E5",
+      "Edu A5",
+      "US Gov G5"
+    ],
+    "soon": [],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov F1"
+    ]
+  },
+  "Project Online": {
+    "yes": [],
+    "soon": [],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  },
+  "Yammer": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [],
+    "no": [
+      "Business",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  },
+  "Microsoft Bookings": {
+    "yes": [
+      "Business Premium",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  },
+  "Microsoft Flow": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": [
+      "Business"
+    ]
+  },
+  "Microsoft Forms": {
+    "yes": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": []
+  },
+  "Microsoft MyAnalytics": {
+    "yes": [
+      "Enterprise E5",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G5"
+    ],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov F1"
+    ]
+  },
+  "Microsoft Planner": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": [
+      "Business",
+      "Enterprise F1"
+    ]
+  },
+  "Microsoft PowerApps": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": [
+      "Business"
+    ]
+  },
+  "Microsoft StaffHub": {
+    "yes": [
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": [
+      "Business Essentials",
+      "Business"
+    ]
+  },
+  "Microsoft Stream": {
+    "yes": [
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5"
+    ],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "US Gov F1"
+    ]
+  },
+  "Microsoft Sway": {
+    "yes": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": []
+  },
+  "Microsoft Teams": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "no": [
+      "Business"
+    ]
+  },
+  "Office Delve": {
+    "yes": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ],
+    "soon": [],
+    "no": [
+      "Enterprise F1"
+    ]
+  },
+  "Microsoft Dynamics 365": {
+    "yes": [],
+    "soon": [],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  },
+  "To-Do": {
+    "yes": [
+      "Business Essentials",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5"
+    ],
+    "soon": [],
+    "no": [
+      "Business",
+      "Enterprise F1",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  },
+  "Microsoft Visio Online": {
+    "yes": [],
+    "soon": [],
+    "no": [
+      "Business Essentials",
+      "Business",
+      "Business Premium",
+      "Enterprise E1",
+      "Enterprise E3",
+      "Enterprise E5",
+      "Enterprise F1",
+      "Edu A1",
+      "Edu A3",
+      "Edu A5",
+      "US Gov G1",
+      "US Gov G3",
+      "US Gov G5",
+      "US Gov F1"
+    ]
+  }
+}
