@@ -3,8 +3,8 @@
     "icon": "https://images-na.ssl-images-amazon.com/images/I/715vwvP5ZEL.png",
     "color": "#1BC98E",
     "hasRatings": 1,
-    "areas": ["Onboarding"],
-    "tools": [""],
+    "areas": ["Before first day","First day","First week"],
+    "tools": ["Intranet","SAP"],
     "tasks": [  {
         "area": "Before first day",
         "subject": "Prepare paperwork",
