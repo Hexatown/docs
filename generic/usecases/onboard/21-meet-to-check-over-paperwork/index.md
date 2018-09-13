@@ -1,24 +1,10 @@
 ---
-title: First week:
+title: Meet to check over paperwork
 contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en
 tools: 
 ---
-
-## Assign first project
-
-Once your new employee has settled in, got to know the team and feels comfortable in the workplace you should__ assign their first project__\.
-
-This will ensure they __learn the job hands on__ and __feel valuable__ to the company, __rather than doing menial tasks__\.
-
-## Explain expectations for the following month
-
-You have already explained the __overall expectations,__ but now it's time to let your employee __know the specifics__\. 
-
-Refer to the__ job description__ and __make a plan for your employee__ to follow; let them know exactly__ what they will be expected to do__\. If possible, notify them of any__ upcoming projects and predicted workflow__\.
-
-## Meet to check over paperwork
 
 Schedule a meeting with the __employee and a member from the HR team__ to ensure all the__ forms are filled and correct__\.__ Record the date__ of the meeting in the __form field__ below\.
 

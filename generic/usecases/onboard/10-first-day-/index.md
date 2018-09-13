@@ -1,5 +1,5 @@
 ---
-title: Before first day:
+title: First day:
 contexts: office365,microsoft365
 source: Microsoft public sites
 translation: en

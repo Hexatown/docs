@@ -1,62 +1,226 @@
 {
     "title": "Onboarding",
-    "color": "green",
+    "icon": "https://images-na.ssl-images-amazon.com/images/I/715vwvP5ZEL.png",
+    "color": "#1BC98E",
     "hasRatings": 1,
     "areas": ["Onboarding"],
     "tools": [""],
-    "tasks": [{
-        "area": "Onboarding",
-        "subject": "Before first day:",
-        "path": "01-before-first-day-",
+    "tasks": [  {
+        "area": "Before first day",
+        "subject": "Prepare paperwork",
+        "path": "02-prepare-paperwork",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
     }, {
-        "area": "Onboarding",
-        "subject": "First day:",
-        "path": "02-first-day-",
+        "area": "Before first day",
+        "subject": "Discuss role, goals and projects with supervisor",
+        "path": "03-discuss-role-goals-and-projects-with-supervisor",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
     }, {
-        "area": "Onboarding",
-        "subject": "First week:",
-        "path": "03-first-week-",
+        "area": "Before first day",
+        "subject": "Prepare employee's workstation",
+        "path": "04-prepare-employee-s-workstation",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
     }, {
-        "area": "Onboarding",
+        "area": "Before first day",
+        "subject": "Give access to any tools they will need",
+        "path": "05-give-access-to-any-tools-they-will-need",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "Before first day",
+        "subject": "Create accounts",
+        "path": "06-create-accounts",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "Before first day",
+        "subject": "Assign required reading",
+        "path": "07-assign-required-reading",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "Before first day",
+        "subject": "Prepare benefits package",
+        "path": "08-prepare-benefits-package",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "Before first day",
+        "subject": "Provide a job description with responsibilities",
+        "path": "09-provide-a-job-description-with-responsibilities",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, 
+     {
+        "area": "First day",
+        "subject": "Welcome to the team",
+        "path": "11-welcome-to-the-team",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Tour of the office",
+        "path": "12-tour-of-the-office",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Assign training material",
+        "path": "13-assign-training-material",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Explain your expectations",
+        "path": "14-explain-your-expectations",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Induct into company culture",
+        "path": "15-induct-into-company-culture",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Assign a mentor",
+        "path": "16-assign-a-mentor",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First day",
+        "subject": "Take out to lunch",
+        "path": "17-take-out-to-lunch",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Assign first project",
+        "path": "19-assign-first-project",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Explain expectations for the following month",
+        "path": "20-explain-expectations-for-the-following-month",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Meet to check over paperwork",
+        "path": "21-meet-to-check-over-paperwork",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
         "subject": "First month:",
-        "path": "04-first-month-",
+        "path": "22-first-month-",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
     }, {
-        "area": "Onboarding",
-        "subject": "Sources:",
-        "path": "05-sources-",
+        "area": "First week",
+        "subject": "Plan check\\-in meetings",
+        "path": "23-plan-check-in-meetings",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
     }, {
-        "area": "Onboarding",
-        "subject": "Relevant Checklists:",
-        "path": "06-relevant-checklists-",
+        "area": "First week",
+        "subject": "Explain long\\-term goals",
+        "path": "24-explain-long-term-goals",
         "rating": 5,
         "preview": null,
         "url": null,
         "tags": null,
-        "tool": "yammer"
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Provide reading material for personal growth",
+        "path": "25-provide-reading-material-for-personal-growth",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Encourage them to socially interact with the team",
+        "path": "26-encourage-them-to-socially-interact-with-the-team",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
+    }, {
+        "area": "First week",
+        "subject": "Review onboarding process over the next 60 days",
+        "path": "27-review-onboarding-process-over-the-next-60-days",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": ""
     }]
 }
