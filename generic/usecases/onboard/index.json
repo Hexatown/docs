@@ -1,0 +1,62 @@
+{
+    "title": "Onboarding",
+    "color": "green",
+    "hasRatings": 1,
+    "areas": ["Onboarding"],
+    "tools": [""],
+    "tasks": [{
+        "area": "Onboarding",
+        "subject": "Before first day:",
+        "path": "01-before-first-day-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Onboarding",
+        "subject": "First day:",
+        "path": "02-first-day-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Onboarding",
+        "subject": "First week:",
+        "path": "03-first-week-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Onboarding",
+        "subject": "First month:",
+        "path": "04-first-month-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Onboarding",
+        "subject": "Sources:",
+        "path": "05-sources-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Onboarding",
+        "subject": "Relevant Checklists:",
+        "path": "06-relevant-checklists-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }]
+}
