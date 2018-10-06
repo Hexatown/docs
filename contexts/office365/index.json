@@ -1451,7 +1451,8 @@
             ]
           }
         },
-        "topData": {
+        "topData":null,
+        "xtopData": {
           "key": "A",
           "title": "A",
           "color": "",
@@ -1522,7 +1523,8 @@
             "index": 0
           }
         },
-        "topData": {
+        "topData":null,
+        "xtopData": {
           "key": "A",
           "title": "A",
           "color": "",
