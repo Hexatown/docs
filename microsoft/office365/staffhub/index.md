@@ -6,7 +6,7 @@ groups: Small Business Applications
 ---
 Note: StaffHub is deprecating and its features will be absorbed into Microsoft Teams. [Details](https://support.office.com/en-us/article/microsoft-staffhub-to-be-retired-30ca17f3-5502-4bc9-bb0a-bed04bb362f0?ui=en-US&rs=en-US&ad=US).
 
-StaffHub is a frontline and shift worker portal used for scheduling, communicating, and hosting information simply and easily for a workforce that is rarely all together and need a central hub for documents, messaging, and shift schedules, on desktop or mobile.
+StaffHub is a frontline and shift worker portal used for scheduling, communicating, and hosting information simply and easily for a workforce that is rarely all together and needs a central hub for documents, messaging, and shift schedules. StaffHub is available on desktop and mobile.
 
 StaffHub provides powerful scheduling (including timeclocking and the ability for users to switch shifts themselves), simple document repositories (for things such as employee handbooks and standard operating procedures) and a useful messaging system that keeps all interactions in one place rather than scattered across text and other messaging apps. 
 
