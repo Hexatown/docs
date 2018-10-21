@@ -37,6 +37,10 @@ Resources
 -   [When to use OneDrive versus SharePoint](http://icsh.pt/DocCircleOfLife) \[icansharepoint
     inforgraphic\]
 
+-   [OneDrive for Business Blog](https://www.microsoft.com/en-us/microsoft-365/blog/onedrive/) \[Microsoft\]
+
+-   [OneDrive for Business Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=onedrive) \[Microsoft\]
+
 Similar applications
 --------------------
 
@@ -51,6 +55,9 @@ Feedback
 
 -   [OneDrive for Business UserVoice](https://onedrive.uservoice.com/forums/262982-onedrive/category/86090-onedrive-for-business)
     \[UserVoice\]
+
+-   [OneDrive for Business on TechCommunity](hhttps://techcommunity.microsoft.com/t5/OneDrive-for-Business/ct-p/OneDriveforBusiness)
+    \[Microsoft\]
 
 Author
 ---------
