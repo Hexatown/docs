@@ -31,7 +31,7 @@ Resources
     \[Microsoft\]
 
 -   [Sway vs. PowerPoint: What's the difference?](http://blog.goptg.com/sway-vs-powerpoint-whats-the-difference)
-    \[goptg.com\]
+    \[goptg.com\] 
 
 Feedback
 ---------
