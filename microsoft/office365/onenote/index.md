@@ -11,7 +11,7 @@ xmarketing:
 xsource: https://www.onenote.com/
 ---
 OneNote Online is a browser-based version of OneNote, Microsoft's
-commercial-grade note-taking app. OneNote Online is a \"lite\" version
+commercial-grade note-taking app. OneNote Online is a "lite" version
 of the full-fledged desktop app and provides fast opening times for
 reading and editing .one notebook files. OneNote Online is great for
 taking centralized notes organized by pages, sections, and books, like
@@ -20,7 +20,7 @@ how physical notebooks work.
 Most OneNote files will open directly in OneNote Online when using
 SharePoint Online, OneDrive for Business, MS Teams, Yammer, Outlook, and
 some other Office 365 apps. Files open in reading mode. To edit the
-files, simply click the \"Edit Notebook\" button and choose to edit the
+files, simply click the "Edit Notebook" button and choose to edit the
 file in OneNote Online (directly in the browser) or OneNote (the desktop
 app).
 
@@ -34,8 +34,8 @@ automatically; there is no save button.
 You\'ll want to avoid more complex tasks like ink, shapes, audio and
 video recording, and inserting symbols (among others) in OneNote Online.
 
-If OneNote Online doesn\'t provide the features you need to do the job,
-simply click the \"Edit in OneNote\" button in the menu bar to access
+If OneNote Online doesn't provide the features you need to do the job,
+simply click the "Edit in OneNote" button in the menu bar to access
 the desktop version of the app and its more complex features.
 
 Resources

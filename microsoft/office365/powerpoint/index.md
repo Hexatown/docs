@@ -11,8 +11,8 @@ xmarketing:
 xsource: https://products.office.com/en/office-online/documents-spreadsheets-presentations-office-online
 ---
 PowerPoint Online is a browser-based version of Microsoft PowerPoint,
-the ubiquitous slideshow app you\'ve likely been using for years.
-PowerPoint Online is a \"lite\" version of the full-fledged desktop app
+the ubiquitous slideshow app you've likely been using for years.
+PowerPoint Online is a "lite" version of the full-fledged desktop app
 and provides fast opening times for reading and editing .pptx and .ppt
 files. PowerPoint Online is great for reading PowerPoint files, making
 simple edits, and presenting your slides directly from almost any
@@ -21,9 +21,9 @@ browser on pretty much any device.
 Most PowerPoint files will open directly in PowerPoint Online when using
 SharePoint Online, OneDrive for Business, MS Teams, Yammer, and some
 other Office 365 apps. Files open in reading mode. To edit the files,
-simply click the \"Edit Presentation\" button and choose to edit the
+simply click the "Edit Presentation" button and choose to edit the
 file in PowerPoint Online (directly in the browser) or PowerPoint (the
-desktop app). To present a file, click the \"Start Slideshow\" button.
+desktop app). To present a file, click the "Start Slideshow" button.
 
 Functionality in PowerPoint Online is generally limited to day-to-day
 editing, text formatting, simple tables, simple animations, slide layout
@@ -32,14 +32,14 @@ for [co-authoring](http://icsh.pt/CoAuthoring) (simultaneous editing by
 multiple users). All changes made in PowerPoint Online are saved
 automatically; there is no save button.
 
-You\'ll want to avoid more complex tasks like some animations, editing
+You'll want to avoid more complex tasks like some animations, editing
 headers and footers, adding Excel charts, inserting shapes and charts,
 and applying rich formatting (among others) in PowerPoint Online. Some
 animations are simplified and not as rich if you present the file in
 PowerPoint Online.
 
-If PowerPoint Online doesn\'t provide the features you need to do the
-job, simply click the \"Edit in PowerPoint\" button in the menu bar to
+If PowerPoint Online doesn't provide the features you need to do the
+job, simply click the "Edit in PowerPoint" button in the menu bar to
 access the desktop version of the app and its more complex features.
 Some versions of the desktop app save updates automatically, but some do
 not. Be aware of how this feature works on your version.

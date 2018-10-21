@@ -11,8 +11,8 @@ xmarketing:
 source: https://products.office.com/en/office-online/documents-spreadsheets-presentations-office-online
 ---
 Excel Online is a browser-based version of Microsoft Excel, the
-ubiquitous spreadsheet app you\'ve likely been using for years. Excel
-Online is a \"lite\" version of the full-fledged desktop app and
+ubiquitous spreadsheet app you've likely been using for years. Excel
+Online is a "lite" version of the full-fledged desktop app and
 provides fast opening times for reading and editing .xlsx and .xls
 files. Excel Online is great for reading Excel files and making simple
 edits from basically any browser on almost any device.
@@ -20,7 +20,7 @@ edits from basically any browser on almost any device.
 Most Excel files will open directly in Excel Online when using
 SharePoint Online, OneDrive for Business, MS Teams, Yammer, and some
 other Office 365 apps. Files open in reading mode. To edit the files,
-simply click the \"Edit Workbook\" button and choose to edit the file in
+simply click the "Edit Workbook" button and choose to edit the file in
 Excel Online (directly in the browser) or Excel (the desktop app).
 
 Functionality in Excel Online is generally limited to day-to-day
@@ -31,14 +31,14 @@ though it provides good support for
 multiple users). All changes made in Excel Online are saved
 automatically; there is no save button.
 
-You\'ll want to avoid more complex tasks like image manipulation, data
+You'll want to avoid more complex tasks like image manipulation, data
 connections between files, creating pivot tables, creating charts, and
 using more complex functions (among others) in Excel Online. Macros will
 not run in Excel Online and protected spreadsheets will not open in
 Excel Online.
 
-If Excel Online doesn\'t provide the features you need to do the job,
-simply click the \"Edit in Excel\" button in the menu bar to access the
+If Excel Online doesn't provide the features you need to do the job,
+simply click the "Edit in Excel" button in the menu bar to access the
 desktop version of the app and its more complex features. Some versions
 of the desktop app save updates automatically, but some do not. Be aware
 of how this feature works on your version.
