@@ -1,0 +1,207 @@
+{
+    "title": "Yammer",
+    "color": "#007dc6",
+    "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+    "hasRatings": 5,
+    "areas": ["Prepare to use Yammer","Following","Sharing","Working out loud","Searching","Other","Implementation"],
+    "tools": [],
+    "tasks": [ {
+        "area": "Prepare to use Yammer",
+        "subject": "What is Yammer?",
+        "path": "01-what-is-yammer-",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Prepare to use Yammer",
+        "subject": "Sign in and edit your profile",
+        "path": "03-sign-in-and-edit-your-profile",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Following",
+        "subject": "Set notifications",
+        "path": "04-set-notifications",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Following",
+        "subject": "Like, reply to, and share posts",
+        "path": "05-like-reply-to-and-share-posts",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Sharing",
+        "subject": "Post an update and attach files",
+        "path": "06-post-an-update-and-attach-files",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Sharing",
+        "subject": "Join and create groups",
+        "path": "07-join-and-create-groups",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Sharing",
+        "subject": "Share files and group resources",
+        "path": "08-share-files-and-group-resources",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Working out loud",
+        "subject": "Polls, praise, and announcements",
+        "path": "09-polls-praise-and-announcements",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Searching",
+        "subject": "Discover and search in Yammer",
+        "path": "10-discover-and-search-in-yammer",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Sharing",
+        "subject": "Create and edit files",
+        "path": "11-create-and-edit-files",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Other",
+        "subject": "Learn more about Yammer",
+        "path": "12-learn-more-about-yammer",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Other",
+        "subject": "Keep it going",
+        "path": "13-keep-it-going",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Plan your strategy",
+        "path": "14-plan-your-strategy",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Personalize a Yammer Network",
+        "path": "15-personalize-a-yammer-network",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Identify the right use cases",
+        "path": "16-identify-the-right-use-cases",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Create a group for a use case",
+        "path": "17-create-a-group-for-a-use-case",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Prepare for launch",
+        "path": "18-prepare-for-launch",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Educate users",
+        "path": "19-educate-users",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Drive ongoing engagement",
+        "path": "20-drive-ongoing-engagement",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Embed Yammer conversations in a SharePoint Online site",
+        "path": "21-embed-yammer-conversations-in-a-sharepoint-online-site",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Implementation",
+        "subject": "Measure success",
+        "path": "22-measure-success",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }, {
+        "area": "Mobile",
+        "subject": "Set up your mobile apps",
+        "path": "23-set-up-your-mobile-apps",
+        "rating": 5,
+        "preview": null,
+        "url": null,
+        "tags": null,
+        "tool": "yammer"
+    }]
+}

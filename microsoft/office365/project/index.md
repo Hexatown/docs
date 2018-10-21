@@ -24,5 +24,5 @@ Seamless integration with collaboration tools like Skype for Business and Yammer
 ## Make smarter decisions 
 Built-in reports and BI tools let you visualize data to gain insights across projects, programs, and portfolios, and make more informed decisions. 
 
-{% include compliance.html %}
+
 

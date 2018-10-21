@@ -1,0 +1,1816 @@
+{
+  "title": "of Office365",
+  "color": "#256FB0",
+  "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+  "groups": [
+    {
+      "key": "biz",
+      "title": "פלטפורמת יישומים עסקיים",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "powerbi",
+          "flow",
+          "powerapps"
+        ]
+      }
+    },
+    {
+      "key": "chat",
+      "title": " צ'אט ושיחות ועידה",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "skype",
+          "teams"
+        ]
+      }
+    },
+    {
+      "key": "comm",
+      "title": "תקשורת ישירה",
+      "color": "#6C6C6C",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "emp",
+      "title": "פרופילי עובדים",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "file",
+      "title": "אחסון קבצים ושיתוף עבודה",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "sharepoint",
+          "onedrive",
+          "delve"
+        ]
+      }
+    },
+    {
+      "key": "forms",
+      "title": "טפסים",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "forms",
+          "powerapps"
+        ]
+      }
+    },
+    {
+      "key": "online",
+      "title": "Office Online",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "powerpoint",
+          "onenote",
+          "excel",
+          "word"
+        ]
+      }
+    },
+    {
+      "key": "outlook",
+      "title": "Outlook",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "mail",
+          "calendar",
+          "people",
+          "tasks"
+        ]
+      }
+    },
+    {
+      "key": "pres",
+      "title": "מצגות",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "sway"
+        ]
+      }
+    },
+    {
+      "key": "proj",
+      "title": "ניהול פרוייקטים",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "project",
+          "planner",
+          "todo",
+          "tasks"
+        ]
+      }
+    },
+    {
+      "key": "small",
+      "title": "יישומים עסקיים קטנים",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "staffhub",
+          "bookings"
+        ]
+      }
+    },
+    {
+      "key": "soc",
+      "title": "רשת חברתית",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "yammer"
+        ]
+      }
+    },
+    {
+      "key": "tasks",
+      "title": "ניהול המשימות",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "todo"
+        ]
+      }
+    },
+    {
+      "key": ">",
+      "title": ">",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "<",
+      "title": "<",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "_",
+      "title": "_",
+      "color": "",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "V",
+      "title": "V",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "A",
+      "title": "A",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true
+    }
+  ],
+  "grid": [
+    [
+      {
+        "key": "dynamics365",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "dynamics365",
+          "title": "Dynamics 365",
+          "color": "#15224e",
+          "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+          "inShort": "CRM & ERP [Salesforce]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": 1,
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 1,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "sway",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "sway",
+          "title": "Sway",
+          "color": "#008272",
+          "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+          "inShort": "מצגות של הדור הבא",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "pres",
+          "title": "מצגות",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "sway"
+            ]
+          }
+        },
+        "bottomData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        }
+      }
+    ],
+    [
+      {
+        "key": "stream",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "stream",
+          "title": "Stream",
+          "color": "#c30052",
+          "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+          "inShort": "פורטל וידאו [YouTube]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://web.microsoftstream.com/"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "visio",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "visio",
+          "title": "Visio Online",
+          "color": "#4568c4",
+          "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+          "inShort": "תרשימים בדפדפן",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "emp",
+        "l": 0,
+        "c": 2,
+        "r": 0,
+        "t": 0,
+        "b": 1,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "emp",
+          "title": "פרופילי עובדים",
+          "color": "#B2B3E2",
+          "icon": "",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": {
+          "key": "emp",
+          "title": "פרופילי עובדים",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "word",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "word",
+          "title": "Word Online",
+          "color": "#2b579a",
+          "icon": "https://jumpto365.com/resources/images/app/Word.png",
+          "inShort": "עיבוד תמלילים בדפדפן",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/Word.aspx"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "excel",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "excel",
+          "title": "Excel Online",
+          "color": "#02723b",
+          "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+          "inShort": "גיליונות אלקטרוניים בדפדפן",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/Excel.aspx"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "onenote",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "onenote",
+          "title": "OneNote Online",
+          "color": "#80397b",
+          "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+          "inShort": "לרשום הערות בדפדפן [Evernote]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://www.onenote.com/notebooks"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerpoint",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "powerpoint",
+          "title": "PowerPoint Online",
+          "color": "#d24726",
+          "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+          "inShort": "מצגות בדפדפן",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+        },
+        "rightData": {
+          "key": "online",
+          "title": "Office Online",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "powerpoint",
+              "onenote",
+              "excel",
+              "word"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "sharepoint",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "file",
+          "title": "אחסון קבצים ושיתוף עבודה",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "sharepoint",
+              "onedrive",
+              "delve"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "sharepoint",
+          "title": "SharePoint Online",
+          "color": "#0072c6",
+          "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+          "inShort": "שיתוף  ואחסון קבצים של צוותים",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "onedrive",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "onedrive",
+          "title": "OneDrive for Business",
+          "color": "#1174c3",
+          "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+          "inShort": "אחסון קבצים אישי [Dropbox]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "delve",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "delve",
+          "title": "Delve",
+          "color": "#1c7bb9",
+          "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+          "inShort": "פרופיל עובד וגילוי תוכן",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "forms",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "forms",
+          "title": "טפסים",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "forms",
+              "powerapps"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "forms",
+          "title": "Forms",
+          "color": "#008271",
+          "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+          "inShort": "טפסים פשוטים & סקרים [SurveyMonkey]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://forms.office.com/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerapps",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "powerapps",
+          "title": "PowerApps",
+          "color": "#742774",
+          "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+          "inShort": "אפליקציות לנייד ללא קוד (וטפסים)",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://web.powerapps.com/home"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "flow",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "flow",
+          "title": "Flow",
+          "color": "#0077ff",
+          "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+          "inShort": "זרימות עבודה ללא קוד  [IFTTT]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://flow.microsoft.com/en-us/"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerbi",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "powerbi",
+          "title": "Power BI",
+          "color": "#f2c811",
+          "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+          "inShort": "ניתוחי עסקים ולוחות מחוונים",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": 1,
+          "jumpto": "https://app.powerbi.com/"
+        },
+        "rightData": {
+          "key": "biz",
+          "title": "פלטפורמת יישומים עסקיים",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "powerbi",
+              "flow",
+              "powerapps"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "mail",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "outlook",
+          "title": "Outlook",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "mail",
+              "calendar",
+              "people",
+              "tasks"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "mail",
+          "title": "Mail",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+          "inShort": "Outlook email",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "calendar",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "calendar",
+          "title": "Calendar",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+          "inShort": "Outlook calendar",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "people",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "people",
+          "title": "People",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/People.png",
+          "inShort": "Outlook contact list",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/people"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "tasks",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "tasks",
+          "title": "Tasks",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+          "inShort": "Outlook tasks",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "todo",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "tasks",
+          "title": "ניהול המשימות",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "todo"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "todo",
+          "title": "To-Do",
+          "color": "#3896f9",
+          "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+          "inShort": "רשימת מטלות עבור חיים ועבודה [Wunderlist]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://todo.microsoft.com/?app"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "planner",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "planner",
+          "title": "Planner",
+          "color": "#3c853c",
+          "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+          "inShort": "ניהול פרויקטים יומיומיים [Trello]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://tasks.office.com/"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "project",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "project",
+          "title": "Project Online",
+          "color": "#2f722d",
+          "icon": "https://jumpto365.com/resources/images/app/Project.png",
+          "inShort": "ניהול פרויקטים פרמיום",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": "http://www.microsoftproject-online.com/"
+        },
+        "rightData": {
+          "key": "proj",
+          "title": "ניהול פרוייקטים",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "project",
+              "planner",
+              "todo",
+              "tasks"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "skype",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 1,
+        "leftData": {
+          "key": "chat",
+          "title": " צ'אט ושיחות ועידה",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "skype",
+              "teams"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "skype",
+          "title": "Skype for Business",
+          "color": "#00aff0",
+          "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+          "inShort": "הודעות מיידיות ווידאו צ'אט [Skype]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": {
+          "key": "comm",
+          "title": "תקשורת ישירה",
+          "color": "#6C6C6C",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "teams",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "teams",
+          "title": "Teams",
+          "color": "#3f418e",
+          "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+          "inShort": "צ'אט קבוצתי ווידאו צ'אט  [Slack]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://teams.microsoft.com/"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "yammer",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "yammer",
+          "title": "Yammer",
+          "color": "#007dc6",
+          "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+          "inShort": "רשת חברתית [Facebook]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://www.yammer.com/"
+        },
+        "rightData": {
+          "key": "soc",
+          "title": "רשת חברתית",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "yammer"
+            ]
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "bookings",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "bookings",
+          "title": "Bookings",
+          "color": "#25abb2",
+          "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+          "inShort": "הזמנות עצמית ללקוחות",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "staffhub",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "staffhub",
+          "title": "StaffHub",
+          "color": "#25c8c2",
+          "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+          "inShort": "ריכוז ותזמון של עובדים פרונטלים",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "small",
+          "title": "יישומים עסקיים קטנים",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "staffhub",
+              "bookings"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ]
+  ],
+  "tools": [
+    {
+      "key": "bookings",
+      "title": "Bookings",
+      "color": "#25abb2",
+      "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+      "inShort": "הזמנות עצמית ללקוחות",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "calendar",
+      "title": "Calendar",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "inShort": "Outlook calendar",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+    },
+    {
+      "key": "delve",
+      "title": "Delve",
+      "color": "#1c7bb9",
+      "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+      "inShort": "פרופיל עובד וגילוי תוכן",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "dynamics365",
+      "title": "Dynamics 365",
+      "color": "#15224e",
+      "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+      "inShort": "CRM & ERP [Salesforce]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "excel",
+      "title": "Excel Online",
+      "color": "#02723b",
+      "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+      "inShort": "גיליונות אלקטרוניים בדפדפן",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Excel.aspx"
+    },
+    {
+      "key": "flow",
+      "title": "Flow",
+      "color": "#0077ff",
+      "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+      "inShort": "זרימות עבודה ללא קוד  [IFTTT]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://flow.microsoft.com/en-us/"
+    },
+    {
+      "key": "forms",
+      "title": "Forms",
+      "color": "#008271",
+      "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+      "inShort": "טפסים פשוטים & סקרים [SurveyMonkey]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://forms.office.com/"
+    },
+    {
+      "key": "mail",
+      "title": "Mail",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+      "inShort": "Outlook email",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/"
+    },
+    {
+      "key": "newsfeed",
+      "title": "Newsfeed",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/Newsfeed.png",
+      "inShort": " רשת חברתית שלSharePoint (lite)",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onedrive",
+      "title": "OneDrive for Business",
+      "color": "#1174c3",
+      "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+      "inShort": "אחסון קבצים אישי [Dropbox]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onenote",
+      "title": "OneNote Online",
+      "color": "#80397b",
+      "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+      "inShort": "לרשום הערות בדפדפן [Evernote]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.onenote.com/notebooks"
+    },
+    {
+      "key": "people",
+      "title": "People",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/People.png",
+      "inShort": "Outlook contact list",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/people"
+    },
+    {
+      "key": "planner",
+      "title": "Planner",
+      "color": "#3c853c",
+      "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+      "inShort": "ניהול פרויקטים יומיומיים [Trello]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://tasks.office.com/"
+    },
+    {
+      "key": "powerapps",
+      "title": "PowerApps",
+      "color": "#742774",
+      "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+      "inShort": "אפליקציות לנייד ללא קוד (וטפסים)",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://web.powerapps.com/home"
+    },
+    {
+      "key": "powerbi",
+      "title": "Power BI",
+      "color": "#f2c811",
+      "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+      "inShort": "ניתוחי עסקים ולוחות מחוונים",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": "https://app.powerbi.com/"
+    },
+    {
+      "key": "powerpoint",
+      "title": "PowerPoint Online",
+      "color": "#d24726",
+      "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+      "inShort": "מצגות בדפדפן",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+    },
+    {
+      "key": "project",
+      "title": "Project Online",
+      "color": "#2f722d",
+      "icon": "https://jumpto365.com/resources/images/app/Project.png",
+      "inShort": "ניהול פרויקטים פרמיום",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": "http://www.microsoftproject-online.com/"
+    },
+    {
+      "key": "sharepoint",
+      "title": "SharePoint Online",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+      "inShort": "שיתוף  ואחסון קבצים של צוותים",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "skype",
+      "title": "Skype for Business",
+      "color": "#00aff0",
+      "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+      "inShort": "הודעות מיידיות ווידאו צ'אט [Skype]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "staffhub",
+      "title": "StaffHub",
+      "color": "#25c8c2",
+      "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+      "inShort": "ריכוז ותזמון של עובדים פרונטלים",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "stream",
+      "title": "Stream",
+      "color": "#c30052",
+      "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+      "inShort": "פורטל וידאו [YouTube]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://web.microsoftstream.com/"
+    },
+    {
+      "key": "sway",
+      "title": "Sway",
+      "color": "#008272",
+      "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+      "inShort": "מצגות של הדור הבא",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "tasks",
+      "title": "Tasks",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+      "inShort": "Outlook tasks",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+    },
+    {
+      "key": "teams",
+      "title": "Teams",
+      "color": "#3f418e",
+      "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+      "inShort": "צ'אט קבוצתי ווידאו צ'אט  [Slack]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://teams.microsoft.com/"
+    },
+    {
+      "key": "todo",
+      "title": "To-Do",
+      "color": "#3896f9",
+      "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+      "inShort": "רשימת מטלות עבור חיים ועבודה [Wunderlist]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://todo.microsoft.com/?app"
+    },
+    {
+      "key": "visio",
+      "title": "Visio Online",
+      "color": "#4568c4",
+      "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+      "inShort": "תרשימים בדפדפן",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "word",
+      "title": "Word Online",
+      "color": "#2b579a",
+      "icon": "https://jumpto365.com/resources/images/app/Word.png",
+      "inShort": "עיבוד תמלילים בדפדפן",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Word.aspx"
+    },
+    {
+      "key": "yammer",
+      "title": "Yammer",
+      "color": "#007dc6",
+      "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+      "inShort": "רשת חברתית [Facebook]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.yammer.com/"
+    },
+    {
+      "key": "emp",
+      "title": "פרופילי עובדים",
+      "color": "#B2B3E2",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "jumpto365",
+      "title": "Jumpto365",
+      "color": "#2a7ab9",
+      "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    }
+  ]
+}

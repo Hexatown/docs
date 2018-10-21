@@ -1,0 +1,965 @@
+{
+  "title": "Which tool when in Office 365",
+  "color": "#256FB0",
+  "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+  "hasRatings": 5,
+  "areas": [
+    "File Storage and Collaboration",
+    "People",
+    "Outlook",
+    "Task Management",
+    "Social Network",
+    "Chat and conference",
+    "Forms",
+    "Office Online",
+    "Presentations",
+    "Business Apps",
+    "Projec Management",
+    "Small Business"
+  ],
+  "tools": [
+    "SharePoint",
+    "OneDrive",
+    "Delve",
+    "People",
+    "Mail",
+    "Calendar",
+    "Tasks",
+    "Todo",
+    "Yammer",
+    "Skype",
+    "Teams",
+    "Outlook",
+    "Booking",
+    "Forms",
+    "PowerApps",
+    "Word",
+    "Excel",
+    "OneNote",
+    "PowerPoint",
+    "Sway",
+    "Flow",
+    "PowerBI",
+    "todo",
+    "Planner",
+    "Project",
+    "Bookings",
+    "StaffHub"
+  ],
+  "tasks": [
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Team File Sharing & storage",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Personal File storage",
+      "rating": 5,
+      "preview": "https://static.makeuseof.com/wp-content/uploads/2015/11/manage-shared-files-drive-670x335.jpg",
+      "url": "https://www.dr.dk",
+      "tags": "File Storage & Collaboration",
+      "tool": "OneDrive",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en",
+      "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+    },
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Content discovery",
+      "rating": 5,
+      "preview": "https://st2.depositphotos.com/6741230/11510/v/950/depositphotos_115106712-stock-illustration-agenda-list-icon-vector-illustration.jpg",
+      "url": "https://www.dr.dk",
+      "tags": "File Storage & Collaboration",
+      "tool": "Delve",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en",
+      "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+    },
+    {
+      "area": "People",
+      "subject": "Employee profile",
+      "rating": 5,
+      "preview": "https://fthmb.tqn.com/2Mb91JHmRFuWlYNoKk0xy5IyrwE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-596780340-edit-word-free-58c8489c5f9b58af5c2ee4c1.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Delve"
+    },
+    {
+      "area": "People",
+      "subject": "Contact list",
+      "rating": 5,
+      "preview": "http://www.sogosurvey.com/blog/wp-content/uploads/2016/02/When-to-Make-a-Survey-Anonymous-1024x638.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "People"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Mail",
+      "rating": 5,
+      "preview": "https://www.procurious.com/blog-content/2015/12/Discussion-Forum.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Mail"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Calendar",
+      "rating": 5,
+      "preview": "http://www.afd-techtalk.com/wp-content/uploads/2018/02/poll-time.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Calendar"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Contacts ",
+      "rating": 5,
+      "preview": "https://juliaproofreader.files.wordpress.com/2014/04/whizz.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "People",
+      "comment": "Projekt er et internt værktøj ..."
+    },
+    {
+      "area": "Outlook",
+      "subject": "Tasks",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Tasks"
+    },
+    {
+      "area": "Task Management",
+      "subject": "To-do list for life and work",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Todo"
+    },
+    {
+      "area": "Task Management",
+      "subject": "Tasks",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Tasks"
+    },
+    {
+      "area": "Social Network",
+      "subject": "Social networking",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Instant Messaging and video chat",
+      "rating": 5,
+      "preview": "http://st4.styapokupayu.ru/images/blog_posts/covers/000/157/712_large.jpg?1456488984",
+      "url": null,
+      "tags": null,
+      "tool": "Skype"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Group chat and video chat",
+      "rating": 5,
+      "preview": "http://focusky.com/learning-center/wp-content/uploads/2017/04/creative-presentation-ideas-to-create-extraordinary-presentation-2.png",
+      "url": null,
+      "tags": null,
+      "tool": "Teams"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Invite specific persons to a meeting",
+      "rating": 5,
+      "preview": "http://1.bp.blogspot.com/-S3fbBqWwuPs/Th8R4MdzZZI/AAAAAAAABb8/nd1hr8Grto0/s1600/meeting.gif",
+      "url": null,
+      "tags": null,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Self serviced booking of you or your team",
+      "rating": 5,
+      "preview": "https://blog.one.com/wp-content/uploads/2016/02/teambooking.png",
+      "url": null,
+      "tags": null,
+      "tool": "Booking"
+    },
+    {
+      "area": "Forms",
+      "subject": "Simple forms and poll",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Forms"
+    },
+    {
+      "area": "Forms",
+      "subject": "Code free mobile apps (and forms)",
+      "rating": 5,
+      "preview": "https://img.freepik.com/free-vector/messenger-application-to-chat-in-flat-style_23-2147804300.jpg?size=338&ext=jpg",
+      "url": null,
+      "tags": "Informal",
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Word processing in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Word"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Spreadsheets in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Excel"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Note taking in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Presentations in the browser",
+      "rating": 5,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Presentations",
+      "subject": "Next gen presentations",
+      "rating": 5,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Sway"
+    },
+    {
+      "area": "Presentations",
+      "subject": "Presentations in the browser",
+      "rating": 5,
+      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
+      "url": null,
+      "tags": null,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Code free mobile apps (and forms)",
+      "rating": 5,
+      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Code free workflows",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Flow"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Business Analytics & dashboards",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "PowerBI"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "To-do list for life and work",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "todo"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "Everyday project management",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Planner"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "Premium project management",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Project"
+    },
+    {
+      "area": "Small Business",
+      "subject": "Customer self-reservations",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Bookings"
+    },
+    {
+      "area": "Small Business",
+      "subject": "Frontline emplouyee hub & scheduler",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "StaffHub"
+    }
+  ],
+  "toolList": [
+    {
+      "key": "bookings",
+      "Title": "Bookings",
+      "color": "#25abb2",
+      "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+      "Inshort": "Customer self-reservations",
+      "isFullyShareable": "1"
+    },
+    {
+      "key": "calendar",
+      "Title": "Calendar",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "Inshort": "Outlook calendar",
+      "isPartlyShareable": "1",
+      "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+    },
+    {
+      "key": "delve",
+      "Title": "Delve",
+      "color": "#1c7bb9",
+      "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+      "Inshort": "Employee profile & content discovery"
+    },
+    {
+      "key": "denmark",
+      "color": "red"
+    },
+    {
+      "key": "dynamics365",
+      "Title": "Dynamics 365",
+      "color": "#15224e",
+      "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+      "Inshort": "CRM & ERP [Salesforce]",
+      "isPartlyShareable": "1",
+      "isPremium": "1"
+    },
+    {
+      "key": "emp",
+      "Title": "#GROUP#",
+      "color": "#B2B3E2"
+    },
+    {
+      "key": "excel",
+      "Title": "Excel Online",
+      "color": "#02723b",
+      "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+      "Inshort": "Spreadsheets in the browser",
+      "isFullyShareable": "1",
+      "jumpto": "https://office.live.com/start/Excel.aspx"
+    },
+    {
+      "key": "flow",
+      "Title": "Flow",
+      "color": "#0077ff",
+      "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+      "Inshort": "Code-free workflows [IFTTT]",
+      "isPartlyShareable": "1",
+      "jumpto": "https://flow.microsoft.com/en-us/"
+    },
+    {
+      "key": "forms",
+      "Title": "Forms",
+      "color": "#008271",
+      "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+      "Inshort": "Simple forms & polls [SurveyMonkey]",
+      "isFullyShareable": "1",
+      "jumpto": "https://forms.office.com/"
+    },
+    {
+      "key": "jumpto365",
+      "Title": "Jumpto365",
+      "color": "#2a7ab9",
+      "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png"
+    },
+    {
+      "key": "mail",
+      "Title": "Mail",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+      "Inshort": "Outlook email",
+      "isFullyShareable": "1",
+      "jumpto": "https://outlook.office.com/owa/"
+    },
+    {
+      "key": "newsfeed",
+      "Title": "Newsfeed",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/Newsfeed.png",
+      "Inshort": "SharePoint's (lite) social network",
+      "isPartlyShareable": "1"
+    },
+    {
+      "key": "onedrive",
+      "Title": "OneDrive for Business",
+      "color": "#1174c3",
+      "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+      "Inshort": "Personal file storage [Dropbox]",
+      "isFullyShareable": "1"
+    },
+    {
+      "key": "onenote",
+      "Title": "OneNote Online",
+      "color": "#80397b",
+      "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+      "Inshort": "Note taking in the browser [Evernote]",
+      "isFullyShareable": "1",
+      "jumpto": "https://www.onenote.com/notebooks"
+    },
+    {
+      "key": "people",
+      "Title": "People",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/People.png",
+      "Inshort": "Outlook contact list",
+      "jumpto": "https://outlook.office.com/owa/?path=/people"
+    },
+    {
+      "key": "planner",
+      "Title": "Planner",
+      "color": "#3c853c",
+      "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+      "Inshort": "Everyday project management [Trello]",
+      "jumpto": "https://tasks.office.com/"
+    },
+    {
+      "key": "powerapps",
+      "Title": "PowerApps",
+      "color": "#742774",
+      "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+      "Inshort": "Code-free mobile apps (& forms)",
+      "isPartlyShareable": "1",
+      "jumpto": "https://web.powerapps.com/home"
+    },
+    {
+      "key": "powerbi",
+      "Title": "PowerBI",
+      "color": "#f2c811",
+      "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+      "Inshort": "Business analytics & dashboards",
+      "isPartlyShareable": "1",
+      "isPremium": "1",
+      "jumpto": "https://app.powerbi.com/"
+    },
+    {
+      "key": "powerpoint",
+      "Title": "Powerpoint Online",
+      "color": "#d24726",
+      "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+      "Inshort": "Presentations in the browser",
+      "isFullyShareable": "1",
+      "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+    },
+    {
+      "key": "project",
+      "Title": "Project Online",
+      "color": "#2f722d",
+      "icon": "https://jumpto365.com/resources/images/app/Project.png",
+      "Inshort": "Premium project management",
+      "isPremium": "1",
+      "jumpto": "http://www.microsoftproject-online.com/"
+    },
+    {
+      "key": "sharepoint",
+      "Title": "SharePoint Online",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+      "Inshort": "Team file sharing & storage",
+      "isFullyShareable": "1"
+    },
+    {
+      "key": "skype",
+      "Title": "Skype for Business",
+      "color": "#00aff0",
+      "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+      "Inshort": "Instant messaging & video chat [Skype]",
+      "isFullyShareable": "1"
+    },
+    {
+      "key": "staffhub",
+      "Title": "StaffHub",
+      "color": "#25c8c2",
+      "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+      "Inshort": "Frontline employee hub & scheduler"
+    },
+    {
+      "key": "stream",
+      "Title": "Stream",
+      "color": "#c30052",
+      "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+      "Inshort": "Video portal [YouTube]",
+      "jumpto": "https://web.microsoftstream.com/"
+    },
+    {
+      "key": "sway",
+      "Title": "Sway",
+      "color": "#008272",
+      "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+      "Inshort": "Next-gen presentations",
+      "isFullyShareable": "1"
+    },
+    {
+      "key": "tasks",
+      "Title": "Tasks",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+      "Inshort": "Outlook tasks",
+      "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+    },
+    {
+      "key": "teams",
+      "Title": "Teams",
+      "color": "#3f418e",
+      "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+      "Inshort": "Group chat & video chat [Slack]",
+      "isPartlyShareable": "1",
+      "jumpto": "https://teams.microsoft.com/"
+    },
+    {
+      "key": "todo",
+      "Title": "Todo",
+      "color": "#3896f9",
+      "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+      "Inshort": "To-do list for life & work [Wunderlist]",
+      "jumpto": "https://todo.microsoft.com/?app"
+    },
+    {
+      "key": "visio",
+      "Title": "Visio Online",
+      "color": "#4568c4",
+      "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+      "Inshort": "Diagramming in the browser",
+      "isFullyShareable": "1",
+      "isPremium": "1"
+    },
+    {
+      "key": "word",
+      "Title": "Word Online",
+      "color": "#2b579a",
+      "icon": "https://jumpto365.com/resources/images/app/Word.png",
+      "Inshort": "Word processing in the browser",
+      "isFullyShareable": "1",
+      "jumpto": "https://office.live.com/start/Word.aspx"
+    },
+    {
+      "key": "yammer",
+      "Title": "Yammer",
+      "color": "#007dc6",
+      "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+      "Inshort": "Social network [Facebook]",
+      "jumpto": "https://www.yammer.com/"
+    },
+    {
+      "key": "Incidents",
+      "Title": "Incidents",
+      "color": "red",
+      "icon": "https://www.vboxmining.com/images/Icon-Benefits-Safety.png"
+    },
+    {
+      "key": "Changes",
+      "Title": "Changes",
+      "color": "red",
+      "icon": "https://marketplace.mobileiron.com/servlet/servlet.FileDownload?file=00P3400000crausEAA"
+    },
+    {
+      "key": "METALLIC",
+      "color": "#927160\r",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "60% af METALLIC",
+      "color": "#C1A69E",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "DARK POWDER",
+      "color": "#E3D1C7",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "PANDORA BLACK",
+      "color": "#201021",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "PANDORA BLACK 75%",
+      "color": "#443645",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "PANDORA BLACK 50%",
+      "color": "#736674",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "BLACK",
+      "color": "#000000",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "BLACK 70%",
+      "color": "#4D4D4D",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "BLACK 40%",
+      "color": "#999999",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    },
+    {
+      "key": "outlook",
+      "Title": "Outlook",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "Inshort": "Outlook calendar",
+      "isPartlyShareable": "1",
+      "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+    },
+    {
+      "key": "infora",
+      "Title": "Infora",
+      "color": "#927160\r",
+      "icon": "https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pandora-o-crown.png"
+    }
+  ],
+  "mapping": [
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Team File Sharing & storage",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Personal File storage",
+      "rating": 5,
+      "preview": "https://static.makeuseof.com/wp-content/uploads/2015/11/manage-shared-files-drive-670x335.jpg",
+      "url": "https://www.dr.dk",
+      "tags": "File Storage & Collaboration",
+      "tool": "OneDrive",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en",
+      "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+    },
+    {
+      "area": "File Storage and Collaboration",
+      "subject": "Content discovery",
+      "rating": 5,
+      "preview": "https://st2.depositphotos.com/6741230/11510/v/950/depositphotos_115106712-stock-illustration-agenda-list-icon-vector-illustration.jpg",
+      "url": "https://www.dr.dk",
+      "tags": "File Storage & Collaboration",
+      "tool": "Delve",
+      "link": "https://app.jumpto365.com/#/service/onedrive/en",
+      "comment": "Niels Gregers Johansen:\n---\nTitle: Create a new draft document\nlanguage: en\nsecurity: Onedrive Write\n---\n\nWe have developed a number of templates which you could benefit from when collaborating with someone else.\n\n---\ntype: integration\n---\n\n```json\n\n{init: \"https:/xxxx##TOKEN##\"}\n\n```"
+    },
+    {
+      "area": "People",
+      "subject": "Employee profile",
+      "rating": 5,
+      "preview": "https://fthmb.tqn.com/2Mb91JHmRFuWlYNoKk0xy5IyrwE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-596780340-edit-word-free-58c8489c5f9b58af5c2ee4c1.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Delve"
+    },
+    {
+      "area": "People",
+      "subject": "Contact list",
+      "rating": 5,
+      "preview": "http://www.sogosurvey.com/blog/wp-content/uploads/2016/02/When-to-Make-a-Survey-Anonymous-1024x638.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "People"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Mail",
+      "rating": 5,
+      "preview": "https://www.procurious.com/blog-content/2015/12/Discussion-Forum.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Mail"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Calendar",
+      "rating": 5,
+      "preview": "http://www.afd-techtalk.com/wp-content/uploads/2018/02/poll-time.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Calendar"
+    },
+    {
+      "area": "Outlook",
+      "subject": "Contacts ",
+      "rating": 5,
+      "preview": "https://juliaproofreader.files.wordpress.com/2014/04/whizz.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "People",
+      "comment": "Projekt er et internt værktøj ..."
+    },
+    {
+      "area": "Outlook",
+      "subject": "Tasks",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Tasks"
+    },
+    {
+      "area": "Task Management",
+      "subject": "To-do list for life and work",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Todo"
+    },
+    {
+      "area": "Task Management",
+      "subject": "Tasks",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Tasks"
+    },
+    {
+      "area": "Social Network",
+      "subject": "Social networking",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Instant Messaging and video chat",
+      "rating": 5,
+      "preview": "http://st4.styapokupayu.ru/images/blog_posts/covers/000/157/712_large.jpg?1456488984",
+      "url": null,
+      "tags": null,
+      "tool": "Skype"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Group chat and video chat",
+      "rating": 5,
+      "preview": "http://focusky.com/learning-center/wp-content/uploads/2017/04/creative-presentation-ideas-to-create-extraordinary-presentation-2.png",
+      "url": null,
+      "tags": null,
+      "tool": "Teams"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Invite specific persons to a meeting",
+      "rating": 5,
+      "preview": "http://1.bp.blogspot.com/-S3fbBqWwuPs/Th8R4MdzZZI/AAAAAAAABb8/nd1hr8Grto0/s1600/meeting.gif",
+      "url": null,
+      "tags": null,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Chat and conference",
+      "subject": "Self serviced booking of you or your team",
+      "rating": 5,
+      "preview": "https://blog.one.com/wp-content/uploads/2016/02/teambooking.png",
+      "url": null,
+      "tags": null,
+      "tool": "Booking"
+    },
+    {
+      "area": "Forms",
+      "subject": "Simple forms and poll",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Forms"
+    },
+    {
+      "area": "Forms",
+      "subject": "Code free mobile apps (and forms)",
+      "rating": 5,
+      "preview": "https://img.freepik.com/free-vector/messenger-application-to-chat-in-flat-style_23-2147804300.jpg?size=338&ext=jpg",
+      "url": null,
+      "tags": "Informal",
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Word processing in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Word"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Spreadsheets in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "Excel"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Note taking in the browser",
+      "rating": 5,
+      "preview": "https://www.videonations.co.uk/wp-content/uploads/2015/01/Meeting-room-video-collaboration.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Office Online",
+      "subject": "Presentations in the browser",
+      "rating": 5,
+      "preview": "https://cdn.lynda.com/course/373782/373782-636247511734821922-16x9.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Presentations",
+      "subject": "Next gen presentations",
+      "rating": 5,
+      "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJC1JKuF6LNQcvq52GwxrfPiDxGHL9luGLiiLVsWls_2zRNOq",
+      "url": null,
+      "tags": null,
+      "tool": "Sway"
+    },
+    {
+      "area": "Presentations",
+      "subject": "Presentations in the browser",
+      "rating": 5,
+      "preview": "http://creativeskillset.org/assets/0002/1683/Art_Roles_VFX_large.png",
+      "url": null,
+      "tags": null,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Code free mobile apps (and forms)",
+      "rating": 5,
+      "preview": "http://www.kb.dk/export/sites/kb_dk/da/Billedgalleri/KULT/Udstillinger/winding_28_1000px.jpg",
+      "url": null,
+      "tags": null,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Code free workflows",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Flow"
+    },
+    {
+      "area": "Business Apps",
+      "subject": "Business Analytics & dashboards",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "PowerBI"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "To-do list for life and work",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "todo"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "Everyday project management",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Planner"
+    },
+    {
+      "area": "Projec Management",
+      "subject": "Premium project management",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Project"
+    },
+    {
+      "area": "Small Business",
+      "subject": "Customer self-reservations",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "Bookings"
+    },
+    {
+      "area": "Small Business",
+      "subject": "Frontline emplouyee hub & scheduler",
+      "rating": 5,
+      "preview": null,
+      "url": null,
+      "tags": null,
+      "tool": "StaffHub"
+    }
+  ]
+}

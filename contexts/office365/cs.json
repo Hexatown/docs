@@ -1,0 +1,1816 @@
+{
+  "title": "of Office365",
+  "color": "#256FB0",
+  "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+  "groups": [
+    {
+      "key": "biz",
+      "title": "Aplikace pro firmy",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "powerbi",
+          "flow",
+          "powerapps"
+        ]
+      }
+    },
+    {
+      "key": "chat",
+      "title": "Chat & Konferenční hovory",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "skype",
+          "teams"
+        ]
+      }
+    },
+    {
+      "key": "comm",
+      "title": "Přímá komunikace",
+      "color": "#6C6C6C",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "emp",
+      "title": "Profily zaměstnanců",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "file",
+      "title": "Úložiště souborů & Spolupráce",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "sharepoint",
+          "onedrive",
+          "delve"
+        ]
+      }
+    },
+    {
+      "key": "forms",
+      "title": "Forms",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "forms",
+          "powerapps"
+        ]
+      }
+    },
+    {
+      "key": "online",
+      "title": "Office Online",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "powerpoint",
+          "onenote",
+          "excel",
+          "word"
+        ]
+      }
+    },
+    {
+      "key": "outlook",
+      "title": "Outlook",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "mail",
+          "calendar",
+          "people",
+          "tasks"
+        ]
+      }
+    },
+    {
+      "key": "pres",
+      "title": "Prezentace",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "sway"
+        ]
+      }
+    },
+    {
+      "key": "proj",
+      "title": "Projektový management",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "project",
+          "planner",
+          "todo",
+          "tasks"
+        ]
+      }
+    },
+    {
+      "key": "small",
+      "title": "Aplikace pro malé podniky",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "staffhub",
+          "bookings"
+        ]
+      }
+    },
+    {
+      "key": "soc",
+      "title": "Sociální sítě",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "yammer"
+        ]
+      }
+    },
+    {
+      "key": "tasks",
+      "title": "Správa úkolů",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "todo"
+        ]
+      }
+    },
+    {
+      "key": ">",
+      "title": ">",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "<",
+      "title": "<",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "_",
+      "title": "_",
+      "color": "",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "V",
+      "title": "V",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "A",
+      "title": "A",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true
+    }
+  ],
+  "grid": [
+    [
+      {
+        "key": "dynamics365",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "dynamics365",
+          "title": "Dynamics 365",
+          "color": "#15224e",
+          "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+          "inShort": "CRM & ERP [Prodejní personál]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": 1,
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 1,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "sway",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "sway",
+          "title": "Sway",
+          "color": "#008272",
+          "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+          "inShort": "Prezentace příští generace",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "pres",
+          "title": "Prezentace",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "sway"
+            ]
+          }
+        },
+        "bottomData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        }
+      }
+    ],
+    [
+      {
+        "key": "stream",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "stream",
+          "title": "Streamování",
+          "color": "#c30052",
+          "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+          "inShort": "Video portál [YouTube]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://web.microsoftstream.com/"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "visio",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "visio",
+          "title": "Visio Online",
+          "color": "#4568c4",
+          "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+          "inShort": "Tvorba diagramů v prohlížeči",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "emp",
+        "l": 0,
+        "c": 2,
+        "r": 0,
+        "t": 0,
+        "b": 1,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "emp",
+          "title": "Profily zaměstnanců",
+          "color": "#B2B3E2",
+          "icon": "",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": {
+          "key": "emp",
+          "title": "Profily zaměstnanců",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "word",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "_",
+          "title": "_",
+          "color": "",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "word",
+          "title": "Word Online",
+          "color": "#2b579a",
+          "icon": "https://jumpto365.com/resources/images/app/Word.png",
+          "inShort": "Zpracování textu v prohlížeči",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/Word.aspx"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "excel",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "excel",
+          "title": "Excel Online",
+          "color": "#02723b",
+          "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+          "inShort": "Tabulky v prohlížeči",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/Excel.aspx"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "onenote",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "onenote",
+          "title": "OneNote Online",
+          "color": "#80397b",
+          "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+          "inShort": "Psaní poznámek v prohlížeči [Evernote]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://www.onenote.com/notebooks"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerpoint",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "powerpoint",
+          "title": "PowerPoint Online",
+          "color": "#d24726",
+          "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+          "inShort": "Prezentace v prohlížeči",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+        },
+        "rightData": {
+          "key": "online",
+          "title": "Office Online",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "powerpoint",
+              "onenote",
+              "excel",
+              "word"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "sharepoint",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "file",
+          "title": "Úložiště souborů & Spolupráce",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "sharepoint",
+              "onedrive",
+              "delve"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "sharepoint",
+          "title": "SharePoint Online",
+          "color": "#0072c6",
+          "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+          "inShort": "Sdílení souborů & úložiště pro týmy",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "onedrive",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "onedrive",
+          "title": "OneDrive pro firmy",
+          "color": "#1174c3",
+          "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+          "inShort": "Osobní úložiště souborů [Dropbox]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "delve",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "delve",
+          "title": "Delve",
+          "color": "#1c7bb9",
+          "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+          "inShort": "Profil zaměstnance & vyhledávání obsahu",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "forms",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "forms",
+          "title": "Forms",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "forms",
+              "powerapps"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "forms",
+          "title": "Forms",
+          "color": "#008271",
+          "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+          "inShort": "Jednoduché formuláře & dotazníky [SurveyMonkey]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://forms.office.com/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerapps",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "powerapps",
+          "title": "PowerApps",
+          "color": "#742774",
+          "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+          "inShort": "Mobilní aplikace (& formuláře) bez kódování",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://web.powerapps.com/home"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "flow",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "flow",
+          "title": "Flow",
+          "color": "#0077ff",
+          "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+          "inShort": "Pracovní postupy bez kódování [IFTTT]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://flow.microsoft.com/en-us/"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "powerbi",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "powerbi",
+          "title": "Power BI",
+          "color": "#f2c811",
+          "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+          "inShort": "Byznys analytika & řídící panely",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": 1,
+          "jumpto": "https://app.powerbi.com/"
+        },
+        "rightData": {
+          "key": "biz",
+          "title": "Aplikace pro firmy",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "powerbi",
+              "flow",
+              "powerapps"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "mail",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "outlook",
+          "title": "Outlook",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "mail",
+              "calendar",
+              "people",
+              "tasks"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "mail",
+          "title": "Pošta",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+          "inShort": "Outlook pošta",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "calendar",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "calendar",
+          "title": "Kalendář",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+          "inShort": "Outlook kalendář",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "people",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": {
+          "key": "V",
+          "title": "V",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "centerData": {
+          "key": "people",
+          "title": "Lidé",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/People.png",
+          "inShort": "Outlook seznam kontaktů",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/people"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "tasks",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "tasks",
+          "title": "Úkoly",
+          "color": "#2072b9",
+          "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+          "inShort": "Outlook úkoly",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "todo",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "tasks",
+          "title": "Správa úkolů",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "todo"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "todo",
+          "title": "To-Do",
+          "color": "#3896f9",
+          "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+          "inShort": "Úkolovník [Wunderlist]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://todo.microsoft.com/?app"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "planner",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "planner",
+          "title": "Planner",
+          "color": "#3c853c",
+          "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+          "inShort": "Každodenní projektové řízení [Trello]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://tasks.office.com/"
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "project",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "project",
+          "title": "Project Online",
+          "color": "#2f722d",
+          "icon": "https://jumpto365.com/resources/images/app/Project.png",
+          "inShort": "Prémiové projektové řízení",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": "http://www.microsoftproject-online.com/"
+        },
+        "rightData": {
+          "key": "proj",
+          "title": "Projektový management",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "project",
+              "planner",
+              "todo",
+              "tasks"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": "skype",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 1,
+        "leftData": {
+          "key": "chat",
+          "title": "Chat & Konferenční hovory",
+          "color": "#B2B3E2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "skype",
+              "teams"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "skype",
+          "title": "Skype pro firmy",
+          "color": "#00aff0",
+          "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+          "inShort": "Rychlé zprávy & video chat [Skype]",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": {
+          "key": "comm",
+          "title": "Přímá komunikace",
+          "color": "#6C6C6C",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        }
+      },
+      {
+        "key": "teams",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "teams",
+          "title": "Teams",
+          "color": "#3f418e",
+          "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+          "inShort": "Skupinový chat & video chat [Slack]",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": "https://teams.microsoft.com/"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "yammer",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "yammer",
+          "title": "Yammer",
+          "color": "#007dc6",
+          "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+          "inShort": "Sociální síť [Facebook]",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://www.yammer.com/"
+        },
+        "rightData": {
+          "key": "soc",
+          "title": "Sociální sítě",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "yammer"
+            ]
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "bookings",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "bookings",
+          "title": "Bookings",
+          "color": "#25abb2",
+          "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+          "inShort": "Rezervace zákazníků",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "staffhub",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "staffhub",
+          "title": "StaffHub",
+          "color": "#25c8c2",
+          "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+          "inShort": "Řízení frontline zaměstnanců & plánovač",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "small",
+          "title": "Aplikace pro malé podniky",
+          "color": "#AAE29F",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "staffhub",
+              "bookings"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ]
+  ],
+  "tools": [
+    {
+      "key": "bookings",
+      "title": "Bookings",
+      "color": "#25abb2",
+      "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+      "inShort": "Rezervace zákazníků",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "calendar",
+      "title": "Kalendář",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "inShort": "Outlook kalendář",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+    },
+    {
+      "key": "delve",
+      "title": "Delve",
+      "color": "#1c7bb9",
+      "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+      "inShort": "Profil zaměstnance & vyhledávání obsahu",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "dynamics365",
+      "title": "Dynamics 365",
+      "color": "#15224e",
+      "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+      "inShort": "CRM & ERP [Prodejní personál]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "excel",
+      "title": "Excel Online",
+      "color": "#02723b",
+      "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+      "inShort": "Tabulky v prohlížeči",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Excel.aspx"
+    },
+    {
+      "key": "flow",
+      "title": "Flow",
+      "color": "#0077ff",
+      "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+      "inShort": "Pracovní postupy bez kódování [IFTTT]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://flow.microsoft.com/en-us/"
+    },
+    {
+      "key": "forms",
+      "title": "Forms",
+      "color": "#008271",
+      "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+      "inShort": "Jednoduché formuláře & dotazníky [SurveyMonkey]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://forms.office.com/"
+    },
+    {
+      "key": "mail",
+      "title": "Pošta",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+      "inShort": "Outlook pošta",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/"
+    },
+    {
+      "key": "newsfeed",
+      "title": "Newsfeed",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/Newsfeed.png",
+      "inShort": "Sociální síť SharePoint  (lite)",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onedrive",
+      "title": "OneDrive pro firmy",
+      "color": "#1174c3",
+      "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+      "inShort": "Osobní úložiště souborů [Dropbox]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onenote",
+      "title": "OneNote Online",
+      "color": "#80397b",
+      "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+      "inShort": "Psaní poznámek v prohlížeči [Evernote]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.onenote.com/notebooks"
+    },
+    {
+      "key": "people",
+      "title": "Lidé",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/People.png",
+      "inShort": "Outlook seznam kontaktů",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/people"
+    },
+    {
+      "key": "planner",
+      "title": "Planner",
+      "color": "#3c853c",
+      "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+      "inShort": "Každodenní projektové řízení [Trello]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://tasks.office.com/"
+    },
+    {
+      "key": "powerapps",
+      "title": "PowerApps",
+      "color": "#742774",
+      "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+      "inShort": "Mobilní aplikace (& formuláře) bez kódování",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://web.powerapps.com/home"
+    },
+    {
+      "key": "powerbi",
+      "title": "Power BI",
+      "color": "#f2c811",
+      "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+      "inShort": "Byznys analytika & řídící panely",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": "https://app.powerbi.com/"
+    },
+    {
+      "key": "powerpoint",
+      "title": "PowerPoint Online",
+      "color": "#d24726",
+      "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+      "inShort": "Prezentace v prohlížeči",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+    },
+    {
+      "key": "project",
+      "title": "Project Online",
+      "color": "#2f722d",
+      "icon": "https://jumpto365.com/resources/images/app/Project.png",
+      "inShort": "Prémiové projektové řízení",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": "http://www.microsoftproject-online.com/"
+    },
+    {
+      "key": "sharepoint",
+      "title": "SharePoint Online",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+      "inShort": "Sdílení souborů & úložiště pro týmy",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "skype",
+      "title": "Skype pro firmy",
+      "color": "#00aff0",
+      "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+      "inShort": "Rychlé zprávy & video chat [Skype]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "staffhub",
+      "title": "StaffHub",
+      "color": "#25c8c2",
+      "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+      "inShort": "Řízení frontline zaměstnanců & plánovač",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "stream",
+      "title": "Streamování",
+      "color": "#c30052",
+      "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+      "inShort": "Video portál [YouTube]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://web.microsoftstream.com/"
+    },
+    {
+      "key": "sway",
+      "title": "Sway",
+      "color": "#008272",
+      "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+      "inShort": "Prezentace příští generace",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "tasks",
+      "title": "Úkoly",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+      "inShort": "Outlook úkoly",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+    },
+    {
+      "key": "teams",
+      "title": "Teams",
+      "color": "#3f418e",
+      "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+      "inShort": "Skupinový chat & video chat [Slack]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://teams.microsoft.com/"
+    },
+    {
+      "key": "todo",
+      "title": "To-Do",
+      "color": "#3896f9",
+      "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+      "inShort": "Úkolovník [Wunderlist]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://todo.microsoft.com/?app"
+    },
+    {
+      "key": "visio",
+      "title": "Visio Online",
+      "color": "#4568c4",
+      "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+      "inShort": "Tvorba diagramů v prohlížeči",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "word",
+      "title": "Word Online",
+      "color": "#2b579a",
+      "icon": "https://jumpto365.com/resources/images/app/Word.png",
+      "inShort": "Zpracování textu v prohlížeči",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Word.aspx"
+    },
+    {
+      "key": "yammer",
+      "title": "Yammer",
+      "color": "#007dc6",
+      "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+      "inShort": "Sociální síť [Facebook]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.yammer.com/"
+    },
+    {
+      "key": "emp",
+      "title": "Profily zaměstnanců",
+      "color": "#B2B3E2",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "jumpto365",
+      "title": "Jumpto365",
+      "color": "#2a7ab9",
+      "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    }
+  ]
+}

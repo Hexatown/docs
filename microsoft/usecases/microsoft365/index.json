@@ -1,0 +1,4961 @@
+  
+{
+"title":"Which tool when?",
+"color":"#256FB0",
+"icon":"https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+"hasRatings":0,
+"tasks":[
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Communication & Media",
+      "subject": "Work together on documents with colleagues",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Understand customer preferences and predict requests",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Understand customer preferences and predict requests",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Understand customer preferences and predict requests",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Meet online to prepare for and troubleshoot a sales event",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Meet online to prepare for and troubleshoot a sales event",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Meet online to prepare for and troubleshoot a sales event",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collect and analyze social media, web, and print outreach data",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collect and analyze social media, web, and print outreach data",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collect and analyze social media, web, and print outreach data",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Protect campaign analytics and other sensitive data",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Protect campaign analytics and other sensitive data",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Access customer reviews and other data securely from your device",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Access customer reviews and other data securely from your device",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Access customer reviews and other data securely from your device",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Resolve customer inquiries through collaboration",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Resolve customer inquiries through collaboration",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Resolve customer inquiries through collaboration",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Resolve customer inquiries through collaboration",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Create comprehensive press kits by engaging with in-house experts",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Create comprehensive press kits by engaging with in-house experts",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Create comprehensive press kits by engaging with in-house experts",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Create comprehensive press kits by engaging with in-house experts",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Create comprehensive press kits by engaging with in-house experts",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Communication & Media + Sales",
+      "subject": "Collaborate on promo event handouts in a chat-based workspace",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Balance classroom time with other faculty investments",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Education",
+      "subject": "Balance classroom time with other faculty investments",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Education",
+      "subject": "Balance classroom time with other faculty investments",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Balance classroom time with other faculty investments",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Help a student write a persuasive research paper",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Education",
+      "subject": "Connect to the classroom from anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Education",
+      "subject": "Connect to the classroom from anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Education",
+      "subject": "Connect to the classroom from anywhere",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Connect to the classroom from anywhere",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Connect to the classroom from anywhere",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Education",
+      "subject": "Personalize instruction by analyzing student performance",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Education",
+      "subject": "Personalize instruction by analyzing student performance",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Education",
+      "subject": "Personalize instruction by analyzing student performance",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Collaborate with other teachers to plan inspiring lessons",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Education",
+      "subject": "Collaborate with other teachers to plan inspiring lessons",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Education",
+      "subject": "Collaborate with other teachers to plan inspiring lessons",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Find expertise and resources by using social networks",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Education",
+      "subject": "Find expertise and resources by using social networks",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Find expertise and resources by using social networks",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Education",
+      "subject": "Evaluate school data to gain insights about priorities",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Education",
+      "subject": "Evaluate school data to gain insights about priorities",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Education",
+      "subject": "Evaluate school data to gain insights about priorities",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Education",
+      "subject": "Evaluate school data to gain insights about priorities",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Evaluate school data to gain insights about priorities",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Engage with experts to scale math classes and meet student needs",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Education",
+      "subject": "Engage with experts to scale math classes and meet student needs",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Education",
+      "subject": "Engage with experts to scale math classes and meet student needs",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Engage with experts to scale math classes and meet student needs",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Education",
+      "subject": "Predict student success by using customized reporting tools",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Education",
+      "subject": "Meet education compliance standards to safeguard school data",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Education",
+      "subject": "Meet education compliance standards to safeguard school data",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Education",
+      "subject": "Meet education compliance standards to safeguard school data",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Education",
+      "subject": "Meet education compliance standards to safeguard school data",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Education",
+      "subject": "Meet education compliance standards to safeguard school data",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Lead a class remotely with rich student interaction",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Education",
+      "subject": "Lead a class remotely with rich student interaction",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Education",
+      "subject": "Lead a class remotely with rich student interaction",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Education",
+      "subject": "Lead a class remotely with rich student interaction",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Education",
+      "subject": "Lead a class remotely with rich student interaction",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Finance",
+      "subject": "Manage periodic closing processes",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Finance",
+      "subject": "Manage periodic closing processes",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Finance",
+      "subject": "Manage periodic closing processes",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Finance",
+      "subject": "Use analytics to maximize business opportunities",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Finance",
+      "subject": "Use analytics to maximize business opportunities",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Finance",
+      "subject": "Use analytics to maximize business opportunities",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Finance",
+      "subject": "Use analytics to maximize business opportunities",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Finance",
+      "subject": "Plan and manage department budgets",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Finance",
+      "subject": "Easily and accurately perform financial analysis",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Finance",
+      "subject": "Build consensus on financial analysis within your team",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Finance",
+      "subject": "Prepare for a corporate earnings release",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Pinpoint market trends that impact financial performance",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Pinpoint market trends that impact financial performance",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Engage stakeholders with impactful presentations",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Engage stakeholders with impactful presentations",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Engage stakeholders with impactful presentations",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Spend more time with clients and less time creating reports",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Spend more time with clients and less time creating reports",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Spend more time with clients and less time creating reports",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Spend more time with clients and less time creating reports",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Spend more time with clients and less time creating reports",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Develop investment proposals with real-time expert help",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Develop investment proposals with real-time expert help",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Develop investment proposals with real-time expert help",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Develop investment proposals with real-time expert help",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Quickly create compelling financial deliverables",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Quickly create compelling financial deliverables",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Quickly create compelling financial deliverables",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Quickly create compelling financial deliverables",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Hold online training sessions with remote financial advisors",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Hold online training sessions with remote financial advisors",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Access financial files quickly and securely from almost anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Access financial files quickly and securely from almost anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Access financial files quickly and securely from almost anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Access financial files quickly and securely from almost anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Automate financial processes by using integrated workflows",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Expedite decision-making by meeting with clients in real time",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Expedite decision-making by meeting with clients in real time",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Engage customers with a personalized banking experience",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Incorporate varied input to develop new financial offerings",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Incorporate varied input to develop new financial offerings",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Incorporate varied input to develop new financial offerings",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Incorporate varied input to develop new financial offerings",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver financial analysis on time from anywhere",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver financial analysis on time from anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver financial analysis on time from anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver financial analysis on time from anywhere",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver personalized content to clients and stakeholders",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Deliver personalized content to clients and stakeholders",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Share client feedback with branch managers",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Share client feedback with branch managers",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Share client feedback with branch managers",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Share client feedback with branch managers",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Get educated quickly on a new client’s business model",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Get educated quickly on a new client’s business model",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Get educated quickly on a new client’s business model",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Financial Services",
+      "subject": "Get educated quickly on a new client’s business model",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Monitor and communicate about business performance",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Monitor and communicate about business performance",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Shorten the product planning cycle",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Shorten the product planning cycle",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Shorten the product planning cycle",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Shorten the product planning cycle",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use modern digital tools to recruit the best analysts",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use custom tools to streamline financial processes",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use custom tools to streamline financial processes",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use custom tools to streamline financial processes",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Financial Services + Finance",
+      "subject": "Use custom tools to streamline financial processes",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Build consensus in a social network for a new investment product",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Gain rich insights into your workflow to meet tight deadlines",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Gain rich insights into your workflow to meet tight deadlines",
+      "rating": 5,
+      "tool": "MyAnalytics"
+    },
+    {
+      "area": "Financial Services + Marketing",
+      "subject": "Gain rich insights into your workflow to meet tight deadlines",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Manage sell sheet projects in a team-based environment",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly collect, analyze, and visualize credit risk data in a dashboard",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly collect, analyze, and visualize credit risk data in a dashboard",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly collect, analyze, and visualize credit risk data in a dashboard",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Keep up with knowledgeable investor clientele",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Keep up with knowledgeable investor clientele",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Keep up with knowledgeable investor clientele",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly identify and engage with in-house industry experts",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly identify and engage with in-house industry experts",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly identify and engage with in-house industry experts",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly identify and engage with in-house industry experts",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Financial Services + Sales",
+      "subject": "Quickly identify and engage with in-house industry experts",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Keep up with patient care from anywhere",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Identify and alert colleagues about a spreading illness",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Provide quick resolution to patient questions",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Provide quick resolution to patient questions",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Provide quick resolution to patient questions",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Provide quick resolution to patient questions",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Get an informed second opinion faster",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Get an informed second opinion faster",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Get an informed second opinion faster",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Get an informed second opinion faster",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Get an informed second opinion faster",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Unite healthcare employees around quality and commitment",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Unite healthcare employees around quality and commitment",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Unite healthcare employees around quality and commitment",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Create a patient care plan",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Create a patient care plan",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Manage your nursing shift from your device",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Protect patient and hospital data while making it accessible",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Protect patient and hospital data while making it accessible",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Use integrated apps and devices to improve patient care",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Healthcare",
+      "subject": "Streamline lab operations while ensuring compliance",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Quickly answer guest questions from anywhere in the hotel",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Quickly answer guest questions from anywhere in the hotel",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Quickly answer guest questions from anywhere in the hotel",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Quickly answer guest questions from anywhere in the hotel",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Ensure employees across hotel locations are on the same page",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Ensure employees across hotel locations are on the same page",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Ensure employees across hotel locations are on the same page",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Ensure employees across hotel locations are on the same page",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Hospitality",
+      "subject": "Ensure employees across hotel locations are on the same page",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Hospitality+Retail ",
+      "subject": "Publish and update team schedules",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Help employees filter relevant information and find answers faster",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Help employees filter relevant information and find answers faster",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Help employees filter relevant information and find answers faster",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Help employees filter relevant information and find answers faster",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Support new employees in onboarding",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Support new employees in onboarding",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Support new employees in onboarding",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Support new employees in onboarding",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Support new employees in onboarding",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Integrate new hires into the team and work in progress",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Integrate new hires into the team and work in progress",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Integrate new hires into the team and work in progress",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Integrate new hires into the team and work in progress",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Empower and engage employees in an enterprise social network",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Empower and engage employees in an enterprise social network",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Empower and engage employees in an enterprise social network",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Empower and engage employees in an enterprise social network",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Empower and engage employees in an enterprise social network",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Engage employees with interactive online training",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Engage employees with interactive online training",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Engage employees with interactive online training",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Engage employees with interactive online training",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Streamline common HR processes by using intelligent tools",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Streamline common HR processes by using intelligent tools",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Streamline common HR processes by using intelligent tools",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Streamline common HR processes by using intelligent tools",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Analyze and visualize HR data with powerful, intuitive tools",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Analyze and visualize HR data with powerful, intuitive tools",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Interview more candidates with greater efficiency",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Interview more candidates with greater efficiency",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Interview more candidates with greater efficiency",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Interview more candidates with greater efficiency",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Tap collective knowledge to develop a benefits plan",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Tap collective knowledge to develop a benefits plan",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Tap collective knowledge to develop a benefits plan",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Coauthor a new employee handbook",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Coauthor a new employee handbook",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Coauthor a new employee handbook",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Coauthor a new employee handbook",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Manage a new HR policy rollout",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Manage a new HR policy rollout",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Manage contractors with mobile scheduling",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Manage contractors with mobile scheduling",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Manage contractors with mobile scheduling",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Easily visualize workforce diversity data",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Easily visualize workforce diversity data",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Keep up with recruiting when offsite",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Keep up with recruiting when offsite",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Store employee data with industry-standard compliance",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Collaborate to write better job listings",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Collaborate to write better job listings",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Collaborate to write better job listings",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Collaborate to write better job listings",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Stay better connected to candidates throughout the hiring process",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Stay better connected to candidates throughout the hiring process",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Stay better connected to candidates throughout the hiring process",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Stay better connected to candidates throughout the hiring process",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Communicate important news within the company",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Communicate important news within the company",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Communicate important news within the company",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Human Resources",
+      "subject": "Communicate important news within the company",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Resolve service and repair issues faster",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Resolve service and repair issues faster",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Resolve service and repair issues faster",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Resolve service and repair issues faster",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Resolve service and repair issues faster",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Crowd-source new product ideas",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Crowd-source new product ideas",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Crowd-source new product ideas",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Crowd-source new product ideas",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Discover opportunities for operational improvements ",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Discover opportunities for operational improvements ",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Discover opportunities for operational improvements ",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Discover opportunities for operational improvements ",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Discover opportunities for operational improvements ",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Work with suppliers to bring products to market faster",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Work with suppliers to bring products to market faster",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Work with suppliers to bring products to market faster",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Work with suppliers to bring products to market faster",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Securely work with data and ideas from the factory floor",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Bring products to market faster with a connected workforce",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Bring products to market faster with a connected workforce",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Bring products to market faster with a connected workforce",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Manufacturing",
+      "subject": "Bring products to market faster with a connected workforce",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Protect customer and supplier data while maintaining productivity",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Protect customer and supplier data while maintaining productivity",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Reduce costs by coauthoring product documents in-house",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Reduce costs by coauthoring product documents in-house",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Reduce costs by coauthoring product documents in-house",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Reduce costs by coauthoring product documents in-house",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Reduce costs by coauthoring product documents in-house",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Make data-driven product design decisions",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Manufacturing + Operations",
+      "subject": "Deliver clear manufacturing requirements",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Use digital tools to ensure successful promotional events",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Protect customer contracts, price lists, and related data",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Protect customer contracts, price lists, and related data",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Protect customer contracts, price lists, and related data",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Protect customer contracts, price lists, and related data",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Securely access company and customer data to score leads",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Securely access company and customer data to score leads",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Securely access company and customer data to score leads",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Manufacturing + Sales",
+      "subject": "Securely access company and customer data to score leads",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Develop an effective Go-to-Market strategy",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Deliver on-target client proposals",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Deliver on-target client proposals",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Deliver on-target client proposals",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Deliver on-target client proposals",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Manage a marketing event",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Manage a marketing event",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Manage a marketing event",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Manage a marketing event",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Collaborate on marketing initiatives through a social network",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Collaborate on marketing initiatives through a social network",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a customer advocacy community",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a customer advocacy community",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a customer advocacy community",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a customer advocacy community",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and carry out a successful product launch",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Quickly create a polished and compelling marketing presentation",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Quickly create a polished and compelling marketing presentation",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Quickly create a polished and compelling marketing presentation",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Track campaign performance with interactive visuals",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Track campaign performance with interactive visuals",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Track campaign performance with interactive visuals",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Track campaign performance with interactive visuals",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a winning marketing strategy",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a winning marketing strategy",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a winning marketing strategy",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Build a winning marketing strategy",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan a summit by using mobile scheduling",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan a summit by using mobile scheduling",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan a summit by using mobile scheduling",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan a summit by using mobile scheduling",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Marketing",
+      "subject": "Plan and manage public relations activities",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage ongoing case work from anywhere",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage your team scrum",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Operations",
+      "subject": "Manage your team scrum",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Operations",
+      "subject": "Resolve supply issues faster",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Operations",
+      "subject": "Resolve supply issues faster",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Operations",
+      "subject": "Resolve supply issues faster",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Operations",
+      "subject": "Resolve supply issues faster",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Operations",
+      "subject": "Resolve supply issues faster",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Operations",
+      "subject": "Help prevent safety incidents",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Operations",
+      "subject": "Help prevent safety incidents",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Operations",
+      "subject": "Help prevent safety incidents",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Operations",
+      "subject": "Connect with experts to resolve a customer complaint",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Operations",
+      "subject": "Connect with experts to resolve a customer complaint",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Operations",
+      "subject": "Connect with experts to resolve a customer complaint",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Operations",
+      "subject": "Connect with experts to resolve a customer complaint",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Operations",
+      "subject": "Employ best practices across company operations",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Operations",
+      "subject": "Employ best practices across company operations",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Operations",
+      "subject": "Employ best practices across company operations",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Operations",
+      "subject": "Employ best practices across company operations",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Operations",
+      "subject": "Reduce production downtime with faster maintenance",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Operations",
+      "subject": "Reduce production downtime with faster maintenance",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Operations",
+      "subject": "Reduce production downtime with faster maintenance",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Operations",
+      "subject": "Reduce production downtime with faster maintenance",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Operations+Sales ",
+      "subject": "Produce winning RFPs faster",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Operations+Sales ",
+      "subject": "Produce winning RFPs faster",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Operations+Sales ",
+      "subject": "Produce winning RFPs faster",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Operations+Sales ",
+      "subject": "Produce winning RFPs faster",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Operations+Sales ",
+      "subject": "Produce winning RFPs faster",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Securely access sales data from almost anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Securely access sales data from almost anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Securely access sales data from almost anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Securely access sales data from almost anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Reduce time-to-market by coauthoring case studies with experts",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Reduce time-to-market by coauthoring case studies with experts",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Reduce time-to-market by coauthoring case studies with experts",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Professional Services ",
+      "subject": "Reduce time-to-market by coauthoring case studies with experts",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Create sales reports by developing your own tools and apps",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "Track the success of in-store offers via a corporate social network",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "More securely access and work with your company sales apps",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "More securely access and work with your company sales apps",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Professional Services + Sales",
+      "subject": "More securely access and work with your company sales apps",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Retail",
+      "subject": "Conduct sales training for store employees across the globe",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Retail",
+      "subject": "Conduct sales training for store employees across the globe",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail",
+      "subject": "Conduct sales training for store employees across the globe",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail",
+      "subject": "Conduct sales training for store employees across the globe",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Retail",
+      "subject": "Provide informed, prompt customer service",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail",
+      "subject": "Provide informed, prompt customer service",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail",
+      "subject": "Provide informed, prompt customer service",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Retail",
+      "subject": "Securely collaborate with suppliers in a timely manner",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Retail",
+      "subject": "Securely collaborate with suppliers in a timely manner",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Retail",
+      "subject": "Securely collaborate with suppliers in a timely manner",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail",
+      "subject": "Securely collaborate with suppliers in a timely manner",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail",
+      "subject": "Gather and analyze purchasing data from multiple sources ",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Retail",
+      "subject": "Gather and analyze purchasing data from multiple sources ",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Retail",
+      "subject": "Gather and analyze purchasing data from multiple sources ",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail",
+      "subject": "Harness the collective knowledge of your firstline workforce",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail",
+      "subject": "Harness the collective knowledge of your firstline workforce",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Retail",
+      "subject": "Harness the collective knowledge of your firstline workforce",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail",
+      "subject": "Harness the collective knowledge of your firstline workforce",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Retail",
+      "subject": "Collect and analyze holiday sales performance data",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Retail",
+      "subject": "Collect and analyze holiday sales performance data",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Retail",
+      "subject": "Serve customers quickly and securely from the sales floor",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Maximize profits for seasonal launches by working as a team",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Maximize profits for seasonal launches by working as a team",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Maximize profits for seasonal launches by working as a team",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Maximize profits for seasonal launches by working as a team",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Maximize profits for seasonal launches by working as a team",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Quickly build digital look books from existing collateral",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Quickly build digital look books from existing collateral",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Quickly build digital look books from existing collateral",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Protect loyalty program data with security and privacy policies",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Protect loyalty program data with security and privacy policies",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Protect loyalty program data with security and privacy policies",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Easily plan and staff pop-up shops and other events",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Safeguard company data and systems from malicious threats",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Make confident purchase decisions from almost anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Make confident purchase decisions from almost anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Make confident purchase decisions from almost anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Retail + Marketing",
+      "subject": "Make confident purchase decisions from almost anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Share tips and best practices with your sales colleagues",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Share tips and best practices with your sales colleagues",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Share tips and best practices with your sales colleagues",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Share tips and best practices with your sales colleagues",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Securely qualify sales leads from wherever you are",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Securely qualify sales leads from wherever you are",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Securely qualify sales leads from wherever you are",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Increase sales team productivity by leveraging digital tools",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Increase sales team productivity by leveraging digital tools",
+      "rating": 5,
+      "tool": "MyAnalytics"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Increase sales team productivity by leveraging digital tools",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into your work habits to manage your time better",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into your work habits to manage your time better",
+      "rating": 5,
+      "tool": "MyAnalytics"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into your work habits to manage your time better",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Improve retail customer service with secure access to customer data",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Improve retail customer service with secure access to customer data",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Improve retail customer service with secure access to customer data",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Improve retail customer service with secure access to customer data",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Retail + Human Resources",
+      "subject": "Increase employee engagement of firstline workers",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into customer opinions",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into customer opinions",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Retail + Sales",
+      "subject": "Gain insight into customer opinions",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Close deals by engaging experts and executives in important customer discussions",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Sales",
+      "subject": "Close deals by engaging experts and executives in important customer discussions",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Close deals by engaging experts and executives in important customer discussions",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Plan and coordinate account management activities",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Plan and coordinate account management activities",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Plan and coordinate account management activities",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage an RFP or proposal",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage an RFP or proposal",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage an RFP or proposal",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Sales",
+      "subject": "Tap into sales best practices across the company",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Tap into sales best practices across the company",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Sales",
+      "subject": "Tap into sales best practices across the company",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Tap into sales best practices across the company",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Be productive on the road",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage accounts to close deals faster",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Sales",
+      "subject": "Provide data-driven recommendations for client success",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Provide data-driven recommendations for client success",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Provide data-driven recommendations for client success",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Provide data-driven recommendations for client success",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Provide data-driven recommendations for client success",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Uncover opportunities to better meet sales forecasts",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Uncover opportunities to better meet sales forecasts",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Uncover opportunities to better meet sales forecasts",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Uncover opportunities to better meet sales forecasts",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Educate distributed sales representatives from anywhere ",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Sales",
+      "subject": "Educate distributed sales representatives from anywhere ",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Educate distributed sales representatives from anywhere ",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Educate distributed sales representatives from anywhere ",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Educate distributed sales representatives from anywhere ",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Drive sales efficiency through an enterprise social network",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Drive sales efficiency through an enterprise social network",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Drive sales efficiency through an enterprise social network",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Collaborate in real time to build consensus on a new CRM solution",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Collaborate in real time to build consensus on a new CRM solution",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Collaborate in real time to build consensus on a new CRM solution",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Collaborate in real time to build consensus on a new CRM solution",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Collaborate in real time to build consensus on a new CRM solution",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Focus on selling by automating routine administrative tasks",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Sales",
+      "subject": "Focus on selling by automating routine administrative tasks",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Focus on selling by automating routine administrative tasks",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Focus on selling by automating routine administrative tasks",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Sales",
+      "subject": "Customize sales presentations to meet customer needs",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage customers more effectively",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage customers more effectively",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage customers more effectively",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage customers more effectively",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Build a cohesive sales team to meet and beat revenue targets",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Build a cohesive sales team to meet and beat revenue targets",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Build a cohesive sales team to meet and beat revenue targets",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Build a cohesive sales team to meet and beat revenue targets",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Build a cohesive sales team to meet and beat revenue targets",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use integrated tools to improve your sales teams productivity",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use integrated tools to improve your sales teams productivity",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use integrated tools to improve your sales teams productivity",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use integrated tools to improve your sales teams productivity",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use integrated tools to improve your sales teams productivity",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage with internal experts to optimize your sales content",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage with internal experts to optimize your sales content",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Engage with internal experts to optimize your sales content",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage resources and scheduling to coordinate a team sale",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage resources and scheduling to coordinate a team sale",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Sales",
+      "subject": "Manage resources and scheduling to coordinate a team sale",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Sales",
+      "subject": "Create high-quality sales reports",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Create high-quality sales reports",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Create high-quality sales reports",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use industry-leading security to stay productive in the field",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use industry-leading security to stay productive in the field",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use industry-leading security to stay productive in the field",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Use industry-leading security to stay productive in the field",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Sales",
+      "subject": "Bridge the gap between sales and marketing",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Bridge the gap between sales and marketing",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Bridge the gap between sales and marketing",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Bridge the gap between sales and marketing",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly gain consensus on sales team budgets",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly gain consensus on sales team budgets",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Sales",
+      "subject": "Analyze and streamline your workday",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Sales",
+      "subject": "Analyze and streamline your workday",
+      "rating": 5,
+      "tool": "MyAnalytics"
+    },
+    {
+      "area": "Sales",
+      "subject": "Analyze and streamline your workday",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Sales",
+      "subject": "Analyze and streamline your workday",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly visualize your sales data",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly visualize your sales data",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly visualize your sales data",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Quickly visualize your sales data",
+      "rating": 5,
+      "tool": "Visio"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Sales",
+      "subject": "Prepare and manage sales planning activities",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Sales",
+      "subject": "Understand trends and visualize potential impact to sales forecasts",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Sales",
+      "subject": "Understand trends and visualize potential impact to sales forecasts",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Sales",
+      "subject": "Understand trends and visualize potential impact to sales forecasts",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Interact in real time with IM, persistent chat, and presence",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Generic",
+      "subject": "Interact in real time with IM, persistent chat, and presence",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Interact in real time with IM, persistent chat, and presence",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Protect, detect, investigate, and respond to advanced threats",
+      "rating": 5,
+      "tool": "WINDOWS 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Unlock more productivity on powerful, modern devices",
+      "rating": 5,
+      "tool": "WINDOWS 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage firstline worker teams",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage firstline worker teams",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Keep firstline workers up to date with the latest company policies and procedures",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Deliver onboarding materials and schedule training",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Deliver onboarding materials and schedule training",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Deliver onboarding materials and schedule training",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Deliver onboarding materials and schedule training",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Transform teamwork in your organization",
+      "rating": 5,
+      "tool": "MICROSOFT TEAMS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Transform teamwork in your organization",
+      "rating": 5,
+      "tool": " OFFICE 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Transform teamwork in your organization",
+      "rating": 5,
+      "tool": "OUTLOOK"
+    },
+    {
+      "area": "Generic",
+      "subject": "Transform teamwork in your organization",
+      "rating": 5,
+      "tool": "SHAREPOINT"
+    },
+    {
+      "area": "Generic",
+      "subject": "Transform teamwork in your organization",
+      "rating": 5,
+      "tool": "YAMMER"
+    },
+    {
+      "area": "Generic",
+      "subject": "Share sites and content",
+      "rating": 5,
+      "tool": "OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Share sites and content",
+      "rating": 5,
+      "tool": " SHAREPOINT"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide fast, informed answers to legal questions",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide fast, informed answers to legal questions",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide fast, informed answers to legal questions",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide fast, informed answers to legal questions",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide a chat-based workspace",
+      "rating": 5,
+      "tool": "MICROSOFT TEAMS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Provide a chat-based workspace",
+      "rating": 5,
+      "tool": " OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Continue ongoing client work from anywhere",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Continue ongoing client work from anywhere",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Continue ongoing client work from anywhere",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Continue ongoing client work from anywhere",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Organize teamwork visually",
+      "rating": 5,
+      "tool": "OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Organize teamwork visually",
+      "rating": 5,
+      "tool": " PLANNER"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create and impress loyal customers by understanding their preferences",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create and impress loyal customers by understanding their preferences",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create and impress loyal customers by understanding their preferences",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create and impress loyal customers by understanding their preferences",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create and impress loyal customers by understanding their preferences",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Develop impactful project deliverables as a team",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Generic",
+      "subject": "Choose the right collaboration tool for your group",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Keep a project team in sync and on schedule",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Generic",
+      "subject": "Keep a project team in sync and on schedule",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Keep a project team in sync and on schedule",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Get up to speed on a new client’s business landscape",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Generic",
+      "subject": "Get up to speed on a new client’s business landscape",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Generic",
+      "subject": "Get up to speed on a new client’s business landscape",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Generic",
+      "subject": "Get up to speed on a new client’s business landscape",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet and collaborate with ease",
+      "rating": 5,
+      "tool": "OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet and collaborate with ease",
+      "rating": 5,
+      "tool": " SKYPE FOR BUSINESS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Save and share files",
+      "rating": 5,
+      "tool": "Office 365 Basics"
+    },
+    {
+      "area": "Generic",
+      "subject": "Save and share files",
+      "rating": 5,
+      "tool": " OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Make data-driven decisions",
+      "rating": 5,
+      "tool": "OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Make data-driven decisions",
+      "rating": 5,
+      "tool": " POWER BI"
+    },
+    {
+      "area": "Generic",
+      "subject": "Connect your organization",
+      "rating": 5,
+      "tool": "OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Connect your organization",
+      "rating": 5,
+      "tool": " YAMMER"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create better work habits",
+      "rating": 5,
+      "tool": "MYANALYTICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create better work habits",
+      "rating": 5,
+      "tool": " OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover relevant content and people",
+      "rating": 5,
+      "tool": "DELVE"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover relevant content and people",
+      "rating": 5,
+      "tool": " OFFICE 365 BASICS"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work in email, solo or as a group",
+      "rating": 5,
+      "tool": "Office 365 Basics"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work in email, solo or as a group",
+      "rating": 5,
+      "tool": " Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create impactful content together",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create impactful content together",
+      "rating": 5,
+      "tool": " Office 365 Basics"
+    },
+    {
+      "area": "Generic",
+      "subject": "Stay up to date with work schedules and request time off",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Share best practices across the organization",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Share best practices across the organization",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Share best practices across the organization",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Prepare impactful client engagement proposals ",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Prepare impactful client engagement proposals ",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Prepare impactful client engagement proposals ",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Prepare impactful client engagement proposals ",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Generic",
+      "subject": "Address client questions quickly and professionally",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Address client questions quickly and professionally",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Address client questions quickly and professionally",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Address client questions quickly and professionally",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work seamlessly across organizational boundaries",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work seamlessly across organizational boundaries",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work seamlessly across organizational boundaries",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work seamlessly across organizational boundaries",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work seamlessly across organizational boundaries",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Communicate with your team in real time to gain input and consensus",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Generic",
+      "subject": "Communicate with your team in real time to gain input and consensus",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Communicate with your team in real time to gain input and consensus",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Communicate with your team in real time to gain input and consensus",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Communicate with your team in real time to gain input and consensus",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "Microsoft Teams"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Maximize the impact of your firstline workforce",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Generic",
+      "subject": "Automate your business processes to increase efficiency",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet with coworkers and customers around the world",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet with coworkers and customers around the world",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet with coworkers and customers around the world",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work more securely from anywhere, on almost any device",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work more securely from anywhere, on almost any device",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work more securely from anywhere, on almost any device",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Work more securely from anywhere, on almost any device",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet global compliance standards with controls and visibility",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet global compliance standards with controls and visibility",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet global compliance standards with controls and visibility",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Meet global compliance standards with controls and visibility",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Detect, analyze, and protect against external security threats",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Detect, analyze, and protect against external security threats",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Securely maintain mobile productivity",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Securely maintain mobile productivity",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Tap the power of intelligent assistance to make your work shine",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Generic",
+      "subject": "Tap the power of intelligent assistance to make your work shine",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Tap the power of intelligent assistance to make your work shine",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Tap the power of intelligent assistance to make your work shine",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Tap the power of intelligent assistance to make your work shine",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, analyze, and share data to support informed decisions",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, analyze, and share data to support informed decisions",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, analyze, and share data to support informed decisions",
+      "rating": 5,
+      "tool": "Power BI"
+    },
+    {
+      "area": "Generic",
+      "subject": "Protect your information and reduce risk of data loss",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Generic",
+      "subject": "Protect your information and reduce risk of data loss",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Protect your information and reduce risk of data loss",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "Flow"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Discover, share, and manage information across your organization",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Engage and connect employees to shape company culture",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Engage and connect employees to shape company culture",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Generic",
+      "subject": "Engage and connect employees to shape company culture",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Engage and connect employees to shape company culture",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Engage and connect employees to shape company culture",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Understand your work habits to improve your influence and impact",
+      "rating": 5,
+      "tool": "Delve"
+    },
+    {
+      "area": "Generic",
+      "subject": "Understand your work habits to improve your influence and impact",
+      "rating": 5,
+      "tool": "MyAnalytics"
+    },
+    {
+      "area": "Generic",
+      "subject": "Understand your work habits to improve your influence and impact",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "Enterprise Mobility + Security"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "OneDrive"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "OneNote"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "Outlook"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Collaborate on documents at the same time or on your own time",
+      "rating": 5,
+      "tool": "Word"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage projects, tasks, and deadlines to meet your business goals",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage projects, tasks, and deadlines to meet your business goals",
+      "rating": 5,
+      "tool": "Planner"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage projects, tasks, and deadlines to meet your business goals",
+      "rating": 5,
+      "tool": "Project"
+    },
+    {
+      "area": "Generic",
+      "subject": "Manage projects, tasks, and deadlines to meet your business goals",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create high-quality financial presentations",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create high-quality financial presentations",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create high-quality financial presentations",
+      "rating": 5,
+      "tool": "PowerPoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create high-quality financial presentations",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Create high-quality financial presentations",
+      "rating": 5,
+      "tool": "Sway"
+    },
+    {
+      "area": "Generic",
+      "subject": "Spend less time gathering and manipulating data",
+      "rating": 5,
+      "tool": "Excel"
+    },
+    {
+      "area": "Generic",
+      "subject": "Spend less time gathering and manipulating data",
+      "rating": 5,
+      "tool": "PowerApps"
+    },
+    {
+      "area": "Generic",
+      "subject": "Spend less time gathering and manipulating data",
+      "rating": 5,
+      "tool": "SharePoint"
+    },
+    {
+      "area": "Generic",
+      "subject": "Connect with transportation crew coworkers in real time",
+      "rating": 5,
+      "tool": "Office 365"
+    },
+    {
+      "area": "Generic",
+      "subject": "Connect with transportation crew coworkers in real time",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Connect with transportation crew coworkers in real time",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Broadcast company town halls to engage employees remotely",
+      "rating": 5,
+      "tool": "Skype for Business"
+    },
+    {
+      "area": "Generic",
+      "subject": "Broadcast company town halls to engage employees remotely",
+      "rating": 5,
+      "tool": "StaffHub"
+    },
+    {
+      "area": "Generic",
+      "subject": "Broadcast company town halls to engage employees remotely",
+      "rating": 5,
+      "tool": "Yammer"
+    },
+    {
+      "area": "Generic",
+      "subject": "Stay organized, productive, and safe while on the internet",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Stay ahead of the game with a personal digital assistant",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Keep devices always up to date",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Get actionable insights about upgrade readiness",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Quickly and easily transform new devices",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Easily and securely manage devices",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Fuel your creativity with powerful devices and apps",
+      "rating": 5,
+      "tool": "Windows 10"
+    },
+    {
+      "area": "Generic",
+      "subject": "Use your device like a PC to stay productive and secure",
+      "rating": 5,
+      "tool": "Windows 10"
+    }
+  ]
+    
+    
+}

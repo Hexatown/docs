@@ -2,6 +2,7 @@
 layout: service
 title: Dynamics
 inshort: CRM & ERP [Salesforce]
+byline: James Townsend (@jamestownsend), Dynamics 365 thought leader
 xlinkadmin: https://explore.dynamics.com/
 xlinkdev: https://explore.dynamics.com/
 xlinkbusiness: https://explore.dynamics.com/

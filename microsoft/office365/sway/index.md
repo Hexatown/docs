@@ -9,6 +9,7 @@ xlinkbusiness:
 link: https://sway.office.com/
 source: https://en.wikipedia.org/wiki/Office_Sway
 ---
+<<<<<<< HEAD
 
 Sway is a publishing tool built to make the most of modern digital design practices. Sway is best used to create multimedia-heavy presentations, reports, stories, and newsletters viewed in a web browser or on a mobile device.
 
@@ -46,3 +47,6 @@ Author
 ---------
 
 -   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP
+=======
+Next-gen presentations
+>>>>>>> 4a8ec3486883b082356be2d115f89847c4136473
