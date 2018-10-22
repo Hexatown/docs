@@ -128,9 +128,7 @@
       "members": {
         "members": [
           "project",
-          "planner",
-          "todo",
-          "tasks"
+          "planner"
         ]
       }
     },
@@ -167,7 +165,8 @@
       "isConnector": false,
       "members": {
         "members": [
-          "todo"
+          "todo",
+          "tasks"
         ]
       }
     },
@@ -1234,7 +1233,7 @@
         "key": "tasks",
         "l": 0,
         "c": 1,
-        "r": 0,
+        "r": 1,
         "t": 0,
         "b": 0,
         "leftData": {
