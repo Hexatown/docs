@@ -1,5 +1,5 @@
 {
-  "title": "Office 365",
+  "title": "of Office365",
   "color": "#256FB0",
   "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
   "groups": [
@@ -165,37 +165,28 @@
       "isConnector": false,
       "members": {
         "members": [
-          "todo",
-          "tasks"
+          "todo"
         ]
       }
     },
     {
       "key": ">",
       "title": ">",
-      "color": "#B2B3E2",
+      "color": "",
       "borderColor": "",
       "isConnector": true,
       "members": {
         "members": []
-      },
-      "colorMatch": {
-        "c": "#B2B3E2",
-        "index": 0
       }
     },
     {
       "key": "<",
       "title": "<",
-      "color": "#AAE29F",
+      "color": "",
       "borderColor": "",
       "isConnector": true,
       "members": {
         "members": []
-      },
-      "colorMatch": {
-        "c": "#AAE29F",
-        "index": 6
       }
     },
     {
@@ -223,13 +214,7 @@
       "title": "A",
       "color": "",
       "borderColor": "",
-      "isConnector": true,
-      "members": {
-        "members": [
-          "teams",
-          "calendar"
-        ]
-      }
+      "isConnector": true
     }
   ],
   "grid": [
@@ -264,8 +249,7 @@
           "jumpto": ""
         },
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": null,
@@ -278,8 +262,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": null,
@@ -292,8 +275,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": null,
@@ -315,8 +297,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": null,
@@ -329,8 +310,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": null,
@@ -343,8 +323,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "sway",
@@ -387,8 +366,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#ffffff"
+        }
       }
     ],
     [
@@ -422,8 +400,7 @@
           "jumpto": "https://web.microsoftstream.com/"
         },
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "visio",
@@ -446,8 +423,7 @@
           "jumpto": ""
         },
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "emp",
@@ -513,19 +489,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "excel",
@@ -537,15 +508,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -563,19 +530,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "onenote",
@@ -587,15 +549,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -613,19 +571,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "powerpoint",
@@ -637,15 +590,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": {
@@ -684,8 +633,7 @@
             ]
           }
         },
-        "bottomData": null,
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       }
     ],
     [
@@ -725,19 +673,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
-        "bottomData": null,
-        "connectorColor": "#AAE29F"
+        "bottomData": null
       },
       {
         "key": "onedrive",
@@ -749,15 +692,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": null,
@@ -775,19 +714,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
-        "bottomData": null,
-        "connectorColor": "#B2B3E2"
+        "bottomData": null
       },
       {
         "key": "delve",
@@ -799,15 +733,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": {
@@ -841,8 +771,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#B2B3E2"
+        }
       },
       {
         "key": "forms",
@@ -879,19 +808,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
-        "bottomData": null,
-        "connectorColor": "#B2B3E2"
+        "bottomData": null
       },
       {
         "key": "powerapps",
@@ -903,15 +827,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": null,
@@ -929,19 +849,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#B2B3E2"
+        "bottomData": null
       },
       {
         "key": "flow",
@@ -953,15 +868,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -979,19 +890,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#AAE29F"
+        "bottomData": null
       },
       {
         "key": "powerbi",
@@ -1003,15 +909,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -1040,8 +942,7 @@
             ]
           }
         },
-        "bottomData": null,
-        "connectorColor": "#AAE29F"
+        "bottomData": null
       }
     ],
     [
@@ -1082,31 +983,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
-          }
-        },
-        "bottomData": {
-          "key": "A",
-          "title": "A",
           "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
-            "members": [
-              "teams",
-              "calendar"
-            ]
+            "members": []
           }
         },
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "calendar",
@@ -1118,15 +1002,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": null,
@@ -1144,31 +1024,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
-          }
-        },
-        "bottomData": {
-          "key": "A",
-          "title": "A",
           "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
-            "members": [
-              "teams",
-              "calendar"
-            ]
+            "members": []
           }
         },
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "people",
@@ -1180,15 +1043,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": {
@@ -1215,19 +1074,14 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
-        "bottomData": null,
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "tasks",
@@ -1239,15 +1093,11 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "topData": null,
@@ -1265,19 +1115,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#9CDDF2"
+        "bottomData": null
       },
       {
         "key": "todo",
@@ -1310,22 +1155,8 @@
           "isPremium": "",
           "jumpto": "https://todo.microsoft.com/?app"
         },
-        "rightData": {
-          "key": "<",
-          "title": "<",
-          "color": "#AAE29F",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
-          }
-        },
-        "bottomData": null,
-        "connectorColor": "#AAE29F"
+        "rightData": null,
+        "bottomData": null
       },
       {
         "key": "planner",
@@ -1334,20 +1165,7 @@
         "r": 0,
         "t": 0,
         "b": 0,
-        "leftData": {
-          "key": "<",
-          "title": "<",
-          "color": "#AAE29F",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
-          }
-        },
+        "leftData": null,
         "topData": null,
         "centerData": {
           "key": "planner",
@@ -1363,19 +1181,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#B2B3E2"
+        "bottomData": null
       },
       {
         "key": "project",
@@ -1387,15 +1200,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -1419,14 +1228,11 @@
           "members": {
             "members": [
               "project",
-              "planner",
-              "todo",
-              "tasks"
+              "planner"
             ]
           }
         },
-        "bottomData": null,
-        "connectorColor": "#B2B3E2"
+        "bottomData": null
       }
     ],
     [
@@ -1450,20 +1256,7 @@
             ]
           }
         },
-        "topData":null,
-        "xtopData": {
-          "key": "A",
-          "title": "A",
-          "color": "",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": [
-              "teams",
-              "calendar"
-            ]
-          }
-        },
+        "topData": null,
         "centerData": {
           "key": "skype",
           "title": "Skype for Business",
@@ -1478,15 +1271,11 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
           }
         },
         "bottomData": {
@@ -1498,8 +1287,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#B2B3E2"
+        }
       },
       {
         "key": "teams",
@@ -1511,31 +1299,14 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "#B2B3E2",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          },
-          "colorMatch": {
-            "c": "#B2B3E2",
-            "index": 0
-          }
-        },
-        "topData":null,
-        "xtopData": {
-          "key": "A",
-          "title": "A",
           "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
-            "members": [
-              "teams",
-              "calendar"
-            ]
+            "members": []
           }
         },
+        "topData": null,
         "centerData": {
           "key": "teams",
           "title": "Teams",
@@ -1557,8 +1328,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#B2B3E2"
+        }
       },
       {
         "key": null,
@@ -1580,8 +1350,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#ffffff"
+        }
       },
       {
         "key": "yammer",
@@ -1624,8 +1393,7 @@
           "members": {
             "members": []
           }
-        },
-        "connectorColor": "#ffffff"
+        }
       },
       {
         "key": null,
@@ -1638,8 +1406,7 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "bookings",
@@ -1664,19 +1431,14 @@
         "rightData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
-        "bottomData": null,
-        "connectorColor": "#ffffff"
+        "bottomData": null
       },
       {
         "key": "staffhub",
@@ -1688,15 +1450,11 @@
         "leftData": {
           "key": "<",
           "title": "<",
-          "color": "#AAE29F",
+          "color": "",
           "borderColor": "",
           "isConnector": true,
           "members": {
             "members": []
-          },
-          "colorMatch": {
-            "c": "#AAE29F",
-            "index": 6
           }
         },
         "topData": null,
@@ -1724,8 +1482,7 @@
             ]
           }
         },
-        "bottomData": null,
-        "connectorColor": "#AAE29F"
+        "bottomData": null
       }
     ]
   ],
