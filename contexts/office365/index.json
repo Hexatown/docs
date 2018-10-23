@@ -246,7 +246,7 @@
           "isFullyShareable": "",
           "isPartlyShareable": 1,
           "isPremium": 1,
-          "jumpto": ""
+          "jumpto": "https://home.dynamics.com/"
         },
         "rightData": null,
         "bottomData": null
@@ -343,7 +343,7 @@
           "isFullyShareable": 1,
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": ""
+          "jumpto": "https://www.office.com/launch/sway"
         },
         "rightData": {
           "key": "pres",
@@ -420,7 +420,7 @@
           "isFullyShareable": 1,
           "isPartlyShareable": "",
           "isPremium": 1,
-          "jumpto": ""
+          "jumpto": "https://office.live.com/start/Visio.aspx"
         },
         "rightData": null,
         "bottomData": null
@@ -1529,7 +1529,7 @@
       "isFullyShareable": "",
       "isPartlyShareable": 1,
       "isPremium": 1,
-      "jumpto": ""
+      "jumpto": "https://home.dynamics.com/"
     },
     {
       "key": "excel",
@@ -1727,7 +1727,7 @@
       "isFullyShareable": 1,
       "isPartlyShareable": "",
       "isPremium": "",
-      "jumpto": ""
+      "jumpto": "https://www.office.com/launch/sway"
     },
     {
       "key": "tasks",
@@ -1771,7 +1771,7 @@
       "isFullyShareable": 1,
       "isPartlyShareable": "",
       "isPremium": 1,
-      "jumpto": ""
+      "jumpto": "https://office.live.com/start/Visio.aspx"
     },
     {
       "key": "word",
