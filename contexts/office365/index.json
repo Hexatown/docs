@@ -170,6 +170,7 @@
       "members": {
         "members": [
           "todo",
+          "planner",
           "tasks"
         ]
       }
@@ -1149,6 +1150,7 @@
           "members": {
             "members": [
               "todo",
+              "planner",
               "tasks"
             ]
           }
@@ -1165,7 +1167,16 @@
           "isPremium": "",
           "jumpto": "https://todo.microsoft.com/?app"
         },
-        "rightData": null,
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
         "bottomData": null
       },
       {
@@ -1175,7 +1186,16 @@
         "r": 0,
         "t": 0,
         "b": 0,
-        "leftData": null,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
         "topData": null,
         "centerData": {
           "key": "planner",
