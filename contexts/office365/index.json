@@ -47,7 +47,10 @@
       "borderColor": "",
       "isConnector": false,
       "members": {
-        "members": ["delve","people"]
+        "members": [
+          "delve",
+          "people"
+        ]
       }
     },
     {
@@ -115,7 +118,8 @@
       "isConnector": false,
       "members": {
         "members": [
-          "sway","powerpoint"
+          "sway",
+          "powerpoint"
         ]
       }
     },
@@ -165,7 +169,8 @@
       "isConnector": false,
       "members": {
         "members": [
-          "todo"
+          "todo",
+          "tasks"
         ]
       }
     },
@@ -353,7 +358,8 @@
           "isConnector": false,
           "members": {
             "members": [
-              "sway"
+              "sway",
+              "powerpoint"
             ]
           }
         },
@@ -453,7 +459,10 @@
           "borderColor": "",
           "isConnector": false,
           "members": {
-            "members": []
+            "members": [
+              "delve",
+              "people"
+            ]
           }
         }
       },
@@ -1139,7 +1148,8 @@
           "isConnector": false,
           "members": {
             "members": [
-              "todo"
+              "todo",
+              "tasks"
             ]
           }
         },
