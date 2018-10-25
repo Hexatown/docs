@@ -1,6 +1,5 @@
 ---
-title: Get a Great Meeting
+title: How to hold great Meetings
 ---
-
 
 [IFRAME](https://www.youtube.com/embed/ZpcyNEbsKfQ)
