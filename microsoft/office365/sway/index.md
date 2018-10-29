@@ -10,13 +10,15 @@ link: https://sway.office.com/
 source: https://en.wikipedia.org/wiki/Office_Sway
 ---
 
-Sway is a publishing tool built to make the most of modern digital design practices. Sway is best used to create multimedia-heavy presentations, reports, stories, and newsletters viewed in a web browser or on a mobile device.
+Sway is a publishing tool built used to make the most of modern digital design practices. Sway is best used to create multimedia-heavy presentations, reports, stories, and newsletters viewed in a web browser or on a mobile device.
 
-Sways make use of functionality that other similar tools (e.g., PowerPoint) cannot: for example, Sway integrates scrolling—both horizontal and vertical—as a strong aspect of design of Sways since scrolling has become very easy on computers (two-finger scrolling and mice with built-in crollers) and mobile devices (a finger as a stylus can scroll anywhere).
+Sway lets you organize source information (including web content) into what is essentially a templated interactive website, which can be easily embedded or shared via link.
 
-Similar to other Office apps, Sway provides multiple template and the ability to start a Sway from scratch. Sways are stored on Sway.com; they are not saved in SharePoint nor OneDrive and the files cannot be saved or moved out of Sway.com.
+Sways make use of functionality that other similar tools (e.g., PowerPoint) cannot. For example, Sway integrates scrolling—both horizontal and vertical—as a foundational aspect of Sway design. Additionally, while PowerPoint is catching up in its ability to self-design given text and image input, Sway’s wizard is a more natural performer.
 
-Sway is similar to PowerPoint in the use case of building presentations. But, Sway excels at producing content that does not require a presenter, whereas PowerPoint slide decks usually require someone to speak to the content. Sway is also best used for displaying dynamic online content like social media posts.
+Similar to other Office apps, Sway provides multiple templates and the ability to start a Sway from scratch. Sways are stored on Sway.com; they are not saved in SharePoint nor OneDrive, but Sways can be exported from and imported directly to Sway.com.
+
+Sway is similar to PowerPoint in the use case of building presentations. But Sway excels at producing content that does not require a presenter, whereas PowerPoint slide decks usually require someone to speak to the content. Sway is also best used for displaying dynamic online content like social media posts, video, imagery, and other multimedia.
 
 Resources
 ---------
@@ -45,4 +47,4 @@ Feedback
 Author
 ---------
 
--   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP
+-   [Matt Wade](https://www.linkedin.com/in/thatmattwade/), Office Services MVP and [Hunter Willis](https://twitter.com/HW_EndUser)
