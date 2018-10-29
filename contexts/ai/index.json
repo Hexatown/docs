@@ -1,1 +1,2331 @@
-.
+{
+  "title": "Cognitive Services",
+  "color": "#256FB0",
+  "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+  "groups": [
+    {
+      "key": "biz",
+      "title": "Business App Platform",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "chat",
+      "title": "Chat & Conferencing",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "comm",
+      "title": "Direct Communication",
+      "color": "#6C6C6C",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "emp",
+      "title": "Employee\\nProfiles",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "file",
+      "title": "File Storage & Collaboration",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "forms",
+      "title": "Forms",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "online",
+      "title": "Office Oline",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "outlook",
+      "title": "Outlook",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "pres",
+      "title": "Presentations",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "proj",
+      "title": "Project Management",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "small",
+      "title": "Small Business Applications",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "soc",
+      "title": "Social\\nNetworking",
+      "color": "#9CDDF2",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "tasks",
+      "title": "Task\\nManagement",
+      "color": "#AAE29F",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": ">",
+      "title": ">",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "<",
+      "title": "<",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true,
+      "members": {
+        "members": []
+      }
+    },
+    {
+      "key": "_",
+      "title": "_",
+      "color": "",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "V",
+      "title": "V",
+      "color": "#B2B3E2",
+      "borderColor": "",
+      "isConnector": true
+    },
+    {
+      "key": "A",
+      "title": "A",
+      "color": "",
+      "borderColor": "",
+      "isConnector": true
+    },
+    {
+      "key": "Married",
+      "title": "Married",
+      "color": "orange",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "knowledge",
+      "title": "Knowledge",
+      "color": "#ffde7a",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "qnamaker"
+        ]
+      }
+    },
+    {
+      "key": "speech",
+      "title": "Speech",
+      "color": "#c05046",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "speech2text"
+        ]
+      }
+    },
+    {
+      "key": "language",
+      "title": "Language",
+      "color": "#9dbb61",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "languageunderstanding",
+          "bingspellcheck",
+          "translatortext",
+          "textanalytics",
+          "contentmoderatorlang"
+        ]
+      }
+    },
+    {
+      "key": "vision",
+      "title": "Vision",
+      "color": "#ab9ac0",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "computervision",
+          "face",
+          "contentmoderator",
+          "videoindexer",
+          "customvision"
+        ]
+      }
+    },
+    {
+      "key": "search",
+      "title": "Search",
+      "color": "#f59d56",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "bingsearchapis",
+          "bingautosuggest",
+          "bingentitysearch",
+          "bingcustomsearch"
+        ]
+      }
+    },
+    {
+      "key": "labs",
+      "title": "Labs",
+      "color": "#00a1f1",
+      "borderColor": "",
+      "isConnector": false
+    },
+    {
+      "key": "speechservices",
+      "title": "Speech Services",
+      "color": "#DA3B01",
+      "borderColor": "",
+      "isConnector": false,
+      "members": {
+        "members": [
+          "speechtranslation"
+        ]
+      }
+    }
+  ],
+  "grid": [
+    [
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "speech2text",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "speech",
+          "title": "Speech",
+          "color": "#c05046",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "speech2text"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "speech2text",
+          "title": "Speech to Text",
+          "color": "#923931",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_To_Text.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "text2speech",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "text2speech",
+          "title": "Text to Speech",
+          "color": "#923931",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Text_To_Speech.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "speechtranslation",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "speechtranslation",
+          "title": "Speech Translation",
+          "color": "#923931",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_Translation.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "speechservices",
+          "title": "Speech Services",
+          "color": "#DA3B01",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "speechtranslation"
+            ]
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "speakerrecognition",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "speakerrecognition",
+          "title": "Speaker Recognition",
+          "color": "#923931",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speaker_Recognition.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": 1,
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "cloudguy",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "cloudguy",
+          "title": "Content by Stephan Bisser",
+          "color": "#5099d8",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/cloudguy.png",
+          "inShort": "Visit www.cloudguy.pro for more...",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://www.cloudguy.pro"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "bingsearchapis",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "search",
+          "title": "Search",
+          "color": "#f59d56",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "bingsearchapis",
+              "bingautosuggest",
+              "bingentitysearch",
+              "bingcustomsearch"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "bingsearchapis",
+          "title": "Bing Search APIs",
+          "color": "#ea700d",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Cat_Search.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "bingautosuggest",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "bingautosuggest",
+          "title": "Bing Autosuggest",
+          "color": "#ea700d",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Autosuggest.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "bingentitysearch",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "bingentitysearch",
+          "title": "Bing Entity Search",
+          "color": "#ea700d",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Entity_Search.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "bingcustomsearch",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "bingcustomsearch",
+          "title": "Bing Custom Search",
+          "color": "#ea700d",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Custom_Search.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "computervision",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "vision",
+          "title": "Vision",
+          "color": "#ab9ac0",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "computervision",
+              "face",
+              "contentmoderator",
+              "videoindexer",
+              "customvision"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "computervision",
+          "title": "Computer Vision",
+          "color": "#7e649e",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Computer_Vision.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "face",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "face",
+          "title": "Face",
+          "color": "#7e649e",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Face.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/face/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "contentmoderator",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "contentmoderator",
+          "title": "Content Moderator",
+          "color": "#7e649e",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "videoindexer",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "videoindexer",
+          "title": "Video Indexer",
+          "color": "#7e649e",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Video_Indexer.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://azure.microsoft.com/en-us/services/media-services/video-indexer/"
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "customvision",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "customvision",
+          "title": "Custom Vision",
+          "color": "#7e649e",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Custom_Vision.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/"
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      }
+    ],
+    [
+      {
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "languageunderstanding",
+        "l": 1,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "language",
+          "title": "Language",
+          "color": "#9dbb61",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "languageunderstanding",
+              "bingspellcheck",
+              "translatortext",
+              "textanalytics",
+              "contentmoderatorlang"
+            ]
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "languageunderstanding",
+          "title": "Language Understanding",
+          "color": "#789440",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Language_Understanding.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "bingspellcheck",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "bingspellcheck",
+          "title": "Bing Spell Check",
+          "color": "#789440",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Bing_Spell_Check.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "translatortext",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "translatortext",
+          "title": "Translator Text",
+          "color": "#789440",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Translator_Text.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "textanalytics",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "textanalytics",
+          "title": "Text Analytics",
+          "color": "#789440",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Text_Analytics.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "contentmoderatorlang",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": ">",
+          "title": ">",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "contentmoderatorlang",
+          "title": "Content Moderator",
+          "color": "#789440",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "qnamaker",
+        "l": 0,
+        "c": 1,
+        "r": 1,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": {
+          "key": "qnamaker",
+          "title": "QnAMaker",
+          "color": "#ffc000",
+          "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Knowledge/QnAMaker.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "knowledge",
+          "title": "Knowledge",
+          "color": "#ffde7a",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "qnamaker"
+            ]
+          }
+        },
+        "bottomData": null
+      }
+    ]
+  ],
+  "tools": [
+    {
+      "key": "bookings",
+      "title": "Bookings",
+      "color": "#25abb2",
+      "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
+      "inShort": "Customer self-reservations",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "calendar",
+      "title": "Calendar",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
+      "inShort": "Outlook calendar",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+    },
+    {
+      "key": "delve",
+      "title": "Delve",
+      "color": "#1c7bb9",
+      "icon": "https://jumpto365.com/resources/images/app/Delve.png",
+      "inShort": "Employee profile & content discovery",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "dynamics365",
+      "title": "Dynamics 365",
+      "color": "#15224e",
+      "icon": "https://jumpto365.com/resources/images/app/Dynamics.png",
+      "inShort": "CRM & ERP [Salesforce]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "excel",
+      "title": "Excel Online",
+      "color": "#02723b",
+      "icon": "https://jumpto365.com/resources/images/app/Excel.png",
+      "inShort": "Spreadsheets in the browser",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Excel.aspx"
+    },
+    {
+      "key": "flow",
+      "title": "Flow",
+      "color": "#0077ff",
+      "icon": "https://jumpto365.com/resources/images/app/Flow.png",
+      "inShort": "Code-free workflows [IFTTT]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://flow.microsoft.com/en-us/"
+    },
+    {
+      "key": "forms",
+      "title": "Forms",
+      "color": "#008271",
+      "icon": "https://jumpto365.com/resources/images/app/Forms.png",
+      "inShort": "Simple forms & polls [SurveyMonkey]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://forms.office.com/"
+    },
+    {
+      "key": "mail",
+      "title": "Mail",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Mail.png",
+      "inShort": "Outlook email",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/"
+    },
+    {
+      "key": "newsfeed",
+      "title": "Newsfeed",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/Newsfeed.png",
+      "inShort": "SharePoint's (lite) social network",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onedrive",
+      "title": "OneDrive for Business",
+      "color": "#1174c3",
+      "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
+      "inShort": "Personal file storage [Dropbox]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "onenote",
+      "title": "OneNote Online",
+      "color": "#80397b",
+      "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
+      "inShort": "Note taking in the browser [Evernote]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.onenote.com/notebooks"
+    },
+    {
+      "key": "people",
+      "title": "People",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/People.png",
+      "inShort": "Outlook contact list",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/people"
+    },
+    {
+      "key": "planner",
+      "title": "Planner",
+      "color": "#3c853c",
+      "icon": "https://jumpto365.com/resources/images/app/Planner.png",
+      "inShort": "Everyday project management [Trello]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://tasks.office.com/"
+    },
+    {
+      "key": "powerapps",
+      "title": "PowerApps",
+      "color": "#742774",
+      "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+      "inShort": "Code-free mobile apps (& forms)",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://web.powerapps.com/home"
+    },
+    {
+      "key": "powerbi",
+      "title": "PowerBI",
+      "color": "#f2c811",
+      "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
+      "inShort": "Business analytics & dashboards",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": 1,
+      "jumpto": "https://app.powerbi.com/"
+    },
+    {
+      "key": "powerpoint",
+      "title": "Powerpoint Online",
+      "color": "#d24726",
+      "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
+      "inShort": "Presentations in the browser",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+    },
+    {
+      "key": "project",
+      "title": "Project Online",
+      "color": "#2f722d",
+      "icon": "https://jumpto365.com/resources/images/app/Project.png",
+      "inShort": "Premium project management",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": "http://www.microsoftproject-online.com/"
+    },
+    {
+      "key": "sharepoint",
+      "title": "SharePoint Online",
+      "color": "#0072c6",
+      "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
+      "inShort": "Team file sharing & storage",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "skype",
+      "title": "Skype for Business",
+      "color": "#00aff0",
+      "icon": "https://jumpto365.com/resources/images/app/Skype.png",
+      "inShort": "Instant messaging & video chat [Skype]",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "staffhub",
+      "title": "StaffHub",
+      "color": "#25c8c2",
+      "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
+      "inShort": "Frontline employee hub & scheduler",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "stream",
+      "title": "Stream",
+      "color": "#c30052",
+      "icon": "https://jumpto365.com/resources/images/app/Stream.png",
+      "inShort": "Video portal [YouTube]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://web.microsoftstream.com/"
+    },
+    {
+      "key": "sway",
+      "title": "Sway",
+      "color": "#008272",
+      "icon": "https://jumpto365.com/resources/images/app/Sway.png",
+      "inShort": "Next-gen presentations",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "tasks",
+      "title": "Tasks",
+      "color": "#2072b9",
+      "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
+      "inShort": "Outlook tasks",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+    },
+    {
+      "key": "teams",
+      "title": "Teams",
+      "color": "#3f418e",
+      "icon": "https://jumpto365.com/resources/images/app/Teams.png",
+      "inShort": "Group chat & video chat [Slack]",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": "https://teams.microsoft.com/"
+    },
+    {
+      "key": "todo",
+      "title": "Todo",
+      "color": "#3896f9",
+      "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
+      "inShort": "To-do list for life & work [Wunderlist]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://todo.microsoft.com/?app"
+    },
+    {
+      "key": "visio",
+      "title": "Visio Online",
+      "color": "#4568c4",
+      "icon": "https://jumpto365.com/resources/images/app/Visio.png",
+      "inShort": "Diagramming in the browser",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": ""
+    },
+    {
+      "key": "word",
+      "title": "Word Online",
+      "color": "#2b579a",
+      "icon": "https://jumpto365.com/resources/images/app/Word.png",
+      "inShort": "Word processing in the browser",
+      "isFullyShareable": 1,
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://office.live.com/start/Word.aspx"
+    },
+    {
+      "key": "yammer",
+      "title": "Yammer",
+      "color": "#007dc6",
+      "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
+      "inShort": "Social network [Facebook]",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.yammer.com/"
+    },
+    {
+      "key": "emp",
+      "title": "#GROUP#",
+      "color": "#B2B3E2",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "jumpto365",
+      "title": "Jumpto365",
+      "color": "#2a7ab9",
+      "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy1",
+      "title": "happy1",
+      "color": "#2a7ab9",
+      "icon": "http://www.myiconfinder.com/uploads/iconsets/256-256-59c71b2f0d47dc8254d8aa71778c2cae-emoticons.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy2",
+      "title": "happy2",
+      "color": "#2a7ab9",
+      "icon": "http://www.myiconfinder.com/uploads/iconsets/ad432f52da717eb357cde234d3f556b5-emoticon.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy3",
+      "title": "happy3",
+      "color": "#2a7ab9",
+      "icon": "http://www.myiconfinder.com/uploads/iconsets/303d1864abb1aabefe7c6a4596af0651-emoticon.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy4",
+      "title": "happy4",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy5",
+      "title": "happy5",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy6",
+      "title": "happy6",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy7",
+      "title": "happy7",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy8",
+      "title": "happy8",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy9",
+      "title": "happy9",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy10",
+      "title": "happy10",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy11",
+      "title": "happy11",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy12",
+      "title": "happy12",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy13",
+      "title": "happy13",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy14",
+      "title": "happy14",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy15",
+      "title": "happy15",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy16",
+      "title": "happy16",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy17",
+      "title": "happy17",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy18",
+      "title": "happy18",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy19",
+      "title": "happy19",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy20",
+      "title": "happy20",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy21",
+      "title": "happy21",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy22",
+      "title": "happy22",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy23",
+      "title": "happy23",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy24",
+      "title": "happy24",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy25",
+      "title": "happy25",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy26",
+      "title": "happy26",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy27",
+      "title": "happy27",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy28",
+      "title": "happy28",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy29",
+      "title": "happy29",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy30",
+      "title": "happy30",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy31",
+      "title": "happy31",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy32",
+      "title": "happy32",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy33",
+      "title": "happy33",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy34",
+      "title": "happy34",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "happy35",
+      "title": "happy35",
+      "color": "#2a7ab9",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "denmark",
+      "title": "denmark",
+      "color": "red",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "m2",
+      "title": "m2",
+      "color": "white",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dual_Cypher_of_Margrethe_and_Henrik_of_Denmark.svg/876px-Dual_Cypher_of_Margrethe_and_Henrik_of_Denmark.svg.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "catvision",
+      "title": "Vision",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Cat_Vision.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "computervision",
+      "title": "Computer Vision",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Computer_Vision.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/"
+    },
+    {
+      "key": "face",
+      "title": "Face",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Face.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/face/"
+    },
+    {
+      "key": "contentmoderator",
+      "title": "Content Moderator",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/content-moderator/"
+    },
+    {
+      "key": "videoindexer",
+      "title": "Video Indexer",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Video_Indexer.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://azure.microsoft.com/en-us/services/media-services/video-indexer/"
+    },
+    {
+      "key": "customvision",
+      "title": "Custom Vision",
+      "color": "#7e649e",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Custom_Vision.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": 1,
+      "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/"
+    },
+    {
+      "key": "catknowledge",
+      "title": "Knowledge",
+      "color": "#68768A",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Knowledge/Cat_Knowledge.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "qnamaker",
+      "title": "QnAMaker",
+      "color": "#ffc000",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Knowledge/QnAMaker.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "catspeech",
+      "title": "Speech",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Cat_Speech.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "speechservices",
+      "title": "Speech Services",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Cat_Speech.png",
+      "inShort": "speechservices",
+      "isFullyShareable": "Speech Services",
+      "isPartlyShareable": "#D13438",
+      "isPremium": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Cat_Speech.png",
+      "jumpto": "speechservices"
+    },
+    {
+      "key": "speech2text",
+      "title": "Speech to Text",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_To_Text.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "speechtranslation",
+      "title": "Speech Translation",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_Translation.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "text2speech",
+      "title": "Text to Speech",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Text_To_Speech.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "speakerrecognition",
+      "title": "Speaker Recognition",
+      "color": "#923931",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speaker_Recognition.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": 1,
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "catlanguage",
+      "title": "Language",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Cat_Language.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "languageunderstanding",
+      "title": "Language Understanding",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Language_Understanding.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingspellcheck",
+      "title": "Bing Spell Check",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Bing_Spell_Check.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "translatortext",
+      "title": "Translator Text",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Translator_Text.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "textanalytics",
+      "title": "Text Analytics",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Text_Analytics.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "contentmoderatorlang",
+      "title": "Content Moderator",
+      "color": "#789440",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "catsearch",
+      "title": "Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Cat_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingwebsearch",
+      "title": "Bing Web Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Web_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingvisualsearch",
+      "title": "Bing Visual Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Visual_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingcustomsearch",
+      "title": "Bing Custom Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Custom_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingentitysearch",
+      "title": "Bing Entity Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Entity_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingvideosearch",
+      "title": "Bing Video Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Video_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingsearchapis",
+      "title": "Bing Search APIs",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Cat_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingautosuggest",
+      "title": "Bing Autosuggest",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Autosuggest.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingnewssearch",
+      "title": "Bing News Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_News_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "bingimagesearch",
+      "title": "Bing Image Search",
+      "color": "#ea700d",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Image_Search.png",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "AI-30",
+      "title": "AI-30",
+      "color": "grey",
+      "icon": "",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "AI-31",
+      "title": "AI-31",
+      "color": "grey",
+      "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Drawing4.svg",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "AI-32",
+      "title": "AI-32",
+      "color": "grey",
+      "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Content_Moderator.svg",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "AI-33",
+      "title": "AI-33",
+      "color": "grey",
+      "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Translator_Text.svg",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "AI-34",
+      "title": "AI-34",
+      "color": "grey",
+      "icon": "https://jumpto365.com/resources/images/ai/Icons/Language/Text_Analytics.svg",
+      "inShort": "",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": ""
+    },
+    {
+      "key": "cloudguy",
+      "title": "Content by Stephan Bisser",
+      "color": "#5099d8",
+      "icon": "https://cloudguy.blob.core.windows.net/resources/cloudguy.png",
+      "inShort": "Visit www.cloudguy.pro for more...",
+      "isFullyShareable": "",
+      "isPartlyShareable": "",
+      "isPremium": "",
+      "jumpto": "https://www.cloudguy.pro"
+    }
+  ]
+}
