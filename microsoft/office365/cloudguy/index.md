@@ -1,6 +1,6 @@
 ---
 title: Cloudguy
-context: ai2
+contexts: ai2
 ---
 
 tbd
