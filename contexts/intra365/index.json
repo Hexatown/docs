@@ -1375,11 +1375,11 @@
           "title": "Intra365",
           "color": "#d24726",
           "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
-          "inShort": "Faster Intranet on top of Office 365",
+          "inShort": "Faster Intranet on top of Microsoft 365",
           "isFullyShareable": "",
           "isPartlyShareable": "",
-          "isPremium": "",
-          "jumpto": "https://www.intra365.com"
+          "isPremium": 1,
+          "jumpto": "https://wwww.intra365.com"
         },
         "rightData": {
           "key": "<",

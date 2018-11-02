@@ -5,6 +5,7 @@ contexts: intra365, office365
 color: #d24726
 icon: https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png
 byline: Niels Gregers Johansen (@niegrejoh)
+link: https://wwww.intra365.com
 ---
 
 Build on top of your exsisting tool set
