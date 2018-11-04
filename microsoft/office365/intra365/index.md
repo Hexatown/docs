@@ -1,5 +1,5 @@
 ---
-title: Intra365
+title: intra365
 inshort: Faster Intranet on top of Office 365
 contexts: intra365, office365
 color: #d24726
