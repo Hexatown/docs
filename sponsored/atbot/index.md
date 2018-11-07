@@ -27,7 +27,8 @@ For more information and your special 30-day free trial, visit [atbot.io](https:
 
 ## Links 
 
-- [Feature Overview](https://blog.getbizzy.io/introducing-a-whole-new-bizzy-bot-91651aa6058f) 
+- [Feature Overview](https://blog.getbizzy.io/introducing-a-whole-new-bizzy-bot-91651aa6058f)
+- [Why would I need a chatbot?](https://tinyurl.com/WhyAChatbot)
 - [AtBot task templates](https://blog.getbizzy.io/tagged/bizzy-template) 
 - [How AtBot can improve your knowledge management](https://blog.getbizzy.io/5-ways-chatbots-are-revolutionizing-knowledge-management-bdf925db66e9) 
 - [Adding AtBot to your SharePoint site](https://blog.getbizzy.io/add-bizzy-to-your-sharepoint-site-using-spfx-ab7ed97b856c) 
