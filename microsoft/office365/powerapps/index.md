@@ -10,34 +10,40 @@ xlinkbusiness:
 xmarketing: 
 source: https://powerapps.microsoft.com/en-us/
 ---
-Turn your business expertise into solutions with ease. Give people what they need to drive results.
+PowerApps is a leading app in the citizen developer revolution. The PowerApps platform allows you to build business applications to collect, display, and interact with data; and it’s easy to use for non-technical people.  
 
-- Connect to your systems and create new data
- 
-- Build apps without writing code
- 
-- Publish and use on web and mobile
+Thanks to pre-built templates that let you connect to services you’re already using like Excel, SharePoint, and Dynamics 365, PowerApps makes it reasonably easy to replace manual and repetitive form processes with mobile applications without the buildout becoming major projects. 
 
-## Get started quickly
-Get inspired with pre-built templates, or start from scratch. You already have everything that you need to get started building apps that mean business.
+These new solutions provide a major improvement to people who often work outside the wall of an office. No transcribing data, no logging in from a new location, no more paper. Typical starting use cases for PowerApps include automating inspection forms, time cards, purchase orders, and expense reports. 
 
-## Do more with your data
-Connect to services you're already using like Excel, SharePoint, Dynamics 365, and more to automatically generate apps, or use the Common Data Service to capture new data.
+PowerApps also lets you replace off-the-shelf and legacy applications with modern solutions that don’t necessarily need to be created and maintained by an IT department. It is intended to be the successor—though not a replacement—to Microsoft InfoPath. 
 
-## Turn your expertise into apps
-Understand the business problem? Now you can build the solution. Work in a visual designer to customize fully functional apps — without having to write code.
+PowerApps provides three key benefits: native mobile app solutions, multiple data sources, and integrability with the Office 365 (and even third-party) app ecosystem. Combined with its sister app Microsoft Flow, PowerApps can automate many of these processes without any coding required.
 
-## An advanced data service built right in
-The Common Data Service is a secure business data platform built into PowerApps. It comes with hundreds of standard business entities already defined, which means that now all your apps can share the same definition of “customer,” “product,” “lead,” and more. The service also includes workflow automation with Microsoft Flow.
+Resources
+---------
 
-## An advanced data service built right in
-The Common Data Service is a secure business data platform built into PowerApps. It comes with hundreds of standard business entities already defined, which means that now all your apps can share the same definition of “customer,” “product,” “lead,” and more. The service also includes workflow automation with Microsoft Flow.
+-   [PowerApps Documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections/connection-sharepoint-online) \[Microsoft\]
 
-## Communities
+-   [PowerApps and Flow training](https://www.edx.org/course/developing-business-applications-power-microsoft-dat227x-0) \[EDx\]
 
-### Those Dynamic Guys
-Maintain a "bank" of PowerApps
-[https://dynamics365society\.uk/](https://dynamics365society.uk/)
+-   [PowerApps Blog](https://powerapps.microsoft.com/en-us/blog/) \[Microsoft\]
 
-[IFRAME](https://www.youtube.com/embed/aP1VHlWgxpU)
+Similar Applications
+---------
 
+-   [GoCanvas](https://www.gocanvas.com/)
+
+-   [Out Systems](https://www.outsystems.com/p/low-code-development-platform/ )
+
+Feedback
+---------
+
+-   [PowerApps Ideas](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas)
+
+-   [PowerApps Community](https://powerusers.microsoft.com/t5/PowerApps-Community/ct-p/PowerApps1)
+
+Author
+---------
+
+-   [Shane Young](https://www.youtube.com/c/shaneyoungcloud), PowerApps MVP
