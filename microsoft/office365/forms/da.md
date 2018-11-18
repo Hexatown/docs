@@ -1,13 +1,13 @@
 ---
 title: Formularer
-inshort: Kode-fri former
-translator: Microsoft Cognitive Services
+inshort: Kode-fri web formular
+translator: Niels Gregers Johansen
 ---
 
-Microsoft Forms er en enkel undersøgelse, meningsmåling, og quiz værktøj. MS Forms giver
-hverdagens arbejdstagere mulighed for at skabe rimelig komplekse former for
-forankringen feedback, få tilmeldinger, indsende simple anmodninger, og
-at udfylde spørgeskemaer.
+Microsoft Forms er et enkel undersøgelse, meningsmåling, og quiz værktøj. MS Forms giver
+dig mulighed for at skabe rimelig komplekse formularer til 
+feedback, tilmeldinger, indsendelse af simple anmodninger, og
+ti at udfylde spørgeskemaer.
 
 Formularer kan deles med interne og eksterne brugere. Eksterne brugere
 behøver ikke logge på og alle eksterne bemærkninger er anført som anonym
@@ -15,17 +15,12 @@ behøver ikke logge på og alle eksterne bemærkninger er anført som anonym
 Eksterne brugere kan endda blive inviteret til at samarbejde om spørgsmål og
 kan gennemgå resultaterne.
 
-Former resultater er enkle og vise som lister over tekst, cirkeldiagrammer (for
+Svarene vises som lister over tekst, cirkeldiagrammer (for
 Radio spørgsmål), eller liggende søjlediagrammer (for afkrydsningsfeltet spørgsmål). Komplet
 resultater kan også åbnes, og hentes som et Excel-regneark.
 
-Selv om teknisk set en "formularer" ansøgning, understøtter MS Forms ikke
-komplekse form bygning og er ikke en erstatning for SharePoint Designer,
-InfoPath eller PowerApps funktionalitet.
+MS Forms er ikke en erstatning for SharePoint Designer, InfoPath eller PowerApps funktionalitet, selv om det er et ret omfattende værktør.
 
-Hvis du ønsker at se, hvad en Microsoft Form ser ud i den virkelige verden,
-Tjek feedbacklinket på denne webside. Formen opført er bygget
-ved hjælp af Microsoft Forms.
 
 Ressourcer
 ---------
@@ -46,7 +41,6 @@ Lignende apps
 
 -SharePoint-undersøgelser
 
--Hyle meningsmålinger
 
 Feedback
 ---------
