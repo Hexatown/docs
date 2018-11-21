@@ -496,7 +496,20 @@
         "bottomData": null
       },
       {
-        "key": "gateway",
+        "key": null,
+        "l": 0,
+        "c": 0,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": null,
+        "topData": null,
+        "centerData": null,
+        "rightData": null,
+        "bottomData": null
+      },
+      {
+        "key": "powerapp-fromsharepoint",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -505,9 +518,9 @@
         "leftData": null,
         "topData": null,
         "centerData": {
-          "key": "gateway",
-          "title": "Gateways",
-          "color": "#008271",
+          "key": "powerapp-fromsharepoint",
+          "title": "From SharePoint",
+          "color": "#742774",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -528,7 +541,7 @@
         "bottomData": null
       },
       {
-        "key": "cds",
+        "key": "powerapp-fromsctratch",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -546,9 +559,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "cds",
-          "title": "CDS",
-          "color": "#008271",
+          "key": "powerapp-fromsctratch",
+          "title": "From Scratch",
+          "color": "#742774",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -569,7 +582,7 @@
         "bottomData": null
       },
       {
-        "key": "custom",
+        "key": "powerapp-fromdata",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -587,9 +600,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "custom",
-          "title": "Custom",
-          "color": "#008271",
+          "key": "powerapp-fromdata",
+          "title": "From Data",
+          "color": "#742774",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -610,48 +623,7 @@
         "bottomData": null
       },
       {
-        "key": "premium",
-        "l": 0,
-        "c": 1,
-        "r": 0,
-        "t": 0,
-        "b": 0,
-        "leftData": {
-          "key": "<",
-          "title": "<",
-          "color": "",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          }
-        },
-        "topData": null,
-        "centerData": {
-          "key": "premium",
-          "title": "Premium",
-          "color": "#008271",
-          "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
-          "inShort": "",
-          "isFullyShareable": "",
-          "isPartlyShareable": "",
-          "isPremium": 1,
-          "jumpto": ""
-        },
-        "rightData": {
-          "key": "<",
-          "title": "<",
-          "color": "",
-          "borderColor": "",
-          "isConnector": true,
-          "members": {
-            "members": []
-          }
-        },
-        "bottomData": null
-      },
-      {
-        "key": "free",
+        "key": "powerapp-fromtemplate",
         "l": 0,
         "c": 1,
         "r": 1,
@@ -669,9 +641,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "free",
-          "title": "Free",
-          "color": "#008271",
+          "key": "powerapp-fromtemplate",
+          "title": "From Template",
+          "color": "#742774",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -680,18 +652,17 @@
           "jumpto": ""
         },
         "rightData": {
-          "key": "Data",
-          "title": "Data",
-          "color": "#AAE29F",
+          "key": "getstarted",
+          "title": "Get started",
+          "color": "#9CDDF2",
           "borderColor": "",
           "isConnector": false,
           "members": {
             "members": [
-              "free",
-              "premium",
-              "custom",
-              "cds",
-              "gateway"
+              "powerapp-fromtemplate",
+              "powerapp-fromdata",
+              "powerapp-fromsctratch",
+              "powerapp-fromsharepoint"
             ]
           }
         },
@@ -1307,20 +1278,7 @@
         "bottomData": null
       },
       {
-        "key": null,
-        "l": 0,
-        "c": 0,
-        "r": 0,
-        "t": 0,
-        "b": 0,
-        "leftData": null,
-        "topData": null,
-        "centerData": null,
-        "rightData": null,
-        "bottomData": null
-      },
-      {
-        "key": "powerapp-fromsharepoint",
+        "key": "gateway",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -1329,9 +1287,9 @@
         "leftData": null,
         "topData": null,
         "centerData": {
-          "key": "powerapp-fromsharepoint",
-          "title": "From SharePoint",
-          "color": "#742774",
+          "key": "gateway",
+          "title": "Gateways",
+          "color": "#008271",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1352,7 +1310,7 @@
         "bottomData": null
       },
       {
-        "key": "powerapp-fromsctratch",
+        "key": "cds",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -1370,9 +1328,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "powerapp-fromsctratch",
-          "title": "From Scratch",
-          "color": "#742774",
+          "key": "cds",
+          "title": "CDS",
+          "color": "#008271",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1393,7 +1351,7 @@
         "bottomData": null
       },
       {
-        "key": "powerapp-fromdata",
+        "key": "custom",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -1411,9 +1369,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "powerapp-fromdata",
-          "title": "From Data",
-          "color": "#742774",
+          "key": "custom",
+          "title": "Custom",
+          "color": "#008271",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1434,7 +1392,48 @@
         "bottomData": null
       },
       {
-        "key": "powerapp-fromtemplate",
+        "key": "premium",
+        "l": 0,
+        "c": 1,
+        "r": 0,
+        "t": 0,
+        "b": 0,
+        "leftData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "topData": null,
+        "centerData": {
+          "key": "premium",
+          "title": "Premium",
+          "color": "#008271",
+          "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
+          "inShort": "",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": ""
+        },
+        "rightData": {
+          "key": "<",
+          "title": "<",
+          "color": "",
+          "borderColor": "",
+          "isConnector": true,
+          "members": {
+            "members": []
+          }
+        },
+        "bottomData": null
+      },
+      {
+        "key": "free",
         "l": 0,
         "c": 1,
         "r": 1,
@@ -1452,9 +1451,9 @@
         },
         "topData": null,
         "centerData": {
-          "key": "powerapp-fromtemplate",
-          "title": "From Template",
-          "color": "#742774",
+          "key": "free",
+          "title": "Free",
+          "color": "#008271",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1463,17 +1462,18 @@
           "jumpto": ""
         },
         "rightData": {
-          "key": "getstarted",
-          "title": "Get started",
-          "color": "#9CDDF2",
+          "key": "Data",
+          "title": "Data",
+          "color": "#AAE29F",
           "borderColor": "",
           "isConnector": false,
           "members": {
             "members": [
-              "powerapp-fromtemplate",
-              "powerapp-fromdata",
-              "powerapp-fromsctratch",
-              "powerapp-fromsharepoint"
+              "free",
+              "premium",
+              "custom",
+              "cds",
+              "gateway"
             ]
           }
         },
