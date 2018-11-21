@@ -1004,7 +1004,7 @@
         "centerData": {
           "key": "list-internal",
           "title": "Internal",
-          "color": "#742774",
+          "color": "#00aff0",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1045,7 +1045,7 @@
         "centerData": {
           "key": "list-external",
           "title": "External",
-          "color": "#742774",
+          "color": "#00aff0",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -1086,7 +1086,7 @@
         "centerData": {
           "key": "list-dynamic",
           "title": "Dynamic",
-          "color": "#742774",
+          "color": "#00aff0",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
           "isFullyShareable": "",
@@ -2849,7 +2849,7 @@
     {
       "key": "list-internal",
       "title": "Internal",
-      "color": "#742774",
+      "color": "#00aff0",
       "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
       "inShort": "",
       "isFullyShareable": "",
@@ -2860,7 +2860,7 @@
     {
       "key": "list-external",
       "title": "External",
-      "color": "#742774",
+      "color": "#00aff0",
       "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
       "inShort": "",
       "isFullyShareable": "",
@@ -2871,7 +2871,7 @@
     {
       "key": "list-dynamic",
       "title": "Dynamic",
-      "color": "#742774",
+      "color": "#00aff0",
       "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
       "inShort": "",
       "isFullyShareable": "",
