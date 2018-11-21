@@ -169,7 +169,7 @@
         "members": [
           "powerapp-button",
           "powerapp-text",
-          "powerapp-logical",
+          "powerapp-listbox",
           "powerapp-image",
           "powerapp-camera"
         ]
@@ -716,7 +716,7 @@
             "members": [
               "powerapp-button",
               "powerapp-text",
-              "powerapp-logical",
+              "powerapp-listbox",
               "powerapp-image",
               "powerapp-camera"
             ]
@@ -788,7 +788,7 @@
         "bottomData": null
       },
       {
-        "key": "powerapp-logical",
+        "key": "powerapp-listbox",
         "l": 0,
         "c": 1,
         "r": 0,
@@ -806,8 +806,8 @@
         },
         "topData": null,
         "centerData": {
-          "key": "powerapp-logical",
-          "title": "Logical",
+          "key": "powerapp-listbox",
+          "title": "Listbox",
           "color": "#d24726",
           "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
           "inShort": "",
