@@ -278,7 +278,7 @@
     {
       "key": "Governance",
       "title": "Governance",
-      "color": "#c30052",
+      "color": "#c3005288",
       "borderColor": "",
       "isConnector": false,
       "members": {
@@ -435,7 +435,7 @@
         "rightData": {
           "key": "Governance",
           "title": "Governance",
-          "color": "#c30052",
+          "color": "#c3005288",
           "borderColor": "",
           "isConnector": false,
           "members": {
