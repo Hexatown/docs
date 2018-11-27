@@ -34,6 +34,9 @@ Resources
 -   [Microsoft Teams Documentation and Practical Guidance](https://docs.microsoft.com/en-au/MicrosoftTeams/Microsoft-Teams)
     \[Microsoft\]
 
+-   [Everyday Etiquette in Microsoft Teams](https://jum.to/TeamsEtiquette)
+    \[Matt Wade\]
+
 -   [Microsoft Teams Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=teams)
     \[Microsoft\]
 
