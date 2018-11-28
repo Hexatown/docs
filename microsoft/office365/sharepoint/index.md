@@ -82,6 +82,8 @@ Microsoft Resources
 
 -   [SharePoint Space on Microsoft TechCommunity](https://techcommunity.microsoft.com/t5/SharePoint/bd-p/SharePoint_General)
 
+-   [SharePoint Look Book](https://sharepointlookbook.azurewebsites.net/) - Site and page design inspiration
+
 -   [SharePoint on Twitter](https://twitter.com/sharepoint)
 
 -   [Security and Compliance in SharePoint](https://blogs.technet.microsoft.com/wbaer/2017/03/13/security-and-compliance-in-sharepoint-online-and-onedrive-for-business/)
