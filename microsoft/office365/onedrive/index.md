@@ -35,7 +35,7 @@ Resources
     inforgraphic\]
 
 -   [When to use OneDrive versus SharePoint](http://icsh.pt/DocCircleOfLife) \[icansharepoint
-    inforgraphic\]
+    infographic\]
 
 -   [OneDrive for Business Blog](https://www.microsoft.com/en-us/microsoft-365/blog/onedrive/) \[Microsoft\]
 
