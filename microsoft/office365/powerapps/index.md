@@ -8,7 +8,7 @@ xlinkdev:
 link: https://web.powerapps.com/
 xlinkbusiness: 
 xmarketing: 
-previewer: powerapps
+xpreviewer: powerapps
 source: https://powerapps.microsoft.com/en-us/
 ---
 PowerApps is a leading app in the citizen developer revolution. The PowerApps platform allows you to build business applications to collect, display, and interact with data; and it’s easy to use for non-technical people.  
