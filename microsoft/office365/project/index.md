@@ -5,7 +5,7 @@ inshort: Premium project management
 groups: Project Management
 xlinkadmin: 
 xlinkdev: 
-link: http://www.microsoftproject-online.com/
+link: https://project.microsoft.com
 xlinkbusiness: 
 xmarketing: 
 source: https://products.office.com/en-us/project/project-online-premium
