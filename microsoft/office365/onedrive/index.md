@@ -5,7 +5,7 @@ inshort: Personal file storage [Dropbox]
 groups: File Storage & Collaboration
 xlinkadmin: 
 xlinkdev: 
-link: https://office.live.com/start/PowerPoint.aspx
+xlink: https://office.live.com/start/PowerPoint.aspx
 xlinkbusiness: 
 xmarketing: 
 xsource: https://products.office.com/en/onedrive-for-business/online-cloud-storage
