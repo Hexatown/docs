@@ -1,108 +1,129 @@
 {
-  "title": "Cognitive Services",
+  "title": "of Office365",
+  "settings": {
+    "titlegraphics": "https://jumpto365.com/resources/images/CogServicesTitle.png",
+    "tileactiontype": "externallink"
+  },
   "color": "#256FB0",
   "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
-  "titlegraphic": "https://jumpto365.com/resources/images/CogServicesTitle.png",
   "groups": [
     {
       "key": "biz",
       "title": "Business App Platform",
       "color": "#AAE29F",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "chat",
       "title": "Chat & Conferencing",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "comm",
       "title": "Direct Communication",
       "color": "#6C6C6C",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "emp",
       "title": "Employee\\nProfiles",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "file",
       "title": "File Storage & Collaboration",
       "color": "#AAE29F",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "forms",
       "title": "Forms",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "online",
       "title": "Office Oline",
       "color": "#9CDDF2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "outlook",
       "title": "Outlook",
       "color": "#9CDDF2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "pres",
       "title": "Presentations",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "proj",
       "title": "Project Management",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "small",
       "title": "Small Business Applications",
       "color": "#AAE29F",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "soc",
       "title": "Social\\nNetworking",
       "color": "#9CDDF2",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "tasks",
       "title": "Task\\nManagement",
       "color": "#AAE29F",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": ">",
       "title": ">",
-      "color": "",
+      "color": "#253494",
       "borderColor": "",
       "isConnector": true,
+      "textColor": "",
       "members": {
         "members": []
+      },
+      "colorMatch": {
+        "c": "#253494",
+        "index": 3
       }
     },
     {
@@ -110,42 +131,48 @@
       "title": "<",
       "color": "",
       "borderColor": "",
-      "isConnector": true
+      "isConnector": true,
+      "textColor": ""
     },
     {
       "key": "_",
       "title": "_",
       "color": "",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "V",
       "title": "V",
       "color": "#B2B3E2",
       "borderColor": "",
-      "isConnector": true
+      "isConnector": true,
+      "textColor": ""
     },
     {
       "key": "A",
       "title": "A",
       "color": "",
       "borderColor": "",
-      "isConnector": true
+      "isConnector": true,
+      "textColor": ""
     },
     {
       "key": "Married",
       "title": "Married",
       "color": "orange",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": ""
     },
     {
       "key": "knowledge",
       "title": "Knowledge",
-      "color": "#5ac97f",
+      "color": "#0063B1",
       "borderColor": "",
       "isConnector": false,
+      "textColor": "#ffffff",
       "members": {
         "members": [
           "qnamaker"
@@ -158,6 +185,7 @@
       "color": "#253494",
       "borderColor": "",
       "isConnector": false,
+      "textColor": "#ffffff",
       "members": {
         "members": [
           "speech2text",
@@ -173,6 +201,7 @@
       "color": "#2c7fb8",
       "borderColor": "",
       "isConnector": false,
+      "textColor": "#ffffff",
       "members": {
         "members": [
           "languageunderstanding",
@@ -189,6 +218,7 @@
       "color": "#41b6c4",
       "borderColor": "",
       "isConnector": false,
+      "textColor": "#ffffff",
       "members": {
         "members": [
           "computervision",
@@ -205,6 +235,7 @@
       "color": "#3fa862",
       "borderColor": "",
       "isConnector": false,
+      "textColor": "#ffffff",
       "members": {
         "members": [
           "bingsearchapis",
@@ -219,14 +250,16 @@
       "title": "Labs",
       "color": "#00a1f1",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": "#ffffff"
     },
     {
       "key": "speechservices",
       "title": "Speech Services",
       "color": "#DD6C6E",
       "borderColor": "",
-      "isConnector": false
+      "isConnector": false,
+      "textColor": "#ffffff"
     }
   ],
   "grid": [
@@ -242,7 +275,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -255,7 +289,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -268,7 +303,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -281,7 +317,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -294,7 +331,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -307,7 +345,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -320,7 +359,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       }
     ],
     [
@@ -335,7 +375,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": "bingsearchapis",
@@ -350,6 +391,7 @@
           "color": "#3fa862",
           "borderColor": "",
           "isConnector": false,
+          "textColor": "#ffffff",
           "members": {
             "members": [
               "bingsearchapis",
@@ -365,7 +407,7 @@
           "title": "Bing Search APIs",
           "color": "#3fa862",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Cat_Search.png",
-          "inShort": "Search services to find exactly what you need",
+          "inShort": "Use search services to find exactly what youâre looking",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -376,14 +418,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#3fa862"
       },
       {
         "key": "bingautosuggest",
@@ -395,11 +443,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -408,7 +461,7 @@
           "title": "Bing Autosuggest",
           "color": "#3fa862",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Autosuggest.png",
-          "inShort": "Type less and do more",
+          "inShort": "Empower users to type less and do more",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -419,14 +472,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#3fa862"
       },
       {
         "key": "bingentitysearch",
@@ -438,11 +497,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -451,7 +515,7 @@
           "title": "Bing Entity Search",
           "color": "#3fa862",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Entity_Search.png",
-          "inShort": "Rich context about people, places, & things in your apps",
+          "inShort": "Bring rich context about people, places and othersÂ to your apps",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -462,14 +526,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#3fa862"
       },
       {
         "key": "bingcustomsearch",
@@ -481,11 +551,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -494,7 +569,7 @@
           "title": "Bing Custom Search",
           "color": "#3fa862",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Custom_Search.png",
-          "inShort": "Easy-to-use search tool that delivers the results you want",
+          "inShort": "An easy-to-use search tool that lets you deliver the results you want",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -503,7 +578,8 @@
           "contentRef": ""
         },
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#3fa862"
       },
       {
         "key": "qnamaker",
@@ -516,10 +592,10 @@
         "topData": null,
         "centerData": {
           "key": "qnamaker",
-          "title": "QnA Maker",
-          "color": "#5ac97f",
+          "title": "QnAMaker",
+          "color": "#0063B1",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Knowledge/QnAMaker.png",
-          "inShort": "Build robust FAQs & conversations in minutes",
+          "inShort": "Distill information into an easy-to-navigate FAQ",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -530,16 +606,18 @@
         "rightData": {
           "key": "knowledge",
           "title": "Knowledge",
-          "color": "#5ac97f",
+          "color": "#0063B1",
           "borderColor": "",
           "isConnector": false,
+          "textColor": "#ffffff",
           "members": {
             "members": [
               "qnamaker"
             ]
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -552,7 +630,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       }
     ],
     [
@@ -567,7 +646,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": "computervision",
@@ -582,6 +662,7 @@
           "color": "#41b6c4",
           "borderColor": "",
           "isConnector": false,
+          "textColor": "#ffffff",
           "members": {
             "members": [
               "computervision",
@@ -598,7 +679,7 @@
           "title": "Computer Vision",
           "color": "#41b6c4",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Computer_Vision.png",
-          "inShort": "Process images to extract rich information",
+          "inShort": "Extract rich information from images to process visual data",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -609,14 +690,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#41b6c4"
       },
       {
         "key": "face",
@@ -628,11 +715,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -652,14 +744,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#41b6c4"
       },
       {
         "key": "contentmoderator",
@@ -671,11 +769,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -684,7 +787,7 @@
           "title": "Content Moderator",
           "color": "#41b6c4",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
-          "inShort": "Machine-assisted image content moderation",
+          "inShort": "Machine-assisted content moderation APIs",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -695,14 +798,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#41b6c4"
       },
       {
         "key": "videoindexer",
@@ -714,11 +823,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -738,14 +852,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#41b6c4"
       },
       {
         "key": "customvision",
@@ -757,11 +877,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -770,16 +895,17 @@
           "title": "Custom Vision",
           "color": "#41b6c4",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Custom_Vision.png",
-          "inShort": "Gain visual intelligence on any image",
+          "inShort": "Visual Intelligence made easy",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/",
-          "subtitle": "Preview",
+          "subtitle": "(Preview)",
           "contentRef": ""
         },
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#41b6c4"
       },
       {
         "key": null,
@@ -792,7 +918,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       }
     ],
     [
@@ -807,7 +934,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": "languageunderstanding",
@@ -822,6 +950,7 @@
           "color": "#2c7fb8",
           "borderColor": "",
           "isConnector": false,
+          "textColor": "#ffffff",
           "members": {
             "members": [
               "languageunderstanding",
@@ -849,14 +978,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#2c7fb8"
       },
       {
         "key": "bingspellcheck",
@@ -868,11 +1003,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -881,7 +1021,7 @@
           "title": "Bing Spell Check",
           "color": "#2c7fb8",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Bing_Spell_Check.png",
-          "inShort": "Built-in spell check for everyone",
+          "inShort": "Help users correct spelling errors",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -892,14 +1032,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#2c7fb8"
       },
       {
         "key": "translatortext",
@@ -911,20 +1057,25 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
         "centerData": {
           "key": "translatortext",
-          "title": "Text Translation",
+          "title": "Translator Text",
           "color": "#2c7fb8",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Translator_Text.png",
-          "inShort": "Built-in, real-time text translation",
+          "inShort": "Easily conduct real-time text translation",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -935,14 +1086,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#2c7fb8"
       },
       {
         "key": "textanalytics",
@@ -954,11 +1111,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -967,7 +1129,7 @@
           "title": "Text Analytics",
           "color": "#2c7fb8",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Text_Analytics.png",
-          "inShort": "Detect sentiment, key phrases, and language",
+          "inShort": "Detect sentiment, key phrases, and language from your text",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -978,14 +1140,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#2c7fb8"
       },
       {
         "key": "contentmoderatorlang",
@@ -997,11 +1165,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -1010,7 +1183,7 @@
           "title": "Content Moderator",
           "color": "#2c7fb8",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
-          "inShort": "Machine-assisted text content moderation",
+          "inShort": "Machine-assisted content moderation APIs",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -1019,7 +1192,8 @@
           "contentRef": ""
         },
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#2c7fb8"
       },
       {
         "key": null,
@@ -1032,7 +1206,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       }
     ],
     [
@@ -1047,7 +1222,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": "speech2text",
@@ -1062,6 +1238,7 @@
           "color": "#253494",
           "borderColor": "",
           "isConnector": false,
+          "textColor": "#ffffff",
           "members": {
             "members": [
               "speech2text",
@@ -1077,7 +1254,7 @@
           "title": "Speech to Text",
           "color": "#253494",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_To_Text.png",
-          "inShort": "Real-time audio-to-text conversion",
+          "inShort": "Swiftly convert audio to text for natural responsiveness",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -1088,14 +1265,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#253494"
       },
       {
         "key": "text2speech",
@@ -1107,11 +1290,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -1120,7 +1308,7 @@
           "title": "Text to Speech",
           "color": "#253494",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Text_To_Speech.png",
-          "inShort": "Real-time text-to-audio conversion",
+          "inShort": "Convert text to speech to create more natural, accessible interfaces",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -1131,14 +1319,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#253494"
       },
       {
         "key": "speechtranslation",
@@ -1150,11 +1344,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -1163,7 +1362,7 @@
           "title": "Speech Translation",
           "color": "#253494",
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_Translation.png",
-          "inShort": "Real-time speech translation",
+          "inShort": "Easily integrate real-time speech translation to your app",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -1174,14 +1373,20 @@
         "rightData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#253494"
       },
       {
         "key": "speakerrecognition",
@@ -1193,11 +1398,16 @@
         "leftData": {
           "key": ">",
           "title": ">",
-          "color": "",
+          "color": "#253494",
           "borderColor": "",
           "isConnector": true,
+          "textColor": "",
           "members": {
             "members": []
+          },
+          "colorMatch": {
+            "c": "#253494",
+            "index": 3
           }
         },
         "topData": null,
@@ -1208,14 +1418,15 @@
           "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speaker_Recognition.png",
           "inShort": "Identify individual speakers",
           "isFullyShareable": "",
-          "isPartlyShareable": 1,
+          "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/",
-          "subtitle": "Preview",
+          "subtitle": "(Preview)",
           "contentRef": ""
         },
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#253494"
       },
       {
         "key": "cloudguy",
@@ -1228,10 +1439,10 @@
         "topData": null,
         "centerData": {
           "key": "cloudguy",
-          "title": "By Stephan Bisser",
+          "title": "Content by Stephan Bisser",
           "color": "#5099d8",
           "icon": "https://cloudguy.blob.core.windows.net/resources/cloudguy.png",
-          "inShort": "More at www.cloudguy.pro",
+          "inShort": "Visit www.cloudguy.pro for more...",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
@@ -1240,7 +1451,8 @@
           "contentRef": ""
         },
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       },
       {
         "key": null,
@@ -1253,7 +1465,8 @@
         "topData": null,
         "centerData": null,
         "rightData": null,
-        "bottomData": null
+        "bottomData": null,
+        "connectorColor": "#ffffff"
       }
     ]
   ],
@@ -1276,7 +1489,7 @@
       "title": "Computer Vision",
       "color": "#41b6c4",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Computer_Vision.png",
-      "inShort": "Process images to extract rich information",
+      "inShort": "Extract rich information from images to process visual data",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1302,7 +1515,7 @@
       "title": "Content Moderator",
       "color": "#41b6c4",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
-      "inShort": "Machine-assisted image content moderation",
+      "inShort": "Machine-assisted content moderation APIs",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1328,12 +1541,12 @@
       "title": "Custom Vision",
       "color": "#41b6c4",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Custom_Vision.png",
-      "inShort": "Gain visual intelligence on any image",
+      "inShort": "Visual Intelligence made easy",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
       "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/",
-      "subtitle": "Preview",
+      "subtitle": "(Preview)",
       "contentRef": ""
     },
     {
@@ -1351,10 +1564,10 @@
     },
     {
       "key": "qnamaker",
-      "title": "QnA Maker",
-      "color": "#5ac97f",
+      "title": "QnAMaker",
+      "color": "#0063B1",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Knowledge/QnAMaker.png",
-      "inShort": "Build robust FAQs & conversations in minutes",
+      "inShort": "Distill information into an easy-to-navigate FAQ",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1393,7 +1606,7 @@
       "title": "Speech to Text",
       "color": "#253494",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_To_Text.png",
-      "inShort": "Real-time audio-to-text conversion",
+      "inShort": "Swiftly convert audio to text for natural responsiveness",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1406,7 +1619,7 @@
       "title": "Speech Translation",
       "color": "#253494",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speech_Translation.png",
-      "inShort": "Real-time speech translation",
+      "inShort": "Easily integrate real-time speech translation to your app",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1419,7 +1632,7 @@
       "title": "Text to Speech",
       "color": "#253494",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Text_To_Speech.png",
-      "inShort": "Real-time text-to-audio conversion",
+      "inShort": "Convert text to speech to create more natural, accessible interfaces",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1434,10 +1647,10 @@
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Speech/Speaker_Recognition.png",
       "inShort": "Identify individual speakers",
       "isFullyShareable": "",
-      "isPartlyShareable": 1,
+      "isPartlyShareable": "",
       "isPremium": "",
       "jumpto": "https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/",
-      "subtitle": "Preview",
+      "subtitle": "(Preview)",
       "contentRef": ""
     },
     {
@@ -1471,7 +1684,7 @@
       "title": "Bing Spell Check",
       "color": "#2c7fb8",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Bing_Spell_Check.png",
-      "inShort": "Built-in spell check for everyone",
+      "inShort": "Help users correct spelling errors",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1481,10 +1694,10 @@
     },
     {
       "key": "translatortext",
-      "title": "Text Translation",
+      "title": "Translator Text",
       "color": "#2c7fb8",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Translator_Text.png",
-      "inShort": "Built-in, real-time text translation",
+      "inShort": "Easily conduct real-time text translation",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1497,7 +1710,7 @@
       "title": "Text Analytics",
       "color": "#2c7fb8",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Language/Text_Analytics.png",
-      "inShort": "Detect sentiment, key phrases, and language",
+      "inShort": "Detect sentiment, key phrases, and language from your text",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1510,7 +1723,7 @@
       "title": "Content Moderator",
       "color": "#2c7fb8",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Vision/Content_Moderator.png",
-      "inShort": "Machine-assisted text content moderation",
+      "inShort": "Machine-assisted content moderation APIs",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1562,7 +1775,7 @@
       "title": "Bing Custom Search",
       "color": "#3fa862",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Custom_Search.png",
-      "inShort": "Easy-to-use search tool that delivers the results you want",
+      "inShort": "An easy-to-use search tool that lets you deliver the results you want",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1575,7 +1788,7 @@
       "title": "Bing Entity Search",
       "color": "#3fa862",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Entity_Search.png",
-      "inShort": "Rich context about people, places, & things in your apps",
+      "inShort": "Bring rich context about people, places and othersÂ to your apps",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1601,7 +1814,7 @@
       "title": "Bing Search APIs",
       "color": "#3fa862",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Cat_Search.png",
-      "inShort": "Search services to find exactly what you need",
+      "inShort": "Use search services to find exactly what youâre looking",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1614,7 +1827,7 @@
       "title": "Bing Autosuggest",
       "color": "#3fa862",
       "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Autosuggest.png",
-      "inShort": "Type less and do more",
+      "inShort": "Empower users to type less and do more",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
@@ -1650,10 +1863,10 @@
     },
     {
       "key": "cloudguy",
-      "title": "By Stephan Bisser",
+      "title": "Content by Stephan Bisser",
       "color": "#5099d8",
       "icon": "https://cloudguy.blob.core.windows.net/resources/cloudguy.png",
-      "inShort": "More at www.cloudguy.pro",
+      "inShort": "Visit www.cloudguy.pro for more...",
       "isFullyShareable": "",
       "isPartlyShareable": "",
       "isPremium": "",
