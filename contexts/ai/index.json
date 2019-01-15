@@ -1,6 +1,8 @@
 {
   "title": "of Office365",
   "settings": {
+    "teaser" : "Entrypoint to your modern workspace",
+    "hidezoneinfo": true,
     "titlegraphics": "https://jumpto365.com/resources/images/CogServicesTitle.png",
     "tileactiontype": "externallink",
     "byline":"Developed by Stephan Bisser - www.cloudguy.pro"
