@@ -2,7 +2,8 @@
   "title": "of Office365",
   "settings": {
     "titlegraphics": "https://jumpto365.com/resources/images/CogServicesTitle.png",
-    "tileactiontype": "externallink"
+    "tileactiontype": "externallink",
+    "byline":"Developed by Stephan Bisser - www.cloudguy.pro"
   },
   "color": "#256FB0",
   "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
