@@ -345,6 +345,7 @@
         "Enterprise E3",
         "Enterprise E5",
         "Enterprise F1",
+        "Business Premium",
         "Edu A1",
         "Edu A3",
         "Edu A5"
@@ -357,7 +358,7 @@
       "no": [
         "Business Essentials",
         "Business",
-        "Business Premium",
+        
         "US Gov F1"
       ]
     },
