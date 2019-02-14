@@ -32,6 +32,9 @@ Resources
 -   [Yammer Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=yammer)
     \[Microsoft\]
 
+-   [Which Tool When: Yammer or MicrosoftTeams?](https://jum.to/TeamsOrYammer)
+    \[Matt Wade\]
+
 -   [Yammer Admin Help](https://docs.microsoft.com/en-us/yammer/yammer-landing-page)
     \[Microsoft\]
     
