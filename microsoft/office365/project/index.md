@@ -34,6 +34,9 @@ Resources
 
 -   [Project Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=project)
     \[Microsoft\]
+    
+-   [Which Tool When: Microsoft Project or Office Planner?](https://jum.to/ProjectOrPlanner)
+    \[Matt Wade\]
 
 
 Similar applications
