@@ -37,6 +37,12 @@ Resources
 -   [Everyday Etiquette in Microsoft Teams](https://jum.to/TeamsEtiquette)
     \[Matt Wade\]
 
+-   [Which Tool When: Microsoft Teams or Outlook?](https://jum.to/OutlookOrTeams)
+    \[Matt Wade\]
+    
+-   [Which Tool When: Microsoft Teams or Yammer?](https://jum.to/TeamsOrYammer)
+    \[Matt Wade\]
+
 -   [Microsoft Teams Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=teams)
     \[Microsoft\]
 
