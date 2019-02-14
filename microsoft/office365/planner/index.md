@@ -26,6 +26,9 @@ Resources
 
 -   [Getting started with Microsoft Planner](https://support.office.com/en-us/article/Microsoft-Planner-help-4a9a13c6-3adf-4a60-a6fc-15c0b15e16fc?ui=en-US&rs=en-US&ad=US)
     \[Microsoft\]
+
+-   [Which Tool When: Planner or Microsoft Project?](https://jum.to/ProjectOrPlanner)
+    \[Matt Wade\]
     
 -   [Agile project management with Planner](https://sharepointmaven.com/how-to-use-microsoft-planner-for-agile-and-scrum-projects/)
     \[SharePoint Maven\]
