@@ -52,7 +52,7 @@ Resources
 -   [Skype for Business-to-Microsoft Teams Roadmap](https://skypeandteams.blob.core.windows.net/artefacts/Skype%20for%20Business%20to%20Teams%20Capabilities%20Roadmap.pdf)
     \[Microsoft\] 
 
--   [StaffHub \'Shifts\' features move to Microsoft Teams](https://digital.withum.com/blog/shifts-in-microsoft-teams-what-you-need-to-know)
+-   [StaffHub 'Shifts' features move to Microsoft Teams](https://digital.withum.com/blog/shifts-in-microsoft-teams-what-you-need-to-know)
     \[Melissa Hubbard, MVP\] 
 
 Similar applications
