@@ -1,0 +1,1923 @@
+{
+    "title": "",
+    "version": 1,
+    "references": [],
+    "nextId": 100,
+    "grid": [
+      [
+        {
+          "id": 2
+        },
+        {
+          "id": 92
+        },
+        {
+          "id": 3,
+          "type": "left"
+        },
+        {
+          "id": 4,
+          "type": "left"
+        },
+        {
+          "id": 5,
+          "type": "left"
+        },
+        {
+          "id": 6,
+          "type": "left"
+        },
+        {
+          "id": 7,
+          "type": "left"
+        },
+        {
+          "id": 8,
+          "type": "left"
+        },
+        {
+          "id": 9,
+          "type": "left"
+        },
+        {
+          "id": 10,
+          "type": "full"
+        },
+        {
+          "id": 11,
+          "type": "right"
+        },
+        {
+          "id": 12,
+          "type": "right"
+        },
+        {
+          "id": 84
+        }
+      ],
+      [
+        {
+          "id": 12,
+          "type": "right"
+        },
+        {
+          "id": 93,
+          "type": "left",
+          "groupSetting": {
+            "title": "Security Control & Documentation",
+            "key": "unknown",
+            "color": "#9cddf2",
+            "textColor": "#000000"
+          },
+          "members": [
+            13,
+            14,
+            15
+          ],
+          "connectors": {
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 13,
+          "type": "full",
+          "tile": {
+            "key": "scc",
+            "title": "Microsoft 365 Security Center",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Centrally manage security controls & enforce policies",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-security-and-compliance#microsoft-365-security-center",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/scc/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/scc/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/scc"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 14,
+          "type": "full",
+          "tile": {
+            "key": "mcc",
+            "title": "Microsoft 365 Compliance Center",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Centrally manage & monitor for regulatory compliance",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-security-and-compliance#microsoft-365-compliance-center",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcc/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcc/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mcc"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 15,
+          "type": "full",
+          "tile": {
+            "key": "servassur",
+            "title": "Service Assurance",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Whitepapers, reports & resources for security, privacy & compliance",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/service-assurance",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/servassur/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/servassur/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/servassur"
+          },
+          "connectors": {
+            "left": "#9cddf2"
+          }
+        },
+        {
+          "id": 16,
+          "type": "spacer"
+        },
+        {
+          "id": 17,
+          "type": "title"
+        },
+        {
+          "id": 18,
+          "type": "none"
+        },
+        {
+          "id": 19,
+          "type": "spacer"
+        },
+        {
+          "id": 20,
+          "type": "spacer"
+        },
+        {
+          "id": 21,
+          "type": "full",
+          "tile": {
+            "key": "secstore",
+            "title": "Secure Store",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Assess security gaps & improve security posture over time ",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-secure-score",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/secstore/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/secstore/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/secstore"
+          },
+          "connectors": {
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 22,
+          "type": "full",
+          "tile": {
+            "key": "compmgr",
+            "title": "Compliance Manager",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Audit and assess compliance with regulatory standards (GDPR, NIST, ISO)",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/meet-data-protection-and-regulatory-reqs-using-microsoft-cloud",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/compmgr/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/compmgr/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/compmgr"
+          },
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 85,
+          "type": "right",
+          "groupSetting": {
+            "title": "Security Assessment",
+            "key": "unknown",
+            "color": "#5dc7c1",
+            "textColor": "#000000"
+          },
+          "members": [
+            22,
+            21
+          ],
+          "connectors": {
+            "left": "#5dc7c1"
+          }
+        }
+      ],
+      [
+        {
+          "id": 22,
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          },
+          "type": "full"
+        },
+        {
+          "id": 94,
+          "type": "left",
+          "groupSetting": {
+            "title": "Information Protection",
+            "key": "unknown",
+            "color": "#aae29f",
+            "textColor": "#000000"
+          },
+          "members": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "connectors": {
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 23,
+          "type": "full",
+          "tile": {
+            "key": "mip",
+            "title": "Microsoft Information Protection (MIP)",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Enforce sensitivity labels & protection on documents",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mip/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mip/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mip"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 24,
+          "type": "full",
+          "tile": {
+            "key": "odlp",
+            "title": "Office 365 Data Loss Prevention",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Identify & protect sensitive data types",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/odlp/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/odlp/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/odlp"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 25,
+          "type": "full",
+          "tile": {
+            "key": "esc",
+            "title": "External Sharing Controls",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Control how content is shared with guests",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/esc/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/esc/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/esc"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 26,
+          "type": "full",
+          "tile": {
+            "key": "o365gm",
+            "title": "Office 365 Group Management",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Control & govern group creation, naming & expiration",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/admin/create-groups/plan-for-groups-governance?view=o365-worldwide",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365gm/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365gm/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365gm"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 27,
+          "type": "full",
+          "tile": {
+            "key": "trustc",
+            "title": "Trust Center",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Learn how Microsoft secures your data, protects privacy & complies with regulations",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://products.office.com/en-ca/business/office-365-trust-center-welcome",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/trustc/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/trustc/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/trustc"
+          },
+          "connectors": {
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 28,
+          "type": "spacer"
+        },
+        {
+          "id": 29,
+          "type": "spacer"
+        },
+        {
+          "id": 30,
+          "type": "full",
+          "tile": {
+            "key": "sacp",
+            "title": "Site Access Control Policies",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Control access to SharePoint sites by device or network location",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/sharepoint/control-access-based-on-network-location",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/sacp/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/sacp/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/sacp"
+          },
+          "connectors": {
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 31,
+          "type": "full",
+          "tile": {
+            "key": "aadca",
+            "title": "AAD Conditional Access",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Enforce automated access control decisions for accessing cloud apps",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadca/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadca/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aadca"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 32,
+          "type": "full",
+          "tile": {
+            "key": "intune",
+            "title": "Microsoft Intune",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Enforce flexible mobile device and app management controls",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/intune/what-is-intune",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/intune/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/intune/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/intune"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 86,
+          "type": "right",
+          "groupSetting": {
+            "title": "Access Control & Device Management",
+            "key": "unknown",
+            "color": "#b2b3e2",
+            "textColor": "#000000"
+          },
+          "members": [
+            31,
+            30,
+            32
+          ],
+          "connectors": {
+            "left": "#b2b3e2"
+          }
+        }
+      ],
+      [
+        {
+          "id": 32,
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 95,
+          "type": "left",
+          "groupSetting": {
+            "title": "Authentication",
+            "key": "unknown",
+            "color": "#9cddf2",
+            "textColor": "#000000"
+          },
+          "members": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "connectors": {
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 33,
+          "type": "full",
+          "tile": {
+            "key": "aadcps",
+            "title": "AAD Connect with Password Sync",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Securely sync on-prem AD accounts to Azure AD with password hashes",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-whatis",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcps/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcps/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aadcps"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 34,
+          "type": "full",
+          "tile": {
+            "key": "mfa",
+            "title": "Multi-Factor Authentication (MFA)",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Require additional verification to login",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/admin/security-and-compliance/multi-factor-authentication-plan?redirectSourcePath=%252farticle%252fPlan-for-multi-factor-authentication-for-Office-365-Deployments-043807b2-21db-4d5c-b430-c8a6dee0e6ba&view=o365-worldwide",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mfa/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mfa/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mfa"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 35,
+          "type": "full",
+          "tile": {
+            "key": "modauth",
+            "title": "Modern Authentication",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Standard login experience across all apps & services",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/enterprise/hybrid-modern-auth-overview#what-is-modern-authentication",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/modauth/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/modauth/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/modauth"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 36,
+          "type": "full",
+          "tile": {
+            "key": "pwdlslogin",
+            "title": "Password-less Login",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Sign in without passwords to AAD connected apps",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://cloudblogs.microsoft.com/microsoftsecure/2018/05/01/building-a-world-without-passwords/",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/pwdlslogin/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/pwdlslogin/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/pwdlslogin"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 37,
+          "type": "full",
+          "tile": {
+            "key": "fedauth",
+            "title": "Federated Authentication",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Authenticate cloud apps to on-prem AD via ADFS, PTA or Seamless SSO",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/enterprise/about-office-365-identity",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/fedauth/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/fedauth/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/fedauth"
+          },
+          "connectors": {
+            "left": "#9cddf2"
+          }
+        },
+        {
+          "id": 38,
+          "type": "full",
+          "tile": {
+            "key": "o365me",
+            "title": "Office 365 Message Encryption",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Email content securely inside & outside the org",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/ome",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365me/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365me/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365me"
+          },
+          "connectors": {
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 39,
+          "type": "full",
+          "tile": {
+            "key": "eop",
+            "title": "Exchange Online Protection (EOP)",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Protection from spam & malware",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/eop/exchange-online-protection-overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/eop/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/eop/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/eop"
+          },
+          "connectors": {
+            "right": "#aae29f",
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 40,
+          "type": "full",
+          "tile": {
+            "key": "o365atp",
+            "title": "Office 365 Advanced Threat Protection (ATP)",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Protect against zero-day attacks",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-atp",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365atp/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365atp/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365atp"
+          },
+          "connectors": {
+            "right": "#aae29f",
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 41,
+          "type": "full",
+          "tile": {
+            "key": "tmrtr",
+            "title": "Threat Management & Real-Time Reports",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Protect email & gather insights on attacks",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/threat-management",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/tmrtr/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/tmrtr/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/tmrtr"
+          },
+          "connectors": {
+            "right": "#aae29f",
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 42,
+          "type": "full",
+          "tile": {
+            "key": "mfimt",
+            "title": "Mail Flow Insights & Message Trace",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Message tracking to improve email protection",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/message-trace-scc",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mfimt/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mfimt/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mfimt"
+          },
+          "connectors": {
+            "right": "#aae29f",
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 87,
+          "type": "right",
+          "groupSetting": {
+            "title": "Email Protection",
+            "key": "unknown",
+            "color": "#aae29f",
+            "textColor": "#000000"
+          },
+          "members": [
+            42,
+            41,
+            38,
+            40,
+            39
+          ],
+          "connectors": {
+            "left": "#aae29f"
+          }
+        }
+      ],
+      [
+        {
+          "id": 42,
+          "connectors": {
+            "right": "#aae29f",
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 96,
+          "type": "left",
+          "groupSetting": {
+            "title": "Data Governance",
+            "key": "unknown",
+            "color": "#5dc7c1",
+            "textColor": "#000000"
+          },
+          "members": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "connectors": {
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 43,
+          "type": "full",
+          "tile": {
+            "key": "o365ld",
+            "title": "Office 365 Labels, Retention & Disposition",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Manage records with retention labels, retention policies & disposition",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/labels",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ld/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ld/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365ld"
+          },
+          "connectors": {
+            "right": "#5dc7c1",
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 44,
+          "type": "full",
+          "tile": {
+            "key": "spclass",
+            "title": "SharePoint Classification",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Apply sensitivity labels to sites",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/modern-experience-site-classification",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/spclass/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/spclass/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/spclass"
+          },
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 45,
+          "type": "full",
+          "tile": {
+            "key": "ebr",
+            "title": "Event-Based Retention",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Enforce data retention policies based on events",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/event-driven-retention",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ebr/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ebr/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/ebr"
+          },
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 46,
+          "type": "full",
+          "tile": {
+            "key": "adg",
+            "title": "Advanced Data Governance (ADG)",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Automatic retention labels & governance risk identification",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/labels#applying-a-retention-label-automatically-based-on-conditions",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/adg/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/adg/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/adg"
+          },
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 47,
+          "type": "full",
+          "tile": {
+            "key": "labala",
+            "title": "Label Analytics",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Track label usage to gain insights to how data is being protected",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/view-label-activity-for-documents",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/labala/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/labala/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/labala"
+          },
+          "connectors": {
+            "left": "#5dc7c1",
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 48,
+          "type": "full",
+          "tile": {
+            "key": "superv",
+            "title": "Supervision",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Capture and review communications for groups or users",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/configure-supervision-policies",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/superv/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/superv/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/superv"
+          },
+          "connectors": {
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 49,
+          "type": "full",
+          "tile": {
+            "key": "cbound",
+            "title": "Compliance Boundaries",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Divide a tenant by geographic or compliance boundaries for eDiscovery",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-compliance-boundaries",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/cbound/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/cbound/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/cbound"
+          },
+          "connectors": {
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 50,
+          "type": "full",
+          "tile": {
+            "key": "gdprdsr",
+            "title": "GDPR Data Subject Request (DSR) & Dashboard",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Manage DSRs to help comply with GDPR",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/gdprdsr/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/gdprdsr/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/gdprdsr"
+          },
+          "connectors": {
+            "right": "#b2b3e2",
+            "left": "#b2b3e2"
+          }
+        },
+        {
+          "id": 51,
+          "type": "full",
+          "tile": {
+            "key": "csed",
+            "title": "eDiscovery, Content Search & Legal Holds",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Compliance, legal discovery & holds in Office 365",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/csed/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/csed/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/csed"
+          },
+          "connectors": {
+            "right": "#b2b3e2",
+            "left": "#b2b3e2"
+          }
+        },
+        {
+          "id": 52,
+          "type": "full",
+          "tile": {
+            "key": "aedisc",
+            "title": "Advanced eDiscovery",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Analyze data, perform document review & reduce data for eDiscovery",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-advanced-ediscovery",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aedisc/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aedisc/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aedisc"
+          },
+          "connectors": {
+            "right": "#b2b3e2",
+            "left": "#b2b3e2"
+          }
+        },
+        {
+          "id": 88,
+          "type": "right",
+          "groupSetting": {
+            "title": "Legal & Compliance",
+            "key": "unknown",
+            "color": "#b2b3e2",
+            "textColor": "#000000"
+          },
+          "members": [
+            52,
+            51,
+            50,
+            49
+          ],
+          "connectors": {
+            "left": "#b2b3e2"
+          }
+        }
+      ],
+      [
+        {
+          "id": 52,
+          "connectors": {
+            "right": "#b2b3e2",
+            "left": "#b2b3e2"
+          }
+        },
+        {
+          "id": 97,
+          "type": "left",
+          "groupSetting": {
+            "title": "Security Monitoring & Incident Response",
+            "key": "unknown",
+            "color": "#aae29f",
+            "textColor": "#000000"
+          },
+          "members": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "connectors": {
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 53,
+          "type": "full",
+          "tile": {
+            "key": "ual",
+            "title": "Unified Audit Logs",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Centralized & searchable Office 365 audit logs",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ual/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ual/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/ual"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 54,
+          "type": "full",
+          "tile": {
+            "key": "eaml",
+            "title": "Exchange Admin & Mailbox Logs",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Capture & view Exchange admin & mailbox logs",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/exchange/security-and-compliance/exchange-auditing-reports/exchange-auditing-reports",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/eaml/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/eaml/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/eaml"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 55,
+          "type": "full",
+          "tile": {
+            "key": "o365ap",
+            "title": "Office 365 Alert Policies",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Get notified of user & admin activities",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/alert-policies",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ap/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ap/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365ap"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 56,
+          "type": "full",
+          "tile": {
+            "key": "aadsr",
+            "title": "AAD Security Reports",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Track and monitor user activities and sign ins",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/overview-reports",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadsr/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadsr/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aadsr"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 57,
+          "type": "full",
+          "tile": {
+            "key": "o365cas",
+            "title": "Office 365 Cloud App Security",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Automatically monitor user behaviour & integrate heuristics",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-cas-overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365cas/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365cas/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365cas"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 58,
+          "type": "full",
+          "tile": {
+            "key": "aadcad",
+            "title": "AAD Cloud App Discovery",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Identify shadow IT & monitor cloud apps",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/set-up-cloud-discovery",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcad/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcad/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aadcad"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 59,
+          "type": "full",
+          "tile": {
+            "key": "mcap",
+            "title": "Microsoft Cloud App Security",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "O365 Cloud App security & Cloud App Discovery + risk assessment tools",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcap/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcap/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mcap"
+          },
+          "connectors": {
+            "left": "#aae29f",
+            "right": "#aae29f"
+          }
+        },
+        {
+          "id": 60,
+          "type": "full",
+          "tile": {
+            "key": "oms",
+            "title": "Azure Monitor",
+            "color": "#aae29f",
+            "icon": "",
+            "inShort": "Aggregate & analyse cloud & on-prem system logs + events",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/oms/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/oms/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/oms"
+          },
+          "connectors": {
+            "left": "#aae29f"
+          }
+        },
+        {
+          "id": 61,
+          "type": "full",
+          "tile": {
+            "key": "wd",
+            "title": "Windows Defender Antivirus",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Advanced antivirus capabilities built into Windows",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/windows-defender-antivirus-in-windows-10",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/wd/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/wd/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/wd"
+          },
+          "connectors": {
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 62,
+          "type": "full",
+          "tile": {
+            "key": "datp",
+            "title": "Defender Advanced Threat Protection",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Protection, detection, investigation & response to threats",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/datp/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/datp/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/datp"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 89,
+          "type": "right",
+          "groupSetting": {
+            "title": "Desktop Protection",
+            "key": "unknown",
+            "color": "#9cddf2",
+            "textColor": "#000000"
+          },
+          "members": [
+            62,
+            61
+          ],
+          "connectors": {
+            "left": "#9cddf2"
+          }
+        }
+      ],
+      [
+        {
+          "id": 62,
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 98,
+          "type": "left",
+          "groupSetting": {
+            "title": "Modern Thread Protection",
+            "key": "unknown",
+            "color": "#9cddf2",
+            "textColor": "#000000"
+          },
+          "members": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+          ],
+          "connectors": {
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 63,
+          "type": "full",
+          "tile": {
+            "key": "filerestore",
+            "title": "OneDrive File Restore",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Recover files in OneDrive from ransomware attacks",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://support.office.com/en-us/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/filerestore/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/filerestore/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/filerestore"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 64,
+          "type": "full",
+          "tile": {
+            "key": "o365as",
+            "title": "Office 365 Attack Simulator",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Test security posture with realistic attack scenarios",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/attack-simulator",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365as/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365as/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365as"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 65,
+          "type": "full",
+          "tile": {
+            "key": "aadip",
+            "title": "AAD Identity Protection",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Protect against suspicious logins & compromised accounts",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadip/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadip/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/aadip"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 66,
+          "type": "full",
+          "tile": {
+            "key": "pim",
+            "title": "Privileged Identity Management (PIM)",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Manage privileged identities & enforce just-in-time admin access",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/pim/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/pim/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/pim"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 67,
+          "type": "full",
+          "tile": {
+            "key": "ata",
+            "title": "Advanced Threat Analytics (ATA)",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Protect on-prem systems against suspicious activity",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/advanced-threat-analytics/",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ata/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ata/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/ata"
+          },
+          "connectors": {
+            "left": "#9cddf2",
+            "right": "#9cddf2"
+          }
+        },
+        {
+          "id": 68,
+          "type": "full",
+          "tile": {
+            "key": "o365ti",
+            "title": "Office 365 Threat Intelligence",
+            "color": "#9cddf2",
+            "icon": "",
+            "inShort": "Gain insights to help protect end users from attack",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-ti",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ti/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ti/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/o365ti"
+          },
+          "connectors": {
+            "left": "#9cddf2"
+          }
+        },
+        {
+          "id": 69,
+          "type": "full",
+          "tile": {
+            "key": "mgeo",
+            "title": "Multi-Geo",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Meet data residency requirements across multiple geographies",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mgeo/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mgeo/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/mgeo"
+          },
+          "connectors": {
+            "right": "#5dc7c1"
+          }
+        },
+        {
+          "id": 70,
+          "type": "full",
+          "tile": {
+            "key": "ckey",
+            "title": "Customer Key",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Control your keys in Azure Key Vault to encrypt all SPO & ODFB files at rest",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ckey/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ckey/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/ckey"
+          },
+          "connectors": {
+            "right": "#5dc7c1",
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 71,
+          "type": "full",
+          "tile": {
+            "key": "byok",
+            "title": "Bring Your Own Key",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Control your keys in Azure Key Vault to encrypt organizational data using MIP",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/information-protection/plan-implement-tenant-key#implementing-byok-for-your-azure-information-protection-tenant-key",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/byok/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/byok/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/byok"
+          },
+          "connectors": {
+            "right": "#5dc7c1",
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 72,
+          "type": "full",
+          "tile": {
+            "key": "hyok",
+            "title": "Hold Your Own Key",
+            "color": "#5dc7c1",
+            "icon": "",
+            "inShort": "Store & control keys on premise to encrypt data using MIP",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/azure/information-protection/configure-adrms-restrictions",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/hyok/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/hyok/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/hyok"
+          },
+          "connectors": {
+            "right": "#5dc7c1",
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 90,
+          "type": "right",
+          "groupSetting": {
+            "title": "Advanced Security & Compliance",
+            "key": "unknown",
+            "color": "#5dc7c1",
+            "textColor": "#000000"
+          },
+          "members": [
+            70,
+            71,
+            72,
+            69
+          ],
+          "connectors": {
+            "left": "#5dc7c1"
+          }
+        }
+      ],
+      [
+        {
+          "id": 72,
+          "connectors": {
+            "right": "#5dc7c1",
+            "left": "#5dc7c1"
+          }
+        },
+        {
+          "id": 99,
+          "type": "left",
+          "groupSetting": {
+            "title": "Built-In Protections",
+            "key": "unknown",
+            "color": "#b2b3e2",
+            "textColor": "#000000"
+          },
+          "members": [
+            75,
+            76,
+            78,
+            74,
+            73,
+            77,
+            79
+          ],
+          "connectors": {
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 73,
+          "type": "full",
+          "tile": {
+            "key": "edar",
+            "title": "Encrypted Data at Rest",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Office 365 data encryption through Bitlocker & file encryption",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-service-encryption",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/edar/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/edar/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/edar"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 74,
+          "type": "full",
+          "tile": {
+            "key": "edit",
+            "title": "Encrypted Data in Transit",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Encryption for data connections & data in transit",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-encryption-for-data-in-transit",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/edit/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/edit/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/edit"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 75,
+          "type": "full",
+          "tile": {
+            "key": "sslas",
+            "title": "Strict SLAs",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "99.9% uptime with a financially backed guarantee",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://products.office.com/en-ca/business/office-365-trust-center-operations",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/sslas/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/sslas/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/sslas"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 76,
+          "type": "full",
+          "tile": {
+            "key": "abrb",
+            "title": "Automated Backups & Recycle Bins",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Office 365 data is automatically backed up",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-data-resiliency-overview",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/abrb/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/abrb/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/abrb"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 77,
+          "type": "full",
+          "tile": {
+            "key": "drs",
+            "title": "Disaster Recovery Sites",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Geographically dispersed data centers for robust fail-over & disaster recovery",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#service-continuity",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/drs/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/drs/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/drs"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 78,
+          "type": "full",
+          "tile": {
+            "key": "r3psa",
+            "title": "Regular Third-Party Security Audits",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Regular, independent assessments to validate your investment ",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://products.office.com/en-ca/business/office-365-trust-center-compliance-certifications",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/r3psa/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/r3psa/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/r3psa"
+          },
+          "connectors": {
+            "left": "#b2b3e2",
+            "right": "#b2b3e2"
+          }
+        },
+        {
+          "id": 79,
+          "type": "full",
+          "tile": {
+            "key": "0dspd",
+            "title": "Transparent Update Deployment",
+            "color": "#b2b3e2",
+            "icon": "",
+            "inShort": "Transparent deployment of feature & security updates",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "https://docs.microsoft.com/en-us/office365/admin/manage/message-center?view=o365-worldwide",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/0dspd/index.md",
+            "textcolor": "#000",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/0dspd/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/0dspd"
+          },
+          "connectors": {
+            "left": "#b2b3e2"
+          }
+        },
+        {
+          "id": 80,
+          "type": "spacer"
+        },
+        {
+          "id": 81,
+          "type": "spacer"
+        },
+        {
+          "id": 82,
+          "type": "full",
+          "tile": {
+            "key": "credit",
+            "title": "Antonio Maio",
+            "color": "#539dcc",
+            "icon": "",
+            "inShort": "Microsoft MVP  @AntonioMaio2",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": "",
+            "subtitle": "",
+            "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/credit/index.md",
+            "subTitle": "",
+            "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/credit/index.md",
+            "isPublished": true,
+            "contentUrl": "/@/jumpto365.com/ems2/credit"
+          }
+        },
+        {
+          "id": 91,
+          "type": "vertical"
+        }
+      ]
+    ]
+  }
