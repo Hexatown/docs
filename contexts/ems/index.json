@@ -2,7 +2,7 @@
   "title": "",
   "version": 1,
   "references": [],
-  "nextId": 100,
+  "nextId": 109,
   "grid": [
     [
       {
@@ -26,6 +26,9 @@
       {
         "id": 6,
         "type": "left"
+      },
+      {
+        "id": 101
       },
       {
         "id": 7,
@@ -172,6 +175,10 @@
         "connectors": {
           "down": "#aae29f"
         }
+      },
+      {
+        "id": 102,
+        "type": "spacer"
       },
       {
         "id": 17,
@@ -386,6 +393,10 @@
           "right": null,
           "up": "#aae29f"
         }
+      },
+      {
+        "id": 103,
+        "type": "spacer"
       },
       {
         "id": 27,
@@ -641,8 +652,27 @@
         }
       },
       {
-        "id": 37,
+        "id": 104,
         "type": "full",
+        "tile": {
+          "key": "fedauth",
+          "textcolor": "#000",
+          "title": "Federated Authentication",
+          "color": "#9cddf2",
+          "icon": null,
+          "inShort": "Authenticate cloud apps to on-prem AD via ADFS, PTA or Seamless SSO",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/enterprise/about-office-365-identity",
+          "subtitle": "",
+          "contentRef": "",
+          "subTitle": ""
+        }
+      },
+      {
+        "id": 37,
+        "type": "spacer",
         "tile": {
           "key": "fedauth",
           "title": "Federated Authentication",
@@ -832,7 +862,8 @@
           45,
           46,
           47,
-          48
+          48,
+          105
         ],
         "connectors": {
           "right": "#5dc7c1"
@@ -939,18 +970,40 @@
         }
       },
       {
-        "id": 47,
+        "id": 105,
         "type": "full",
         "tile": {
           "key": "labala",
+          "textcolor": "#000",
           "title": "Label Analytics",
           "color": "#5dc7c1",
-          "icon": "",
+          "icon": null,
           "inShort": "Track label usage to gain insights to how data is being protected",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/view-label-activity-for-documents",
+          "subtitle": "",
+          "contentRef": ""
+        },
+        "connectors": {
+          "left": "#5dc7c1",
+          "right": "#5dc7c1"
+        }
+      },
+      {
+        "id": 47,
+        "type": "full",
+        "tile": {
+          "key": "superv",
+          "title": "Supervision",
+          "color": "#5dc7c1",
+          "icon": "",
+          "inShort": "Capture and review communications for groups or users",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/configure-supervision-policies",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/labala/index.md",
           "textcolor": "#000",
@@ -960,12 +1013,12 @@
         },
         "connectors": {
           "left": "#5dc7c1",
-          "right": "#5dc7c1"
+          "right": null
         }
       },
       {
         "id": 48,
-        "type": "full",
+        "type": "spacer",
         "tile": {
           "key": "superv",
           "title": "Supervision",
@@ -1131,7 +1184,8 @@
           57,
           58,
           59,
-          60
+          60,
+          106
         ],
         "connectors": {
           "right": "#aae29f"
@@ -1238,18 +1292,40 @@
         }
       },
       {
-        "id": 57,
+        "id": 106,
         "type": "full",
         "tile": {
           "key": "o365cas",
+          "textcolor": "#000000",
           "title": "Office 365 Cloud App Security",
           "color": "#aae29f",
-          "icon": "",
+          "icon": null,
           "inShort": "Automatically monitor user behaviour & integrate heuristics",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-cas-overview",
+          "subtitle": "",
+          "contentRef": ""
+        },
+        "connectors": {
+          "left": "#aae29f",
+          "right": "#aae29f"
+        }
+      },
+      {
+        "id": 57,
+        "type": "full",
+        "tile": {
+          "key": "aadcad",
+          "title": "AAD Cloud App Discovery",
+          "color": "#aae29f",
+          "icon": "",
+          "inShort": "Identify shadow IT & monitor cloud apps",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/set-up-cloud-discovery",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365cas/index.md",
           "textcolor": "#000",
@@ -1266,15 +1342,15 @@
         "id": 58,
         "type": "full",
         "tile": {
-          "key": "aadcad",
-          "title": "AAD Cloud App Discovery",
+          "key": "mcap",
+          "title": "Microsoft Cloud App Security",
           "color": "#aae29f",
           "icon": "",
-          "inShort": "Identify shadow IT & monitor cloud apps",
+          "inShort": "O365 Cloud App security & Cloud App Discovery + risk assessment tools",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/set-up-cloud-discovery",
+          "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcad/index.md",
           "textcolor": "#000",
@@ -1291,15 +1367,15 @@
         "id": 59,
         "type": "full",
         "tile": {
-          "key": "mcap",
-          "title": "Microsoft Cloud App Security",
+          "key": "oms",
+          "title": "Azure Monitor",
           "color": "#aae29f",
           "icon": "",
-          "inShort": "O365 Cloud App security & Cloud App Discovery + risk assessment tools",
+          "inShort": "Aggregate & analyse cloud & on-prem system logs + events",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/cloud-app-security/",
+          "jumpto": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcap/index.md",
           "textcolor": "#000",
@@ -1309,12 +1385,12 @@
         },
         "connectors": {
           "left": "#aae29f",
-          "right": "#aae29f"
+          "right": null
         }
       },
       {
         "id": 60,
-        "type": "full",
+        "type": "spacer",
         "tile": {
           "key": "oms",
           "title": "Azure Monitor",
@@ -1533,18 +1609,36 @@
         }
       },
       {
-        "id": 67,
+        "id": 107,
         "type": "full",
         "tile": {
           "key": "ata",
+          "textcolor": "#000000",
           "title": "Advanced Threat Analytics (ATA)",
           "color": "#9cddf2",
-          "icon": "",
+          "icon": null,
           "inShort": "Protect on-prem systems against suspicious activity",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://docs.microsoft.com/en-us/advanced-threat-analytics/",
+          "subtitle": "",
+          "contentRef": ""
+        }
+      },
+      {
+        "id": 67,
+        "type": "full",
+        "tile": {
+          "key": "o365ti",
+          "title": "Office 365 Threat Intelligence",
+          "color": "#9cddf2",
+          "icon": "",
+          "inShort": "Gain insights to help protect end users from attack",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-ti",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/ata/index.md",
           "textcolor": "#000",
@@ -1559,7 +1653,7 @@
       },
       {
         "id": 68,
-        "type": "full",
+        "type": "spacer",
         "tile": {
           "key": "o365ti",
           "title": "Office 365 Threat Intelligence",
@@ -1742,7 +1836,8 @@
           74,
           73,
           77,
-          79
+          79,
+          108
         ],
         "connectors": {
           "right": "#b2b3e2"
@@ -1849,18 +1944,40 @@
         }
       },
       {
-        "id": 77,
+        "id": 108,
         "type": "full",
         "tile": {
           "key": "drs",
+          "textcolor": "#000000",
           "title": "Disaster Recovery Sites",
           "color": "#b2b3e2",
-          "icon": "",
+          "icon": null,
           "inShort": "Geographically dispersed data centers for robust fail-over & disaster recovery",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
           "jumpto": "https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#service-continuity",
+          "subtitle": "",
+          "contentRef": ""
+        },
+        "connectors": {
+          "left": "#b2b3e2",
+          "right": "#b2b3e2"
+        }
+      },
+      {
+        "id": 77,
+        "type": "full",
+        "tile": {
+          "key": "r3psa",
+          "title": "Regular Third-Party Security Audits",
+          "color": "#b2b3e2",
+          "icon": "",
+          "inShort": "Regular, independent assessments to validate your investment ",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://products.office.com/en-ca/business/office-365-trust-center-compliance-certifications",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/drs/index.md",
           "textcolor": "#000",
@@ -1877,15 +1994,15 @@
         "id": 78,
         "type": "full",
         "tile": {
-          "key": "r3psa",
-          "title": "Regular Third-Party Security Audits",
+          "key": "0dspd",
+          "title": "Transparent Updates",
           "color": "#b2b3e2",
           "icon": "",
-          "inShort": "Regular, independent assessments to validate your investment ",
+          "inShort": "Transparent deployment of feature & security updates",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "https://products.office.com/en-ca/business/office-365-trust-center-compliance-certifications",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/admin/manage/message-center?view=o365-worldwide",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/r3psa/index.md",
           "textcolor": "#000",
@@ -1895,12 +2012,12 @@
         },
         "connectors": {
           "left": "#b2b3e2",
-          "right": "#b2b3e2"
+          "right": null
         }
       },
       {
         "id": 79,
-        "type": "full",
+        "type": "spacer",
         "tile": {
           "key": "0dspd",
           "title": "Transparent Updates",
