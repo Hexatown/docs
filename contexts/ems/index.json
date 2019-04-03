@@ -75,7 +75,8 @@
         "members": [
           13,
           14,
-          15
+          15,
+          16
         ],
         "connectors": {
           "right": "#9cddf2"
@@ -152,7 +153,8 @@
           "contentUrl": "/@/jumpto365.com/ems2/servassur"
         },
         "connectors": {
-          "left": "#9cddf2"
+          "left": "#9cddf2",
+          "right": "#9cddf2"
         }
       },
       {
@@ -162,7 +164,7 @@
           "key": "trustc",
           "textcolor": "#000000",
           "title": "Trust Center",
-          "color": "#aae29f",
+          "color": "#9cddf2",
           "icon": null,
           "inShort": "Learn how Microsoft secures your data, protects privacy & complies with regulations",
           "isFullyShareable": "",
@@ -173,7 +175,8 @@
           "contentRef": ""
         },
         "connectors": {
-          "down": "#aae29f"
+          "down": null,
+          "left": "#9cddf2"
         }
       },
       {
@@ -391,7 +394,7 @@
         "connectors": {
           "left": "#aae29f",
           "right": null,
-          "up": "#aae29f"
+          "up": null
         }
       },
       {
@@ -545,7 +548,8 @@
           34,
           35,
           36,
-          37
+          37,
+          104
         ],
         "connectors": {
           "right": "#9cddf2"
@@ -668,6 +672,9 @@
           "subtitle": "",
           "contentRef": "",
           "subTitle": ""
+        },
+        "connectors": {
+          "left": "#9cddf2"
         }
       },
       {
@@ -1502,7 +1509,8 @@
           65,
           66,
           67,
-          68
+          68,
+          107
         ],
         "connectors": {
           "right": "#9cddf2"
@@ -1624,6 +1632,10 @@
           "jumpto": "https://docs.microsoft.com/en-us/advanced-threat-analytics/",
           "subtitle": "",
           "contentRef": ""
+        },
+        "connectors": {
+          "left": "#9cddf2",
+          "right": "#9cddf2"
         }
       },
       {
@@ -1648,7 +1660,7 @@
         },
         "connectors": {
           "left": "#9cddf2",
-          "right": "#9cddf2"
+          "right": null
         }
       },
       {
