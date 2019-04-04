@@ -1,5 +1,7 @@
 {
   "title": "",
+  "titlegraphics": "https://blob.jumpto365.com/images/core/titles/Table%20of%20EMS%20Title.v2.png",
+  "isProtected": false,
   "version": 1,
   "references": [],
   "nextId": 109,
@@ -1381,7 +1383,7 @@
           "inShort": "Aggregate & analyse cloud & on-prem system logs + events",
           "isFullyShareable": "",
           "isPartlyShareable": "",
-          "isPremium": "",
+          "isPremium": true,
           "jumpto": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcap/index.md",
