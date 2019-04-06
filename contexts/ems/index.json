@@ -540,7 +540,7 @@
         "id": 95,
         "type": "left",
         "groupSetting": {
-          "title": "Authentication",
+          "title": "Identity & Authentication",
           "key": "unknown",
           "color": "#9cddf2",
           "textColor": "#000000"
@@ -559,6 +559,31 @@
       },
       {
         "id": 33,
+        "type": "full",
+        "tile": {
+          "key": "aadpremium",
+          "title": "Azure AD Premium",
+          "color": "#9cddf2",
+          "icon": "",
+          "inShort": "Secure single sign-on to cloud and on premise apps",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-whatis",
+          "subtitle": "",
+          "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcps/index.md",
+          "textcolor": "#000",
+          "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/aadcps/index.md",
+          "isPublished": true,
+          "contentUrl": "/@/jumpto365.com/ems2/aadcps"
+        },
+        "connectors": {
+          "left": "#9cddf2",
+          "right": "#9cddf2"
+        }
+      },
+      {
+        "id": 34,
         "type": "full",
         "tile": {
           "key": "aadcps",
@@ -583,7 +608,7 @@
         }
       },
       {
-        "id": 34,
+        "id": 35,
         "type": "full",
         "tile": {
           "key": "mfa",
@@ -608,7 +633,7 @@
         }
       },
       {
-        "id": 35,
+        "id": 36,
         "type": "full",
         "tile": {
           "key": "modauth",
@@ -633,7 +658,7 @@
         }
       },
       {
-        "id": 36,
+        "id": 104,
         "type": "full",
         "tile": {
           "key": "pwdlslogin",
@@ -658,7 +683,7 @@
         }
       },
       {
-        "id": 104,
+        "id": 37,
         "type": "full",
         "tile": {
           "key": "fedauth",
@@ -674,30 +699,6 @@
           "subtitle": "",
           "contentRef": "",
           "subTitle": ""
-        },
-        "connectors": {
-          "left": "#9cddf2"
-        }
-      },
-      {
-        "id": 37,
-        "type": "spacer",
-        "tile": {
-          "key": "fedauth",
-          "title": "Federated Authentication",
-          "color": "#9cddf2",
-          "icon": "",
-          "inShort": "Authenticate cloud apps to on-prem AD via ADFS, PTA or Seamless SSO",
-          "isFullyShareable": "",
-          "isPartlyShareable": "",
-          "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/office365/enterprise/about-office-365-identity",
-          "subtitle": "",
-          "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/fedauth/index.md",
-          "textcolor": "#000",
-          "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/fedauth/index.md",
-          "isPublished": true,
-          "contentUrl": "/@/jumpto365.com/ems2/fedauth"
         },
         "connectors": {
           "left": "#9cddf2"
@@ -2079,7 +2080,8 @@
           "subTitle": " Microsoft MVP   @AntonioMaio2",
           "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/credit/index.md",
           "isPublished": true,
-          "contentUrl": "/@/jumpto365.com/ems2/credit"
+          "contentUrl": "/@/jumpto365.com/ems2/credit",
+          "textcolor": "#ffffff"
         }
       },
       {
