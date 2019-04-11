@@ -206,7 +206,7 @@
         "type": "full",
         "tile": {
           "key": "secstore",
-          "title": "Secure Store",
+          "title": "Secure Score",
           "color": "#5dc7c1",
           "icon": "",
           "inShort": "Assess security gaps & improve security posture over time ",
@@ -312,7 +312,7 @@
           "isPremium": "",
           "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels",
           "subtitle": "",
-          "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mip/index.md",
+          "contentRef": "https://jumpto36500001.blob.core.windows.net/articles/j/u/m/jumpto365.com/n/niels@jumpto365.com/2019/04/process-hr-onboarding.docx-20190406-225321.md",
           "textcolor": "#000",
           "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mip/index.md",
           "isPublished": true,
@@ -1013,7 +1013,7 @@
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/configure-supervision-policies",
+          "jumpto": "https://aka.ms/supervision",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/labala/index.md",
           "textcolor": "#000",
@@ -1305,6 +1305,28 @@
         "id": 106,
         "type": "full",
         "tile": {
+          "key": "custlockbox",
+          "textcolor": "#000000",
+          "title": "Customer Lockbox",
+          "color": "#aae29f",
+          "icon": null,
+          "inShort": "Approve or Reject access request by Microsoft Support engineers",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/admin/manage/customer-lockbox-requests?view=o365-worldwide",
+          "subtitle": "",
+          "contentRef": ""
+        },
+        "connectors": {
+          "left": "#aae29f",
+          "right": "#aae29f"
+        }
+      },
+      {
+        "id": 57,
+        "type": "full",
+        "tile": {
           "key": "o365cas",
           "textcolor": "#000000",
           "title": "Office 365 Cloud App Security",
@@ -1324,7 +1346,7 @@
         }
       },
       {
-        "id": 57,
+        "id": 58,
         "type": "full",
         "tile": {
           "key": "aadcad",
@@ -1349,7 +1371,7 @@
         }
       },
       {
-        "id": 58,
+        "id": 59,
         "type": "full",
         "tile": {
           "key": "mcap",
@@ -1374,18 +1396,18 @@
         }
       },
       {
-        "id": 59,
+        "id": 60,
         "type": "full",
         "tile": {
           "key": "oms",
-          "title": "Azure Monitor",
+          "title": "Azure Sentinel",
           "color": "#aae29f",
           "icon": "",
           "inShort": "Aggregate & analyse cloud & on-prem system logs + events",
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": true,
-          "jumpto": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
+          "jumpto": "https://docs.microsoft.com/en-us/azure/sentinel/",
           "subtitle": "",
           "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/mcap/index.md",
           "textcolor": "#000",
@@ -1396,30 +1418,6 @@
         "connectors": {
           "left": "#aae29f",
           "right": null
-        }
-      },
-      {
-        "id": 60,
-        "type": "spacer",
-        "tile": {
-          "key": "oms",
-          "title": "Azure Monitor",
-          "color": "#aae29f",
-          "icon": "",
-          "inShort": "Aggregate & analyse cloud & on-prem system logs + events",
-          "isFullyShareable": "",
-          "isPartlyShareable": "",
-          "isPremium": true,
-          "jumpto": "https://docs.microsoft.com/en-us/azure/azure-monitor/overview",
-          "subtitle": "",
-          "contentRef": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/oms/index.md",
-          "textcolor": "#000",
-          "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/oms/index.md",
-          "isPublished": true,
-          "contentUrl": "/@/jumpto365.com/ems2/oms"
-        },
-        "connectors": {
-          "left": "#aae29f"
         }
       },
       {
