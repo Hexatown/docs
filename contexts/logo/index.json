@@ -1,0 +1,235 @@
+{
+    "title": "",
+    "isProtected": false,
+    "version": 1,
+    "references": [],
+    "nextId": 33,
+    "grid": [
+      [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        }
+      ],
+      [
+        {
+          "id": 10
+        },
+        {
+          "id": 11,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#17234B",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 12,
+          "type": "top",
+          "groupSetting": {
+            "title": "",
+            "key": "unknown",
+            "color": "#BDBEE4",
+            "textColor": "#000000"
+          }
+        },
+        {
+          "id": 13,
+          "type": "spacer"
+        },
+        {
+          "id": 14,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#773F78",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        }
+      ],
+      [
+        {
+          "id": 19
+        },
+        {
+          "id": 20,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#B32653",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 21,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#3B7DB5",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 22,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#398070",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 23,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#3A7CF7",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        }
+      ],
+      [
+        {
+          "id": 28
+        },
+        {
+          "id": 29,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#51AEEA",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 30,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#3F428A",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 31,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#3672B4",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        },
+        {
+          "id": 32,
+          "type": "full",
+          "tile": {
+            "key": null,
+            "textcolor": "#cccccc",
+            "title": "",
+            "color": "#508347",
+            "icon": null,
+            "inShort": "",
+            "isFullyShareable": "",
+            "isPartlyShareable": "",
+            "isPremium": "",
+            "jumpto": null,
+            "subtitle": "",
+            "contentRef": ""
+          }
+        }
+      ]
+    ]
+  }
