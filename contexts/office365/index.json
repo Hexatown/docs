@@ -1426,17 +1426,47 @@
         }
       },
       {
-        "key": null,
+        "key": "jumpto365pro",
         "l": 0,
-        "c": 0,
+        "c": 1,
         "r": 0,
         "t": 0,
         "b": 0,
         "leftData": null,
         "topData": null,
-        "centerData": null,
-        "rightData": null,
-        "bottomData": null
+        "centerData": {
+          "key": "jumpto365pro",
+          "title": "jumpto365 Pro",
+          "color": "#007dc6",
+          "icon": "https://jumpto365.com/resources/images/Logo-square-white-transparent-background.png",
+          "inShort": "Customize this table! Get started right now for free.",
+          "isFullyShareable": 1,
+          "isPartlyShareable": "",
+          "isPremium": 1,
+          "jumpto": "https://pro.jumpto365.com/pricing"
+        },
+        "rightData": {
+          "key": "soc",
+          "title": "Social Networking",
+          "color": "#9CDDF2",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": [
+              "yammer"
+            ]
+          }
+        },
+        "bottomData": {
+          "key": "comm",
+          "title": "Direct Communication",
+          "color": "#6C6C6C",
+          "borderColor": "",
+          "isConnector": false,
+          "members": {
+            "members": []
+          }
+        }
       },
       {
         "key": "bookings",
