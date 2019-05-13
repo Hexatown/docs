@@ -1,6 +1,6 @@
 {
   "title": "",
-  "titlegraphics": "https://blob.jumpto365.com/images/core/titles/Table%20of%20EMS%20Title.v2.png",
+  "titlegraphics": "https://blob.jumpto365.com/images/j/u/m/jumpto365.com/n/niels@jumpto365.com/2019/05/Table of Security & Compliance Title.png-20190513-173840.png",
   "isProtected": false,
   "version": 1,
   "references": [],
@@ -237,7 +237,7 @@
           "isFullyShareable": "",
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/meet-data-protection-and-regulatory-reqs-using-microsoft-cloud",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/compliance-manager-overview",
           "subtitle": "",
           "contentRef": "",
           "textcolor": "#000",
@@ -275,7 +275,24 @@
           "left": "#5dc7c1",
           "right": "#5dc7c1"
         },
-        "type": "full"
+        "type": "full",
+        "tile": {
+          "key": "compmgr",
+          "title": "Compliance Manager",
+          "color": "#5dc7c1",
+          "icon": "",
+          "inShort": "Audit and assess compliance with regulatory standards (GDPR, NIST, ISO)",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/compliance-manager-overview",
+          "subtitle": "",
+          "contentRef": "",
+          "textcolor": "#000",
+          "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/compmgr/index.md",
+          "isPublished": true,
+          "contentUrl": "/@/jumpto365.com/ems2/compmgr"
+        }
       },
       {
         "id": 94,
@@ -1621,6 +1638,28 @@
         "id": 107,
         "type": "full",
         "tile": {
+          "key": "pam",
+          "textcolor": "#000000",
+          "title": "Privilege Access Management (PAM)",
+          "color": "#9cddf2",
+          "icon": null,
+          "inShort": "Granular access for privileged Admin Tasks",
+          "isFullyShareable": "",
+          "isPartlyShareable": "",
+          "isPremium": "",
+          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/privileged-access-management-overview",
+          "subtitle": "",
+          "contentRef": ""
+        },
+        "connectors": {
+          "left": "#9cddf2",
+          "right": "#9cddf2"
+        }
+      },
+      {
+        "id": 67,
+        "type": "full",
+        "tile": {
           "key": "ata",
           "textcolor": "#000000",
           "title": "Advanced Threat Analytics (ATA)",
@@ -1640,7 +1679,7 @@
         }
       },
       {
-        "id": 67,
+        "id": 68,
         "type": "full",
         "tile": {
           "key": "o365ti",
@@ -1662,30 +1701,6 @@
         "connectors": {
           "left": "#9cddf2",
           "right": null
-        }
-      },
-      {
-        "id": 68,
-        "type": "spacer",
-        "tile": {
-          "key": "o365ti",
-          "title": "Office 365 Threat Intelligence",
-          "color": "#9cddf2",
-          "icon": "",
-          "inShort": "Gain insights to help protect end users from attack",
-          "isFullyShareable": "",
-          "isPartlyShareable": "",
-          "isPremium": "",
-          "jumpto": "https://docs.microsoft.com/en-us/office365/securitycompliance/office-365-ti",
-          "subtitle": "",
-          "contentRef": "",
-          "textcolor": "#000",
-          "originalUrl": "https://raw.githubusercontent.com/jumpto365/microsoft365/master/docs/o365ti/index.md",
-          "isPublished": true,
-          "contentUrl": "/@/jumpto365.com/ems2/o365ti"
-        },
-        "connectors": {
-          "left": "#9cddf2"
         }
       },
       {
