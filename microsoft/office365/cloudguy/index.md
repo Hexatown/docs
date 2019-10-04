@@ -1,7 +1,7 @@
 ---
 title: Cloudguy
 contexts: ai
-redirect: https://www.cloudguy.pro
+redirect: https://bisser.io
 ---
 
 tbd
